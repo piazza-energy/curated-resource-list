@@ -2,7 +2,7 @@
 
 This is a list of categorised resources for the sustainable energy sector. The list started for research while applying for grant in the UK so most resources make sense for this market.
 
-This page is available in a [nicer web page here](https://piazza.energy/curated-resource-list/)
+If you're reading this from Github, this page is available in a [nicer web format here](https://piazza.energy/curated-resource-list/)
 
 ## Standards
 - IEEE P825 - Guide for Interoperability of Transactive Energy Systems with Electric Power Infrastructure [link](https://standards.ieee.org/project/825.html)
@@ -20,6 +20,7 @@ This page is available in a [nicer web page here](https://piazza.energy/curated-
 - Energy monitor, very rudimental website, not clear if they have a device [voltaware](https://www.voltaware.com/how-it-works)
 
 ## Software Platforms
+- [EnergyOS](https://www.energyos.com.au/) is the platform built on top of research done by CSIRO for their [grid modelling tools](https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Intelligent-systems)
 - Toronto based, DER and DSR platform [opus one](https://www.opusonesolutions.com/)
 - Demand response aggregation platform [sympower](https://www.sympower.net/about/our-story)
 - Demand side response and energy efficiency platform [voltus](https://www.voltus.co/how-we-help/)
@@ -41,6 +42,8 @@ This page is available in a [nicer web page here](https://piazza.energy/curated-
 
 ## Blockchains
 
+- [Power ledger](https://www.powerledger.io/#products) just won (oct 18) the extreme tech challenge XTC
+- CSIRO is doing something but not sure what's the status, there is an interesting [https://www.data61.csiro.au/en/our-work/safety-and-security/secure-systems-and-platforms/blockchain](article) with scenarios
 - [Echoin from Powerlinks](https://www.echoin.io/) Beijing based, contracts with EDF, presented at Mission Innovation workshop
 - [Electron](http://www.electron.org.uk/) London based, presented at Mission Innovation workshop
 - Blockchain powered Carbon credits produced by solar and consumed in micro-grid, [Dajie](https://www.dajie.eu/)
@@ -69,6 +72,7 @@ This page is available in a [nicer web page here](https://piazza.energy/curated-
 - [Smarter business](https://smarterbusiness.co.uk/) energy broker for business
 - [Octopus](https://octopus.energy/) London based, green easy to switch energy, there is probably a link with reactive-technologies that I haven’t understood
 - [OVO energy](https://www.ovoenergy.com/) provider pledging to provide sustainable power and smart devices for heating optimisation, monitoring, etc.
+- the new green aggregator jungle: check bulb, good energy, green star energy, solarplicity, so energy, outfox the market, pureplanet, tonic, co-operative, ...
 - Edf has a solution for demand side response [EDF DSR](https://www.edfenergy.com/large-business/energy-solutions/demand-side-response-dsr)
 - Limejump - Assets managers / demand side response platform / battery and other devices [link](http://www.limejump.com/)
 - [Flexitricity](https://www.flexitricity.com/) direct Limejump competitors, monetise energy flexibility. I.e. an energy company that enables the balancing mechanism (check [this link on elexon](https://www.elexon.co.uk/guidance-note/balancing-mechanism-bm-units/))
@@ -87,7 +91,7 @@ This page is available in a [nicer web page here](https://piazza.energy/curated-
 - go low carbon contest [link](https://www.climatecolab.org/contests/2018/helping-small-medium-businesses-go-low-carbon-ontario)
 
 ## Companies / Consultancies / Startups / Products
-- [Metapolic](https://www.metabolic.nl/) did the Smart Integrated Decentralised Energy (SIDE) systems research published by [world economic forum](https://www.weforum.org/agenda/2018/09/these-dutch-microgrid-communities-can-supply-90-of-their-energy-needs/)
+- [Metabolic](https://www.metabolic.nl/) did the Smart Integrated Decentralised Energy (SIDE) systems research published by [world economic forum](https://www.weforum.org/agenda/2018/09/these-dutch-microgrid-communities-can-supply-90-of-their-energy-needs/)
 - [Spectral](https://spectral.energy/projects/) a metabolic spin-off (nice domain), worth watching what they do [link on Youtube](https://www.youtube.com/watch?v=jB3hMVYXSKk) they should also have an energy monitoring platform a bit like Fabriq but not sure it’s PaaS
 - Commercial solar consultancy [Carbon lighthouse](https://www.carbonlighthouse.com/) US based
 - Media company [Greenbiz](https://www.greenbiz.com/about-us) interesting article about long-term sustainability of solar panel recycling
@@ -159,6 +163,8 @@ This page is available in a [nicer web page here](https://piazza.energy/curated-
 - [stroma certification](https://www.stroma.com/certification/) for epc, gas, etc...
 
 ## General knowledge
+- the case for static storage: how Tesla big battery in Australia [provided a millisecond response](https://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/) to adjust frequency when a coal plant stopped working
+- AEMO and ARENA [build a 200MW battery](https://www.aemo.com.au/Media-Centre/AEMO-and-ARENA-demand-response-trial-to-provide-200MW-of-emergency-reserves-for-extreme-peaks) for extreme peaks, twice the size of the Tesla big battery
 - IPCC (intergovernmental panel on climate change) report on 1.5C released in early October 2018: [link](http://www.ipcc.ch/report/sr15/) this is the **badass doc** that worked as wake up call for loads of people
 - [NASA](https://climate.nasa.gov/) I love you :heart:
 - Current status of nuclear fusion (sept 18) [link](https://qz.com/1402282/in-search-of-clean-energy-investments-in-nuclear-fusion-startups-are-heating-up/)
