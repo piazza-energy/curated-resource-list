@@ -27,7 +27,8 @@ If you're reading this from Github, this page is available in a [nicer web forma
 - Analytics platform for demand side response and asset management with machine learning, advanced microgrid solutions (closed source), big US based [advmicrogrid](http://www.advmicrogrid.com/)
 - Big US based products and platform for assets, micro-grids, etc. management with machine learning [genability](https://www.genability.com/)
 - Massive US based company (20M+ in funding) [auto-grid](https://www.auto-grid.com/) building platform for assets management, optimisation, machine learning etc. [link youtube](https://youtu.be/MIijeMOPlBY)
-- Energy monitoring platform [Fabriq](https://fabriq.space/services/fabriq-platform/)
+- Building / Assets Energy monitoring platform [Fabriq](https://fabriq.space/services/fabriq-platform/)
+- [Demand Logic](https://www.demandlogic.co.uk/index.html) is an energy control and optimisation platform for commercial buildings, similar to Fabriq.
 - AMPP - Analytics and insights for off-grid assets [link](https://www.ammp.io/)
 - Open source home energy / solar / heat pump / EV charging monitor [open energy monitor](https://guide.openenergymonitor.org/applications/home-energy/) with their CMS [emocms](https://emoncms.org/)
 - Piclo, Grid flexibility marketplace Platform [link](https://piclo.energy/)
@@ -48,10 +49,11 @@ If you're reading this from Github, this page is available in a [nicer web forma
 - [Electron](http://www.electron.org.uk/) London based, presented at Mission Innovation workshop
 - Blockchain powered Carbon credits produced by solar and consumed in micro-grid, [Dajie](https://www.dajie.eu/)
 
-## IoT Platforms
+## IoT Platforms / Smart home
 
 - Cloud energy management platform with devices [Gridduck](https://gridduck.com/#main) developed on top of Develco (see below). Listed for winning 360k in funding for gamification of EV charging in the south-korea collaboration, [link](https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems) founder and CEO is [Gregor](https://www.linkedin.com/in/gregor-hoefter-8bb77/)
-- [Develco](https://www.develcoproducts.com/products/) gateway, controlled socket, relays, pass through, sensors. All Zigbee connected, quite amazing
+- [Develco](https://www.develcoproducts.com/products/) Denmark based, gateway, controlled socket, relays, pass through, sensors. All Zigbee connected, quite amazing
+- [Lightwave rf](https://lightwaverf.com/) controlled and connected power sockets, switches, sensors, radiator valves. They claim to do energy monitoring, but haven't found anything on website.
 
 ## Smart Thermostats
 - [Switchee](http://switchee.co/)
@@ -89,6 +91,7 @@ If you're reading this from Github, this page is available in a [nicer web forma
 - [Royal Society](https://royalsociety.org/topics-policy/projects/greenhouse-gas-removal/)
 - [Client earth](https://www.clientearth.org/)- check their survey UK 20.8.18 supporting urgent action on climate change: [link](https://www.clientearth.org/british-public-supports-urgent-action-and-litigation-on-climate-change-poll-reveals/) linked from  [link](https://www.independent.co.uk/environment/solar-panels-government-cuts-funding-british-tesla-a8500051.html)
 - go low carbon contest [link](https://www.climatecolab.org/contests/2018/helping-small-medium-businesses-go-low-carbon-ontario)
+- [Carbon culture](https://platform.carbonculture.net/about/) community platform that is designed to help people use resources more efficiently. Doesn't seem super active.
 
 ## Companies / Consultancies / Startups / Products
 - [Metabolic](https://www.metabolic.nl/) did the Smart Integrated Decentralised Energy (SIDE) systems research published by [world economic forum](https://www.weforum.org/agenda/2018/09/these-dutch-microgrid-communities-can-supply-90-of-their-energy-needs/)
@@ -149,9 +152,9 @@ If you're reading this from Github, this page is available in a [nicer web forma
 - National grid announced fund [link](https://news.crunchbase.com/news/utility-national-grid-launches-venture-arm-powered-by-250m-fund/)
 
 ## Funding & Grant opportunities
-- [gov.uk smart energy](https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems)
-- [gov.uk climate change](https://www.gov.uk/government/news/call-for-new-green-innovations-to-tackle-climate-change)
-- [gov.uk prospering from energy revolution](https://www.gov.uk/government/news/prospering-from-the-energy-revolution-full-programme-details)
+- [gov.uk smart energy](https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems) where references to Power Forward Challenge can be found
+- [gov.uk climate change](https://www.gov.uk/government/news/call-for-new-green-innovations-to-tackle-climate-change) £60M fund announced during [green GB](https://greengb.campaign.gov.uk/) week, mid oct 18. Section "Constructing a Digital Environment" might be of interest, competitions to be published [here](https://www.ukri.org/research/themes-and-programmes/)
+- [gov.uk prospering from energy revolution](https://www.gov.uk/government/news/prospering-from-the-energy-revolution-full-programme-details), competition [closed july 18](https://www.gov.uk/government/news/design-and-trial-smart-energy-systems-apply-for-funding)
 - [gov.uk entry point](https://www.gov.uk/business-finance-support)
 - [gov.uk competitions in energy](https://apply-for-innovation-funding.service.gov.uk/competition/search?keywords=energy)
 
@@ -161,6 +164,7 @@ If you're reading this from Github, this page is available in a [nicer web forma
 - energy performance certificate (private residence only?) [EPC register](https://www.epcregister.com/reportSearchAddressTerms.html) there’s also a data set here: [London domestic efficiency by boroughs](https://data.london.gov.uk/dataset/domestic-energy-efficiency-ratings-borough)
 - [microgeneration](https://www.microgenerationcertification.org/) quality certification supported by BEIS
 - [stroma certification](https://www.stroma.com/certification/) for epc, gas, etc...
+- [BREEAM](https://www.breeam.com/) world’s leading sustainability assessment method + certification for masterplanning projects, infrastructure and buildings.
 
 ## General knowledge
 - the case for static storage: how Tesla big battery in Australia [provided a millisecond response](https://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/) to adjust frequency when a coal plant stopped working
