@@ -54,6 +54,7 @@ If you're reading this from Github, this page is available in a [nicer web forma
 - Cloud energy management platform with devices [Gridduck](https://gridduck.com/#main) developed on top of Develco (see below). Listed for winning 360k in funding for gamification of EV charging in the south-korea collaboration, [link](https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems) founder and CEO is [Gregor](https://www.linkedin.com/in/gregor-hoefter-8bb77/)
 - [Develco](https://www.develcoproducts.com/products/) Denmark based, gateway, controlled socket, relays, pass through, sensors. All Zigbee connected, quite amazing
 - [Lightwave rf](https://lightwaverf.com/) controlled and connected power sockets, switches, sensors, radiator valves. They claim to do energy monitoring, but haven't found anything on website.
+- [Netatmo](https://www.netatmo.com/en-us) smart thermostat, air quality monitor, smoke detector, radiator valves, indoor / outdoor camera
 
 ## Smart Thermostats
 - [Switchee](http://switchee.co/)
@@ -103,6 +104,7 @@ If you're reading this from Github, this page is available in a [nicer web forma
 - [Lumenaza](https://www.lumenaza.de/en/) software company for energy flow
 - companies carbon footprint monitoring / environmental fintech [Carbon Delta](https://www.carbon-delta.com/) funded by climate-kic
 - Italy based consultancy [Energy way](https://www.energyway.it/energia-ambiente/) my friend Rita Cucchiara in the advisory board
+- [Brixton energy](https://brixtonenergy.co.uk/about-us/) a tiny cooperative installing renewables in south london, I'm sure there's plenty but hey, I'm a Londoner :joy:
 
 ## Market compare
 - [the eco experts](https://www.theecoexperts.co.uk/) for PV + battery installations. (Tried to make an enquiry but they’re just a call centre forwarding the contact to an installer, they wouldn’t even send the contact through without installation permission approval from the landlord. Been recommended to check on their website who can install in the area and contact them directly)
@@ -194,7 +196,8 @@ If you're reading this from Github, this page is available in a [nicer web forma
 - Lists of startup to watch [quartz](https://qz.com/1402301/bill-gatess-1-billion-energy-fund-is-expanding-its-portfolio-of-startups-fighting-climate-change/) [wired](https://www.wired.co.uk/article/wired-energy-2017-startups) [techworld](https://www.techworld.com/picture-gallery/startups/uk-energy-tech-startups-3681877/)
 - Breakthrough energy Europe announcement and breakdown of greenhouse gas source emissions [link on Gates notes](https://www.gatesnotes.com/Energy/My-plan-for-fighting-climate-change)
 
-### Solar efficiency, ripple effects, climate change, everything else
+### Technologies, Solar efficiency, ripple effects, climate change, everything else
+- new [fluoride-ion battery](https://www.slashgear.com/honda-reveals-fluoride-battery-breakthrough-for-next-gen-power-storage-06557121/) tech from honda / jpl / caltech
 - solar panel efficency [1](https://www.thetimes.co.uk/article/desert-sun-in-qatar-too-hot-for-solar-panels-to-work-h23kmktbp) [2](https://greentumble.com/effect-of-temperature-on-solar-panel-efficiency/)
 - Warming from wind [link](https://www.technologyreview.com/s/612238/wide-scale-us-wind-power-could-cause-significant-warming/)
 - Impact in climate change (loads of references) [world economic forum](https://www.weforum.org/agenda/2018/06/how-to-talk-about-climate-change-5-tips-from-the-front-lines) and  [good ol' Yates](https://www.quora.com/What-do-you-think-is-the-single-most-impactful-thing-an-individual-can-do-to-combat-climate-change/answer/Yates-Buckley)
