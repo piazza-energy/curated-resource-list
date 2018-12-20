@@ -22,6 +22,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 
 - [EnergyOS](https://www.energyos.com.au/) is the platform built on top of research done by CSIRO (Australia) for their [grid modelling tools](https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Intelligent-systems)
 - [Flexible power / powermatcher](https://github.com/flexiblepower) is the open source platform released by EF-PI (see above standard section, not really a standard though)
+- [Enbala](https://www.enbala.com/technology/products-solutions/) Vancouver + Denver based platform for virtual power plant and DSR optimisation
 - [Opus one](https://www.opusonesolutions.com/) Toronto based, DER and DSR platform
 - [Sympower](https://www.sympower.net/about/our-story) Demand response aggregation platform
 - Demand side response and energy efficiency platform [voltus](https://www.voltus.co/how-we-help/)
@@ -57,6 +58,7 @@ big section with sub categories
 
 Smart home, energy monitors integrated with other stuff
 
+- [Home Connect](https://www.home-connect.com/global/connected-partners/energy_management) is the iot very proprietary platform by Bosch, device management and optimisation with a set of selected partners
 - [Hive](https://www.hivehome.com/) smart home device range, started with thermostat, bought by Centrica / British Gas
 - [Nest](https://nest.com/uk/) notoriously bought by Google, started as thermostat only, progressively expanded to smart home
 - [Develco](https://www.develcoproducts.com/products/) Denmark based, gateway, controlled socket, relays, pass through, sensors. All Zigbee connected, quite amazing
@@ -90,7 +92,7 @@ Smart home, energy monitors integrated with other stuff
 - [Gewiss](https://www.gewiss.com/ww/en/products/experience-catalogue/catalogs/series/domotics/wireless-devices-Zigbee) Zigbee series
 - [Bega](https://www.bega.com/en/products/Zigbee-control-modules-71021/) 16A Zigbee relay
 - [Pikkerton](https://www.pikkerton.com/_objects/1/16.htm) Zigbee relay
-- Search images for Zigbee din relay there are tons! [link](https://www.google.co.uk/search?q=Zigbee+din+relay)
+- Search [google images](https://www.google.co.uk/search?q=Zigbee+din+relay) for Zigbee din relay there are tons!
 
 ### Batteries / static storage
 
@@ -106,13 +108,14 @@ Smart home, energy monitors integrated with other stuff
 
 ### Photovoltaic
 
+- [sma](https://www.sma-uk.com/) german company, with [data management platform](https://www.sma.de/en/products/monitoring-control/data-manager-m.html)
 - [polysolar](http://www.polysolar.co.uk/)
 - [ikea](https://www.ikea.com/gb/en/ikea/solar-panels/)
 - [solar century](https://www.solarcentury.com/)
 - [evo energy](https://www.evoenergy.co.uk/services/power-purchase-agreement/) check their PPA (min 200 panels / 40kwp, recommend epc certificate)
-- [enphase](https://enphase.com/en-us)(US)
-- [sunpower](https://us.sunpower.com/)(US)
-- bticino photovoltaic [link](https://www.bticino.com/products-catalogue/photovoltaic-systems-string-boxes-circuit-breakers-and-fuses/)
+- [enphase](https://enphase.com/en-us) (US)
+- [sunpower](https://us.sunpower.com/) (US)
+- [bticino photovoltaic](https://www.bticino.com/products-catalogue/photovoltaic-systems-string-boxes-circuit-breakers-and-fuses/)
 
 ## Business hubs / accelerators / funds / etc
 
@@ -130,7 +133,8 @@ Smart home, energy monitors integrated with other stuff
 - [R/GA](http://ventures.rga.com/startups/) they're in the IoT sector, possibly green
 - [Digital Catapult](https://www.digicatapult.org.uk/) there's also the energy catapult, check the link
 - Mayor of London energy efficiency fund (MEEF) [link](https://www.amberinfrastructure.com/our-funds/the-mayor-of-londons-energy-efficiency-fund/about-meef/)
-- Investment fund specialised in cleantech [wunder capital](https://www.wundercapital.com/)
+- [wunder capital](https://www.wundercapital.com/) Investment fund specialised in cleantech
+- [Kleiner Perkins Caufield & Byers](http://www.kleinerperkins.com/) is regarded as one of the prominent VC in cleanTech, albeit going through some troubles, according to [Reuters](https://www.reuters.com/article/us-kleiner-doerr-venture/insight-how-cleantech-tarnished-kleiner-and-vc-star-john-doerr-idUSBRE90F0AD20130116)
 - National grid announced fund [link](https://news.crunchbase.com/news/utility-national-grid-launches-venture-arm-powered-by-250m-fund/)
 
 ## Funding & Grant opportunities
@@ -173,6 +177,7 @@ these are companies making a living with the green / sustainable / climate chang
 - companies carbon footprint monitoring / environmental fintech [Carbon Delta](https://www.carbon-delta.com/) funded by climate-kic
 - Italy based consultancy [Energy way](https://www.energyway.it/energia-ambiente/) my friend Rita Cucchiara in the advisory board
 - [Brixton energy](https://brixtonenergy.co.uk/about-us/) a tiny cooperative installing renewables in south london, I'm sure there's plenty but hey, I'm a Londoner :joy:
+- [Eco Energi](https://www.eco-energi.com/) UK based service provider / consultancy for transition to sustainable, mainly residential
 
 ## Market compare
 
