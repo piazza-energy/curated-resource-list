@@ -20,6 +20,7 @@ This section is embarrassingly short, but reflects quite well the reality of thi
 
 Platforms focusing on demand side response, asset management and optimisation, flexibility, marketplaces
 
+- [Verv energy](https://verv.energy/news/) is a trading name of [Green running](https://www.greenrunning.com/about-us/) recently raised on £1M+ on Crowdcube, providing electricity data [disaggregation](https://www.youtube.com/watch?v=ZnJeA4-42W4) on 1s resolution signals. Verv has also a blockchain solution (see dedicated section).
 - [EnergyOS](https://www.energyos.com.au/) is the platform built on top of research done by CSIRO (Australia) for their [grid modelling tools](https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Intelligent-systems)
 - [Flexible power / powermatcher](https://github.com/flexiblepower) is the open source platform released by EF-PI (see above standard section, not really a standard though)
 - [Enbala](https://www.enbala.com/technology/products-solutions/) Vancouver + Denver based platform for virtual power plant and DSR optimisation
@@ -44,6 +45,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 
 ### Blockchains
 
+- [Vlux](https://vlux.io/) is the blockchain that powers Verv (see section above)
 - [Power ledger](https://www.powerledger.io/#products) just won (oct 18) the extreme tech challenge XTC
 - CSIRO is doing something but not sure what's the status, there is an interesting [https://www.data61.csiro.au/en/our-work/safety-and-security/secure-systems-and-platforms/blockchain](article) with scenarios
 - [Echoin from Powerlinks](https://www.echoin.io/) Beijing based, contracts with EDF, presented at Mission Innovation workshop
