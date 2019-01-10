@@ -20,7 +20,8 @@ This section is embarrassingly short, but reflects quite well the reality of thi
 
 Platforms focusing on demand side response, asset management and optimisation, flexibility, marketplaces
 
-- [Verv energy](https://verv.energy/news/) is a trading name of [Green running](https://www.greenrunning.com/about-us/) recently raised on £1M+ on Crowdcube, providing electricity data [disaggregation](https://www.youtube.com/watch?v=ZnJeA4-42W4) on 1s resolution signals. Verv has also a blockchain solution (see dedicated section).
+- [EnergyPlus](https://energyplus.net/) is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption—for heating, cooling, ventilation, lighting and plug and process loads—and water use in buildings. Funded by the U.S. Department of Energy’s (DOE) Building Technologies Office (BTO), and managed by the National Renewable Energy Laboratory (NREL)
+- [Verv energy](https://verv.energy/news/) is a trading name of [Green running](https://www.greenrunning.com/about-us/) recently raised on £1M+ on Crowdcube, providing electricity data [disaggregation](https://www.youtube.com/watch?v=ZnJeA4-42W4) on signals with resolution of 1s. Verv has also a blockchain solution (see dedicated section).
 - [EnergyOS](https://www.energyos.com.au/) is the platform built on top of research done by CSIRO (Australia) for their [grid modelling tools](https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Intelligent-systems)
 - [Flexible power / powermatcher](https://github.com/flexiblepower) is the open source platform released by EF-PI (see above standard section, not really a standard though)
 - [Enbala](https://www.enbala.com/technology/products-solutions/) Vancouver + Denver based platform for virtual power plant and DSR optimisation
@@ -152,6 +153,7 @@ Smart home, energy monitors integrated with other stuff
 
 bit of a bodged together category that wraps initiatives and "no-profit"
 
+- [UNFCCC](https://unfccc.int/about-us/about-the-secretariat) United Nations Framework Convention on Climate Change organises the Conference of Parties, organised the [COP24](https://unfccc.int/katowice) event in Katowice, Poland Dec '18
 - [Climate neutral now](https://offset.climateneutralnow.org/) carbon offset platform by United Nations [UNFCCC](https://unfccc.int/)
 - [CDP](https://www.cdp.net/en) is a not-for-profit charity that runs the global disclosure system for investors, companies, cities, states and regions to manage their environmental impacts
 - [Mission Innovation](http://mission-innovation.net/events/) 24 government consortium, recently presented the SGIA accelerator, ties with B-T ventures
@@ -164,6 +166,7 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Client earth](https://www.clientearth.org/)- check their survey UK 20.8.18 supporting urgent action on climate change: [link](https://www.clientearth.org/british-public-supports-urgent-action-and-litigation-on-climate-change-poll-reveals/) linked from  [link](https://www.independent.co.uk/environment/solar-panels-government-cuts-funding-british-tesla-a8500051.html)
 - go low carbon contest [link](https://www.climatecolab.org/contests/2018/helping-small-medium-businesses-go-low-carbon-ontario)
 - [Carbon culture](https://platform.carbonculture.net/about/) community platform that is designed to help people use resources more efficiently. Doesn't seem super active.
+- [NIPCC](http://climatechangereconsidered.org/) basically the climate change "negationist", a panel of nongovernment scientists and scholars who have come together to present an assessment of the science and economics of global warming.
 
 ## Companies / Consultancies / Startups
 
