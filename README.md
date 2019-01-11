@@ -120,28 +120,37 @@ Smart home, energy monitors integrated with other stuff
 - [sunpower](https://us.sunpower.com/) (US)
 - [bticino photovoltaic](https://www.bticino.com/products-catalogue/photovoltaic-systems-string-boxes-circuit-breakers-and-fuses/)
 
-## Business hubs / accelerators / funds / etc
+## Business & Money
+
+Business hubs / accelerators / funds / etc
+
+## VC & funds
 
 - Bill Gates & Friends $1B Breakthrough Energy fund [t h e s e g u y s](http://www.b-t.energy/coalition/) check the landscape section for ideas. Trickling down to Europe [link](http://europa.eu/rapid/press-release_IP-18-6125_en.htm)
 - [EnBW](https://www.env.vc/index-1.html) new ventures 100M fund
-- [EIC climate kic](https://www.climate-kic.org/programmes/entrepreneurship/) the program on climate change run by the European Institute of Innovation & Technology **loads of startups**
-- Optimise Prime by NIC / Ofgem [link](https://www.ofgem.gov.uk/publications-and-updates/electricity-nic-2018-submission-ukpn-optimise-prime) data for EV as referenced [link](https://www.wired.co.uk/article/electric-cars-uk-worlds-biggest-trial)
-- Seed and co-working in Oakland, CA [link](https://powerhouse.fund/#landing)
-- Hawaii / California / Pacific accelerator [Elemental](https://elementalexcelerator.com/) last cohort started oct 18
-- [Sustainable accelerator](https://www.sustainableaccelerator.co.uk/), London based, they also have a fund on seedrs. I think they back PowerVault
-- List of accelerators and incubators, in theory in cleantech but covering all sorts [link](https://www.londoncleantechcluster.co.uk/london-cleantech-cluster-2/cleantech-business/)
-- Generic list of accelerators in London [link](https://hubblehq.com/blog/the-official-list-of-londons-business-accelerators-and-incubators)
-- [link](https://www.london.gov.uk/what-we-do/environment/better-futures/about-better-futures)  
-- [Sustainable bridges](http://www.sustainablebridges.co.uk/)
-- [R/GA](http://ventures.rga.com/startups/) they're in the IoT sector, possibly green
-- [Digital Catapult](https://www.digicatapult.org.uk/) there's also the energy catapult, check the link
 - Mayor of London energy efficiency fund (MEEF) [link](https://www.amberinfrastructure.com/our-funds/the-mayor-of-londons-energy-efficiency-fund/about-meef/)
 - [wunder capital](https://www.wundercapital.com/) Investment fund specialised in cleantech
 - [Kleiner Perkins Caufield & Byers](http://www.kleinerperkins.com/) is regarded as one of the prominent VC in cleanTech, albeit going through some troubles, according to [Reuters](https://www.reuters.com/article/us-kleiner-doerr-venture/insight-how-cleantech-tarnished-kleiner-and-vc-star-john-doerr-idUSBRE90F0AD20130116)
 - National grid announced fund [link](https://news.crunchbase.com/news/utility-national-grid-launches-venture-arm-powered-by-250m-fund/)
 
-## Funding & Grant opportunities
+### Accelerators
 
+- [EIC climate kic](https://www.climate-kic.org/programmes/entrepreneurship/) the program on climate change run by the European Institute of Innovation & Technology **loads of startups**
+- [Sustainable accelerator](https://www.sustainableaccelerator.co.uk/), London based, they also have a fund on seedrs. I think they back PowerVault
+- [Sustainable bridges](http://www.sustainablebridges.co.uk/) / [Workspaces](https://www.sustainableworkspaces.co.uk/) it's the shared space where the accelerator operates (I think, will pay a visit soon)
+- Seed and co-working in Oakland, CA [link](https://powerhouse.fund/#landing)
+- Hawaii / California / Pacific accelerator [Elemental](https://elementalexcelerator.com/) last cohort started oct 18
+- List of accelerators and incubators, in theory in cleantech but covering all sorts [link](https://www.londoncleantechcluster.co.uk/london-cleantech-cluster-2/cleantech-business/)
+- Generic list of accelerators in London [link](https://hubblehq.com/blog/the-official-list-of-londons-business-accelerators-and-incubators)
+- [Digital Catapult](https://www.digicatapult.org.uk/) there's also the energy catapult, check the link
+- [R/GA](http://ventures.rga.com/startups/) they're in the IoT sector, possibly green
+
+### Public Funding & Grant opportunities
+
+These are mainly in the UK, by no means providing extensive global coverage
+
+- [Better Future](https://www.london.gov.uk/what-we-do/environment/better-futures/about-better-futures) EU regional development fund
+- Optimise Prime by NIC / Ofgem [link](https://www.ofgem.gov.uk/publications-and-updates/electricity-nic-2018-submission-ukpn-optimise-prime) data for EV as referenced [link](https://www.wired.co.uk/article/electric-cars-uk-worlds-biggest-trial)
 - [BEIS industrial energy efficiency accelerator](https://www.carbontrust.com/client-services/programmes/industrial-energy-efficiency-accelerator/)  Department of Business, Energy and Industrial Strategy’s £9.2 million fund
 - [gov.uk smart energy](https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems) where references to Power Forward Challenge can be found
 - [gov.uk climate change](https://www.gov.uk/government/news/call-for-new-green-innovations-to-tackle-climate-change) £60M fund announced during [green GB](https://greengb.campaign.gov.uk/) week, mid oct 18. Section "Constructing a Digital Environment" might be of interest, competitions to be published [here](https://www.ukri.org/research/themes-and-programmes/)
@@ -176,15 +185,19 @@ these are companies making a living with the green / sustainable / climate chang
 - [Metabolic](https://www.metabolic.nl/) did the Smart Integrated Decentralised Energy (SIDE) systems research published by [world economic forum](https://www.weforum.org/agenda/2018/09/these-dutch-microgrid-communities-can-supply-90-of-their-energy-needs/)
 - [Spectral](https://spectral.energy/projects/) a metabolic spin-off (nice domain), worth watching what they do [link on Youtube](https://www.youtube.com/watch?v=jB3hMVYXSKk) they should also have an energy monitoring platform a bit like Fabriq but not sure it’s PaaS
 - [Carbon lighthouse](https://www.carbonlighthouse.com/) US based Commercial solar consultancy
-- [Greenbiz](https://www.greenbiz.com/about-us) Media company interesting article about long-term sustainability of solar panel recycling
 - [kwhanalytics](http://www.kwhanalytics.com/) Investment risk management in solar, a platform
 - [Lumenaza](https://www.lumenaza.de/en/) software company for energy flow
-- companies carbon footprint monitoring / environmental fintech [Carbon Delta](https://www.carbon-delta.com/) funded by climate-kic
+- [Carbon Delta](https://www.carbon-delta.com/) funded by climate-kic, companies carbon footprint monitoring / environmental fintech
 - Italy based consultancy [Energy way](https://www.energyway.it/energia-ambiente/) my friend Rita Cucchiara in the advisory board
 - [Brixton energy](https://brixtonenergy.co.uk/about-us/) a tiny cooperative installing renewables in south london, I'm sure there's plenty but hey, I'm a Londoner :joy:
 - [Eco Energi](https://www.eco-energi.com/) UK based service provider / consultancy for transition to sustainable, mainly residential
 
-## Market compare
+### Media
+
+- [The Energyst](https://theenergyst.com/) magazine featuring latest energy technology and strategies along with articles on legislative and policy changes.
+- [Greenbiz](https://www.greenbiz.com/about-us) Media company interesting article about long-term sustainability of solar panel recycling
+
+### Market compare
 
 - [the eco experts](https://www.theecoexperts.co.uk/) for PV + battery installations. (Tried to make an enquiry but they’re just a call centre forwarding the contact to an installer, they wouldn’t even send the contact through without installation permission approval from the landlord. Been recommended to check on their website who can install in the area and contact them directly)
 - [Labrador](https://www.thelabrador.co.uk/) like uswitch, has an option for green sources
@@ -248,7 +261,7 @@ Bunch of companies trading and distributing energy, having a special focus on su
 
 - From BEIS, 8.8.18 “smart meters is the way to go” [link](https://www.gov.uk/government/news/smart-meters-the-smart-choice)
 - [FTSE4good](https://www.ftse.com/products/indices/FTSE4Good) Luxottica is mentioned here [link](https://www.pambianconews.com/2018/08/02/luxottica-entra-nellindice-ftse4good-241982/)
-- about better futures accelerator (see business section above) [link](https://techcrunch.com/2017/06/12/londons-mayor-announces-1-6m-clean-tech-incubator/)
+- about better futures accelerator (see money & business section above) [link](https://techcrunch.com/2017/06/12/londons-mayor-announces-1-6m-clean-tech-incubator/)
 - McKinsey report on changing utility landscape [link](https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-keep-the-lights-on)
 - Happening in Germany [link](https://uk.reuters.com/article/us-eon-microsoft-smarthomes-focus/e-on-targets-innovations-for-smart-energy-future-idUKKCN1M80ID) and the e-on / Microsoft joint venture for energy monitoring dashboards
 - Lists of startup to watch [quartz](https://qz.com/1402301/bill-gatess-1-billion-energy-fund-is-expanding-its-portfolio-of-startups-fighting-climate-change/) [wired](https://www.wired.co.uk/article/wired-energy-2017-startups) [techworld](https://www.techworld.com/picture-gallery/startups/uk-energy-tech-startups-3681877/)
