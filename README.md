@@ -31,6 +31,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Advmicrogrid](http://www.advmicrogrid.com/) Analytics platform for demand side response and asset management with machine learning, advanced microgrid solutions (closed source), big US based
 - [Genability](https://www.genability.com/) Big US based products and platform for assets, micro-grids, etc. management with machine learning
 - [auto-grid](https://www.auto-grid.com/) Massive US based company (recently had 20M+ in funding) building platform for assets management, optimisation, machine learning etc. [link youtube](https://youtu.be/MIijeMOPlBY)
+- [Systems Link](https://www.systems-link.com/) is owned by Inspired Energy (see below in the companies section) and is a full energy monitoring platform with support for tenants
 - [Fabriq](https://fabriq.space/services/fabriq-platform/) Building / Assets Energy monitoring platform
 - [Demand Logic](https://www.demandlogic.co.uk/index.html) is an energy control and optimisation platform for commercial buildings, similar to Fabriq.
 - [AMPP](https://www.ammp.io/) - Analytics and insights for off-grid assets
@@ -158,10 +159,38 @@ These are mainly in the UK, by no means providing extensive global coverage
 - [gov.uk entry point](https://www.gov.uk/business-finance-support)
 - [gov.uk competitions in energy](https://apply-for-innovation-funding.service.gov.uk/competition/search?keywords=energy)
 
-## NGO / Organisations / activism
+## Companies / Consultancies / Startups / Organisations
+
+these are companies and organisations making a living with the green / sustainable / climate change / etc. business that don't have a specific software or hardware product.
+
+- [Bloomberg NEF](https://about.bnef.com/) "new energy finance" is the branch of Bloomberg specialised in consultancies around the energy sector, this was a company founded by [Michael Liebreich](https://twitter.com/MLiebreich) in 2004 and acquired by Bloomberg in 2009
+- [GRESB](https://gresb.com/about/) mh, not sure this is a corp, or an org, their mission is to enhance and protect shareholder value by assessing and empowering sustainability practices in the real asset sector. Providing environmental, social and governance (ESG) performance on assets. (mentioned in Fabriq newsletter)
+- [Metabolic](https://www.metabolic.nl/) did the Smart Integrated Decentralised Energy (SIDE) systems research published by [world economic forum](https://www.weforum.org/agenda/2018/09/these-dutch-microgrid-communities-can-supply-90-of-their-energy-needs/)
+- [Spectral](https://spectral.energy/projects/) a metabolic spin-off (nice domain), worth watching what they do [link on Youtube](https://www.youtube.com/watch?v=jB3hMVYXSKk) they should also have an energy monitoring platform a bit like Fabriq but not sure it’s PaaS
+- [Carbon lighthouse](https://www.carbonlighthouse.com/) US based Commercial solar consultancy
+- [kwhanalytics](http://www.kwhanalytics.com/) Investment risk management in solar, a platform
+- [Lumenaza](https://www.lumenaza.de/en/) software company for energy flow
+- [Energy Market Price](https://www.energymarketprice.com/) software and bespoke solutions for industrial / consultants / suppliers who need to track energy price (e.g. a dashboard for EDF)
+- [Carbon Delta](https://www.carbon-delta.com/) funded by climate-kic, companies carbon footprint monitoring / environmental fintech
+- Italy based consultancy [Energy way](https://www.energyway.it/energia-ambiente/) my friend Rita Cucchiara in the advisory board
+- [Brixton energy](https://brixtonenergy.co.uk/about-us/) a tiny cooperative installing renewables in south london, I'm sure there's plenty but hey, I'm a Londoner :joy:
+- [Eco Energi](https://www.eco-energi.com/) UK based service provider / consultancy for transition to sustainable, mainly residential
+- [Pexapark](https://www.pexapark.com/team.html) is a Zurich based consultancy specialised in PPA deals
+- [Nispera](http://nispera.com/) renewable portfolio performance monitoring, asset management, weather forecast for power, bespoke solutions
+- [Digital Engineering](https://digital-engineering-ltd.com/) data analytics services for assets monitoring and forecasting, based in Bristol
+- [Kyos](https://www.kyos.com/) asset management and optimisation, energy market analytics
+- [Inspired Energy](https://inspiredenergy.co.uk/) Manchester based, super big company providing all sorts of professional services for energy distributors, businesses etc.
+
+### Media
+
+- [The Energyst](https://theenergyst.com/) magazine featuring latest energy technology and strategies along with articles on legislative and policy changes.
+- [Greenbiz](https://www.greenbiz.com/about-us) Media company interesting article about long-term sustainability of solar panel recycling
+
+### NGO / Organisations / activism
 
 bit of a bodged together category that wraps initiatives and "no-profit"
 
+- [IEA](https://www.iea.org/) Founded in 1974, the IEA was initially designed to help countries co-ordinate a collective response to major disruptions in the supply of oil, such as the crisis of 1973/4. While this remains a key aspect of its work, the IEA has evolved and expanded significantly.
 - [UNFCCC](https://unfccc.int/about-us/about-the-secretariat) United Nations Framework Convention on Climate Change organises the Conference of Parties, organised the [COP24](https://unfccc.int/katowice) event in Katowice, Poland Dec '18
 - [Climate neutral now](https://offset.climateneutralnow.org/) carbon offset platform by United Nations [UNFCCC](https://unfccc.int/)
 - [CDP](https://www.cdp.net/en) is a not-for-profit charity that runs the global disclosure system for investors, companies, cities, states and regions to manage their environmental impacts
@@ -174,28 +203,17 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Royal Society](https://royalsociety.org/topics-policy/projects/greenhouse-gas-removal/)
 - [Client earth](https://www.clientearth.org/)- check their survey UK 20.8.18 supporting urgent action on climate change: [link](https://www.clientearth.org/british-public-supports-urgent-action-and-litigation-on-climate-change-poll-reveals/) linked from  [link](https://www.independent.co.uk/environment/solar-panels-government-cuts-funding-british-tesla-a8500051.html)
 - go low carbon contest [link](https://www.climatecolab.org/contests/2018/helping-small-medium-businesses-go-low-carbon-ontario)
+- [Michael Liebreich foundation](http://www.liebreich.com/foundation/) gives small grants for climate & environment projects among other things
 - [Carbon culture](https://platform.carbonculture.net/about/) community platform that is designed to help people use resources more efficiently. Doesn't seem super active.
 - [NIPCC](http://climatechangereconsidered.org/) basically the climate change "negationist", a panel of nongovernment scientists and scholars who have come together to present an assessment of the science and economics of global warming.
 
-## Companies / Consultancies / Startups
+### Meteo / Power forecast
 
-these are companies making a living with the green / sustainable / climate change / etc. business that don't have a specific software or hardware product.
-
-- [GRESB](https://gresb.com/about/) mh, not sure this is a corp, or an org, their mission is to enhance and protect shareholder value by assessing and empowering sustainability practices in the real asset sector. Providing environmental, social and governance (ESG) performance on assets. (mentioned in Fabriq newsletter)
-- [Metabolic](https://www.metabolic.nl/) did the Smart Integrated Decentralised Energy (SIDE) systems research published by [world economic forum](https://www.weforum.org/agenda/2018/09/these-dutch-microgrid-communities-can-supply-90-of-their-energy-needs/)
-- [Spectral](https://spectral.energy/projects/) a metabolic spin-off (nice domain), worth watching what they do [link on Youtube](https://www.youtube.com/watch?v=jB3hMVYXSKk) they should also have an energy monitoring platform a bit like Fabriq but not sure it’s PaaS
-- [Carbon lighthouse](https://www.carbonlighthouse.com/) US based Commercial solar consultancy
-- [kwhanalytics](http://www.kwhanalytics.com/) Investment risk management in solar, a platform
-- [Lumenaza](https://www.lumenaza.de/en/) software company for energy flow
-- [Carbon Delta](https://www.carbon-delta.com/) funded by climate-kic, companies carbon footprint monitoring / environmental fintech
-- Italy based consultancy [Energy way](https://www.energyway.it/energia-ambiente/) my friend Rita Cucchiara in the advisory board
-- [Brixton energy](https://brixtonenergy.co.uk/about-us/) a tiny cooperative installing renewables in south london, I'm sure there's plenty but hey, I'm a Londoner :joy:
-- [Eco Energi](https://www.eco-energi.com/) UK based service provider / consultancy for transition to sustainable, mainly residential
-
-### Media
-
-- [The Energyst](https://theenergyst.com/) magazine featuring latest energy technology and strategies along with articles on legislative and policy changes.
-- [Greenbiz](https://www.greenbiz.com/about-us) Media company interesting article about long-term sustainability of solar panel recycling
+- [Meteomatics](http://www.meteomatics.com/display/WELCOME/Home) specializes on the specific needs of the weather sector, energy and trading sectors
+- [Energy weather](https://www.energyweather.com/) Germany based
+- [Watt sight](https://www.wattsight.com/) Norway based, meteo and trading forecast
+- [European power forecasting](https://europeanpowerforecasting.com/) probably a sister company of Digital Engineering mentioned above, Bristol based (same office), focusing on the power forecasting side
+- [Conwx](http://conwx.com/) high-resolution historical weather data and forecast for power / TSOs / asset management
 
 ### Market compare
 
@@ -241,6 +259,7 @@ Bunch of companies trading and distributing energy, having a special focus on su
 
 ## General knowledge
 
+- [How AI will affect the future](https://www.brookings.edu/research/how-artificial-intelligence-will-affect-the-future-of-energy-and-climate/) of energy and climate change
 - the case for static storage: how Tesla big battery in Australia [provided a millisecond response](https://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/) to adjust frequency when a coal plant stopped working
 - AEMO and ARENA [build a 200MW battery](https://www.aemo.com.au/Media-Centre/AEMO-and-ARENA-demand-response-trial-to-provide-200MW-of-emergency-reserves-for-extreme-peaks) for extreme peaks, twice the size of the Tesla big battery
 - IPCC (intergovernmental panel on climate change) report on 1.5C released in early October 2018: [link](http://www.ipcc.ch/report/sr15/) this is the **badass doc** that worked as wake up call for loads of people
