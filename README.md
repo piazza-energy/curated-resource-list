@@ -20,20 +20,12 @@ This section is embarrassingly short, but reflects quite well the reality of thi
 
 Platforms focusing on demand side response, asset management and optimisation, flexibility, marketplaces
 
-- [EnergyPlus](https://energyplus.net/) is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption—for heating, cooling, ventilation, lighting and plug and process loads—and water use in buildings. Funded by the U.S. Department of Energy’s (DOE) Building Technologies Office (BTO), and managed by the National Renewable Energy Laboratory (NREL)
 - [Verv energy](https://verv.energy/news/) is a trading name of [Green running](https://www.greenrunning.com/about-us/) recently raised on £1M+ on Crowdcube, providing electricity data [disaggregation](https://www.youtube.com/watch?v=ZnJeA4-42W4) on signals with resolution of 1s. Verv has also a blockchain solution (see dedicated section).
 - [EnergyOS](https://www.energyos.com.au/) is the platform built on top of research done by CSIRO (Australia) for their [grid modelling tools](https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Intelligent-systems)
 - [Flexible power / powermatcher](https://github.com/flexiblepower) is the open source platform released by EF-PI (see above standard section, not really a standard though)
-- [Enbala](https://www.enbala.com/technology/products-solutions/) Vancouver + Denver based platform for virtual power plant and DSR optimisation
-- [Opus one](https://www.opusonesolutions.com/) Toronto based, DER and DSR platform
-- [Sympower](https://www.sympower.net/about/our-story) Demand response aggregation platform
-- Demand side response and energy efficiency platform [voltus](https://www.voltus.co/how-we-help/)
 - [Advmicrogrid](http://www.advmicrogrid.com/) Analytics platform for demand side response and asset management with machine learning, advanced microgrid solutions (closed source), big US based
 - [Genability](https://www.genability.com/) Big US based products and platform for assets, micro-grids, etc. management with machine learning
 - [auto-grid](https://www.auto-grid.com/) Massive US based company (recently had 20M+ in funding) building platform for assets management, optimisation, machine learning etc. [link youtube](https://youtu.be/MIijeMOPlBY)
-- [Systems Link](https://www.systems-link.com/) is owned by Inspired Energy (see below in the companies section) and is a full energy monitoring platform with support for tenants
-- [Fabriq](https://fabriq.space/services/fabriq-platform/) Building / Assets Energy monitoring platform
-- [Demand Logic](https://www.demandlogic.co.uk/index.html) is an energy control and optimisation platform for commercial buildings, similar to Fabriq.
 - [AMPP](https://www.ammp.io/) - Analytics and insights for off-grid assets
 - [Piclo](https://piclo.energy/), Grid flexibility marketplace Platform
 - [Eloncity](https://eloncity.io/) - Mega platform (under development) Singapore based with blockchain and devices
@@ -44,6 +36,23 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [GridMarket](https://app.gridmarket.com/) app for microgrid monitoring mentioned by [link](https://microgridknowledge.com/worlds-largest-microgrid-engie-eps/) for their installation in Palau (Micronesia)
 - [Sighten](http://www.sighten.io/) Platform for solar workflow management, from planning, financing, installation, monitoring, support
 - [Leap](https://leap.ac/) Off-peak energy trading platform, funded by national grid
+
+### DER / DSR Platforms
+
+- [Faraday grid](https://www.faradaygrid.com/the-faraday-grid/) Edinburgh based, backed by WeWork co-founder and Amp Energy - [in the news](https://theenergyst.com/faraday-grid-lands-25m-investment/) -, providing hardware + software for DER
+- [Opus one](https://www.opusonesolutions.com/) Toronto based, DER and DSR platform
+- [Enbala](https://www.enbala.com/technology/products-solutions/) Vancouver + Denver based platform for virtual power plant and DSR optimisation
+- [Sympower](https://www.sympower.net/about/our-story) Demand response aggregation platform
+- [Voltus](https://www.voltus.co/how-we-help/) Demand side response and energy efficiency platform
+
+### Building performance / monitoring / analytics
+
+- [Simptek](https://www.simptekinc.com/) Canadian company, provides insights into any building’s energy usage, identifying opportunities for cost savings
+- [Sefaira](https://sefaira.com/)
+- [Demand Logic](https://www.demandlogic.co.uk/index.html) is an energy control and optimisation platform for commercial buildings, similar to Fabriq.
+- [Fabriq](https://fabriq.space/services/fabriq-platform/) Building / Assets Energy monitoring platform
+- [EnergyPlus](https://energyplus.net/) is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption—for heating, cooling, ventilation, lighting and plug and process loads—and water use in buildings. Funded by the U.S. Department of Energy’s (DOE) Building Technologies Office (BTO), and managed by the National Renewable Energy Laboratory (NREL)
+- [Systems Link](https://www.systems-link.com/) is owned by Inspired Energy (see below in the companies section) and is a full energy monitoring platform with support for tenants
 
 ### Blockchains
 
@@ -69,6 +78,7 @@ Smart home, energy monitors integrated with other stuff
 - [Lightwave rf](https://lightwaverf.com/) controlled and connected power sockets, switches, sensors, radiator valves. They claim to do energy monitoring, but haven't found anything on website.
 - [Netatmo](https://www.netatmo.com/en-us) smart thermostat, air quality monitor, smoke detector, radiator valves, indoor / outdoor camera
 - [Gridduck](https://gridduck.com/#main) UK based cloud energy management platform with devices developed on top of Develco (see above). Listed for winning 360k in funding for gamification of EV charging in the south-korea collaboration, [link](https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems) founder and CEO is [Gregor](https://www.linkedin.com/in/gregor-hoefter-8bb77/)
+- [Asema](https://iot.asema.com/iotc/) is a smart-energy iot platform with sensors and dashboards, not sure it's on the market already. They also have an [open API](http://www.smart-api.io/)
 
 ### Smart Thermostats
 
@@ -100,9 +110,11 @@ Smart home, energy monitors integrated with other stuff
 
 ### Batteries / static storage
 
+- [Blue planet energy](https://blueplanetenergy.com/) Hawaii based storage for residential
 - [Connected Energy]((https://www.c-e-int.com/)), recycling EV batteries but for commercial and industrial
 - [Argonaut Power](https://www.argonautpower.com/) specialising in batteries, ingenious spin-off providing financial service
 - [PowerVault](https://www.powervault.co.uk/) for residential, recycling EV batteries
+- [FIAMM](https://www.fiamm.com/en/europe/) Italian battery company, part of the Hitachi group, historically for vehicles, now shifting towards other markets
 - [PowerFlow](https://www.powerflowenergy.com/)
 - [Sonnen](https://sonnen-batterie.com/en-us/start)
 - [Tesla powerwall](https://www.tesla.com/en_GB/powerwall)
@@ -112,6 +124,7 @@ Smart home, energy monitors integrated with other stuff
 
 ### Photovoltaic
 
+- [BBoxx](https://www.bboxx.co.uk/) hardly can be defined a PV or a battery company, they provide a solar + battery + monitoring solution for developing countries, London based
 - [sma](https://www.sma-uk.com/) german company, with [data management platform](https://www.sma.de/en/products/monitoring-control/data-manager-m.html)
 - [polysolar](http://www.polysolar.co.uk/)
 - [ikea](https://www.ikea.com/gb/en/ikea/solar-panels/)
@@ -136,6 +149,7 @@ Business hubs / accelerators / funds / etc
 
 ### Accelerators
 
+- [Clean and cool](https://cleanandcool.org/) not properly accelerator program, probably more a networking series of events
 - [EIC climate kic](https://www.climate-kic.org/programmes/entrepreneurship/) the program on climate change run by the European Institute of Innovation & Technology **loads of startups**
 - [Sustainable accelerator](https://www.sustainableaccelerator.co.uk/), London based, they also have a fund on seedrs. I think they back PowerVault
 - [Sustainable bridges](http://www.sustainablebridges.co.uk/) / [Workspaces](https://www.sustainableworkspaces.co.uk/) it's the shared space where the accelerator operates (I think, will pay a visit soon)
@@ -163,6 +177,7 @@ These are mainly in the UK, by no means providing extensive global coverage
 
 these are companies and organisations making a living with the green / sustainable / climate change / etc. business that don't have a specific software or hardware product.
 
+- [Elli](https://www.elli.eco/en/#mission) is the "Electricity Life" brand owned by VW group, announcing their [intention to become a power supplier](https://www.volkswagen-newsroom.com/en/press-releases/volkswagen-to-become-a-power-supplier-4551)
 - [Bloomberg NEF](https://about.bnef.com/) "new energy finance" is the branch of Bloomberg specialised in consultancies around the energy sector, this was a company founded by [Michael Liebreich](https://twitter.com/MLiebreich) in 2004 and acquired by Bloomberg in 2009
 - [GRESB](https://gresb.com/about/) mh, not sure this is a corp, or an org, their mission is to enhance and protect shareholder value by assessing and empowering sustainability practices in the real asset sector. Providing environmental, social and governance (ESG) performance on assets. (mentioned in Fabriq newsletter)
 - [Metabolic](https://www.metabolic.nl/) did the Smart Integrated Decentralised Energy (SIDE) systems research published by [world economic forum](https://www.weforum.org/agenda/2018/09/these-dutch-microgrid-communities-can-supply-90-of-their-energy-needs/)
@@ -171,6 +186,7 @@ these are companies and organisations making a living with the green / sustainab
 - [kwhanalytics](http://www.kwhanalytics.com/) Investment risk management in solar, a platform
 - [Lumenaza](https://www.lumenaza.de/en/) software company for energy flow
 - [Energy Market Price](https://www.energymarketprice.com/) software and bespoke solutions for industrial / consultants / suppliers who need to track energy price (e.g. a dashboard for EDF)
+- [Engadged Tracking](https://www.engagedtracking.com/) a new approach to sustainable and ESG investing, ranking the world’s largest listed companies according to their Scope 1, 2 and 3 greenhouse gas emissions each year.
 - [Carbon Delta](https://www.carbon-delta.com/) funded by climate-kic, companies carbon footprint monitoring / environmental fintech
 - Italy based consultancy [Energy way](https://www.energyway.it/energia-ambiente/) my friend Rita Cucchiara in the advisory board
 - [Brixton energy](https://brixtonenergy.co.uk/about-us/) a tiny cooperative installing renewables in south london, I'm sure there's plenty but hey, I'm a Londoner :joy:
@@ -183,6 +199,7 @@ these are companies and organisations making a living with the green / sustainab
 
 ### Media
 
+- [Business green](https://www.businessgreen.com/) uk based media and events in the cleantech world
 - [The Energyst](https://theenergyst.com/) magazine featuring latest energy technology and strategies along with articles on legislative and policy changes.
 - [Greenbiz](https://www.greenbiz.com/about-us) Media company interesting article about long-term sustainability of solar panel recycling
 
@@ -224,6 +241,7 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 
 Bunch of companies trading and distributing energy, having a special focus on sustainable / renewable, demand side response and the likes
 
+- [Amp Energy](https://amp.energy/) Canadian, assets behind and in front of the meter, backers of Faraday Grid (see above)
 - [Smartest Energy](https://smartestenergy.com/) they have an interesting periodic report in mailing list
 - [Smarter business](https://smarterbusiness.co.uk/) energy broker for business
 - [Octopus](https://octopus.energy/) London based, green easy to switch energy, there is probably a link with reactive-technologies that I haven’t understood
@@ -246,6 +264,7 @@ Bunch of companies trading and distributing energy, having a special focus on su
 
 ## Data sets and APIs
 
+- [ENERGYDATA.INFO](https://energydata.info/) is an open data platform providing access to datasets and data analytics that are relevant to the energy sector.
 - [Elexon](https://www.elexon.co.uk/) meters data harvesting and comparison, balancing and settlement code (bsc), **lots and lots of data!** They also have an API, check this out [link](https://www.elexon.co.uk/new-balancing-mechanism-reporting-service-bmrs/)
 - Data sets [for the US](https://catalog.data.gov/dataset?tags=energy-consumption#sec-tags) (commercial and residential hourly load profile linked here - [link](https://catalog.data.gov/dataset/commercial-and-residential-hourly-load-profiles-for-all-tmy3-locations-in-the-united-state))
 - energy consumption UK data set [link](https://data.gov.uk/dataset/26afb14b-be9a-4722-916e-10655d0edc38/energy-consumption-in-the-uk)
@@ -268,6 +287,7 @@ Bunch of companies trading and distributing energy, having a special focus on su
 - List of API energy related [link](https://www.programmableweb.com/category/energy/api)
 - **Pandora’s box!** So much content here, loads of innovation projects and reports in a single place [link](http://innovation.ukpowernetworks.co.uk/innovation/en/) very interesting sections: low carbon London and smarter network storage in the large scale projects section
 - Electricity System Operator UK [national grid eso](https://www.nationalgrideso.com/insights) another website full of content, innovation, fundings, etc. mainly from the TSO point of view
+- An algorithm for [electrical grid mapping](https://code.fb.com/connectivity/electrical-grid-mapping/) by Facebook based on image analysis and a modified Dijkstra algorithm
 
 ### Energy consumption
 
