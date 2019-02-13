@@ -29,7 +29,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [AMPP](https://www.ammp.io/) - Analytics and insights for off-grid assets
 - [Piclo](https://piclo.energy/), Grid flexibility marketplace Platform
 - [Eloncity](https://eloncity.io/) - Mega platform (under development) Singapore based with blockchain and devices
-- [Utility API](https://utilityapi.com/),  Web api platform for energy consumption and bills
+- [Utility API](https://utilityapi.com/), Web api platform for energy consumption and bills
 - Mh, not really sure what they do? [Reactive technologies](https://www.reactive-technologies.com/) grid analytics and cloud solutions maybe? Been [funded by Ingenious](http://www.theingeniousgroup.co.uk/news-views/ingenious-backs-smart-energy-future-with-investment-into-reactive-technologies/)
 - [Upside energy](https://upsideenergy.co.uk/about-us/) Cloud software for demand side response with AI
 - [Qbots](https://www.qbots.ai/#how) AI + API but don’t think they have anything released open source
@@ -53,9 +53,11 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Fabriq](https://fabriq.space/services/fabriq-platform/) Building / Assets Energy monitoring platform
 - [EnergyPlus](https://energyplus.net/) is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption—for heating, cooling, ventilation, lighting and plug and process loads—and water use in buildings. Funded by the U.S. Department of Energy’s (DOE) Building Technologies Office (BTO), and managed by the National Renewable Energy Laboratory (NREL)
 - [Systems Link](https://www.systems-link.com/) is owned by Inspired Energy (see below in the companies section) and is a full energy monitoring platform with support for tenants
+- [Toon](https://www.toon.eu/) dutch platform for residential, recently acquired by [Eneco](https://www.enecogroup.com/) a big energy company providing infrastructure with renewable and batteries. (Toon uses databricks / airflow / spark / aws for computation, [here](https://databricks.com/session/using-apache-spark-in-the-cloud-a-devops-perspective))
 
 ### Blockchains
 
+- [Energy Web](https://energyweb.org/) open-source, scalable blockchain platform specifically designed for the energy sector’s regulatory, operational, and market needs. Apparently [used by Siemens](https://cointelegraph.com/news/siemens-joins-blockchain-driven-energy-platform-to-increase-interoperability-in-industry)
 - [Vlux](https://vlux.io/) is the blockchain that powers Verv (see section above)
 - [Power ledger](https://www.powerledger.io/#products) just won (oct 18) the extreme tech challenge XTC
 - CSIRO is doing something but not sure what's the status, there is an interesting [https://www.data61.csiro.au/en/our-work/safety-and-security/secure-systems-and-platforms/blockchain](article) with scenarios
@@ -278,6 +280,7 @@ Bunch of companies trading and distributing energy, having a special focus on su
 
 ## General knowledge
 
+- [Low carbon and renewable energy economy, UK: 2017](https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/finalestimates/2017#main-points) Final results from the Low Carbon and Renewable Energy Survey on the low carbon and renewable energy economy, 31.1.19
 - [How AI will affect the future](https://www.brookings.edu/research/how-artificial-intelligence-will-affect-the-future-of-energy-and-climate/) of energy and climate change
 - the case for static storage: how Tesla big battery in Australia [provided a millisecond response](https://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/) to adjust frequency when a coal plant stopped working
 - AEMO and ARENA [build a 200MW battery](https://www.aemo.com.au/Media-Centre/AEMO-and-ARENA-demand-response-trial-to-provide-200MW-of-emergency-reserves-for-extreme-peaks) for extreme peaks, twice the size of the Tesla big battery
@@ -291,6 +294,7 @@ Bunch of companies trading and distributing energy, having a special focus on su
 
 ### Energy consumption
 
+- [SAVE](https://www.ssen.co.uk/save/) is a five-year trial across 4,000 homes in the Solent region called SAVE, which tried a range of mechanisms to see how households could provide demand reduction and response. From the [Energyst](https://theenergyst.com/sse-networks-to-bring-households-into-demand-side-response/)
 - **energy flows** if you have to impress people using Sankey charts - Lawrence Livermore (world, but mainly updated for US) [link](https://flowcharts.llnl.gov/)
 - BEIS energy trends [link](https://www.gov.uk/government/collections/energy-trends)
 - Electric vehicle footprint [link](https://www.ucsusa.org/clean-vehicles/electric-vehicles/ev-emissions-tool), this is fun. Basically: buy a Prius instead of a Tesla
@@ -305,6 +309,11 @@ Bunch of companies trading and distributing energy, having a special focus on su
 - Happening in Germany [link](https://uk.reuters.com/article/us-eon-microsoft-smarthomes-focus/e-on-targets-innovations-for-smart-energy-future-idUKKCN1M80ID) and the e-on / Microsoft joint venture for energy monitoring dashboards
 - Lists of startup to watch [quartz](https://qz.com/1402301/bill-gatess-1-billion-energy-fund-is-expanding-its-portfolio-of-startups-fighting-climate-change/) [wired](https://www.wired.co.uk/article/wired-energy-2017-startups) [techworld](https://www.techworld.com/picture-gallery/startups/uk-energy-tech-startups-3681877/)
 - Breakthrough energy Europe announcement and breakdown of greenhouse gas source emissions [link on Gates notes](https://www.gatesnotes.com/Energy/My-plan-for-fighting-climate-change)
+
+### Storage technology and business
+
+- New York State Energy Research and Development Authority has a [program on energy storage](https://www.nyserda.ny.gov/All%20Programs/Programs/Energy%20Storage), their report sent by GridMarket when registering on their website
+- [aggregation is making storage a software business](https://www.utilitydive.com/news/greater-than-the-sum-how-aggregation-is-making-storage-into-a-software-bus/420753/)
 
 ### Technologies, Solar efficiency, ripple effects, climate change, everything else
 
