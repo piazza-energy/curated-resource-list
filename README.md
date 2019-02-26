@@ -12,6 +12,7 @@ If you're reading this from Github, this page is available in a [nicer web forma
 
 This section is embarrassingly short, but reflects quite well the reality of things: there are very few standards around, with most of the platforms using proprietary solutions.
 
+- [ISO 50001](https://www.iso.org/iso-50001-energy-management.html) supports organizations in all sectors to use energy more efficiently, through the development of an energy management system
 - [SMETS2](https://www.gov.uk/government/consultations/smart-metering-equipment-technical-specifications-second-version) smart meter specs v2 adopted by UK
 - [IEEE P825](https://standards.ieee.org/project/825.html) - Guide for Interoperability of Transactive Energy Systems with Electric Power Infrastructure
 - [European Energy Flexibility Platform and Interface (EF-PI)](https://flexible-energy.eu/) - [link docs](http://fpai-ci.sensorlab.tno.nl/builds/fpai-documentation/development/html/) not really a standard, more a consortium of private companies trying to adopt a common toolset.
@@ -27,18 +28,20 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Genability](https://www.genability.com/) Big US based products and platform for assets, micro-grids, etc. management with machine learning
 - [auto-grid](https://www.auto-grid.com/) Massive US based company (recently had 20M+ in funding) building platform for assets management, optimisation, machine learning etc. [link youtube](https://youtu.be/MIijeMOPlBY)
 - [AMPP](https://www.ammp.io/) - Analytics and insights for off-grid assets
-- [Piclo](https://piclo.energy/), Grid flexibility marketplace Platform
 - [Eloncity](https://eloncity.io/) - Mega platform (under development) Singapore based with blockchain and devices
 - [Utility API](https://utilityapi.com/), Web api platform for energy consumption and bills
 - Mh, not really sure what they do? [Reactive technologies](https://www.reactive-technologies.com/) grid analytics and cloud solutions maybe? Been [funded by Ingenious](http://www.theingeniousgroup.co.uk/news-views/ingenious-backs-smart-energy-future-with-investment-into-reactive-technologies/)
-- [Upside energy](https://upsideenergy.co.uk/about-us/) Cloud software for demand side response with AI
-- [Qbots](https://www.qbots.ai/#how) AI + API but don’t think they have anything released open source
+- [Qbots](https://www.qbots.ai/#how) AI + API don’t think they have anything released open source
 - [GridMarket](https://app.gridmarket.com/) app for microgrid monitoring mentioned by [link](https://microgridknowledge.com/worlds-largest-microgrid-engie-eps/) for their installation in Palau (Micronesia)
 - [Sighten](http://www.sighten.io/) Platform for solar workflow management, from planning, financing, installation, monitoring, support
+
+### DER / DSR Management Platforms
+
+- [Green Sync](https://greensync.com/about-us/) is Australia’s home grown demand-side management provider. Offering a range of products, above all worth mentioning the energy marketplace [deX](https://dex.energy/)
+- [Smarter Grid solutions](https://www.smartergridsolutions.com/) working with Distribution Utilities, System Operators and Energy Asset Operators to seamlessly and effortlessly integrate DER assets to the grid, and energy and flexibility markets.
 - [Leap](https://leap.ac/) Off-peak energy trading platform, funded by national grid
-
-### DER / DSR Platforms
-
+- [Piclo](https://piclo.energy/), Grid flexibility marketplace Platform
+- [Upside energy](https://upsideenergy.co.uk/about-us/) Cloud software for demand side response with AI
 - [Faraday grid](https://www.faradaygrid.com/the-faraday-grid/) Edinburgh based, backed by WeWork co-founder and Amp Energy - [in the news](https://theenergyst.com/faraday-grid-lands-25m-investment/) -, providing hardware + software for DER
 - [Opus one](https://www.opusonesolutions.com/) Toronto based, DER and DSR platform
 - [Enbala](https://www.enbala.com/technology/products-solutions/) Vancouver + Denver based platform for virtual power plant and DSR optimisation
@@ -47,6 +50,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 
 ### Building performance / monitoring / analytics
 
+- [EP&T](http://eptglobal.com/case-studies/) deliver outcomes through operational efficiency in the built environment. We combine the Internet of Things, Big Data, Artificial Intelligence, Machine Learning and Human Expertise to deliver cost reductions and improved comfort conditions.
 - [Simptek](https://www.simptekinc.com/) Canadian company, provides insights into any building’s energy usage, identifying opportunities for cost savings
 - [Sefaira](https://sefaira.com/)
 - [Demand Logic](https://www.demandlogic.co.uk/index.html) is an energy control and optimisation platform for commercial buildings, similar to Fabriq.
@@ -112,13 +116,15 @@ Smart home, energy monitors integrated with other stuff
 
 ### Batteries / static storage
 
+- [ecamion](https://www.ecamion.com/company/)  was founded on the principle of providing green energy to support the future needs of a growing population and offering new solutions for Utilities, Automotive, Mining, Renewables and Electric Vehicle Charging Infrastructure.
+- [Pivot Power](https://www.pivot-power.co.uk/#) big battery storage projects connected directly to the transmission system.
 - [Blue planet energy](https://blueplanetenergy.com/) Hawaii based storage for residential
 - [Connected Energy]((https://www.c-e-int.com/)), recycling EV batteries but for commercial and industrial
 - [Argonaut Power](https://www.argonautpower.com/) specialising in batteries, ingenious spin-off providing financial service
 - [PowerVault](https://www.powervault.co.uk/) for residential, recycling EV batteries
 - [FIAMM](https://www.fiamm.com/en/europe/) Italian battery company, part of the Hitachi group, historically for vehicles, now shifting towards other markets
 - [PowerFlow](https://www.powerflowenergy.com/)
-- [Sonnen](https://sonnen-batterie.com/en-us/start)
+- [Sonnen](https://sonnen-batterie.com/en-us/start) German company, been recently (Feb 19) bought by Shell [in the news](https://edition.cnn.com/2019/02/15/tech/shell-sonnen-home-batteries/index.html)
 - [Tesla powerwall](https://www.tesla.com/en_GB/powerwall)
 - [landlord energy solutions](http://www.landlordenergysolutions.org/) is a new startup developing batteries and renewable projects at large for landlords, they are probably both product and consultancy, a bit like Spectral (above), founder [Reg Platt](https://www.linkedin.com/in/reg-platt-11a38321/)
 - [Power Blox](https://www.power-blox.com/) the Swiss guys working on projects for Africa / developing countries, CTO and Co-Founder is [Alessandro Medici](https://www.linkedin.com/in/alessandro-medici-90a91030/)
@@ -209,9 +215,13 @@ these are companies and organisations making a living with the green / sustainab
 
 bit of a bodged together category that wraps initiatives and "no-profit"
 
+- [The European Energy Centre](https://www.euenergycentre.org/) is an Independent Educational Body for the Renewable Energy and Energy Efficiency Sectors. Awards the [Galileo Master Certificate](https://www.euenergycentre.org/energy-qualifications/) energy qualification
+- [The Smart Electric Power Alliance (SEPA)](https://sepapower.org/about/) is a US non-profit organization dedicated to working with electric power stakeholders through the most pressing issues affecting the growth and utilization of smart energy.
 - [IEA](https://www.iea.org/) Founded in 1974, the IEA was initially designed to help countries co-ordinate a collective response to major disruptions in the supply of oil, such as the crisis of 1973/4. While this remains a key aspect of its work, the IEA has evolved and expanded significantly.
 - [UNFCCC](https://unfccc.int/about-us/about-the-secretariat) United Nations Framework Convention on Climate Change organises the Conference of Parties, organised the [COP24](https://unfccc.int/katowice) event in Katowice, Poland Dec '18
 - [Climate neutral now](https://offset.climateneutralnow.org/) carbon offset platform by United Nations [UNFCCC](https://unfccc.int/)
+- [The climate group](https://www.theclimategroup.org/about) an international non-profit, founded in 2004, with offices in London, New Delhi and New York.
+- [Carbon Trust](https://www.carbontrust.com/home/) an independent, expert partner of leading organisations around the world, helping them contribute to and benefit from a more sustainable future.
 - [CDP](https://www.cdp.net/en) is a not-for-profit charity that runs the global disclosure system for investors, companies, cities, states and regions to manage their environmental impacts
 - [Mission Innovation](http://mission-innovation.net/events/) 24 government consortium, recently presented the SGIA accelerator, ties with B-T ventures
 - [Ofgem](https://www.ofgem.gov.uk/about-us/who-we-are) gas & electricity market authority
@@ -246,7 +256,8 @@ Bunch of companies trading and distributing energy, having a special focus on su
 - [Amp Energy](https://amp.energy/) Canadian, assets behind and in front of the meter, backers of Faraday Grid (see above)
 - [Smartest Energy](https://smartestenergy.com/) they have an interesting periodic report in mailing list
 - [Smarter business](https://smarterbusiness.co.uk/) energy broker for business
-- [Octopus](https://octopus.energy/) London based, green easy to switch energy, there is probably a link with reactive-technologies that I haven’t understood
+- [Tonik](https://www.tonikenergy.com/) UK utility with 100% renewable electricity, 10% green gas and 90% carbon offset
+- [Octopus](https://octopus.energy/) London based aggregator, green easy to switch energy, there is probably a link with reactive-technologies that I haven’t understood
 - [Trust power](https://www.trustpower.com/about-us) another solar / wind energy company to be launched soon
 - [OVO energy](https://www.ovoenergy.com/) provider pledging to provide sustainable power and smart devices for heating optimisation, monitoring, etc.
 - the new green aggregator jungle: check bulb, good energy, green star energy, solarplicity, so energy, outfox the market, pureplanet, tonic, co-operative, ...
