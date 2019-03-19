@@ -21,6 +21,7 @@ This section is embarrassingly short, but reflects quite well the reality of thi
 
 Platforms focusing on demand side response, asset management and optimisation, flexibility, marketplaces
 
+- [Greencom Networks](https://www.greencom-networks.com/energy-iot-platform/) based in Munich and Sophia Antipolis develops an Energy Information Brokerage Platform made of Connect (a data gateway) + a web platform + a set of applications.
 - [Verv energy](https://verv.energy/news/) is a trading name of [Green running](https://www.greenrunning.com/about-us/) recently raised on £1M+ on Crowdcube, providing electricity data [disaggregation](https://www.youtube.com/watch?v=ZnJeA4-42W4) on signals with resolution of 1s. Verv has also a blockchain solution (see dedicated section).
 - [EnergyOS](https://www.energyos.com.au/) is the platform built on top of research done by CSIRO (Australia) for their [grid modelling tools](https://www.csiro.au/en/Research/EF/Areas/Electricity-grids-and-systems/Intelligent-systems)
 - [Flexible power / powermatcher](https://github.com/flexiblepower) is the open source platform released by EF-PI (see above standard section, not really a standard though)
@@ -34,6 +35,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Qbots](https://www.qbots.ai/#how) AI + API don’t think they have anything released open source
 - [GridMarket](https://app.gridmarket.com/) app for microgrid monitoring mentioned by [link](https://microgridknowledge.com/worlds-largest-microgrid-engie-eps/) for their installation in Palau (Micronesia)
 - [Sighten](http://www.sighten.io/) Platform for solar workflow management, from planning, financing, installation, monitoring, support
+- [Gengame](https://www.gengame.co.uk/) mobile-gaming industry tools and techniques to solve utilities' challenges, have recently (start 2019) been awarded [a grant from BEIS](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/783338/BEIS_innovative_domestic_demand-side_response-competition_phase_2.pdf)
 
 ### DER / DSR Management Platforms
 
@@ -50,6 +52,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 
 ### Building performance / monitoring / analytics
 
+- [Synapsys](https://www.synapsys-solutions.com/) Founded in 2001 by experienced engineers, Synapsys Solutions develops and supplies innovative interfacing, integration and communication solutions for the intelligent building control industry.
 - [EP&T](http://eptglobal.com/case-studies/) deliver outcomes through operational efficiency in the built environment. We combine the Internet of Things, Big Data, Artificial Intelligence, Machine Learning and Human Expertise to deliver cost reductions and improved comfort conditions.
 - [Simptek](https://www.simptekinc.com/) Canadian company, provides insights into any building’s energy usage, identifying opportunities for cost savings
 - [Sefaira](https://sefaira.com/)
@@ -77,6 +80,7 @@ big section with sub categories
 
 Smart home, energy monitors integrated with other stuff
 
+- [MyEnergi](https://myenergi.uk/about-us/) developing green products for home and business, recently awarded a BEIS contract for domestic DSR [source: the energyst](https://theenergyst.com/domestic-demand-side-response-8-6m-competition-winners-announced/)
 - [Home Connect](https://www.home-connect.com/global/connected-partners/energy_management) is the iot very proprietary platform by Bosch, device management and optimisation with a set of selected partners
 - [Hive](https://www.hivehome.com/) smart home device range, started with thermostat, bought by Centrica / British Gas
 - [Nest](https://nest.com/uk/) notoriously bought by Google, started as thermostat only, progressively expanded to smart home
@@ -142,6 +146,10 @@ Smart home, energy monitors integrated with other stuff
 - [sunpower](https://us.sunpower.com/) (US)
 - [bticino photovoltaic](https://www.bticino.com/products-catalogue/photovoltaic-systems-string-boxes-circuit-breakers-and-fuses/)
 
+### Microgrid
+
+- [S&C](https://www.sandc.com/en/company/what-we-do/) found it hard to place this, hence a new "microgrid" sub-section. They build hardware + software and provide consultancy services for implementation of microgrids, quite big US based
+
 ## Business & Money
 
 Business hubs / accelerators / funds / etc
@@ -153,7 +161,8 @@ Business hubs / accelerators / funds / etc
 - Mayor of London energy efficiency fund (MEEF) [link](https://www.amberinfrastructure.com/our-funds/the-mayor-of-londons-energy-efficiency-fund/about-meef/)
 - [wunder capital](https://www.wundercapital.com/) Investment fund specialised in cleantech
 - [Kleiner Perkins Caufield & Byers](http://www.kleinerperkins.com/) is regarded as one of the prominent VC in cleanTech, albeit going through some troubles, according to [Reuters](https://www.reuters.com/article/us-kleiner-doerr-venture/insight-how-cleantech-tarnished-kleiner-and-vc-star-john-doerr-idUSBRE90F0AD20130116)
-- National grid announced fund [link](https://news.crunchbase.com/news/utility-national-grid-launches-venture-arm-powered-by-250m-fund/)
+- National grid announced 250M fund [link](https://news.crunchbase.com/news/utility-national-grid-launches-venture-arm-powered-by-250m-fund/)
+- [EIT InnoEnergy investment fund](https://investmentround.innoenergy.com/) open fund (no deadline) by [InnoEnergy](http://www.innoenergy.com/about-innoenergy/) for sustainable energy across Europe supported by the European Institute of Innovation and Technology.
 
 ### Accelerators
 
@@ -291,8 +300,10 @@ Bunch of companies trading and distributing energy, having a special focus on su
 
 ## General knowledge
 
+- [Smart Export Guarantee](https://www.solarpowerportal.co.uk/news/beis_unveils_smart_export_guarantee_to_replace_export_tariff) is the new way for small generation to have a feed-in tariff, starting after the old one dies on March 31st 2019.
 - [Low carbon and renewable energy economy, UK: 2017](https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/finalestimates/2017#main-points) Final results from the Low Carbon and Renewable Energy Survey on the low carbon and renewable energy economy, 31.1.19
 - [How AI will affect the future](https://www.brookings.edu/research/how-artificial-intelligence-will-affect-the-future-of-energy-and-climate/) of energy and climate change
+- [machine learning](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/) can boost the value of wind energy, from a Google company
 - the case for static storage: how Tesla big battery in Australia [provided a millisecond response](https://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/) to adjust frequency when a coal plant stopped working
 - AEMO and ARENA [build a 200MW battery](https://www.aemo.com.au/Media-Centre/AEMO-and-ARENA-demand-response-trial-to-provide-200MW-of-emergency-reserves-for-extreme-peaks) for extreme peaks, twice the size of the Tesla big battery
 - IPCC (intergovernmental panel on climate change) report on 1.5C released in early October 2018: [link](http://www.ipcc.ch/report/sr15/) this is the **badass doc** that worked as wake up call for loads of people
