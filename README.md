@@ -6,7 +6,9 @@ This is a list of categorised resources for the sustainable energy sector. Some 
 - We are focusing on electricity data exchange, so most of the resources see the problem from this point of view.
 - Categories have grown organically with content, they don't follow a specific taxonomy and are subject to change.
 
-If you're reading this from Github, this page is available in a [nicer web format here](https://piazza.energy/curated-resource-list/)
+Reading this from Github? this page is available in a [nicer web format here](https://piazza.energy/curated-resource-list/)
+
+Reading this in a single html page? content is versioned and available for changes [on Github](https://github.com/piazza-energy/curated-resource-list)
 
 ## Standards
 
@@ -89,6 +91,7 @@ Smart home, energy monitors integrated with other stuff
 - [Netatmo](https://www.netatmo.com/en-us) smart thermostat, air quality monitor, smoke detector, radiator valves, indoor / outdoor camera
 - [Gridduck](https://gridduck.com/#main) UK based cloud energy management platform with devices developed on top of Develco (see above). Listed for winning 360k in funding for gamification of EV charging in the south-korea collaboration, [link](https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems) founder and CEO is [Gregor](https://www.linkedin.com/in/gregor-hoefter-8bb77/)
 - [Asema](https://iot.asema.com/iotc/) is a smart-energy iot platform with sensors and dashboards, not sure it's on the market already. They also have an [open API](http://www.smart-api.io/)
+- [Innovelec](https://www.innovelec.co.uk/products/) custom design and implementation of IoT solutions mainly in UK
 
 ### Smart Thermostats
 
@@ -124,7 +127,7 @@ Smart home, energy monitors integrated with other stuff
 - [Pivot Power](https://www.pivot-power.co.uk/#) big battery storage projects connected directly to the transmission system.
 - [Blue planet energy](https://blueplanetenergy.com/) Hawaii based storage for residential
 - [Connected Energy]((https://www.c-e-int.com/)), recycling EV batteries but for commercial and industrial
-- [Argonaut Power](https://www.argonautpower.com/) specialising in batteries, ingenious spin-off providing financial service
+- [Reluce](http://reluce.com/#) [li-ion capacitors](https://en.wikipedia.org/wiki/Lithium-ion_capacitor) 120kW to 2.5MW
 - [PowerVault](https://www.powervault.co.uk/) for residential, recycling EV batteries
 - [FIAMM](https://www.fiamm.com/en/europe/) Italian battery company, part of the Hitachi group, historically for vehicles, now shifting towards other markets
 - [PowerFlow](https://www.powerflowenergy.com/)
@@ -156,7 +159,7 @@ Business hubs / accelerators / funds / etc
 
 ## VC & funds
 
-- Bill Gates & Friends $1B Breakthrough Energy fund [t h e s e g u y s](http://www.b-t.energy/coalition/) check the landscape section for ideas. Trickling down to Europe [link](http://europa.eu/rapid/press-release_IP-18-6125_en.htm)
+- Bill Gates & Friends $1B [Breakthrough Energy fund](http://www.b-t.energy/coalition/), check the landscape section for ideas. Part of the money is [trickling down to Europe](http://europa.eu/rapid/press-release_IP-18-6125_en.htm)
 - [EnBW](https://www.env.vc/index-1.html) new ventures 100M fund
 - Mayor of London energy efficiency fund (MEEF) [link](https://www.amberinfrastructure.com/our-funds/the-mayor-of-londons-energy-efficiency-fund/about-meef/)
 - [wunder capital](https://www.wundercapital.com/) Investment fund specialised in cleantech
@@ -182,18 +185,22 @@ Business hubs / accelerators / funds / etc
 These are mainly in the UK, by no means providing extensive global coverage
 
 - [Better Future](https://www.london.gov.uk/what-we-do/environment/better-futures/about-better-futures) EU regional development fund
-- Optimise Prime by NIC / Ofgem [link](https://www.ofgem.gov.uk/publications-and-updates/electricity-nic-2018-submission-ukpn-optimise-prime) data for EV as referenced [link](https://www.wired.co.uk/article/electric-cars-uk-worlds-biggest-trial)
-- [BEIS industrial energy efficiency accelerator](https://www.carbontrust.com/client-services/programmes/industrial-energy-efficiency-accelerator/)  Department of Business, Energy and Industrial Strategy’s £9.2 million fund
-- [gov.uk smart energy](https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems) where references to Power Forward Challenge can be found
-- [gov.uk climate change](https://www.gov.uk/government/news/call-for-new-green-innovations-to-tackle-climate-change) £60M fund announced during [green GB](https://greengb.campaign.gov.uk/) week, mid oct 18. Section "Constructing a Digital Environment" might be of interest, competitions to be published [here](https://www.ukri.org/research/themes-and-programmes/)
-- [gov.uk prospering from energy revolution](https://www.gov.uk/government/news/prospering-from-the-energy-revolution-full-programme-details), competition [closed july 18](https://www.gov.uk/government/news/design-and-trial-smart-energy-systems-apply-for-funding)
-- [gov.uk entry point](https://www.gov.uk/business-finance-support)
-- [gov.uk competitions in energy](https://apply-for-innovation-funding.service.gov.uk/competition/search?keywords=energy)
+- Optimise Prime by NIC / Ofgem [link](https://www.ofgem.gov.uk/publications-and-updates/electricity-nic-2018-submission-ukpn-optimise-prime) data for EV referenced on [Wired](https://www.wired.co.uk/article/electric-cars-uk-worlds-biggest-trial)
+- [BEIS industrial energy efficiency accelerator](https://www.carbontrust.com/client-services/programmes/industrial-energy-efficiency-accelerator/) Department of Business, Energy and Industrial Strategy’s £9.2 million fund
+- [List of Government funding](https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems) for innovation in smart energy systems and technologies with references to Power Forward Challenge, Flex, etc.
+- [Power Forward Challenge](https://impact.canada.ca/en/challenges/power-forward), deadline March 15th 2019
+- [Flex Competition](https://www.gov.uk/government/publications/flexibility-exchange-demonstration-projects-flex-competition) deadline April 18th 2019
+- [Innovate UK Smart Grants](https://apply-for-innovation-funding.service.gov.uk/competition/346/overview) a share of up to £25 million to deliver ambitious or disruptive R&D innovations with significant potential for impact on the UK economy. Deadline 24th July 2019
+- [Gov.UK Call for new green innovations to tackle climate change](https://www.gov.uk/government/news/call-for-new-green-innovations-to-tackle-climate-change) £60M fund announced during [green GB week](https://greengb.campaign.gov.uk/), mid oct 18. Section "Constructing a Digital Environment" might be of interest, competitions to be published [here](https://www.ukri.org/research/themes-and-programmes/)
+- [gov.uk prospering from energy revolution](https://www.gov.uk/government/news/prospering-from-the-energy-revolution-full-programme-details), competition [closed July 2018](https://www.gov.uk/government/news/design-and-trial-smart-energy-systems-apply-for-funding)
+- [BEIS / Gov.uk list](https://www.gov.uk/business-finance-support) of all financing opportunities
+- [gov.uk competitions in energy](https://apply-for-innovation-funding.service.gov.uk/competition/search?keywords=energy) (change keyword to search for related)
 
 ## Companies / Consultancies / Startups / Organisations
 
 these are companies and organisations making a living with the green / sustainable / climate change / etc. business that don't have a specific software or hardware product.
 
+- [Argonaut Power](https://www.argonautpower.com/) specialising in batteries, ingenious spin-off providing financial service
 - [Elli](https://www.elli.eco/en/#mission) is the "Electricity Life" brand owned by VW group, announcing their [intention to become a power supplier](https://www.volkswagen-newsroom.com/en/press-releases/volkswagen-to-become-a-power-supplier-4551)
 - [Bloomberg NEF](https://about.bnef.com/) "new energy finance" is the branch of Bloomberg specialised in consultancies around the energy sector, this was a company founded by [Michael Liebreich](https://twitter.com/MLiebreich) in 2004 and acquired by Bloomberg in 2009
 - [GRESB](https://gresb.com/about/) mh, not sure this is a corp, or an org, their mission is to enhance and protect shareholder value by assessing and empowering sustainability practices in the real asset sector. Providing environmental, social and governance (ESG) performance on assets. (mentioned in Fabriq newsletter)
@@ -224,6 +231,7 @@ these are companies and organisations making a living with the green / sustainab
 
 bit of a bodged together category that wraps initiatives and "no-profit"
 
+- [Green Finance Index](https://www.longfinance.net/programmes/financial-centre-futures/global-green-finance-index/) an initiative sponsored by the MAVA Foundation, and delivered by Finance Watch and Long Finance, that seeks to encourage financial centres to become greener and develop financial services in a way that enables society to live within planetary boundaries.
 - [The European Energy Centre](https://www.euenergycentre.org/) is an Independent Educational Body for the Renewable Energy and Energy Efficiency Sectors. Awards the [Galileo Master Certificate](https://www.euenergycentre.org/energy-qualifications/) energy qualification
 - [The Smart Electric Power Alliance (SEPA)](https://sepapower.org/about/) is a US non-profit organization dedicated to working with electric power stakeholders through the most pressing issues affecting the growth and utilization of smart energy.
 - [IEA](https://www.iea.org/) Founded in 1974, the IEA was initially designed to help countries co-ordinate a collective response to major disruptions in the supply of oil, such as the crisis of 1973/4. While this remains a key aspect of its work, the IEA has evolved and expanded significantly.
@@ -294,9 +302,9 @@ Bunch of companies trading and distributing energy, having a special focus on su
 
 ## Other products
 
-- energy capturing pavement / tiles [Pavegen](http://www.pavegen.com/product)
-- ambient low-energy harvesting [Freevolt](http://www.getfreevolt.com/)
-- monitoring solutions based on an automated analysis of geospatial information. (funded by climate-kic) [Earthcube](https://www.earthcube.eu/)
+- [Pavegen](http://www.pavegen.com/product) energy capturing pavement / tiles
+- [Freevolt](http://www.getfreevolt.com/) ambient low-energy harvesting
+- [Earthcube](https://www.earthcube.eu/) monitoring solutions based on an automated analysis of geospatial information. (funded by climate-kic)
 
 ## General knowledge
 
@@ -320,6 +328,7 @@ Bunch of companies trading and distributing energy, having a special focus on su
 - **energy flows** if you have to impress people using Sankey charts - Lawrence Livermore (world, but mainly updated for US) [link](https://flowcharts.llnl.gov/)
 - BEIS energy trends [link](https://www.gov.uk/government/collections/energy-trends)
 - Electric vehicle footprint [link](https://www.ucsusa.org/clean-vehicles/electric-vehicles/ev-emissions-tool), this is fun. Basically: buy a Prius instead of a Tesla
+- EV footprint [depends on the grid](http://www.cesifo-group.de/ifoHome/presse/Pressemitteilungen/Pressemitteilungen-Archiv/2019/Q2/pm_20190417_sd08-Elektroautos.html) producing the li-ion battery
 - Distributed energy resources and blockchain, Berkeley sudy [link](https://escholarship.org/uc/item/80g5s6df) linked from this article [link](https://blockchainatberkeley.blog/a-new-approach-to-decentralized-energy-5ab2b5460fa0)
 
 ### Business
