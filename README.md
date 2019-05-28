@@ -131,6 +131,7 @@ Smart home, energy monitors integrated with other stuff
 - [PowerVault](https://www.powervault.co.uk/) for residential, recycling EV batteries
 - [FIAMM](https://www.fiamm.com/en/europe/) Italian battery company, part of the Hitachi group, historically for vehicles, now shifting towards other markets
 - [PowerFlow](https://www.powerflowenergy.com/)
+- [Moixa](https://www.moixa.com/) UK’s leading smart battery company, that offers integrated hardware and GridShare™ software, for renewable energy management.
 - [Sonnen](https://sonnen-batterie.com/en-us/start) German company, been recently (Feb 19) bought by Shell [in the news](https://edition.cnn.com/2019/02/15/tech/shell-sonnen-home-batteries/index.html)
 - [Tesla powerwall](https://www.tesla.com/en_GB/powerwall)
 - [landlord energy solutions](http://www.landlordenergysolutions.org/) is a new startup developing batteries and renewable projects at large for landlords, they are probably both product and consultancy, a bit like Spectral (above), founder [Reg Platt](https://www.linkedin.com/in/reg-platt-11a38321/)
@@ -157,7 +158,7 @@ Smart home, energy monitors integrated with other stuff
 
 Business hubs / accelerators / funds / etc
 
-## VC & funds
+### VC & funds
 
 - Bill Gates & Friends $1B [Breakthrough Energy fund](http://www.b-t.energy/coalition/), check the landscape section for ideas. Part of the money is [trickling down to Europe](http://europa.eu/rapid/press-release_IP-18-6125_en.htm)
 - [EnBW](https://www.env.vc/index-1.html) new ventures 100M fund
@@ -195,6 +196,17 @@ These are mainly in the UK, by no means providing extensive global coverage
 - [gov.uk prospering from energy revolution](https://www.gov.uk/government/news/prospering-from-the-energy-revolution-full-programme-details), competition [closed July 2018](https://www.gov.uk/government/news/design-and-trial-smart-energy-systems-apply-for-funding)
 - [BEIS / Gov.uk list](https://www.gov.uk/business-finance-support) of all financing opportunities
 - [gov.uk competitions in energy](https://apply-for-innovation-funding.service.gov.uk/competition/search?keywords=energy) (change keyword to search for related)
+
+### Investment
+
+as in: giving money to fund projects, not receiving money
+
+- [Fundeen](https://www.fundeen.com/en/about-us) is a FinTech platform that allows citizens of Spain to invest in environmentally sustainable projects and receive benefits from their investments.
+- [Triodos](https://www.triodoscrowdfunding.co.uk/investments) opportunities to invest in organisations committed to delivering positive change.
+- [Citizenergy.eu](https://citizenergy.eu/) born out of the motivation to promote the decentralised and democratic financing of a better energy future by supporting sustainable energy crowdfunding platforms and energy cooperatives.
+- [Energy4impact](https://www.energy4impact.org/what-we-do/financing) access to energy in Africa
+- Major crowdfunding platforms [Crowdcube](https://www.crowdcube.com/investments?) and [Startengine](https://www.startengine.com/) have dedicated sections
+- Also worth searching for green banks, like [Connecticut green bank](https://ctgreenbank.com/about-us/)
 
 ## Companies / Consultancies / Startups / Organisations
 
@@ -294,6 +306,7 @@ Bunch of companies trading and distributing energy, having a special focus on su
 
 ## Data sets and APIs
 
+- [EIA](https://www.eia.gov/consumption/commercial/) the US Energy Information Administration has done a comprehensive survey of commercial buildings with their energy consumption
 - [ENERGYDATA.INFO](https://energydata.info/) is an open data platform providing access to datasets and data analytics that are relevant to the energy sector.
 - [Elexon](https://www.elexon.co.uk/) meters data harvesting and comparison, balancing and settlement code (bsc), **lots and lots of data!** They also have an API, check this out [link](https://www.elexon.co.uk/new-balancing-mechanism-reporting-service-bmrs/)
 - Data sets [for the US](https://catalog.data.gov/dataset?tags=energy-consumption#sec-tags) (commercial and residential hourly load profile linked here - [link](https://catalog.data.gov/dataset/commercial-and-residential-hourly-load-profiles-for-all-tmy3-locations-in-the-united-state))
