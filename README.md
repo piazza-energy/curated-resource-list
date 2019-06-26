@@ -38,6 +38,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [GridMarket](https://app.gridmarket.com/) app for microgrid monitoring mentioned by [link](https://microgridknowledge.com/worlds-largest-microgrid-engie-eps/) for their installation in Palau (Micronesia)
 - [Sighten](http://www.sighten.io/) Platform for solar workflow management, from planning, financing, installation, monitoring, support
 - [Gengame](https://www.gengame.co.uk/) mobile-gaming industry tools and techniques to solve utilities' challenges, have recently (start 2019) been awarded [a grant from BEIS](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/783338/BEIS_innovative_domestic_demand-side_response-competition_phase_2.pdf)
+- [Mosaik](https://mosaik.offis.de/) allows you to reuse and combine existing simulation models and simulators to create large-scale Smart Grid scenarios
 
 ### DER / DSR Management Platforms
 
@@ -66,6 +67,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 
 ### Blockchains
 
+- [EnergiMine](https://energimine.com/energimine/about/) blockchain that focuses on making energy procurement smarter, improving efficiency, cost effectiveness and ultimately, mitigating the effects of climate change. In the news [11.6.19](https://theenergyst.com/energi-mine-plans-global-peer-to-peer-energy-exchange/)
 - [Energy Web](https://energyweb.org/) open-source, scalable blockchain platform specifically designed for the energy sector’s regulatory, operational, and market needs. Apparently [used by Siemens](https://cointelegraph.com/news/siemens-joins-blockchain-driven-energy-platform-to-increase-interoperability-in-industry)
 - [Vlux](https://vlux.io/) is the blockchain that powers Verv (see section above)
 - [Power ledger](https://www.powerledger.io/#products) just won (oct 18) the extreme tech challenge XTC
@@ -131,6 +133,7 @@ Smart home, energy monitors integrated with other stuff
 - [PowerVault](https://www.powervault.co.uk/) for residential, recycling EV batteries
 - [FIAMM](https://www.fiamm.com/en/europe/) Italian battery company, part of the Hitachi group, historically for vehicles, now shifting towards other markets
 - [PowerFlow](https://www.powerflowenergy.com/)
+- [Volts battery](https://voltsbattery.com/), Finland based for residential
 - [Moixa](https://www.moixa.com/) UK’s leading smart battery company, that offers integrated hardware and GridShare™ software, for renewable energy management.
 - [Sonnen](https://sonnen-batterie.com/en-us/start) German company, been recently (Feb 19) bought by Shell [in the news](https://edition.cnn.com/2019/02/15/tech/shell-sonnen-home-batteries/index.html)
 - [Tesla powerwall](https://www.tesla.com/en_GB/powerwall)
@@ -232,6 +235,7 @@ these are companies and organisations making a living with the green / sustainab
 - [Digital Engineering](https://digital-engineering-ltd.com/) data analytics services for assets monitoring and forecasting, based in Bristol
 - [Kyos](https://www.kyos.com/) asset management and optimisation, energy market analytics
 - [Inspired Energy](https://inspiredenergy.co.uk/) Manchester based, super big company providing all sorts of professional services for energy distributors, businesses etc.
+- [D2H engineering](http://www.d2hengineering.com/home/) consultancy company in Indianapolis and UK, several projects in energy including a battery model
 
 ### Media
 
