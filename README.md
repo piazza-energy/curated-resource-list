@@ -229,6 +229,7 @@ these are companies and organisations making a living with the green / sustainab
 - [Carbon Delta](https://www.carbon-delta.com/) funded by climate-kic, companies carbon footprint monitoring / environmental fintech
 - Italy based consultancy [Energy way](https://www.energyway.it/energia-ambiente/) my friend Rita Cucchiara in the advisory board
 - [Brixton energy](https://brixtonenergy.co.uk/about-us/) a tiny cooperative installing renewables in south london, I'm sure there's plenty but hey, I'm a Londoner :joy:
+- [CoEnergy](https://www.coenergy.app/) by Andre Pinho who's involved in Brixton energy as well, wants to simplify community energy schemas for both investment and management
 - [Eco Energi](https://www.eco-energi.com/) UK based service provider / consultancy for transition to sustainable, mainly residential
 - [Pexapark](https://www.pexapark.com/team.html) is a Zurich based consultancy specialised in PPA deals
 - [Nispera](http://nispera.com/) renewable portfolio performance monitoring, asset management, weather forecast for power, bespoke solutions
@@ -252,7 +253,6 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [The Smart Electric Power Alliance (SEPA)](https://sepapower.org/about/) is a US non-profit organization dedicated to working with electric power stakeholders through the most pressing issues affecting the growth and utilization of smart energy.
 - [IEA](https://www.iea.org/) Founded in 1974, the IEA was initially designed to help countries co-ordinate a collective response to major disruptions in the supply of oil, such as the crisis of 1973/4. While this remains a key aspect of its work, the IEA has evolved and expanded significantly.
 - [UNFCCC](https://unfccc.int/about-us/about-the-secretariat) United Nations Framework Convention on Climate Change organises the Conference of Parties, organised the [COP24](https://unfccc.int/katowice) event in Katowice, Poland Dec '18
-- [Climate neutral now](https://offset.climateneutralnow.org/) carbon offset platform by United Nations [UNFCCC](https://unfccc.int/)
 - [The climate group](https://www.theclimategroup.org/about) an international non-profit, founded in 2004, with offices in London, New Delhi and New York.
 - [Carbon Trust](https://www.carbontrust.com/home/) an independent, expert partner of leading organisations around the world, helping them contribute to and benefit from a more sustainable future.
 - [CDP](https://www.cdp.net/en) is a not-for-profit charity that runs the global disclosure system for investors, companies, cities, states and regions to manage their environmental impacts
@@ -268,6 +268,15 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Michael Liebreich foundation](http://www.liebreich.com/foundation/) gives small grants for climate & environment projects among other things
 - [Carbon culture](https://platform.carbonculture.net/about/) community platform that is designed to help people use resources more efficiently. Doesn't seem super active.
 - [NIPCC](http://climatechangereconsidered.org/) basically the climate change "negationist", a panel of nongovernment scientists and scholars who have come together to present an assessment of the science and economics of global warming.
+
+### Carbon offset
+
+- [Climate neutral now](https://offset.climateneutralnow.org/) carbon offset platform by United Nations [UNFCCC](https://unfccc.int/)
+- [Project Wren](https://projectwren.com/) [backed by YCombinator](https://techcrunch.com/2019/07/07/y-combinator-backed-project-wren-is-aiming-to-make-carbon-offsets-more-consumer-friendly/), app to fund carbon negative projects
+- [Mossy earth](https://mossy.earth/) tree planting
+- [Choose today](https://chooose.today/) UN-verified CO2-reducing projects in developing countries
+- [Offset earth](https://offset.earth/) funds for tree planting foundations
+- [Trillion trees campaign](https://www.trilliontreecampaign.org/) tree planting
 
 ### Meteo / Power forecast
 
@@ -310,6 +319,7 @@ Bunch of companies trading and distributing energy, having a special focus on su
 
 ## Data sets and APIs
 
+- [Electric Insights](https://electricinsights.co.uk) was established by Drax Group to help inform and enlighten the debate on Britain’s electricity.
 - [EIA](https://www.eia.gov/consumption/commercial/) the US Energy Information Administration has done a comprehensive survey of commercial buildings with their energy consumption
 - [ENERGYDATA.INFO](https://energydata.info/) is an open data platform providing access to datasets and data analytics that are relevant to the energy sector.
 - [Elexon](https://www.elexon.co.uk/) meters data harvesting and comparison, balancing and settlement code (bsc), **lots and lots of data!** They also have an API, check this out [link](https://www.elexon.co.uk/new-balancing-mechanism-reporting-service-bmrs/)
