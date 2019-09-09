@@ -26,6 +26,12 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Mosaik](https://mosaik.offis.de/) allows you to reuse and combine existing simulation models and simulators to create large-scale Smart Grid scenarios
 - [Enervee](https://enervee.com/about/) home appliances marketplace with energy consumption score
 - [Power paired](https://powerpaired.org/faqs) is a platform for asset management for Community Energy Groups
+- [CO2 Analytics](https://www.co2analytics.com/) integrates with Xero to provide carbon footprint Measurement & Management Platform for Small and Midsize Businesses
+- [Openclimatefix](https://openclimatefix.github.io/) is a non-profit research and development lab, totally focused on reducing greenhouse gas emissions as rapidly as possible.
+- [NILMTK](https://github.com/nilmtk/nilmtk) Non-Intrusive Load Monitoring (NILM) is the process of estimating the energy consumed by individual appliances given just a whole-house power meter reading. Initially developed by Jack Kelly, co-founder of Openclimatefix
+- [Tibber](https://international.tibber.com/) discovered that electricity customers found the offerings from traditional electricity utilities boring, expensive and very complex. The platform automates the process of buying electricity from distributors when it's cheaper and organises consumption for efficiency (assumptions based on descriptions found on website)
+-  [Enyday](https://enyday.com/), based in Copenhagen (website in Danish only) wants to become a catalyst for the mass deployment of small renewable energy plants such as solar cells and wind turbines. Basically a platform to share sustainable production in community schemas.
+- [Greenely](https://www.greenely.se/), Swedish only website, app to manage energy consumption
 
 ## DER / DSR Management Platforms
 
@@ -51,6 +57,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [EnergyPlus](https://energyplus.net/) is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption—for heating, cooling, ventilation, lighting and plug and process loads—and water use in buildings. Funded by the U.S. Department of Energy’s (DOE) Building Technologies Office (BTO), and managed by the National Renewable Energy Laboratory (NREL)
 - [Systems Link](https://www.systems-link.com/) is owned by Inspired Energy (see below in the companies section) and is a full energy monitoring platform with support for tenants
 - [Toon](https://www.toon.eu/) dutch platform for residential, recently acquired by [Eneco](https://www.enecogroup.com/) a big energy company providing infrastructure with renewable and batteries. (Toon uses databricks / airflow / spark / aws for computation, [here](https://databricks.com/session/using-apache-spark-in-the-cloud-a-devops-perspective))
+- [Nuuka](https://www.nuukasolutions.com/product) is a Finnish software company that develops and provides Smart Building Management Software to commercial real estate owners.
 
 ## Blockchains
 

@@ -47,7 +47,13 @@ These are mainly in the UK, by no means providing extensive global coverage
 - [BEIS / Gov.uk list](https://www.gov.uk/business-finance-support) of all financing opportunities
 - [gov.uk competitions in energy](https://apply-for-innovation-funding.service.gov.uk/competition/search?keywords=energy) (change keyword to search for related)
 
-## Investment
+## Startup competitions and events
+
+- [Norrsken Impact](https://norrskenimpactweek.org/the-impact-100/) the biggest prize for impact startups in the Nordics
+- [Slush](https://www.slush.org/)
+- [Singapore Slingshot](https://www.startupsg.net/events/slingshot/2019)
+
+## Investments
 
 as in: giving money to fund projects, not receiving money
 
@@ -57,3 +63,6 @@ as in: giving money to fund projects, not receiving money
 - [Energy4impact](https://www.energy4impact.org/what-we-do/financing) access to energy in Africa
 - Major crowdfunding platforms [Crowdcube](https://www.crowdcube.com/investments?) and [Startengine](https://www.startengine.com/) have dedicated sections
 - Also worth searching for green banks, like [Connecticut green bank](https://ctgreenbank.com/about-us/)
+- [Project Wren](https://projectwren.com/) [backed by YCombinator](https://techcrunch.com/2019/07/07/y-combinator-backed-project-wren-is-aiming-to-make-carbon-offsets-more-consumer-friendly/), app to fund carbon negative projects
+- [Trine](https://trine.com/), Sweden based, makes it easy for people to invest in solar energy in growing markets. Their mission is to give people a triple return on investment
+- [Switchr](https://switchr.global/en/about-us) business model is to buy and optimize solar-plants with strict investment criteria where they see the greatest potential for increased performance.

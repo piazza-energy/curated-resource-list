@@ -68,7 +68,6 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 ## Carbon offset
 
 - [Climate neutral now](https://offset.climateneutralnow.org/) carbon offset platform by United Nations [UNFCCC](https://unfccc.int/)
-- [Project Wren](https://projectwren.com/) [backed by YCombinator](https://techcrunch.com/2019/07/07/y-combinator-backed-project-wren-is-aiming-to-make-carbon-offsets-more-consumer-friendly/), app to fund carbon negative projects
 - [Mossy earth](https://mossy.earth/) tree planting
 - [Choose today](https://chooose.today/) UN-verified CO2-reducing projects in developing countries
 - [Offset earth](https://offset.earth/) funds for tree planting foundations
