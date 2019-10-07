@@ -20,6 +20,7 @@ layout: default
 - Electricity System Operator UK [national grid eso](https://www.nationalgrideso.com/insights) another website full of content, innovation, fundings, etc. mainly from the TSO point of view
 - An algorithm for [electrical grid mapping](https://code.fb.com/connectivity/electrical-grid-mapping/) by Facebook based on image analysis and a modified Dijkstra algorithm
 - [Data Communication Company](https://www.smartdcc.co.uk/about/) has built and maintained the secure national infrastructure that underpins the roll-out of smart meters across Great Britain.
+- [a very close look at carbon capture](https://spectrum.ieee.org/energywise/energy/environment/a-very-close-look-at-carbon-capture-and-storage), new materials that could make it very efficient and feasible
 
 ## Energy consumption
 
@@ -28,7 +29,7 @@ layout: default
 - BEIS energy trends [link](https://www.gov.uk/government/collections/energy-trends)
 - Electric vehicle footprint [link](https://www.ucsusa.org/clean-vehicles/electric-vehicles/ev-emissions-tool), this is fun. Basically: buy a Prius instead of a Tesla
 - EV footprint [depends on the grid](http://www.cesifo-group.de/ifoHome/presse/Pressemitteilungen/Pressemitteilungen-Archiv/2019/Q2/pm_20190417_sd08-Elektroautos.html) producing the li-ion battery
-- Distributed energy resources and blockchain, Berkeley sudy [link](https://escholarship.org/uc/item/80g5s6df) linked from this article [link](https://blockchainatberkeley.blog/a-new-approach-to-decentralized-energy-5ab2b5460fa0)
+- Distributed energy resources and blockchain, [Berkeley study](https://escholarship.org/uc/item/80g5s6df) linked from [this article](https://blockchainatberkeley.blog/a-new-approach-to-decentralized-energy-5ab2b5460fa0)
 
 ### Business
 
@@ -51,5 +52,7 @@ layout: default
 - new [fluoride-ion battery](https://www.slashgear.com/honda-reveals-fluoride-battery-breakthrough-for-next-gen-power-storage-06557121/) tech from honda / jpl / caltech
 - solar panel efficency [1](https://www.thetimes.co.uk/article/desert-sun-in-qatar-too-hot-for-solar-panels-to-work-h23kmktbp) [2](https://greentumble.com/effect-of-temperature-on-solar-panel-efficiency/)
 - Warming from wind [link](https://www.technologyreview.com/s/612238/wide-scale-us-wind-power-could-cause-significant-warming/)
-- Impact in climate change (loads of references) [world economic forum](https://www.weforum.org/agenda/2018/06/how-to-talk-about-climate-change-5-tips-from-the-front-lines) and  [good ol' Yates](https://www.quora.com/What-do-you-think-is-the-single-most-impactful-thing-an-individual-can-do-to-combat-climate-change/answer/Yates-Buckley)
+- Impact in climate change (loads of references) [world economic forum](https://www.weforum.org/agenda/2018/06/how-to-talk-about-climate-change-5-tips-from-the-front-lines) and [good ol' Yates](https://www.quora.com/What-do-you-think-is-the-single-most-impactful-thing-an-individual-can-do-to-combat-climate-change/answer/Yates-Buckley)
 - Sustainable energy without the hot air (book, pdf) [link](http://www.withouthotair.com/download.html)
+- a [good post on medium](https://medium.com/the-mission/what-size-of-a-solar-system-do-you-need-and-how-to-pay-or-it-e59b70917502) detailing solar efficiency and costs
+- Siemens + BEIS partnership to finance net zero infrastructure - [link](https://theenergyst.com/siemens-local-councils-beis-fund-net-zero/)

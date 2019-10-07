@@ -66,3 +66,4 @@ as in: giving money to fund projects, not receiving money
 - [Project Wren](https://projectwren.com/) [backed by YCombinator](https://techcrunch.com/2019/07/07/y-combinator-backed-project-wren-is-aiming-to-make-carbon-offsets-more-consumer-friendly/), app to fund carbon negative projects
 - [Trine](https://trine.com/), Sweden based, makes it easy for people to invest in solar energy in growing markets. Their mission is to give people a triple return on investment
 - [Switchr](https://switchr.global/en/about-us) business model is to buy and optimize solar-plants with strict investment criteria where they see the greatest potential for increased performance.
+- [Abundance Investment](https://www.abundanceinvestment.com/) creating ways for everyone to invest in green and social infrastructure
