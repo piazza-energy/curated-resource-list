@@ -15,9 +15,9 @@ it has been organised in the following sections:
 - [business](./business.html): VCs, funds, accelerators, public funding, investments, etc.
 - [companies](./companies.html): consultancies, organisations, media, activism, carbon offset, meteo forecast, market compare, energy, etc.
 - [hardware](./hardware.html): IoT, thermostats, energy monitors, sensors, electrical storage, photovoltaic, microgrid, etc.
-- [knowledge](./knowledge.html): general information, energy consumption, technologies, business, etc.
+- [knowledge](./knowledge.html): general information, energy consumption, technologies, business, data sets, etc.
 - [questions](./q.html) for a path to decarbonisation
 - [software](./software.html): DSR management, building performance and monitoring, blockchains, AI and management solutions, etc.
-- [standards](./standards.html): certifications, regulations, data sets, etc.
+- [standards](./standards.html): certifications, regulations, etc.
 
 If you are reading this on a website, this content is versioned and available for changes [on Github](https://github.com/piazza-energy/curated-resource-list)

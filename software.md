@@ -32,7 +32,9 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Tibber](https://international.tibber.com/) discovered that electricity customers found the offerings from traditional electricity utilities boring, expensive and very complex. The platform automates the process of buying electricity from distributors when it's cheaper and organises consumption for efficiency (assumptions based on descriptions found on website)
 -  [Enyday](https://enyday.com/), based in Copenhagen (website in Danish only) wants to become a catalyst for the mass deployment of small renewable energy plants such as solar cells and wind turbines. Basically a platform to share sustainable production in community schemas.
 - [Greenely](https://www.greenely.se/), Swedish only website, app to manage energy consumption
-- [OnSSET](http://www.onsset.org/about.html) open source software platform for the assessment and deployment of conventional and renewable energy technologies based on spatial data describing population density and distribution, proximity to transmission and road network, nighttime lights. Aiming at ensuring access to affordable, reliable, sustainable and modern energy for all. 
+- [OnSSET](http://www.onsset.org/about.html) open source software platform for the assessment and deployment of conventional and renewable energy technologies based on spatial data describing population density and distribution, proximity to transmission and road network, nighttime lights. Aiming at ensuring access to affordable, reliable, sustainable and modern energy for all.
+- [NETfficient](http://netfficient-project.eu/) ran from January 2015 to December 2018. It has deployed and demonstrated local energy storage technologies and developed smart technologies to exploit the synergies between energy storage, the smart grid and the citizens. Entails both hybrid hardware and software solutions
+- [OpenMUC](https://www.openmuc.org/openmuc/) is a software framework based on Java and OSGi that simplifies the development of customized monitoring, logging and control systems.
 
 ## DER / DSR Management Platforms
 

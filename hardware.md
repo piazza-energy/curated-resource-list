@@ -6,7 +6,7 @@ layout: default
 
 [back to the index](./)
 
-## IoT & Smart home
+## IoT & Smart buildings
 
 Smart home, energy monitors integrated with other stuff
 
@@ -20,6 +20,8 @@ Smart home, energy monitors integrated with other stuff
 - [Gridduck](https://gridduck.com/#main) UK based cloud energy management platform with devices developed on top of Develco (see above). Listed for winning 360k in funding for gamification of EV charging in the south-korea collaboration, [link](https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems) founder and CEO is [Gregor](https://www.linkedin.com/in/gregor-hoefter-8bb77/)
 - [Asema](https://iot.asema.com/iotc/) is a smart-energy iot platform with sensors and dashboards, not sure it's on the market already. They also have an [open API](http://www.smart-api.io/)
 - [Innovelec](https://www.innovelec.co.uk/products/) custom design and implementation of IoT solutions mainly in UK
+- [Tridium](https://www.tridium.com/) owned by Honeywell International deleoping IoT for business applications, creators of the Niagara framework that also has a [marketplace](https://www.niagaramarketplace.com/marketplace_home)
+-  [Syscom](https://syscombms.com/about/) is a Centrica company that creates tailored and custom-made solutions in the engineering, software, commissioning and maintenance of Building Energy Management Systems. Manufacturer of a [wireless meter](https://syscombms.com/wireless-metering/)
 
 ## Smart Thermostats
 

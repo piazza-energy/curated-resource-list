@@ -67,3 +67,4 @@ as in: giving money to fund projects, not receiving money
 - [Trine](https://trine.com/), Sweden based, makes it easy for people to invest in solar energy in growing markets. Their mission is to give people a triple return on investment
 - [Switchr](https://switchr.global/en/about-us) business model is to buy and optimize solar-plants with strict investment criteria where they see the greatest potential for increased performance.
 - [Abundance Investment](https://www.abundanceinvestment.com/) creating ways for everyone to invest in green and social infrastructure
+- [Goclimateneutral](https://www.goclimateneutral.org/our_projects) invests in carbon negative projects by taking recurring payments from donors

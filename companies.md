@@ -72,6 +72,7 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Choose today](https://chooose.today/) UN-verified CO2-reducing projects in developing countries
 - [Offset earth](https://offset.earth/) funds for tree planting foundations
 - [Trillion trees campaign](https://www.trilliontreecampaign.org/) tree planting
+- [Atmosfair](https://www.atmosfair.de/en/offset/) a non-profit climate protection organisation with a focus on travel. We actively protect the climate by compensating greenhouse gases through the use of renewable energies, among other activities.
 
 ## Meteo / Power forecast
 
