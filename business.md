@@ -17,6 +17,11 @@ Business hubs / accelerators / funds / etc
 - [Kleiner Perkins Caufield & Byers](http://www.kleinerperkins.com/) is regarded as one of the prominent VC in cleanTech, albeit going through some troubles, according to [Reuters](https://www.reuters.com/article/us-kleiner-doerr-venture/insight-how-cleantech-tarnished-kleiner-and-vc-star-john-doerr-idUSBRE90F0AD20130116)
 - National grid announced 250M fund [link](https://news.crunchbase.com/news/utility-national-grid-launches-venture-arm-powered-by-250m-fund/)
 - [EIT InnoEnergy investment fund](https://investmentround.innoenergy.com/) open fund (no deadline) by [InnoEnergy](http://www.innoenergy.com/about-innoenergy/) for sustainable energy across Europe supported by the European Institute of Innovation and Technology.
+- [BP Ventures](https://www.bp.com/en/global/bp-ventures/about.html) setup in 2009 to identify and invest in private, high growth, game-changing technology companies, accelerating innovation across the entire energy spectrum
+- [national grid partners](https://ngpartners.com/portfolio/) is the utility industry’s first Silicon Valley-based VC & innovation firm. NGP invests in the potential of energy with a provocative vision to define a smarter and more renewable energy future.
+- [Energy Impact partners](https://www.energyimpactpartners.com/investments/equity/) invest in companies shaping the energy landscape of the future
+- [Shell Ventures](https://www.shell.com/energy-and-innovation/new-energies/shell-ventures.html) targets startups and Small & Medium Enterprises (SMEs) from their early stages to their scale and growth phases. It makes minority investments that help to develop new technologies or disruptive business models in areas of strategic interest to Shell’s businesses.
+- [Clean Energy Venture Group](https://cevg.com/) is an investment group with offices in Boston and New York which provides seed capital and management expertise to early stage clean energy companies. [In the news](https://news.crunchbase.com/news/bostons-clean-energy-ventures-raises-110m-for-its-first-fund/) Boston’s Clean Energy Ventures (CEV) has closed its first fund for $110 million.
 
 ## Accelerators
 
@@ -46,12 +51,14 @@ These are mainly in the UK, by no means providing extensive global coverage
 - [gov.uk prospering from energy revolution](https://www.gov.uk/government/news/prospering-from-the-energy-revolution-full-programme-details), competition [closed July 2018](https://www.gov.uk/government/news/design-and-trial-smart-energy-systems-apply-for-funding)
 - [BEIS / Gov.uk list](https://www.gov.uk/business-finance-support) of all financing opportunities
 - [gov.uk competitions in energy](https://apply-for-innovation-funding.service.gov.uk/competition/search?keywords=energy) (change keyword to search for related)
+- [SBRI](https://apply-for-innovation-funding.service.gov.uk/competition/491/overview): modernising energy data access and information, phase 1
 
 ## Startup competitions and events
 
 - [Norrsken Impact](https://norrskenimpactweek.org/the-impact-100/) the biggest prize for impact startups in the Nordics
 - [Slush](https://www.slush.org/)
 - [Singapore Slingshot](https://www.startupsg.net/events/slingshot/2019)
+- [New energy challenge](https://newenergychallenge.com/program/)
 
 ## Investments
 

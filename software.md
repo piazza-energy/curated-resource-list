@@ -35,6 +35,9 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [OnSSET](http://www.onsset.org/about.html) open source software platform for the assessment and deployment of conventional and renewable energy technologies based on spatial data describing population density and distribution, proximity to transmission and road network, nighttime lights. Aiming at ensuring access to affordable, reliable, sustainable and modern energy for all.
 - [NETfficient](http://netfficient-project.eu/) ran from January 2015 to December 2018. It has deployed and demonstrated local energy storage technologies and developed smart technologies to exploit the synergies between energy storage, the smart grid and the citizens. Entails both hybrid hardware and software solutions
 - [OpenMUC](https://www.openmuc.org/openmuc/) is a software framework based on Java and OSGi that simplifies the development of customized monitoring, logging and control systems.
+- [carbon footprint calculator](https://github.com/protea-earth/carbon_footprint) Built by Protea, a social network community to reduce your effect on the climate.
+- [Tomorrow app](https://www.tmrow.com/) automatically calculates your carbon footprint by connecting to other services and apps in your life, here's the [open source models](https://github.com/tmrowco/tmrowapp-contrib)
+- [eSmart Systems](https://www.esmartsystems.com/) - backed by energy impact partners - builds and delivers the next generation software solutions for inspections of powerlines, grid maintenance planning and energy flexibility optimization.
 
 ## DER / DSR Management Platforms
 
@@ -61,6 +64,9 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Systems Link](https://www.systems-link.com/) is owned by Inspired Energy (see below in the companies section) and is a full energy monitoring platform with support for tenants
 - [Toon](https://www.toon.eu/) dutch platform for residential, recently acquired by [Eneco](https://www.enecogroup.com/) a big energy company providing infrastructure with renewable and batteries. (Toon uses databricks / airflow / spark / aws for computation, [here](https://databricks.com/session/using-apache-spark-in-the-cloud-a-devops-perspective))
 - [Nuuka](https://www.nuukasolutions.com/product) is a Finnish software company that develops and provides Smart Building Management Software to commercial real estate owners.
+- [Grid edge](https://www.gridedge.co.uk/) is an energy analytics platform for commercial buildings. They want to change the way that people use energy by putting data-driven, intelligent control into the hands of commercial energy consumers. Has [raised 2.5M in Oct 19](https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-expands-its-digital-energy-portfolio-by-investing-in-energy-management-platform-grid-edge.html) from BP Ventures
+- [Intelligent Communities Lifecycle (ICL)](https://www.iesve.com/icl) is a digital twin & simulation software to assess energy consumption and optimisation for aggregation of buildings in communities, developed by Integrated Environmental Solutions (IES)
+- [EC3](https://buildingtransparency.org/) is a free, industry-supported, construction-specific material search and planning tool that helps construction professionals quantify EC, find high-impact reductions, and guide procurement to reduce embodied carbon.
 
 ## Blockchains
 

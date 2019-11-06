@@ -2,11 +2,26 @@
 layout: default
 ---
 
+## Data sets and APIs
+
+- [Electric Insights](https://electricinsights.co.uk) was established by Drax Group to help inform and enlighten the debate on Britain’s electricity.
+- [EIA](https://www.eia.gov/consumption/commercial/) the US Energy Information Administration has done a comprehensive survey of commercial buildings with their energy consumption
+- [ENERGYDATA.INFO](https://energydata.info/) is an open data platform providing access to datasets and data analytics that are relevant to the energy sector.
+- [Elexon](https://www.elexon.co.uk/) meters data harvesting and comparison, balancing and settlement code (BSC), **lots and lots of data!** They also have an API, check this out [link](https://www.elexon.co.uk/new-balancing-mechanism-reporting-service-bmrs/)
+- Data sets [for the US](https://catalog.data.gov/dataset?tags=energy-consumption#sec-tags) (commercial and residential hourly load profile linked here - [link](https://catalog.data.gov/dataset/commercial-and-residential-hourly-load-profiles-for-all-tmy3-locations-in-the-united-state))
+- energy consumption UK data set [link](https://data.gov.uk/dataset/26afb14b-be9a-4722-916e-10655d0edc38/energy-consumption-in-the-uk)
+- [5.5k households smart meter](https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households) half hour readings between nov 11 and feb 14
+- [UK-DALE](http://jack-kelly.com/data/) domestic appliance-level electricity demand and whole-house demand from five UK homes. [paper](https://www.nature.com/articles/sdata20157)
+- [REDD](http://redd.csail.mit.edu/): The Reference Energy Disaggregation Data Set at MIT. Paper: A public data set for energy disaggregation research. In proceedings of the SustKDD workshop on Data Mining Applications in Sustainability, 2011. [PDF](http://redd.csail.mit.edu/kolter-kddsust11.pdf)
+- [DRED](http://www.st.ewi.tudelft.nl/akshay/dred/) (Dutch Residential Energy Dataset) is the first open-access, publicly available dataset from The Netherlands. The data set live deployment consists of several sensors measuring electricity, occupants occupancy and ambient parameters in a household.
+- [Solar Panel Energy Generation](https://data.london.gov.uk/dataset/photovoltaic--pv--solar-panel-energy-generation-data) dataset contains voltage, current, power, energy, and weather data from low-voltage substations and domestic premises with high uptake of solar photovoltaic (PV) embedded generation.
+- Open [datasets](https://github.com/thegreenwebfoundation/datasets/) & methodologies for carbon emissions from different activities. Forked from [OpenAMEE](https://www.amee.com/company), and npm installable
+
 # General knowledge
 
 [back to the index](./)
 
-- [Smart Export Guarantee](https://www.solarpowerportal.co.uk/news/beis_unveils_smart_export_guarantee_to_replace_export_tariff) is the new way for small generation to have a feed-in tariff, starting after the old one dies on March 31st 2019.
+- [SEG - Smart Export Guarantee](https://www.solarpowerportal.co.uk/news/beis_unveils_smart_export_guarantee_to_replace_export_tariff) is the new way for small generation to have a feed-in tariff, starting after the old one dies on March 31st 2019. Some useful notes from [the Energyst](https://theenergyst.com/smart-export-guarantee-neither-smart-nor-much-of-a-guarantee/)
 - [Low carbon and renewable energy economy, UK: 2017](https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/finalestimates/2017#main-points) Final results from the Low Carbon and Renewable Energy Survey on the low carbon and renewable energy economy, 31.1.19
 - [How AI will affect the future](https://www.brookings.edu/research/how-artificial-intelligence-will-affect-the-future-of-energy-and-climate/) of energy and climate change
 - [machine learning](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/) can boost the value of wind energy, from a Google company
@@ -14,7 +29,7 @@ layout: default
 - AEMO and ARENA [build a 200MW battery](https://www.aemo.com.au/Media-Centre/AEMO-and-ARENA-demand-response-trial-to-provide-200MW-of-emergency-reserves-for-extreme-peaks) for extreme peaks, twice the size of the Tesla big battery
 - IPCC (intergovernmental panel on climate change) report on 1.5C released in early October 2018: [link](http://www.ipcc.ch/report/sr15/) this is the **badass doc** that worked as wake up call for loads of people
 - [NASA](https://climate.nasa.gov/) I love you :heart:
-- Current status of nuclear fusion (sept 18) [link](https://qz.com/1402282/in-search-of-clean-energy-investments-in-nuclear-fusion-startups-are-heating-up/)
+- Status of nuclear fusion in Sept 18 [link](https://qz.com/1402282/in-search-of-clean-energy-investments-in-nuclear-fusion-startups-are-heating-up/)
 - List of API energy related [link](https://www.programmableweb.com/category/energy/api)
 - **Pandora’s box!** So much content here, loads of innovation projects and reports in a single place [link](http://innovation.ukpowernetworks.co.uk/innovation/en/) very interesting sections: low carbon London and smarter network storage in the large scale projects section
 - Electricity System Operator UK [national grid eso](https://www.nationalgrideso.com/insights) another website full of content, innovation, fundings, etc. mainly from the TSO point of view
@@ -57,17 +72,4 @@ layout: default
 - Sustainable energy without the hot air (book, pdf) [link](http://www.withouthotair.com/download.html)
 - a [good post on medium](https://medium.com/the-mission/what-size-of-a-solar-system-do-you-need-and-how-to-pay-or-it-e59b70917502) detailing solar efficiency and costs
 - Siemens + BEIS partnership to finance net zero infrastructure - [link](https://theenergyst.com/siemens-local-councils-beis-fund-net-zero/)
-
-## Data sets and APIs
-
-- [Electric Insights](https://electricinsights.co.uk) was established by Drax Group to help inform and enlighten the debate on Britain’s electricity.
-- [EIA](https://www.eia.gov/consumption/commercial/) the US Energy Information Administration has done a comprehensive survey of commercial buildings with their energy consumption
-- [ENERGYDATA.INFO](https://energydata.info/) is an open data platform providing access to datasets and data analytics that are relevant to the energy sector.
-- [Elexon](https://www.elexon.co.uk/) meters data harvesting and comparison, balancing and settlement code (BSC), **lots and lots of data!** They also have an API, check this out [link](https://www.elexon.co.uk/new-balancing-mechanism-reporting-service-bmrs/)
-- Data sets [for the US](https://catalog.data.gov/dataset?tags=energy-consumption#sec-tags) (commercial and residential hourly load profile linked here - [link](https://catalog.data.gov/dataset/commercial-and-residential-hourly-load-profiles-for-all-tmy3-locations-in-the-united-state))
-- energy consumption UK data set [link](https://data.gov.uk/dataset/26afb14b-be9a-4722-916e-10655d0edc38/energy-consumption-in-the-uk)
-- [5.5k households smart meter](https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households) half hour readings between nov 11 and feb 14
-- [UK-DALE](http://jack-kelly.com/data/) domestic appliance-level electricity demand and whole-house demand from five UK homes. [paper](https://www.nature.com/articles/sdata20157)
-- [REDD](http://redd.csail.mit.edu/): The Reference Energy Disaggregation Data Set at MIT. Paper: A public data set for energy disaggregation research. In proceedings of the SustKDD workshop on Data Mining Applications in Sustainability, 2011. [PDF](http://redd.csail.mit.edu/kolter-kddsust11.pdf)
-- [DRED](http://www.st.ewi.tudelft.nl/akshay/dred/) (Dutch Residential Energy Dataset) is the first open-access, publicly available dataset from The Netherlands. The data set live deployment consists of several sensors measuring electricity, occupants occupancy and ambient parameters in a household.
-- [Solar Panel Energy Generation](https://data.london.gov.uk/dataset/photovoltaic--pv--solar-panel-energy-generation-data) dataset contains voltage, current, power, energy, and weather data from low-voltage substations and domestic premises with high uptake of solar photovoltaic (PV) embedded generation.
+- technical knowledge on [nuclear](https://whatisnuclear.com/), with simple explanations

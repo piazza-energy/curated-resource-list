@@ -8,9 +8,7 @@ layout: default
 
 these are companies and organisations making a living with the green / sustainable / climate change / etc. business that don't have a specific software or hardware product.
 
-- [Argonaut Power](https://www.argonautpower.com/) specialising in batteries, ingenious spin-off providing financial service
 - [Elli](https://www.elli.eco/en/#mission) is the "Electricity Life" brand owned by VW group, announcing their [intention to become a power supplier](https://www.volkswagen-newsroom.com/en/press-releases/volkswagen-to-become-a-power-supplier-4551)
-- [Bloomberg NEF](https://about.bnef.com/) "new energy finance" is the branch of Bloomberg specialised in consultancies around the energy sector, this was a company founded by [Michael Liebreich](https://twitter.com/MLiebreich) in 2004 and acquired by Bloomberg in 2009
 - [GRESB](https://gresb.com/about/) mh, not sure this is a corp, or an org, their mission is to enhance and protect shareholder value by assessing and empowering sustainability practices in the real asset sector. Providing environmental, social and governance (ESG) performance on assets. (mentioned in Fabriq newsletter)
 - [Metabolic](https://www.metabolic.nl/) did the Smart Integrated Decentralised Energy (SIDE) systems research published by [world economic forum](https://www.weforum.org/agenda/2018/09/these-dutch-microgrid-communities-can-supply-90-of-their-energy-needs/)
 - [Spectral](https://spectral.energy/projects/) a metabolic spin-off (nice domain), worth watching what they do [link on Youtube](https://www.youtube.com/watch?v=jB3hMVYXSKk) they should also have an energy monitoring platform a bit like Fabriq but not sure it’s PaaS
@@ -20,7 +18,7 @@ these are companies and organisations making a living with the green / sustainab
 - [Energy Market Price](https://www.energymarketprice.com/) software and bespoke solutions for industrial / consultants / suppliers who need to track energy price (e.g. a dashboard for EDF)
 - [Engadged Tracking](https://www.engagedtracking.com/) a new approach to sustainable and ESG investing, ranking the world’s largest listed companies according to their Scope 1, 2 and 3 greenhouse gas emissions each year.
 - [Carbon Delta](https://www.carbon-delta.com/) funded by climate-kic, companies carbon footprint monitoring / environmental fintech
-- Italy based consultancy [Energy way](https://www.energyway.it/energia-ambiente/) my friend Rita Cucchiara in the advisory board
+- [Energy way](https://www.energyway.it/energia-ambiente/) is an Italy based consultancy, my friend Rita Cucchiara in the advisory board
 - [Brixton energy](https://brixtonenergy.co.uk/about-us/) a tiny cooperative installing renewables in south london, I'm sure there's plenty but hey, I'm a Londoner :joy:
 - [CoEnergy](https://www.coenergy.app/) by Andre Pinho who's involved in Brixton energy as well, wants to simplify community energy schemas for both investment and management
 - [Repowering London](https://www.repowering.org.uk/about-us/) is a not-for-profit organisation that specialises in facilitating the co-production of community-owned renewable energy projects. Affiliated with CoEnergy.
@@ -32,9 +30,19 @@ these are companies and organisations making a living with the green / sustainab
 - [Inspired Energy](https://inspiredenergy.co.uk/) Manchester based, super big company providing all sorts of professional services for energy distributors, businesses etc.
 - [D2H engineering](http://www.d2hengineering.com/home/) consultancy company in Indianapolis and UK, several projects in energy including a battery model
 - [Climate.Careers](https://www.climate.careers/jobs) - job board: a social enterprise that exists to help people align their careers with solving climate change
+- [Carbon Smart](https://www.carbonsmart.co.uk/) help businesses take the sustainability steps that make sense to them
+- [Carbon limiting technologies](https://www.carbonlimitingtechnologies.com)
+- [Landlord energy solutions](http://www.landlordenergysolutions.org/) is a startup developing batteries and renewable projects for landlords, they are probably both product and consultancy, a bit like Spectral (above), founder [Reg Platt](https://www.linkedin.com/in/reg-platt-11a38321/)
+- [Open Grid Systems Ltd.](https://www.opengrid.com/content/) is a software and consultancy company providing services to the electrical power industry focussed on model-driven software engineering, open standards and cutting-edge technologies.
+- [EnergySage](https://www.energysage.com/about/who-we-are) is on a mission to make going solar as easy as booking a flight online. Funded by Clean energy ventures (see business section)
+
+## Certification
+
+- [Energy Managers Association](https://www.theema.org.uk/) aims to: Improve the standing of the Energy Management profession and those working within it, Establish best-practice in Energy Management, Put Energy Management at the heart of British business
 
 ## Media
 
+- [Bloomberg NEF](https://about.bnef.com/) "new energy finance" is the branch of Bloomberg specialised in consultancies around the energy sector, this was a company founded by [Michael Liebreich](https://twitter.com/MLiebreich) in 2004 and acquired by Bloomberg in 2009
 - [Business green](https://www.businessgreen.com/) uk based media and events in the cleantech world
 - [The Energyst](https://theenergyst.com/) magazine featuring latest energy technology and strategies along with articles on legislative and policy changes.
 - [Greenbiz](https://www.greenbiz.com/about-us) Media company interesting article about long-term sustainability of solar panel recycling
@@ -64,6 +72,12 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Carbon culture](https://platform.carbonculture.net/about/) community platform that is designed to help people use resources more efficiently. Doesn't seem super active.
 - [NIPCC](http://climatechangereconsidered.org/) basically the climate change "negationist", a panel of nongovernment scientists and scholars who have come together to present an assessment of the science and economics of global warming.
 - [350](https://350.org/) is an international movement of ordinary people working to end the age of fossil fuels and build a world of community-led renewable energy for all.
+
+## Community energy
+
+- [Community Energy England (CEE)](https://communityenergyengland.org/pages/who-we-are) is a not for profit organisation that represents and supports those committed to the community energy sector. They run a [hub](http://hub.communityenergyengland.org/) with a list of supported projects
+- [Wolverton Community Energy](http://wolvertoncommunityenergy.uk/) are a registered society, owned and run by members. Working with individuals and businesses in Wolverton and the wider Milton Keynes area to help them become more energy efficient
+- [CfR](http://www.cfrcic.co.uk/) is an asset locked community interest company (CIC). Surplus profit is re-invested in supporting further community energy initiatives. CfR is an active member of Community Energy England and Regen.
 
 ## Carbon offset
 
@@ -109,10 +123,3 @@ Bunch of companies trading and distributing energy, having a special focus on su
 - [Pavegen](http://www.pavegen.com/product) energy capturing pavement / tiles
 - [Freevolt](http://www.getfreevolt.com/) ambient low-energy harvesting
 - [Earthcube](https://www.earthcube.eu/) monitoring solutions based on an automated analysis of geospatial information. (funded by climate-kic)
-
-## Unclassified
-
-not sure if these links even belong to this document, found things while following line of thoughts that eventually landed to something loosely related
-
-- [Domotz](https://www.domotz.com/) remote network monitor & mgmt
-- [Smartgreenshop](https://smartgreenshop.co.uk/) marketplace with (too) broad range of goods, e.g. from energy monitors to eco laundry liquid

@@ -22,12 +22,14 @@ Smart home, energy monitors integrated with other stuff
 - [Innovelec](https://www.innovelec.co.uk/products/) custom design and implementation of IoT solutions mainly in UK
 - [Tridium](https://www.tridium.com/) owned by Honeywell International deleoping IoT for business applications, creators of the Niagara framework that also has a [marketplace](https://www.niagaramarketplace.com/marketplace_home)
 -  [Syscom](https://syscombms.com/about/) is a Centrica company that creates tailored and custom-made solutions in the engineering, software, commissioning and maintenance of Building Energy Management Systems. Manufacturer of a [wireless meter](https://syscombms.com/wireless-metering/)
+- [Control 4](https://www.control4.com/) is one of the leading home automation systems with plenty of upscale different devices. Quite new to energy efficiency though, worth [a check](https://www.control4.com/blog/456/energyefficient-home-controls-lighting-and-solar-with-a-hightech-twist)
+- [75f](https://www.75f.io/about) is a IoT smart HVAC solution makes commercial buildings more comfortable and energy efficient. Funded by [breakthrough energy ventures](https://www.gatesnotes.com/Energy/Buildings-are-good-for-people-and-bad-for-the-climate)
 
 ## Smart Thermostats
 
 - [Switchee](http://switchee.co/)
 - [Tado](https://www.tado.com/) Germany rising, mentioned in the Reuters article (see below)
-- [Ecobee](https://www.ecobee.com/) canada based, with v. interesting “donate your data” program
+- [Ecobee](https://www.ecobee.com/) canada based, with v. interesting “donate your data” program, backed by [energy impact partners](https://www.energyimpactpartners.com/)
 
 ## Energy monitors / controllers
 
@@ -53,21 +55,22 @@ Smart home, energy monitors integrated with other stuff
 
 ## Batteries / static storage
 
-- [ecamion](https://www.ecamion.com/company/)  was founded on the principle of providing green energy to support the future needs of a growing population and offering new solutions for Utilities, Automotive, Mining, Renewables and Electric Vehicle Charging Infrastructure.
-- [Pivot Power](https://www.pivot-power.co.uk/#) big battery storage projects connected directly to the transmission system.
+- [eCamion](https://www.ecamion.com/company/) was founded on the principle of providing green energy to support the future needs of a growing population and offering new solutions for Utilities, Automotive, Mining, Renewables and Electric Vehicle Charging Infrastructure.
+- [Pivot Power](https://www.pivot-power.co.uk/#) London + Oxford based big battery storage projects for EV charging and large residential / commercial developments connected directly to the transmission system.
 - [Blue planet energy](https://blueplanetenergy.com/) Hawaii based storage for residential
-- [Connected Energy]((https://www.c-e-int.com/)), recycling EV batteries but for commercial and industrial
+- [Connected Energy](https://www.c-e-int.com/), based in Newcastle, UK. Recycling EV batteries but for commercial and industrial
 - [Reluce](http://reluce.com/#) [li-ion capacitors](https://en.wikipedia.org/wiki/Lithium-ion_capacitor) 120kW to 2.5MW
-- [PowerVault](https://www.powervault.co.uk/) for residential, recycling EV batteries
+- [PowerVault](https://www.powervault.co.uk/) London based, batteries for residential, recycling EV batteries
 - [FIAMM](https://www.fiamm.com/en/europe/) Italian battery company, part of the Hitachi group, historically for vehicles, now shifting towards other markets
 - [PowerFlow](https://www.powerflowenergy.com/)
 - [Volts battery](https://voltsbattery.com/), Finland based for residential
 - [Moixa](https://www.moixa.com/) UK’s leading smart battery company, that offers integrated hardware and GridShare™ software, for renewable energy management.
 - [Sonnen](https://sonnen-batterie.com/en-us/start) German company, been recently (Feb 19) bought by Shell [in the news](https://edition.cnn.com/2019/02/15/tech/shell-sonnen-home-batteries/index.html)
 - [Tesla powerwall](https://www.tesla.com/en_GB/powerwall)
-- [landlord energy solutions](http://www.landlordenergysolutions.org/) is a new startup developing batteries and renewable projects at large for landlords, they are probably both product and consultancy, a bit like Spectral (above), founder [Reg Platt](https://www.linkedin.com/in/reg-platt-11a38321/)
-- [Power Blox](https://www.power-blox.com/) the Swiss guys working on projects for Africa / developing countries, CTO and Co-Founder is [Alessandro Medici](https://www.linkedin.com/in/alessandro-medici-90a91030/)
-- [Nant energy](https://nantenergy.com/company/) **Zinc batteries** aiming 100$/kwh has been recently featured in [ny times](https://www.nytimes.com/2018/09/26/business/energy-environment/zinc-battery-solar-power.html)
+- [Power Blox](https://www.power-blox.com/) based in Zurich, working on projects for Africa / developing countries, CTO and Co-Founder is [Alessandro Medici](https://www.linkedin.com/in/alessandro-medici-90a91030/)
+- [Nant energy](https://nantenergy.com/company/) **Zinc batteries** aiming 100$/kwh has been recently featured in [NY times](https://www.nytimes.com/2018/09/26/business/energy-environment/zinc-battery-solar-power.html)
+- [PowerTech Systems](https://www.powertechsystems.eu/home/about-us/) is a French company focussed on Lithium-Ion storage market and associated technologies. Specialized in design and engineering high performance Lithium batteries (> 1KW) covering a large application spectrum
+- [Electrovaya](http://electrovaya.com/battery-products/) was founded in 1996 as a research and development company focused on Lithium ion technologies and manufacturing processes. In 2000, the company was listed on the Toronto Stock Exchange (TSX:EFL) and over the years has delivered projects for specialized applications in the aerospace, automotive and personal electronics segments.
 
 ## Photovoltaic
 

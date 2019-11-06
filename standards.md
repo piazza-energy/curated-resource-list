@@ -10,6 +10,7 @@ layout: default
 
 This section is embarrassingly short, but reflects quite well the reality of things: there are very few standards around, with most of the platforms using proprietary solutions.
 
+- [ENTSOE](https://www.entsoe.eu/digital/cim/#data-exchange-standardization) European Network of Transmission System Operators for Electricity, represents 43 electricity transmission system operators (TSOs) from 36 countries across Europe. The integration of renewables into the power system requires for their intermittency to be balanced. This can be tackled by electricity grids operating smartly and cost-efficiently.
 - [ISO 50001](https://www.iso.org/iso-50001-energy-management.html) supports organizations in all sectors to use energy more efficiently, through the development of an energy management system
 - [SMETS2](https://www.gov.uk/government/consultations/smart-metering-equipment-technical-specifications-second-version) smart meter specs v2 adopted by UK
 - [IEEE P825](https://standards.ieee.org/project/825.html) - Guide for Interoperability of Transactive Energy Systems with Electric Power Infrastructure
@@ -19,6 +20,8 @@ This section is embarrassingly short, but reflects quite well the reality of thi
 
 ## Subsidies / regulations / certifications
 
+- [ESOS](https://www.gov.uk/guidance/energy-savings-opportunity-scheme-esos) is a mandatory energy assessment scheme for organisations in the UK that meet the qualification criteria established to implement Article 8 (4 to 6) of the [EU Energy Efficiency Directive (2012/27/EU)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:315:0001:0056:EN:PDF)
+- [Streamlined energy and carbon reporting - SECR](https://www.gov.uk/government/consultations/streamlined-energy-and-carbon-reporting) released Oct '17 and updated mid '18 gives guidelines for mandatory carbon reporting framework for UK big businesses, as well as directions for energy efficiency
 - [TERRE](https://consultations.entsoe.eu/markets/terre/) is the Trans European Replacement Reserves Exchange. From what I understood companies like Flexitricity or any other PPA can use this protocol to provide demand side response with a 15' cycle time. have no idea how they implement it though.
 - Green deal (expired 2014) [link](https://en.wikipedia.org/wiki/The_Green_Deal)[link](https://www.gov.uk/green-deal-energy-saving-measures)
 - energy performance certificate (private residence only?) [EPC register](https://www.epcregister.com/reportSearchAddressTerms.html) there’s also a data set here: [London domestic efficiency by boroughs](https://data.london.gov.uk/dataset/domestic-energy-efficiency-ratings-borough)
