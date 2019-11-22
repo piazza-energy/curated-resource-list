@@ -95,6 +95,7 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Watt sight](https://www.wattsight.com/) Norway based, meteo and trading forecast
 - [European power forecasting](https://europeanpowerforecasting.com/) probably a sister company of Digital Engineering mentioned above, Bristol based (same office), focusing on the power forecasting side
 - [Conwx](http://conwx.com/) high-resolution historical weather data and forecast for power / TSOs / asset management
+- [Sentinel weather](https://sentinel-weather.com/)
 
 ## Market compare
 

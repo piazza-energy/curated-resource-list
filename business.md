@@ -35,6 +35,9 @@ Business hubs / accelerators / funds / etc
 - Generic list of accelerators in London [link](https://hubblehq.com/blog/the-official-list-of-londons-business-accelerators-and-incubators)
 - [Digital Catapult](https://www.digicatapult.org.uk/) there's also the energy catapult, check the link
 - [R/GA](http://ventures.rga.com/startups/) they're in the IoT sector, possibly green
+- [Google for Startups Accelerator](https://www.blog.google/around-the-globe/google-europe/supporting-social-impact-startups/) focused on sustainable development goals. Geared toward social impact startups working to create a healthier and more sustainable future, launching early 2020
+- [Startmate climate cohort](https://www.startmate.com.au/climate-cohort), based in Sydney + Melbourne, an expansion of their regular acceleration program to support climate change initiatives
+- [BCG DV](https://socialimpact.bcgdv.com/) In 2019-2020 we are piloting a new Program for Social Ventures. We are looking for motivated teams that want to build and grow their social initiative with our help over a three-month period at our Berlin office.
 
 ## Public Funding & Grant opportunities
 
@@ -52,6 +55,7 @@ These are mainly in the UK, by no means providing extensive global coverage
 - [BEIS / Gov.uk list](https://www.gov.uk/business-finance-support) of all financing opportunities
 - [gov.uk competitions in energy](https://apply-for-innovation-funding.service.gov.uk/competition/search?keywords=energy) (change keyword to search for related)
 - [SBRI](https://apply-for-innovation-funding.service.gov.uk/competition/491/overview): modernising energy data access and information, phase 1
+- [Funding and Tender opportunities with the European Commission](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home),
 
 ## Startup competitions and events
 

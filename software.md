@@ -21,7 +21,6 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - Mh, not really sure what they do? [Reactive technologies](https://www.reactive-technologies.com/) grid analytics and cloud solutions maybe? Been [funded by Ingenious](http://www.theingeniousgroup.co.uk/news-views/ingenious-backs-smart-energy-future-with-investment-into-reactive-technologies/)
 - [Qbots](https://www.qbots.ai/#how) AI + API don’t think they have anything released open source
 - [GridMarket](https://app.gridmarket.com/) app for microgrid monitoring mentioned by [link](https://microgridknowledge.com/worlds-largest-microgrid-engie-eps/) for their installation in Palau (Micronesia)
-- [Sighten](http://www.sighten.io/) Platform for solar workflow management, from planning, financing, installation, monitoring, support
 - [Gengame](https://www.gengame.co.uk/) mobile-gaming industry tools and techniques to solve utilities' challenges, have recently (start 2019) been awarded [a grant from BEIS](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/783338/BEIS_innovative_domestic_demand-side_response-competition_phase_2.pdf)
 - [Mosaik](https://mosaik.offis.de/) allows you to reuse and combine existing simulation models and simulators to create large-scale Smart Grid scenarios
 - [Enervee](https://enervee.com/about/) home appliances marketplace with energy consumption score
@@ -51,6 +50,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Enbala](https://www.enbala.com/technology/products-solutions/) Vancouver + Denver based platform for virtual power plant and DSR optimisation
 - [Sympower](https://www.sympower.net/about/our-story) Demand response aggregation platform
 - [Voltus](https://www.voltus.co/how-we-help/) Demand side response and energy efficiency platform
+- [Camus energy](https://camus.energy/) sylicon valley startup developing a platform (allegedly open source) for ancillary services and real-time trading
 
 ## Building performance / monitoring / analytics
 
@@ -67,6 +67,17 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Grid edge](https://www.gridedge.co.uk/) is an energy analytics platform for commercial buildings. They want to change the way that people use energy by putting data-driven, intelligent control into the hands of commercial energy consumers. Has [raised 2.5M in Oct 19](https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-expands-its-digital-energy-portfolio-by-investing-in-energy-management-platform-grid-edge.html) from BP Ventures
 - [Intelligent Communities Lifecycle (ICL)](https://www.iesve.com/icl) is a digital twin & simulation software to assess energy consumption and optimisation for aggregation of buildings in communities, developed by Integrated Environmental Solutions (IES)
 - [EC3](https://buildingtransparency.org/) is a free, industry-supported, construction-specific material search and planning tool that helps construction professionals quantify EC, find high-impact reductions, and guide procurement to reduce embodied carbon.
+- [ZERO Code Energy Calculator](https://zero-code.org/energy-calculator/) relying on others' standards
+- [The System Advisor Model (SAM)](https://sam.nrel.gov/) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry. Also has a web version with smaller feature set called [REopt](https://reopt.nrel.gov/faq.html). Check their [GH account](https://github.com/NREL) for what released open source
+
+## Photovoltaic
+
+probably need to rethink this section as it also appears in the [hardware](./hardware) page with photovoltaic producers, while here is related to software platforms, but not knowledge (which is in its specific [page](./knowledge))
+
+- [Sighten](http://www.sighten.io/) Platform for solar workflow management, from planning, financing, installation, monitoring, support
+- [PVGIS](https://re.jrc.ec.europa.eu/pvgis.html) has been developed for more than 10 years at the European Commission Joint Research Centre, at the JRC site in Ispra, Italy. The focus of PVGIS is research in solar resource assessment, photovoltaic (PV) performance studies, and the dissemination of knowledge and data about solar radiation and PV performance.
+- [Solcast](https://solcast.com/about-us/) are dedicated to developing the data and tools needed to plan, construct, operate and manage solar power systems across the world.
+- [Solargis](https://solargis.com/about-us) provide reliable and accurate solar, weather and solar electricity data that are used in the whole lifecycle of solar power plants, from prospection to development and operation
 
 ## Blockchains
 
