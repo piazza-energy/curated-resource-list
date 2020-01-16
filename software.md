@@ -37,6 +37,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [carbon footprint calculator](https://github.com/protea-earth/carbon_footprint) Built by Protea, a social network community to reduce your effect on the climate.
 - [Tomorrow app](https://www.tmrow.com/) automatically calculates your carbon footprint by connecting to other services and apps in your life, here's the [open source models](https://github.com/tmrowco/tmrowapp-contrib)
 - [eSmart Systems](https://www.esmartsystems.com/) - backed by energy impact partners - builds and delivers the next generation software solutions for inspections of powerlines, grid maintenance planning and energy flexibility optimization.
+- [Zeigo](https://zeigo.energy/about-us) is a technology platform supporting both supply and demand of renewable energy. Winner of BusinessGreen for [Renewable Energy Technology](https://www.businessgreen.com/bg/news/3084522/businessgreen-technology-awards-all-the-winners) of the year 2019
 
 ## DER / DSR Management Platforms
 

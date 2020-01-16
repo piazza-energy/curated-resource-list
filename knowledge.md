@@ -82,6 +82,7 @@ layout: default
 - Sustainable energy without the hot air (book, pdf) [link](http://www.withouthotair.com/download.html)
 - Siemens + BEIS partnership to finance net zero infrastructure - [link](https://theenergyst.com/siemens-local-councils-beis-fund-net-zero/)
 - technical knowledge on [nuclear](https://whatisnuclear.com/), with simple explanations
+- [eco passenger](http://ecopassenger.hafas.de/bin/query.exe/en?L=vs_uic&) is a calculator that compares the energy consumption, the CO2 emissions and other environmental impacts for planes, cars and trains in passenger transport
 
 ### Solar
 

@@ -22,8 +22,10 @@ Business hubs / accelerators / funds / etc
 - [Energy Impact partners](https://www.energyimpactpartners.com/investments/equity/) invest in companies shaping the energy landscape of the future
 - [Shell Ventures](https://www.shell.com/energy-and-innovation/new-energies/shell-ventures.html) targets startups and Small & Medium Enterprises (SMEs) from their early stages to their scale and growth phases. It makes minority investments that help to develop new technologies or disruptive business models in areas of strategic interest to Shell’s businesses.
 - [Clean Energy Venture Group](https://cevg.com/) is an investment group with offices in Boston and New York which provides seed capital and management expertise to early stage clean energy companies. [In the news](https://news.crunchbase.com/news/bostons-clean-energy-ventures-raises-110m-for-its-first-fund/) Boston’s Clean Energy Ventures (CEV) has closed its first fund for $110 million.
+-  [Piva](http://www.piva.vc/) announced the launch of its inaugural $250 million fund with the mission of ushering in “a new era of industry and energy.” - [from Crunchbase](https://news.crunchbase.com/news/new-vc-firm-piva-closes-250m-fund-focused-on-energy-industry/)
+- [Green Angel Syndicate](https://greenangelsyndicate.com/) is an angel investment syndicate that focuses on companies in the energy, sustainable transport, water, smart cities and wider green economy sectors that, if not actually generating revenue, are on the cusp of doing so.
 
-## Accelerators
+## Accelerators / Incubators
 
 - [Clean and cool](https://cleanandcool.org/) not properly accelerator program, probably more a networking series of events
 - [EIC climate kic](https://www.climate-kic.org/programmes/entrepreneurship/) the program on climate change run by the European Institute of Innovation & Technology **loads of startups**
@@ -38,6 +40,7 @@ Business hubs / accelerators / funds / etc
 - [Google for Startups Accelerator](https://www.blog.google/around-the-globe/google-europe/supporting-social-impact-startups/) focused on sustainable development goals. Geared toward social impact startups working to create a healthier and more sustainable future, launching early 2020
 - [Startmate climate cohort](https://www.startmate.com.au/climate-cohort), based in Sydney + Melbourne, an expansion of their regular acceleration program to support climate change initiatives
 - [BCG DV](https://socialimpact.bcgdv.com/) In 2019-2020 we are piloting a new Program for Social Ventures. We are looking for motivated teams that want to build and grow their social initiative with our help over a three-month period at our Berlin office.
+- Through [Incubatenergy Labs](https://labs.incubatenergy.org/), EPRI and a group of leading utilities are engaging early stage companies to demonstrate and deploy innovative solutions in targeted areas.
 
 ## Public Funding & Grant opportunities
 
@@ -63,6 +66,7 @@ These are mainly in the UK, by no means providing extensive global coverage
 - [Slush](https://www.slush.org/)
 - [Singapore Slingshot](https://www.startupsg.net/events/slingshot/2019)
 - [New energy challenge](https://newenergychallenge.com/program/)
+- The [Zayed Sustainability Prize](https://zayedsustainabilityprize.com/), an evolution of the Zayed Future Energy Prize, is the UAE’s pioneering global award in sustainability
 
 ## Investments
 

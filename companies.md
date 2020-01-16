@@ -31,10 +31,15 @@ these are companies and organisations making a living with the green / sustainab
 - [D2H engineering](http://www.d2hengineering.com/home/) consultancy company in Indianapolis and UK, several projects in energy including a battery model
 - [Climate.Careers](https://www.climate.careers/jobs) - job board: a social enterprise that exists to help people align their careers with solving climate change
 - [Carbon Smart](https://www.carbonsmart.co.uk/) help businesses take the sustainability steps that make sense to them
-- [Carbon limiting technologies](https://www.carbonlimitingtechnologies.com)
-- [Landlord energy solutions](http://www.landlordenergysolutions.org/) is a startup developing batteries and renewable projects for landlords, they are probably both product and consultancy, a bit like Spectral (above), founder [Reg Platt](https://www.linkedin.com/in/reg-platt-11a38321/)
+- [Carbon limiting technologies](https://www.carbonlimitingtechnologies.com) works with industry and government to commercialise low carbon innovations and accelerate clean growth
+- [Emrgnt](https://www.emrgnt.co.uk/) is a startup developing batteries and renewable projects for landlords, they are probably both product and consultancy, a bit like Spectral (above), founder [Reg Platt](https://www.linkedin.com/in/reg-platt-11a38321/)
 - [Open Grid Systems Ltd.](https://www.opengrid.com/content/) is a software and consultancy company providing services to the electrical power industry focussed on model-driven software engineering, open standards and cutting-edge technologies.
 - [EnergySage](https://www.energysage.com/about/who-we-are) is on a mission to make going solar as easy as booking a flight online. Funded by Clean energy ventures (see business section)
+- [Better Buildings Partnership](http://www.betterbuildingspartnership.co.uk/) is a collaboration of the uk's leading commercial property owners who are working together to improve the sustainability of existing commercial building stock.
+- [Joule Assets](https://www.jouleassets.com/) empower communities to access cleaner and cheaper energy through an investment platform aimed at implementing clean energy solutions
+- [Element Energy](http://www.element-energy.co.uk/) is a team of experts based in Cambridge, London, York and Lille who specialise in the intelligent analysis of low carbon energy.
+- [Masdar](https://masdar.ae/en/about-us/management/about-masdar), or Abu Dhabi Future Energy Company, is a global leader in renewable energy and sustainable urban development. Masdar means ‘source’ in Arabic. - related article: [How green can a building be?](https://blogs.thomsonreuters.com/sustainability/2019/02/13/executive-perspective-how-green-can-a-building-be/)
+- [GridBeyond](https://gridbeyond.com/what-we-do/) enables participation in Demand Side Response, including grid revenue programmes and enhanced energy savings through peak avoidance and trading. Winners of BusinessGreen [Tech Awards 2019](https://gridbeyond.com/gridbeyond-wins-smart-grid-technology-of-the-year-award-at-businessgreen-technology-awards-2019/) in the Smart Grid category
 
 ## Certification
 
@@ -78,6 +83,7 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Community Energy England (CEE)](https://communityenergyengland.org/pages/who-we-are) is a not for profit organisation that represents and supports those committed to the community energy sector. They run a [hub](http://hub.communityenergyengland.org/) with a list of supported projects
 - [Wolverton Community Energy](http://wolvertoncommunityenergy.uk/) are a registered society, owned and run by members. Working with individuals and businesses in Wolverton and the wider Milton Keynes area to help them become more energy efficient
 - [CfR](http://www.cfrcic.co.uk/) is an asset locked community interest company (CIC). Surplus profit is re-invested in supporting further community energy initiatives. CfR is an active member of Community Energy England and Regen.
+- [PowerPaired](https://powerpaired.org/) is a matchmaking service for community energy groups and the owners of sites with renewable energy potential, [in the news](https://communityenergyengland.org/news/first-of-its-kind-platform-launches-in-bid-to-boost-community-energy-s-role-in-achieving-uk-net-zero-emissions-targets)
 
 ## Carbon offset
 
@@ -87,6 +93,7 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Offset earth](https://offset.earth/) funds for tree planting foundations
 - [Trillion trees campaign](https://www.trilliontreecampaign.org/) tree planting
 - [Atmosfair](https://www.atmosfair.de/en/offset/) a non-profit climate protection organisation with a focus on travel. We actively protect the climate by compensating greenhouse gases through the use of renewable energies, among other activities.
+- [Nori](https://nori.com/about) is a marketplace that wants to create a new way for anyone in the world to pay to remove excess carbon dioxide from the atmosphere.
 
 ## Meteo / Power forecast
 

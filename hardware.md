@@ -25,6 +25,7 @@ Smart home, energy monitors integrated with other stuff
 - [Control 4](https://www.control4.com/) is one of the leading home automation systems with plenty of upscale different devices. Quite new to energy efficiency though, worth [a check](https://www.control4.com/blog/456/energyefficient-home-controls-lighting-and-solar-with-a-hightech-twist)
 - [75f](https://www.75f.io/about) is a IoT smart HVAC solution makes commercial buildings more comfortable and energy efficient. Funded by [breakthrough energy ventures](https://www.gatesnotes.com/Energy/Buildings-are-good-for-people-and-bad-for-the-climate)
 - [EcoSync Energy](https://ecosync.energy/) have created a cloud-based platform for existing building technologies like the room booking system and heating control to synchronise and communicate so as to provide heating for occupied areas only.
+- [Guru Systems](https://www.gurusystems.com/) improves the performance of heat networks, their technology is for people who want to deliver and operate heat networks
 
 ## Smart Thermostats
 
@@ -73,6 +74,7 @@ Smart home, energy monitors integrated with other stuff
 - [PowerTech Systems](https://www.powertechsystems.eu/home/about-us/) is a French company focussed on Lithium-Ion storage market and associated technologies. Specialized in design and engineering high performance Lithium batteries (> 1KW) covering a large application spectrum
 - [Electrovaya](http://electrovaya.com/battery-products/) was founded in 1996 as a research and development company focused on Lithium ion technologies and manufacturing processes. In 2000, the company was listed on the Toronto Stock Exchange (TSX:EFL) and over the years has delivered projects for specialized applications in the aerospace, automotive and personal electronics segments.
 - [Northvolt](https://northvolt.com/), Stockholm based
+- [RedT](http://redtenergy.com/) vanadium flow batteries for industrial & commercial use
 
 ## Photovoltaic
 
