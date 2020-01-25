@@ -75,6 +75,7 @@ Smart home, energy monitors integrated with other stuff
 - [Electrovaya](http://electrovaya.com/battery-products/) was founded in 1996 as a research and development company focused on Lithium ion technologies and manufacturing processes. In 2000, the company was listed on the Toronto Stock Exchange (TSX:EFL) and over the years has delivered projects for specialized applications in the aerospace, automotive and personal electronics segments.
 - [Northvolt](https://northvolt.com/), Stockholm based
 - [RedT](http://redtenergy.com/) vanadium flow batteries for industrial & commercial use
+- [Hycube](https://www.hycube.com/en/power-storage/) based in Germany, residential and commercial
 
 ## Photovoltaic
 

@@ -78,8 +78,15 @@ as in: giving money to fund projects, not receiving money
 - [Energy4impact](https://www.energy4impact.org/what-we-do/financing) access to energy in Africa
 - Major crowdfunding platforms [Crowdcube](https://www.crowdcube.com/investments?) and [Startengine](https://www.startengine.com/) have dedicated sections
 - Also worth searching for green banks, like [Connecticut green bank](https://ctgreenbank.com/about-us/)
-- [Project Wren](https://projectwren.com/) [backed by YCombinator](https://techcrunch.com/2019/07/07/y-combinator-backed-project-wren-is-aiming-to-make-carbon-offsets-more-consumer-friendly/), app to fund carbon negative projects
+- [Project Wren](https://projectwren.com/) [backed by YCombinator](https://techcrunch.com/2019/07/07/y-combinator-backed-project-wren-is-aiming-to-make-carbon-offsets-more-consumer-friendly/), app to fund carbon negative projects, also has a carbon emission calculator
 - [Trine](https://trine.com/), Sweden based, makes it easy for people to invest in solar energy in growing markets. Their mission is to give people a triple return on investment
 - [Switchr](https://switchr.global/en/about-us) business model is to buy and optimize solar-plants with strict investment criteria where they see the greatest potential for increased performance.
 - [Abundance Investment](https://www.abundanceinvestment.com/) creating ways for everyone to invest in green and social infrastructure
-- [Goclimateneutral](https://www.goclimateneutral.org/our_projects) invests in carbon negative projects by taking recurring payments from donors
+- [Goclimateneutral](https://www.goclimateneutral.org/our_projects) invests in carbon negative projects by taking recurring payments from donors. Also has a [business footprint calculator](https://www.goclimateneutral.org/business/climate_reports/new)
+
+## Job boards
+
+- [Green Jobs in top US cities](https://greenjobs.glideapp.io/)
+- [Job board for green experts](https://www.greenjobs.co.uk/)
+- [Finding your green job just got easier](https://greenjobs.com/)
+- [Find high-impact jobs solving the climate crisis.](https://climate.careers/)

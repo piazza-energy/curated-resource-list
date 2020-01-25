@@ -40,10 +40,14 @@ these are companies and organisations making a living with the green / sustainab
 - [Element Energy](http://www.element-energy.co.uk/) is a team of experts based in Cambridge, London, York and Lille who specialise in the intelligent analysis of low carbon energy.
 - [Masdar](https://masdar.ae/en/about-us/management/about-masdar), or Abu Dhabi Future Energy Company, is a global leader in renewable energy and sustainable urban development. Masdar means ‘source’ in Arabic. - related article: [How green can a building be?](https://blogs.thomsonreuters.com/sustainability/2019/02/13/executive-perspective-how-green-can-a-building-be/)
 - [GridBeyond](https://gridbeyond.com/what-we-do/) enables participation in Demand Side Response, including grid revenue programmes and enhanced energy savings through peak avoidance and trading. Winners of BusinessGreen [Tech Awards 2019](https://gridbeyond.com/gridbeyond-wins-smart-grid-technology-of-the-year-award-at-businessgreen-technology-awards-2019/) in the Smart Grid category
+- [Greenkeper](http://www.greenkeeperuk.co.uk/who-might-use-the-greenkeeper-tool/) is a consultancy that develops a data-driven tool to analyse performance and inform investment approaches to urban green infrastructure.
+- [Plan A](https://plana.earth/about) has developed a Carbon Reduction Software which helps businesses calculate, monitor and reduce their carbon footprint on a monthly basis.
+- [Natural Capital Partners](https://www.naturalcapitalpartners.com/company) works with clients to deliver solutions that ensure immediate, positive impact on the world’s natural capital. They developed the [CarbonNeutral Protocol](https://www.carbonneutral.com/who-we-are) to provide a clear set of guidelines for businesses to achieve carbon neutrality.
 
 ## Certification
 
 - [Energy Managers Association](https://www.theema.org.uk/) aims to: Improve the standing of the Energy Management profession and those working within it, Establish best-practice in Energy Management, Put Energy Management at the heart of British business
+
 
 ## Media
 

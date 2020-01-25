@@ -20,7 +20,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Utility API](https://utilityapi.com/), Web api platform for energy consumption and bills
 - Mh, not really sure what they do? [Reactive technologies](https://www.reactive-technologies.com/) grid analytics and cloud solutions maybe? Been [funded by Ingenious](http://www.theingeniousgroup.co.uk/news-views/ingenious-backs-smart-energy-future-with-investment-into-reactive-technologies/)
 - [Qbots](https://www.qbots.ai/#how) AI + API don’t think they have anything released open source
-- [GridMarket](https://app.gridmarket.com/) app for microgrid monitoring mentioned by [link](https://microgridknowledge.com/worlds-largest-microgrid-engie-eps/) for their installation in Palau (Micronesia)
+- [GridMarket](https://app.gridmarket.com/) app for microgrid monitoring mentioned [in the news](https://microgridknowledge.com/worlds-largest-microgrid-engie-eps/) for their installation in Palau (Micronesia)
 - [Gengame](https://www.gengame.co.uk/) mobile-gaming industry tools and techniques to solve utilities' challenges, have recently (start 2019) been awarded [a grant from BEIS](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/783338/BEIS_innovative_domestic_demand-side_response-competition_phase_2.pdf)
 - [Mosaik](https://mosaik.offis.de/) allows you to reuse and combine existing simulation models and simulators to create large-scale Smart Grid scenarios
 - [Enervee](https://enervee.com/about/) home appliances marketplace with energy consumption score
@@ -34,10 +34,14 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [OnSSET](http://www.onsset.org/about.html) open source software platform for the assessment and deployment of conventional and renewable energy technologies based on spatial data describing population density and distribution, proximity to transmission and road network, nighttime lights. Aiming at ensuring access to affordable, reliable, sustainable and modern energy for all.
 - [NETfficient](http://netfficient-project.eu/) ran from January 2015 to December 2018. It has deployed and demonstrated local energy storage technologies and developed smart technologies to exploit the synergies between energy storage, the smart grid and the citizens. Entails both hybrid hardware and software solutions
 - [OpenMUC](https://www.openmuc.org/openmuc/) is a software framework based on Java and OSGi that simplifies the development of customized monitoring, logging and control systems.
-- [carbon footprint calculator](https://github.com/protea-earth/carbon_footprint) Built by Protea, a social network community to reduce your effect on the climate.
-- [Tomorrow app](https://www.tmrow.com/) automatically calculates your carbon footprint by connecting to other services and apps in your life, here's the [open source models](https://github.com/tmrowco/tmrowapp-contrib)
+- [Carbon footprint calculator](https://github.com/protea-earth/carbon_footprint) Built by Protea, a social network community to reduce your effect on the climate.
+- [Tomorrow app](https://www.tmrow.com/) automatically calculates your carbon footprint by connecting to other services and apps in your life, here's the [open source models](https://github.com/tmrowco/tmrowapp-contrib), same group that developed the [Electricity Map](https://www.electricitymap.org/)
+- [A spreadsheet](https://docs.google.com/spreadsheets/d/17PMYWlIQq3Ktxjb_uuVW--xVRizWfsRYAXwzisXmqmM/edit#gid=0) with a list of carbon calculators maintained by Chris from [Cambridgeshire Climate emergency](http://camemergency.org/)
+- [A post on Disco CAT](https://discourse.climateaction.tech/t/carbon-footprint-tracking-tools/46) with a list of carbon footprint calculators and tracking tools
 - [eSmart Systems](https://www.esmartsystems.com/) - backed by energy impact partners - builds and delivers the next generation software solutions for inspections of powerlines, grid maintenance planning and energy flexibility optimization.
 - [Zeigo](https://zeigo.energy/about-us) is a technology platform supporting both supply and demand of renewable energy. Winner of BusinessGreen for [Renewable Energy Technology](https://www.businessgreen.com/bg/news/3084522/businessgreen-technology-awards-all-the-winners) of the year 2019
+- [Watershed](https://www.watershedclimate.com/) helps businesses cut carbon emissions, from the a bunch of guys who were in Stripe
+- [Microsoft Sustainability Calculator](https://aka.ms/SustainabilityCalculator) a Power BI application for Azure enterprise customers that provides new insight into carbon emissions data associated with their Azure services
 
 ## DER / DSR Management Platforms
 
