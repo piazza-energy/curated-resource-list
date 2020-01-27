@@ -56,6 +56,7 @@ Platforms focusing on demand side response, asset management and optimisation, f
 - [Sympower](https://www.sympower.net/about/our-story) Demand response aggregation platform
 - [Voltus](https://www.voltus.co/how-we-help/) Demand side response and energy efficiency platform
 - [Camus energy](https://camus.energy/) sylicon valley startup developing a platform (allegedly open source) for ancillary services and real-time trading
+- [Emitwise](https://www.emitwise.com/#home) wants to enable companies to become carbon neutral by helping businesses track the carbon footprint of their organisation, including scope 1, 2, and 3 emissions.
 
 ## Building performance / monitoring / analytics
 

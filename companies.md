@@ -43,6 +43,8 @@ these are companies and organisations making a living with the green / sustainab
 - [Greenkeper](http://www.greenkeeperuk.co.uk/who-might-use-the-greenkeeper-tool/) is a consultancy that develops a data-driven tool to analyse performance and inform investment approaches to urban green infrastructure.
 - [Plan A](https://plana.earth/about) has developed a Carbon Reduction Software which helps businesses calculate, monitor and reduce their carbon footprint on a monthly basis.
 - [Natural Capital Partners](https://www.naturalcapitalpartners.com/company) works with clients to deliver solutions that ensure immediate, positive impact on the world’s natural capital. They developed the [CarbonNeutral Protocol](https://www.carbonneutral.com/who-we-are) to provide a clear set of guidelines for businesses to achieve carbon neutrality.
+- [Cleantech Group](https://www.cleantech.com/) provide research, consulting and events to catalyze opportunities for sustainable growth powered by innovation.
+
 
 ## Certification
 
@@ -55,6 +57,7 @@ these are companies and organisations making a living with the green / sustainab
 - [Business green](https://www.businessgreen.com/) uk based media and events in the cleantech world
 - [The Energyst](https://theenergyst.com/) magazine featuring latest energy technology and strategies along with articles on legislative and policy changes.
 - [Greenbiz](https://www.greenbiz.com/about-us) Media company interesting article about long-term sustainability of solar panel recycling
+
 
 ## NGO / Organisations / activism
 
@@ -82,12 +85,14 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [NIPCC](http://climatechangereconsidered.org/) basically the climate change "negationist", a panel of nongovernment scientists and scholars who have come together to present an assessment of the science and economics of global warming.
 - [350](https://350.org/) is an international movement of ordinary people working to end the age of fossil fuels and build a world of community-led renewable energy for all.
 
+
 ## Community energy
 
 - [Community Energy England (CEE)](https://communityenergyengland.org/pages/who-we-are) is a not for profit organisation that represents and supports those committed to the community energy sector. They run a [hub](http://hub.communityenergyengland.org/) with a list of supported projects
 - [Wolverton Community Energy](http://wolvertoncommunityenergy.uk/) are a registered society, owned and run by members. Working with individuals and businesses in Wolverton and the wider Milton Keynes area to help them become more energy efficient
 - [CfR](http://www.cfrcic.co.uk/) is an asset locked community interest company (CIC). Surplus profit is re-invested in supporting further community energy initiatives. CfR is an active member of Community Energy England and Regen.
 - [PowerPaired](https://powerpaired.org/) is a matchmaking service for community energy groups and the owners of sites with renewable energy potential, [in the news](https://communityenergyengland.org/news/first-of-its-kind-platform-launches-in-bid-to-boost-community-energy-s-role-in-achieving-uk-net-zero-emissions-targets)
+
 
 ## Carbon offset
 
@@ -99,6 +104,7 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Atmosfair](https://www.atmosfair.de/en/offset/) a non-profit climate protection organisation with a focus on travel. We actively protect the climate by compensating greenhouse gases through the use of renewable energies, among other activities.
 - [Nori](https://nori.com/about) is a marketplace that wants to create a new way for anyone in the world to pay to remove excess carbon dioxide from the atmosphere.
 
+
 ## Meteo / Power forecast
 
 - [Meteomatics](http://www.meteomatics.com/display/WELCOME/Home) specializes on the specific needs of the weather sector, energy and trading sectors
@@ -108,10 +114,12 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Conwx](http://conwx.com/) high-resolution historical weather data and forecast for power / TSOs / asset management
 - [Sentinel weather](https://sentinel-weather.com/)
 
+
 ## Market compare
 
 - [the eco experts](https://www.theecoexperts.co.uk/) for PV + battery installations. (Tried to make an enquiry but they’re just a call centre forwarding the contact to an installer, they wouldn’t even send the contact through without installation permission approval from the landlord. Been recommended to check on their website who can install in the area and contact them directly)
 - [Labrador](https://www.thelabrador.co.uk/) like uswitch, has an option for green sources
+
 
 ## Energy Companies
 
@@ -129,6 +137,7 @@ Bunch of companies trading and distributing energy, having a special focus on su
 - [Limejump](http://www.limejump.com/) - Assets managers / demand side response platform / battery and other devices
 - [Flexitricity](https://www.flexitricity.com/) direct Limejump competitors, monetise energy flexibility. I.e. an energy company that enables the balancing mechanism (check [this link on elexon](https://www.elexon.co.uk/guidance-note/balancing-mechanism-bm-units/))
 - [Ecotricity](https://www.ecotricity.co.uk/) founder [Dale Vince on wiki](https://en.wikipedia.org/wiki/Dale_Vince) is worth checking out
+
 
 ## Other products
 
