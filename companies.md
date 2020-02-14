@@ -103,7 +103,7 @@ bit of a bodged together category that wraps initiatives and "no-profit"
 - [Trillion trees campaign](https://www.trilliontreecampaign.org/) tree planting
 - [Atmosfair](https://www.atmosfair.de/en/offset/) a non-profit climate protection organisation with a focus on travel. We actively protect the climate by compensating greenhouse gases through the use of renewable energies, among other activities.
 - [Nori](https://nori.com/about) is a marketplace that wants to create a new way for anyone in the world to pay to remove excess carbon dioxide from the atmosphere.
-
+- [Pachama](https://pachama.com/about) carbon offsetting by afforestation with satellite imagery, funded by [YC W19](https://blog.ycombinator.com/diego-saez-gil-on-how-pachama-uses-tech-to-help-solve-climate-change/)
 
 ## Meteo / Power forecast
 
