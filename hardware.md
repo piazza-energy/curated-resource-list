@@ -51,7 +51,7 @@ Smart home, energy monitors integrated with other stuff
 - [Veris](https://www.veris.com/Category/Current-spcMonitoring.aspx)
 - [lechacal for Raspberry pi](http://lechacal.com/wiki/index.php/Raspberrypi_Current_and_Temperature_Sensor_Adaptor)
 - [Gewiss](https://www.gewiss.com/ww/en/products/experience-catalogue/catalogs/series/domotics/wireless-devices-Zigbee) Zigbee series
-- [Bega](https://www.bega.com/en/products/Zigbee-control-modules-71021/) 16A Zigbee relay
+- [Bega](https://www.bega.com/en/products/zigbee-control-modules-71021/) 16A Zigbee relay
 - [Pikkerton](https://www.pikkerton.com/_objects/1/16.htm) Zigbee relay
 - Search [google images](https://www.google.co.uk/search?q=Zigbee+din+relay) for Zigbee din relay there are tons!
 
