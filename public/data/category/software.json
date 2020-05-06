@@ -1,9 +1,18 @@
-[
-  {
-    "title": "A special website",
-    "url": "https://www.google.com/",
-    "description": "Founded by 2 students at <a href=\"https://www.stanford.edu/\">Stanford</a>",
-    "thumb": null,
-    "tags": ["search engines"]
-  }
-]
+{
+  "data": [
+    {
+      "title": "A clever website",
+      "url": "https://www.google.com/",
+      "description": "Founded by 2 students at <a href=\"https://www.stanford.edu/\">Stanford</a>",
+      "thumb": null,
+      "tags": ["search engine"]
+    },
+    {
+      "title": "A cool website",
+      "url": "https://www.facebook.com/",
+      "description": "Founded by a guy with the worst haircuts ever",
+      "thumb": null,
+      "tags": ["social network"]
+    }
+  ]
+}

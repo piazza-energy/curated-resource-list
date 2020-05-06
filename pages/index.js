@@ -1,6 +1,7 @@
-import Layout from '../components/layout';
-
 import Link from 'next/link';
+
+import Layout from '../components/layout';
+import { getCategories } from '../scripts/categories';
 
 const CategoryLink = props => (
   <li>
@@ -10,16 +11,23 @@ const CategoryLink = props => (
   </li>
 );
 
-const Page = () => (
+const Page = ({ categories }) => (
   <Layout>
     <h1>Bookmark manager</h1>
     <p>All links in this website falling in one of the following categories</p>
     <ul>
-      <CategoryLink name="software" />
-      <CategoryLink name="hardware" />
-      <CategoryLink name="business" />
+      {categories.map(name => <CategoryLink name={name} key={name} />)}
     </ul>
   </Layout>
 )
+
+export async function getStaticProps() {
+  const categories = getCategories();
+
+  return {
+    props: {
+      categories,
+  }};
+};
 
 export default Page;
