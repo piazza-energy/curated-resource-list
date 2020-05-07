@@ -1,13 +1,10 @@
+import styles from './layout.module.css'
+
 import Header from './header';
 
-const layoutStyle = {
-  width: '80%',
-  margin: '20px auto',
-  padding: 20,
-};
 
 const Layout = props => (
-  <div style={layoutStyle}>
+  <div className={styles.container}>
     <Header />
     {props.children}
   </div>
