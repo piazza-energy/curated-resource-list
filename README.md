@@ -1,4 +1,4 @@
-# Energy Piazza Curated Resrouces List
+# Energy Piazza Curated Resources List
 
 This is a list of categorised resources for the sustainable energy sector.
 

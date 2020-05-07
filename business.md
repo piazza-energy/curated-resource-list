@@ -59,6 +59,8 @@ These are mainly in the UK, by no means providing extensive global coverage
 - [gov.uk competitions in energy](https://apply-for-innovation-funding.service.gov.uk/competition/search?keywords=energy) (change keyword to search for related)
 - [SBRI](https://apply-for-innovation-funding.service.gov.uk/competition/491/overview): modernising energy data access and information, phase 1
 - [Funding and Tender opportunities with the European Commission](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home),
+- [Energy Catalyst programme](https://www.gov.uk/guidance/energy-catalyst-what-it-is-and-how-to-apply-for-funding) opportunities for UK businesses to accelerate their growth and tackle the challenge of access to energy.
+- [Innovate UK Smart Grants](https://apply-for-innovation-funding.service.gov.uk/competition/515/overview): January 2020
 
 ## Startup competitions and events
 
