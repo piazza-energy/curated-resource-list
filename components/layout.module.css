@@ -1,11 +1,4 @@
 .container {
-  width: 90%;
-  margin: 20px auto;
-  padding: 20px;
-};
-
-@media only screen and (min-width: 768px) {
-  .container {
-    width: 80%;
-  };
+  padding: 0 1rem 1rem;
+  margin-top: 50px;
 }

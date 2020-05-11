@@ -1,12 +1,14 @@
-import styles from './layout.module.css'
-
 import Header from './header';
+import classNames from 'classnames/bind';
+import styles from './layout.module.css'
 
 
 const Layout = props => (
-  <div className={styles.container}>
+  <div>
     <Header />
-    {props.children}
+    <div className={classNames('pure-g', styles.container)}>
+      {props.children}
+    </div>
   </div>
 );
 

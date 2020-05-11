@@ -12,6 +12,9 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <link href="https://fonts.googleapis.com/css2?family=Chivo:wght@300;400&display=swap" rel="stylesheet" />
+          <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.1/build/pure-min.css" integrity="sha384-QkSsJi6SGgWv5LAx1TdvIDRf8TW5Ui4NVKqDDlK1wY2eKioo7wvYIJvGWFQSFE4U" crossOrigin="anonymous" />
+          <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/grids-responsive-min.css" />
+          <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
           <script async src={'https://www.googletagmanager.com/gtag/js?id=' + trackingID} />
           <script dangerouslySetInnerHTML={{
               __html: `

@@ -3,18 +3,14 @@ import { getCategories } from '../../scripts/categories';
 import Layout from '../../components/layout';
 import BookmarkLink from '../../components/bookmark-link'
 
-const listStyle = {
-  padding: 0,
-}
-
 const Page = ({ params, elements }) => {
 
   return (
     <Layout>
-      <h1>{params.name}</h1>
-      <ul style={listStyle}>
-        {elements.map(elem => <BookmarkLink {...elem} />)}
-      </ul>
+      <div className="pure-u-1">
+        <h1>{params.name}</h1>
+      </div>
+      {elements.map((elem, i) => <BookmarkLink key={i} {...elem} />)}
     </Layout>
   );
 };
