@@ -1,5 +1,5 @@
-import Link from 'next/link';
 import classNames from 'classnames/bind';
+import Link from './next-link';
 
 import styles from './header.module.css';
 
