@@ -8,7 +8,7 @@ const Page = ({ params, elements }) => {
   return (
     <Layout>
       <div className="pure-u-1">
-        <h1>{params.name}</h1>
+        <h1>Energy Piazza - {capitalize(params.name)}</h1>
       </div>
       {elements.map((elem, i) => <BookmarkLink key={i} {...elem} />)}
     </Layout>
@@ -36,5 +36,9 @@ export async function getStaticProps({ params }) {
   }};
 };
 
+const capitalize = (s) => {
+  if (typeof s !== 'string') return ''
+  return s.charAt(0).toUpperCase() + s.slice(1)
+}
 
 export default Page;

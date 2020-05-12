@@ -1,6 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import useDebounce from './debounce';
 
+import CategoryLink from './category-link';
+import BookmarkLink from './bookmark-link';
+
+const minQLenght = 3;
 
 const SearchEngine = ({ bookmarks }) => {
 
@@ -51,6 +55,9 @@ const SearchEngine = ({ bookmarks }) => {
         <input
           type="text" placeholder="Search"
           onChange={e => setQuery(e.target.value)} />
+        <button className="pure-button" onClick={e => setQuery('')} disabled={query.length < minQLenght}>
+          Clear Search
+        </button>
       </form>
       {isSearching && <div>Searching ...</div>}
       {results}
@@ -60,13 +67,35 @@ const SearchEngine = ({ bookmarks }) => {
 
 function searchCharacters(query, bookmarks) {
   return new Promise((resolve, reject) => {
-    let results;
-    if (query.length > 2) {
-      results = <p>You searched for {query}</p>
+    let output;
+    if (query.length >= minQLenght) {
+      let results = {};
+      let count = 0;
+      let re = new RegExp(query, 'gi');
+      // oooh, 3 nested for loops, not nice but will do
+      for (const cat in bookmarks) {
+        results[cat] = [];
+        for (const bookmark of bookmarks[cat]) {
+          for (const field of ['title', 'description']) {
+            if (bookmark[field].match(re)) {
+              results[cat].push(bookmark);
+              count++;
+              break;
+            }
+          }
+        }
+      }
+      output = <div>
+        <p>Your search for {query} produced {count} results</p>
+        {Object.keys(results).map((cat, iC) => <div>
+          <h2>In <CategoryLink name={cat} /> - {results[cat].length} results</h2>
+          {results[cat].map((bookmark, iB) => <BookmarkLink key={`${iC}${iB}`} {...bookmark} />)}
+        </div>)}
+      </div>
     } else {
-      results = <p>Type at least 3 letters to trigger a search</p>
+      output = <p>Type at least {minQLenght} letters to trigger a search</p>
     }
-    resolve(results);
+    resolve(output);
   });
 }
 
