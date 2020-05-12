@@ -1,8 +1,8 @@
 import Link from './next-link';
 
-const CategoryLink = props => (
-  <Link href="/category/[name]" as={`/category/${props.name}`}>
-    <a>{props.name}</a>
+const CategoryLink = ({ name }) => (
+  <Link href="/category/[name]" as={`/category/${name}`}>
+    <a>{name}</a>
   </Link>
 );
 
