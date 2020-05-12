@@ -1,10 +1,10 @@
 import styles from './bookmark-link.module.css'
 
-const BookmarkLink = props => (
+const BookmarkLink = ({ url, title, description }) => (
   <div className="pure-u-1">
     <div className={styles.item}>
-      <h3><a href={props.url}>{props.title}</a></h3>
-      <p dangerouslySetInnerHTML={{__html: props.description}} />
+      <h3><a href={url}>{title}</a></h3>
+      <p dangerouslySetInnerHTML={{__html: description}} />
     </div>
   </div>
 );

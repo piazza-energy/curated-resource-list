@@ -15,7 +15,9 @@ const Page = ({ categories, bookmarks }) => (
       </p>
       <p>All links in this website falling in one of the following categories</p>
       <ul>
-        {categories.map((name, i) => <CategoryLink name={name} key={i} />)}
+        {categories.map((name, i) => <li key={i}>
+          <CategoryLink name={name} />
+        </li>)}
       </ul>
     </div>
     <div className="pure-u-1">
