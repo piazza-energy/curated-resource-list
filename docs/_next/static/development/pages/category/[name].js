@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/category/[name].js"],{
 
 /***/ "./components/bookmark-link.js":
 /*!*************************************!*\
@@ -165,96 +165,6 @@ if (true) {
 }
 
 module.exports = content.locals || {};
-
-/***/ }),
-
-/***/ "./components/category-link.js":
-/*!*************************************!*\
-  !*** ./components/category-link.js ***!
-  \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./next-link */ "./components/next-link.js");
-var _this = undefined,
-    _jsxFileName = "/Users/tom/Projects/piazza.energy/curated-resource-list/components/category-link.js";
-
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-var CategoryLink = function CategoryLink(_ref) {
-  var name = _ref.name;
-  return __jsx(_next_link__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    href: "/category/[name]",
-    as: "/category/".concat(name),
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 3
-    }
-  }, __jsx("a", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 5
-    }
-  }, name));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (CategoryLink);
-
-/***/ }),
-
-/***/ "./components/debounce.js":
-/*!********************************!*\
-  !*** ./components/debounce.js ***!
-  \********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return useDebounce; });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-// from: https://dev.to/gabe_ragland/debouncing-with-react-hooks-jci
- // Our hook
-
-function useDebounce(value, delay) {
-  // State and setters for debounced value
-  var _useState = Object(react__WEBPACK_IMPORTED_MODULE_0__["useState"])(value),
-      debouncedValue = _useState[0],
-      setDebouncedValue = _useState[1];
-
-  Object(react__WEBPACK_IMPORTED_MODULE_0__["useEffect"])(function () {
-    // Set debouncedValue to value (passed in) after the specified delay
-    var handler = setTimeout(function () {
-      setDebouncedValue(value);
-    }, delay); // Return a cleanup function that will be called every time ...
-    // ... useEffect is re-called. useEffect will only be re-called ...
-    // ... if value changes (see the inputs array below).
-    // This is how we prevent debouncedValue from changing if value is ...
-    // ... changed within the delay period. Timeout gets cleared and restarted.
-    // To put it in context, if the user is typing within our app's ...
-    // ... search box, we don't want the debouncedValue to update until ...
-    // ... they've stopped typing for more than 500ms.
-
-    return function () {
-      clearTimeout(handler);
-    };
-  }, // Only re-call effect if value changes
-  // You could also add the "delay" var to inputs array if you ...
-  // ... need to be able to change that dynamically.
-  [value]);
-  return debouncedValue;
-}
 
 /***/ }),
 
@@ -654,244 +564,6 @@ var PrefixedLink = function PrefixedLink(props) {
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (PrefixedLink);
-
-/***/ }),
-
-/***/ "./components/search-engine.js":
-/*!*************************************!*\
-  !*** ./components/search-engine.js ***!
-  \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/extends */ "./node_modules/@babel/runtime/helpers/esm/extends.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _debounce__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./debounce */ "./components/debounce.js");
-/* harmony import */ var _category_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./category-link */ "./components/category-link.js");
-/* harmony import */ var _bookmark_link__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./bookmark-link */ "./components/bookmark-link.js");
-
-
-var _this = undefined,
-    _jsxFileName = "/Users/tom/Projects/piazza.energy/curated-resource-list/components/search-engine.js";
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
-
-function _createForOfIteratorHelper(o) { if (typeof Symbol === "undefined" || o[Symbol.iterator] == null) { if (Array.isArray(o) || (o = _unsupportedIterableToArray(o))) { var i = 0; var F = function F() {}; return { s: F, n: function n() { if (i >= o.length) return { done: true }; return { done: false, value: o[i++] }; }, e: function e(_e) { throw _e; }, f: F }; } throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); } var it, normalCompletion = true, didErr = false, err; return { s: function s() { it = o[Symbol.iterator](); }, n: function n() { var step = it.next(); normalCompletion = step.done; return step; }, e: function e(_e2) { didErr = true; err = _e2; }, f: function f() { try { if (!normalCompletion && it["return"] != null) it["return"](); } finally { if (didErr) throw err; } } }; }
-
-function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
-
-function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
-
-
-
-
-
-var minQLenght = 3;
-
-var SearchEngine = function SearchEngine(_ref) {
-  var bookmarks = _ref.bookmarks;
-
-  // State and setter for search term
-  var _useState = Object(react__WEBPACK_IMPORTED_MODULE_1__["useState"])(''),
-      query = _useState[0],
-      setQuery = _useState[1]; // State and setter for search results
-
-
-  var _useState2 = Object(react__WEBPACK_IMPORTED_MODULE_1__["useState"])([]),
-      results = _useState2[0],
-      setResults = _useState2[1]; // State for search status (whether there is a pending API request)
-
-
-  var _useState3 = Object(react__WEBPACK_IMPORTED_MODULE_1__["useState"])(false),
-      isSearching = _useState3[0],
-      setIsSearching = _useState3[1]; // Now we call our hook, passing in the current query value.
-  // The hook will only return the latest value (what we passed in) ...
-  // ... if it's been more than 500ms since it was last called.
-  // Otherwise, it will return the previous value of query.
-  // The goal is to only have the API call fire when user stops typing ...
-  // ... so that we aren't hitting our API rapidly.
-
-
-  var debouncedQuery = Object(_debounce__WEBPACK_IMPORTED_MODULE_2__["default"])(query, 500); // Here's where the API call happens
-  // We use useEffect since this is an asynchronous action
-
-  Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
-    // Make sure we have a value (user has entered something in input)
-    if (debouncedQuery) {
-      // Set isSearching state
-      setIsSearching(true); // Fire off our API call
-
-      searchCharacters(debouncedQuery, bookmarks).then(function (results) {
-        // Set back to false since request finished
-        setIsSearching(false); // Set results state
-
-        setResults(results);
-      });
-    } else {
-      setResults([]);
-    }
-  }, // This is the useEffect input array
-  // Our useEffect function will only execute if this value changes ...
-  // ... and thanks to our hook it will only change if the original ...
-  // value (query) hasn't changed for more than 500ms.
-  [debouncedQuery]);
-  return __jsx("div", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 53,
-      columnNumber: 5
-    }
-  }, __jsx("form", {
-    className: "pure-form",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 54,
-      columnNumber: 7
-    }
-  }, __jsx("input", {
-    type: "text",
-    placeholder: "Search",
-    value: query,
-    onChange: function onChange(e) {
-      return setQuery(e.target.value);
-    },
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 55,
-      columnNumber: 9
-    }
-  }), __jsx("button", {
-    className: "pure-button",
-    onClick: function onClick(e) {
-      return setQuery('');
-    },
-    disabled: query.length < minQLenght,
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 59,
-      columnNumber: 9
-    }
-  }, "Clear Search")), isSearching && __jsx("div", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 63,
-      columnNumber: 23
-    }
-  }, "Searching ..."), results);
-};
-
-function searchCharacters(query, bookmarks) {
-  var _this2 = this;
-
-  return new Promise(function (resolve, reject) {
-    var output;
-
-    if (query.length >= minQLenght) {
-      var results = {};
-      var count = 0;
-      var re = new RegExp(query, 'gi'); // oooh, 3 nested for loops, not nice but will do
-
-      for (var cat in bookmarks) {
-        results[cat] = [];
-
-        var _iterator = _createForOfIteratorHelper(bookmarks[cat]),
-            _step;
-
-        try {
-          for (_iterator.s(); !(_step = _iterator.n()).done;) {
-            var bookmark = _step.value;
-
-            for (var _i = 0, _arr = ['title', 'description']; _i < _arr.length; _i++) {
-              var field = _arr[_i];
-
-              if (bookmark[field].match(re)) {
-                results[cat].push(bookmark);
-                count++;
-                break;
-              }
-            }
-          }
-        } catch (err) {
-          _iterator.e(err);
-        } finally {
-          _iterator.f();
-        }
-      }
-
-      output = __jsx("div", {
-        __self: _this2,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 89,
-          columnNumber: 16
-        }
-      }, __jsx("p", {
-        __self: _this2,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 90,
-          columnNumber: 9
-        }
-      }, "Your search for ", query, " produced ", count, " results"), Object.keys(results).map(function (cat, iC) {
-        return __jsx("div", {
-          __self: _this2,
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 91,
-            columnNumber: 48
-          }
-        }, __jsx("h2", {
-          __self: _this2,
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 92,
-            columnNumber: 11
-          }
-        }, "In ", __jsx(_category_link__WEBPACK_IMPORTED_MODULE_3__["default"], {
-          name: cat,
-          __self: _this2,
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 92,
-            columnNumber: 18
-          }
-        }), " - ", results[cat].length, " results"), results[cat].map(function (bookmark, iB) {
-          return __jsx(_bookmark_link__WEBPACK_IMPORTED_MODULE_4__["default"], Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-            key: "".concat(iC).concat(iB)
-          }, bookmark, {
-            __self: _this2,
-            __source: {
-              fileName: _jsxFileName,
-              lineNumber: 93,
-              columnNumber: 47
-            }
-          }));
-        }));
-      }));
-    } else {
-      output = __jsx("p", {
-        __self: _this2,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 97,
-          columnNumber: 16
-        }
-      }, "Type at least ", minQLenght, " letters to trigger a search");
-    }
-
-    resolve(output);
-  });
-}
-
-/* harmony default export */ __webpack_exports__["default"] = (SearchEngine);
 
 /***/ }),
 
@@ -1696,23 +1368,23 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Findex.js&hotRouterUpdates=true!./":
-/*!***********************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Findex.js&hotRouterUpdates=true ***!
-  \***********************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcategory%2F%5Bname%5D&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Fcategory%2F%5Bname%5D.js&hotRouterUpdates=true!./":
+/*!************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcategory%2F%5Bname%5D&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Fcategory%2F%5Bname%5D.js&hotRouterUpdates=true ***!
+  \************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
     (window.__NEXT_P = window.__NEXT_P || []).push([
-      "/",
+      "/category/[name]",
       function () {
-        var mod = __webpack_require__(/*! ./pages/index.js */ "./pages/index.js");
+        var mod = __webpack_require__(/*! ./pages/category/[name].js */ "./pages/category/[name].js");
         if (true) {
-          module.hot.accept(/*! ./pages/index.js */ "./pages/index.js", function () {
-            if (!next.router.components["/"]) return;
-            var updatedPage = __webpack_require__(/*! ./pages/index.js */ "./pages/index.js");
-            next.router.update("/", updatedPage);
+          module.hot.accept(/*! ./pages/category/[name].js */ "./pages/category/[name].js", function () {
+            if (!next.router.components["/category/[name]"]) return;
+            var updatedPage = __webpack_require__(/*! ./pages/category/[name].js */ "./pages/category/[name].js");
+            next.router.update("/category/[name]", updatedPage);
           });
         }
         return mod;
@@ -5754,38 +5426,39 @@ module.exports = function (list, options) {
 
 /***/ }),
 
-/***/ "./pages/index.js":
-/*!************************!*\
-  !*** ./pages/index.js ***!
-  \************************/
+/***/ "./pages/category/[name].js":
+/*!**********************************!*\
+  !*** ./pages/category/[name].js ***!
+  \**********************************/
 /*! exports provided: __N_SSG, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__N_SSG", function() { return __N_SSG; });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/layout */ "./components/layout.js");
-/* harmony import */ var _components_category_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/category-link */ "./components/category-link.js");
-/* harmony import */ var _components_search_engine__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/search-engine */ "./components/search-engine.js");
+/* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/extends */ "./node_modules/@babel/runtime/helpers/esm/extends.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../components/layout */ "./components/layout.js");
+/* harmony import */ var _components_bookmark_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../components/bookmark-link */ "./components/bookmark-link.js");
+
+
 var _this = undefined,
-    _jsxFileName = "/Users/tom/Projects/piazza.energy/curated-resource-list/pages/index.js";
+    _jsxFileName = "/Users/tom/Projects/piazza.energy/curated-resource-list/pages/category/[name].js";
 
 
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
+var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 
 var Page = function Page(_ref) {
-  var categories = _ref.categories,
-      bookmarks = _ref.bookmarks;
-  return __jsx(_components_layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  var params = _ref.params,
+      elements = _ref.elements;
+  return __jsx(_components_layout__WEBPACK_IMPORTED_MODULE_2__["default"], {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9,
+      lineNumber: 7,
       columnNumber: 3
     }
   }, __jsx("div", {
@@ -5793,95 +5466,51 @@ var Page = function Page(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10,
+      lineNumber: 8,
       columnNumber: 5
     }
   }, __jsx("h1", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11,
+      lineNumber: 9,
       columnNumber: 7
     }
-  }, "Energy Piazza"), __jsx("h2", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12,
-      columnNumber: 7
-    }
-  }, "Curated Resources List"), __jsx("p", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13,
-      columnNumber: 7
-    }
-  }, "This is a list of categorised resources for the sustainable energy sector."), __jsx("p", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 7
-    }
-  }, "All links in this website falling in one of the following categories"), __jsx("ul", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 7
-    }
-  }, categories.map(function (name, i) {
-    return __jsx("li", {
-      key: i,
+  }, "Energy Piazza - ", capitalize(params.name))), elements.map(function (elem, i) {
+    return __jsx(_components_bookmark_link__WEBPACK_IMPORTED_MODULE_3__["default"], Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
+      key: i
+    }, elem, {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 18,
-        columnNumber: 38
-      }
-    }, __jsx(_components_category_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-      name: name,
-      __self: _this,
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 19,
-        columnNumber: 11
+        lineNumber: 11,
+        columnNumber: 32
       }
     }));
-  }))), __jsx("div", {
-    className: "pure-u-1",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23,
-      columnNumber: 5
-    }
-  }, __jsx(_components_search_engine__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    bookmarks: bookmarks,
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 7
-    }
-  })));
+  }));
 };
 
 ;
+;
+
+var capitalize = function capitalize(s) {
+  if (typeof s !== 'string') return '';
+  return s.charAt(0).toUpperCase() + s.slice(1);
+};
+
 var __N_SSG = true;
 /* harmony default export */ __webpack_exports__["default"] = (Page);
 
 /***/ }),
 
-/***/ 1:
-/*!***************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Findex.js&hotRouterUpdates=true ***!
-  \***************************************************************************************************************************************************************************/
+/***/ 2:
+/*!****************************************************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fcategory%2F%5Bname%5D&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Fcategory%2F%5Bname%5D.js&hotRouterUpdates=true ***!
+  \****************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Findex.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Findex.js&hotRouterUpdates=true!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fcategory%2F%5Bname%5D&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Fcategory%2F%5Bname%5D.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcategory%2F%5Bname%5D&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Fcategory%2F%5Bname%5D.js&hotRouterUpdates=true!./");
 
 
 /***/ }),
@@ -5897,5 +5526,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
-//# sourceMappingURL=index.js.map
+},[[2,"static/runtime/webpack.js"]]]);
+//# sourceMappingURL=[name].js.map

@@ -53,7 +53,8 @@ const SearchEngine = ({ bookmarks }) => {
     <div>
       <form className="pure-form">
         <input
-          type="text" placeholder="Search"
+          type="text"placeholder="Search"
+          value={query}
           onChange={e => setQuery(e.target.value)} />
         <button className="pure-button" onClick={e => setQuery('')} disabled={query.length < minQLenght}>
           Clear Search

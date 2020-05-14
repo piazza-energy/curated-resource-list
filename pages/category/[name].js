@@ -3,17 +3,14 @@ import { getCategories } from '../../scripts/categories';
 import Layout from '../../components/layout';
 import BookmarkLink from '../../components/bookmark-link'
 
-const Page = ({ params, elements }) => {
-
-  return (
-    <Layout>
-      <div className="pure-u-1">
-        <h1>Energy Piazza - {capitalize(params.name)}</h1>
-      </div>
-      {elements.map((elem, i) => <BookmarkLink key={i} {...elem} />)}
-    </Layout>
-  );
-};
+const Page = ({ params, elements }) => (
+  <Layout>
+    <div className="pure-u-1">
+      <h1>Energy Piazza - {capitalize(params.name)}</h1>
+    </div>
+    {elements.map((elem, i) => <BookmarkLink key={i} {...elem} />)}
+  </Layout>
+)
 
 export async function getStaticPaths() {
   const categories = getCategories();
