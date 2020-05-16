@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import useDebounce from './debounce';
 
-import CategoryLink from './category-link';
+import { CategoryLink } from './nav-link';
 import BookmarkLink from './bookmark-link';
 
 const minQLenght = 3;

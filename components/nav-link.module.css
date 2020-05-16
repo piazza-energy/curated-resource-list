@@ -1,0 +1,19 @@
+.link {
+  font-family: 'Chivo', sans-serif;
+}
+
+.cat {
+
+}
+
+.tag, .tag:visited {
+  font-size: 0.8rem;
+  margin: 0 3px 3px 0;
+  display: inline-block;
+  color: ghostwhite;
+  background-color: green;
+  text-decoration: none;
+  padding: 2px 3px;
+  border: 1px solid green;
+  border-radius: 5px;
+}

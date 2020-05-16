@@ -1,11 +1,11 @@
-import { getCategories } from '../scripts/categories';
+import { getCategories, getAllCatsData, getAllTagsData } from '../utils/cats-tags';
 
 import Layout from '../components/layout';
-import CategoryLink from '../components/category-link'
+import { CategoryLink, TagLink } from '../components/nav-link'
 import SearchEngine from '../components/search-engine';
 
 
-const Page = ({ categories, bookmarks }) => (
+const Page = ({ categories, bookmarks, tags }) => (
   <Layout>
     <div className="pure-u-1">
       <h1>Energy Piazza</h1>
@@ -13,12 +13,20 @@ const Page = ({ categories, bookmarks }) => (
       <p>
         This is a list of categorised resources for the sustainable energy sector.
       </p>
-      <p>All links in this website falling in one of the following categories</p>
+    </div>
+    <div className="pure-u-1 pure-u-lg-1-2">
+      <p>All links in this website falling in one of the following categories:</p>
       <ul>
-        {categories.map((name, i) => <li key={i}>
-          <CategoryLink name={name} />
+        {categories.map((cat, i) => <li key={`cat_${i}`}>
+          <CategoryLink name={cat} />
         </li>)}
       </ul>
+    </div>
+    <div className="pure-u-1 pure-u-lg-1-2">
+      <p>Links have also been tagged as follows:</p>
+      {Object.keys(tags).map((tag, i) => <span key={`tag_${i}`}>
+        <TagLink name={tag} count={tags[tag].length} />
+      </span>)}
     </div>
     <div className="pure-u-1">
       <SearchEngine bookmarks={bookmarks} />
@@ -28,16 +36,14 @@ const Page = ({ categories, bookmarks }) => (
 
 export async function getStaticProps() {
   const categories = getCategories();
-  const bookmarks = {};
-  for (const cat of categories) {
-    const data = await import(`../public/data/category/${cat}.json`);
-    bookmarks[cat] = JSON.parse(JSON.stringify(data)).data;
-  }
-
+  const bookmarks = getAllCatsData(categories);
+  const tags = getAllTagsData(bookmarks);
+  const empty = {};
   return {
     props: {
       categories,
-      bookmarks
+      bookmarks,
+      tags,
   }};
 };
 
