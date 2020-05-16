@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "title": "Electricity generation charts by Ofgemn",
+      "url": "https://www.ofgem.gov.uk/data-portal/all-charts/policy-area/electricity-wholesale-markets",
+      "tags": ["market", "dataset"],
+      "description": "Ofgem data portal for the energy markets in Great Britain. This portal gives direct access to all of our interactive data charts in a single location, alongside indicators we consider key to our performance monitoring."
+    },
+    {
+      "title": "ICIS - Energy",
+      "url": "https://www.icis.com/explore/commodities/energy?intcmp=mega-menu-explore-commodities-energy",
+      "tags": ["market", "knowledge"],
+      "description": "global source of Independent Commodity Intelligence Services - ICIS connect data, markets and customers to create a comprehensive, trusted view of the global commodities markets, enabling smarter business decisions that optimise the world’s resources."
+    },
+    {
+      "title": "National Statistics Energy Trends: UK electricity",
+      "url": "https://www.gov.uk/government/statistics/electricity-section-5-energy-trends",
+      "tags": ["market", "dataset"],
+      "description": "Data on electricity generation, supply, consumption and fuel use for generation."
+    },
+    {
+      "title": "Nord Pool",
+      "url": "https://www.nordpoolgroup.com/historical-market-data/",
+      "tags": ["market", "dataset"],
+      "description": "Nord Pool runs the leading power market in Europe, and we offer day-ahead and intraday markets to our customers. The day-ahead market is the main arena for trading power, and the intraday market supplements the day-ahead market and helps secure balance between supply and demand. Historical datasets are available on their website."
+    },
+    {
+      "title": "EPEX spot",
+      "url": "https://www.epexspot.com/en/market-data",
+      "tags": ["market"],
+      "description": "EPEX SPOT is the leading exchange for the power spot markets at the heart of Europe. It covers Germany, France, United Kingdom, the Netherlands, Belgium, Austria, Switzerland and Luxembourg"
+    },
+    {
+      "title": "ICE pricing and analytics",
+      "url": "https://www.theice.com/market-data/pricing-and-analytics",
+      "tags": ["market"],
+      "description": "Intercontinental Exchange builds, operates and advances global markets through information, technology and expertise. The leading pricing, analytics and market data offered through ICE Data Services support mission-critical processes across the front, middle and back offices of organizations around the world."
+    },
+    {
       "title": "Recycling lithium-ion batteries from electric vehicles",
       "url": "https://www.nature.com/articles/s41586-019-1682-5",
       "tags": ["knowledge"],
@@ -10,25 +46,25 @@
       "title": "Electric Insights",
       "url": "https://electricinsights.co.uk",
       "tags": ["dataset"],
-      "description": "  Electric Insights  was established by Drax Group to help inform and enlighten the debate on Britain’s electricity."
+      "description": "Electric Insights  was established by Drax Group to help inform and enlighten the debate on Britain’s electricity."
     },
     {
       "title": "EIA",
       "url": "https://www.eia.gov/consumption/commercial/",
       "tags": ["dataset"],
-      "description": "  EIA  the US Energy Information Administration has done a comprehensive survey of commercial buildings with their energy consumption"
+      "description": "EIA  the US Energy Information Administration has done a comprehensive survey of commercial buildings with their energy consumption"
     },
     {
       "title": "ENERGYDATA.INFO",
       "url": "https://energydata.info/",
       "tags": ["dataset"],
-      "description": "  ENERGYDATA.INFO  is an open data platform providing access to datasets and data analytics that are relevant to the energy sector."
+      "description": "ENERGYDATA.INFO  is an open data platform providing access to datasets and data analytics that are relevant to the energy sector."
     },
     {
       "title": "Elexon",
       "url": "https://www.elexon.co.uk/",
       "tags": ["dataset"],
-      "description": "  Elexon  meters data harvesting and comparison, balancing and settlement code (BSC), **lots and lots of data!** They also have an API, check this out [link](https://www.elexon.co.uk/new-balancing-mechanism-reporting-service-bmrs/)"
+      "description": "Elexon  meters data harvesting and comparison, balancing and settlement code (BSC), **lots and lots of data!** They also have an API, check this out [link](https://www.elexon.co.uk/new-balancing-mechanism-reporting-service-bmrs/)"
     },
     {
       "title": "for the US",
@@ -46,31 +82,31 @@
       "title": "5.5k households smart meter",
       "url": "https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households",
       "tags": ["dataset"],
-      "description": "  5.5k households smart meter  half hour readings between nov 11 and feb 14"
+      "description": "5.5k households smart meter  half hour readings between nov 11 and feb 14"
     },
     {
       "title": "UK-DALE",
       "url": "http://jack-kelly.com/data/",
       "tags": ["dataset"],
-      "description": "  UK-DALE  domestic appliance-level electricity demand and whole-house demand from five UK homes. [paper](https://www.nature.com/articles/sdata20157)"
+      "description": "UK-DALE  domestic appliance-level electricity demand and whole-house demand from five UK homes. [paper](https://www.nature.com/articles/sdata20157)"
     },
     {
       "title": "REDD",
       "url": "http://redd.csail.mit.edu/",
       "tags": ["dataset"],
-      "description": "  REDD : The Reference Energy Disaggregation Data Set at MIT. Paper: A public data set for energy disaggregation research. In proceedings of the SustKDD workshop on Data Mining Applications in Sustainability, 2011. [PDF](http://redd.csail.mit.edu/kolter-kddsust11.pdf)"
+      "description": "REDD : The Reference Energy Disaggregation Data Set at MIT. Paper: A public data set for energy disaggregation research. In proceedings of the SustKDD workshop on Data Mining Applications in Sustainability, 2011. [PDF](http://redd.csail.mit.edu/kolter-kddsust11.pdf)"
     },
     {
       "title": "DRED",
       "url": "http://www.st.ewi.tudelft.nl/akshay/dred/",
       "tags": ["dataset"],
-      "description": "  DRED  (Dutch Residential Energy Dataset) is the first open-access, publicly available dataset from The Netherlands. The data set live deployment consists of several sensors measuring electricity, occupants occupancy and ambient parameters in a household."
+      "description": "DRED  (Dutch Residential Energy Dataset) is the first open-access, publicly available dataset from The Netherlands. The data set live deployment consists of several sensors measuring electricity, occupants occupancy and ambient parameters in a household."
     },
     {
       "title": "Solar Panel Energy Generation",
       "url": "https://data.london.gov.uk/dataset/photovoltaic--pv--solar-panel-energy-generation-data",
       "tags": ["dataset"],
-      "description": "  Solar Panel Energy Generation  dataset contains voltage, current, power, energy, and weather data from low-voltage substations and domestic premises with high uptake of solar photovoltaic (PV) embedded generation."
+      "description": "Solar Panel Energy Generation  dataset contains voltage, current, power, energy, and weather data from low-voltage substations and domestic premises with high uptake of solar photovoltaic (PV) embedded generation."
     },
     {
       "title": "datasets",
@@ -88,31 +124,31 @@
       "title": "Programmable web list",
       "url": "https://www.programmableweb.com/category/solar/api",
       "tags": ["dataset"],
-      "description": "  Programmable web list  on solar-related APIs"
+      "description": "Programmable web list  on solar-related APIs"
     },
     {
       "title": "SEG - Smart Export Guarantee",
       "url": "https://www.solarpowerportal.co.uk/news/beis_unveils_smart_export_guarantee_to_replace_export_tariff",
       "tags": ["knowledge"],
-      "description": "  SEG - Smart Export Guarantee  is the new way for small generation to have a feed-in tariff, starting after the old one dies on March 31st 2019. Some useful notes from [the Energyst](https://theenergyst.com/smart-export-guarantee-neither-smart-nor-much-of-a-guarantee/)"
+      "description": "SEG - Smart Export Guarantee  is the new way for small generation to have a feed-in tariff, starting after the old one dies on March 31st 2019. Some useful notes from [the Energyst](https://theenergyst.com/smart-export-guarantee-neither-smart-nor-much-of-a-guarantee/)"
     },
     {
       "title": "Low carbon and renewable energy economy, UK: 2017",
       "url": "https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/finalestimates/2017#main-points",
       "tags": ["knowledge"],
-      "description": "  Low carbon and renewable energy economy, UK: 2017  Final results from the Low Carbon and Renewable Energy Survey on the low carbon and renewable energy economy, 31.1.19"
+      "description": "Low carbon and renewable energy economy, UK: 2017  Final results from the Low Carbon and Renewable Energy Survey on the low carbon and renewable energy economy, 31.1.19"
     },
     {
       "title": "How AI will affect the future",
       "url": "https://www.brookings.edu/research/how-artificial-intelligence-will-affect-the-future-of-energy-and-climate/",
       "tags": ["knowledge"],
-      "description": "  How AI will affect the future  of energy and climate change"
+      "description": "How AI will affect the future  of energy and climate change"
     },
     {
       "title": "machine learning",
       "url": "https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/",
       "tags": ["knowledge"],
-      "description": "  machine learning  can boost the value of wind energy, from a Google company"
+      "description": "machine learning  can boost the value of wind energy, from a Google company"
     },
     {
       "title": "provided a millisecond response",
@@ -136,7 +172,7 @@
       "title": "NASA",
       "url": "https://climate.nasa.gov/",
       "tags": ["knowledge"],
-      "description": "  NASA  I love you :heart:"
+      "description": "NASA  I love you :heart:"
     },
     {
       "title": "link",
@@ -166,85 +202,85 @@
       "title": "Data Communication Company",
       "url": "https://www.smartdcc.co.uk/about/",
       "tags": ["knowledge"],
-      "description": "  Data Communication Company  has built and maintained the secure national infrastructure that underpins the roll-out of smart meters across Great Britain."
+      "description": "Data Communication Company  has built and maintained the secure national infrastructure that underpins the roll-out of smart meters across Great Britain."
     },
     {
       "title": "a very close look at carbon capture",
       "url": "https://spectrum.ieee.org/energywise/energy/environment/a-very-close-look-at-carbon-capture-and-storage",
       "tags": ["knowledge"],
-      "description": "  a very close look at carbon capture , new materials that could make it very efficient and feasible"
+      "description": "a very close look at carbon capture , new materials that could make it very efficient and feasible"
     },
     {
       "title": "the traveller’s guide to carbon offsetting your flights",
       "url": "https://www.ontheluce.com/carbon-offsetting-flights/",
       "tags": ["knowledge"],
-      "description": "  the traveller’s guide to carbon offsetting your flights "
+      "description": "the traveller’s guide to carbon offsetting your flights "
     },
     {
       "title": "The Smart Cities Information System (SCIS)",
       "url": "https://smartcities-infosystem.eu/",
       "tags": ["knowledge"],
-      "description": "  The Smart Cities Information System (SCIS)  is a knowledge platform to exchange data, experience and know-how and to collaborate on the creation of smart cities. List of [demonstration projects](https://smartcities-infosystem.eu/scis-clusters/demonstration-projects), and some projects funded:"
+      "description": "The Smart Cities Information System (SCIS)  is a knowledge platform to exchange data, experience and know-how and to collaborate on the creation of smart cities. List of [demonstration projects](https://smartcities-infosystem.eu/scis-clusters/demonstration-projects), and some projects funded:"
     },
     {
       "title": "SMARTER TOGETHER",
       "url": "https://www.smarter-together.eu/",
       "tags": ["smart-city"],
-      "description": "  SMARTER TOGETHER  is a joint project that aims to improve citizen’s quality of life in nowadays transforming cities."
+      "description": "SMARTER TOGETHER  is a joint project that aims to improve citizen’s quality of life in nowadays transforming cities."
     },
     {
       "title": "SmartEnCity",
       "url": "https://smartencity.eu/",
       "tags": ["smart-city"],
-      "description": "  SmartEnCity  aim to develop strategies that can be replicated throughout Europe in order to: Reduce energy demand and Maximise renewable energy supply"
+      "description": "SmartEnCity  aim to develop strategies that can be replicated throughout Europe in order to: Reduce energy demand and Maximise renewable energy supply"
     },
     {
       "title": "Replicate",
       "url": "https://replicate-project.eu/",
       "tags": ["smart-city"],
-      "description": "  Replicate  Renaissance of Places with Innovative Citizenship and Technology"
+      "description": "Replicate  Renaissance of Places with Innovative Citizenship and Technology"
     },
     {
       "title": "OrbEEt",
       "url": "http://orbeet.eu/objective/",
       "tags": ["smart-city"],
-      "description": "  OrbEEt  framework will continuously capture and analyse real time building information from low-cost, off-the-shelf non-intrusive sensors and convert this into meaningful real-time energy rating information"
+      "description": "OrbEEt  framework will continuously capture and analyse real time building information from low-cost, off-the-shelf non-intrusive sensors and convert this into meaningful real-time energy rating information"
     },
     {
       "title": "DR-BOB",
       "url": "https://www.dr-bob.eu/solution/",
       "tags": ["smart-city"],
-      "description": "  DR-BOB  Demand Response energy management solution optimises the local energy production, consumption and storage in real time."
+      "description": "DR-BOB  Demand Response energy management solution optimises the local energy production, consumption and storage in real time."
     },
     {
       "title": "Renewable energy hub UK",
       "url": "https://www.renewableenergyhub.co.uk/",
       "tags": ["knowledge"],
-      "description": "  Renewable energy hub UK  big marketplace for installers and generation devices"
+      "description": "Renewable energy hub UK  big marketplace for installers and generation devices"
     },
     {
       "title": "Microsoft announced",
       "url": "https://news.microsoft.com/en-xm/2019/11/12/microsoft-announces-ai-centre-of-excellence-at-adipec-2019-to-accelerate-innovation-across-energy-sector/",
       "tags": ["knowledge"],
-      "description": "   Microsoft announced  that in early 2020 it will open an AI Centre of Excellence for Energy in the United Arab Emirates – a global first for the company – to empower organisations in the industry in accelerating digital transformation, equipping the workforce with AI skills, as well as collaborating on coalitions to address sustainability and safety challenges."
+      "description": " Microsoft announced  that in early 2020 it will open an AI Centre of Excellence for Energy in the United Arab Emirates – a global first for the company – to empower organisations in the industry in accelerating digital transformation, equipping the workforce with AI skills, as well as collaborating on coalitions to address sustainability and safety challenges."
     },
     {
       "title": "Protect Earth",
       "url": "https://protect.earth",
       "tags": ["knowledge"],
-      "description": "  Protect Earth  is a list of links divided by categories and tags and compiled to a website (a bit like this repo, but better :smile:), the source is [here on Github](https://github.com/philsturgeon/awesome-earth)"
+      "description": "Protect Earth  is a list of links divided by categories and tags and compiled to a website (a bit like this repo, but better :smile:), the source is [here on Github](https://github.com/philsturgeon/awesome-earth)"
     },
     {
       "title": "En-roads scenario simulation",
       "url": "https://en-roads.climateinteractive.org/scenario.html",
       "tags": ["knowledge"],
-      "description": "  En-roads scenario simulation  helps to improve decision-maker understanding of the dynamics of the climate-energy-land-economic system, particularly focusing on policy-makers, citizens, educators, and business leaders [FAQ](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/general_faqs.html)"
+      "description": "En-roads scenario simulation  helps to improve decision-maker understanding of the dynamics of the climate-energy-land-economic system, particularly focusing on policy-makers, citizens, educators, and business leaders [FAQ](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/general_faqs.html)"
     },
     {
       "title": "SAVE",
       "url": "https://www.ssen.co.uk/save/",
       "tags": ["consumption"],
-      "description": "  SAVE  is a five-year trial across 4,000 homes in the Solent region called SAVE, which tried a range of mechanisms to see how households could provide demand reduction and response. From the [Energyst](https://theenergyst.com/sse-networks-to-bring-households-into-demand-side-response/)"
+      "description": "SAVE  is a five-year trial across 4,000 homes in the Solent region called SAVE, which tried a range of mechanisms to see how households could provide demand reduction and response. From the [Energyst](https://theenergyst.com/sse-networks-to-bring-households-into-demand-side-response/)"
     },
     {
       "title": "link",
@@ -286,7 +322,7 @@
       "title": "FTSE4good",
       "url": "https://www.ftse.com/products/indices/FTSE4Good",
       "tags": ["biz"],
-      "description": "  FTSE4good  Luxottica is mentioned here [link](https://www.pambianconews.com/2018/08/02/luxottica-entra-nellindice-ftse4good-241982/)"
+      "description": "FTSE4good  Luxottica is mentioned here [link](https://www.pambianconews.com/2018/08/02/luxottica-entra-nellindice-ftse4good-241982/)"
     },
     {
       "title": "link",
@@ -328,12 +364,12 @@
       "title": "aggregation is making storage a software business",
       "url": "https://www.utilitydive.com/news/greater-than-the-sum-how-aggregation-is-making-storage-into-a-software-bus/420753/",
       "tags": ["storage-biz"],
-      "description": "  aggregation is making storage a software business "
+      "description": "aggregation is making storage a software business "
     },
     {
       "title": "green energy storage",
       "url": "http://www.greenenergystorage.eu/en/battery/",
-      "description": "  green energy storage  an Italian company implementing a patented organic flow battery"
+      "description": "green energy storage  an Italian company implementing a patented organic flow battery"
     },
     {
       "title": "fluoride-ion battery",
@@ -368,7 +404,7 @@
     {
       "title": "eco passenger",
       "url": "http://ecopassenger.hafas.de/bin/query.exe/en?L=vs_uic&",
-      "description": "  eco passenger  is a calculator that compares the energy consumption, the CO2 emissions and other environmental impacts for planes, cars and trains in passenger transport"
+      "description": "eco passenger  is a calculator that compares the energy consumption, the CO2 emissions and other environmental impacts for planes, cars and trains in passenger transport"
     },
     {
       "title": "1",
@@ -386,13 +422,13 @@
       "title": "NREL PVWatts calculator",
       "url": "https://pvwatts.nrel.gov/pvwatts.php",
       "tags": ["solar"],
-      "description": "  NREL PVWatts calculator  with publications on model"
+      "description": "NREL PVWatts calculator  with publications on model"
     },
     {
       "title": "How to get",
       "url": "https://photovoltaic-software.com/principle-ressources/how-get-solar-radiation-data-world-free",
       "tags": ["solar"],
-      "description": "  How to get  solar radiation and climate data (precipitaton, temperature, wind, insolation...) anywhere in the world free from NASA database"
+      "description": "How to get  solar radiation and climate data (precipitaton, temperature, wind, insolation...) anywhere in the world free from NASA database"
     }
   ]
 }

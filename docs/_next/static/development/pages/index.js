@@ -11,8 +11,9 @@
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./bookmark-link.module.css */ "./components/bookmark-link.module.css");
-/* harmony import */ var _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _nav_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./nav-link */ "./components/nav-link.js");
+/* harmony import */ var _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./bookmark-link.module.css */ "./components/bookmark-link.module.css");
+/* harmony import */ var _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_2__);
 var _this = undefined,
     _jsxFileName = "/Users/tom/Projects/piazza.energy/curated-resource-list/components/bookmark-link.js";
 
@@ -20,52 +21,82 @@ var _this = undefined,
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
+
 var BookmarkLink = function BookmarkLink(_ref) {
   var url = _ref.url,
       title = _ref.title,
-      description = _ref.description;
+      description = _ref.description,
+      tags = _ref.tags;
+  var regex = /\[(.*?)\]\((.*?)\)/g;
+  var htmlDesc = description.replace(regex, '<a href="$2">$1</a>');
+  var tagSection = tags ? __jsx("p", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9,
+      columnNumber: 5
+    }
+  }, tags.map(function (tag, i) {
+    return __jsx("span", {
+      key: "tag_".concat(i),
+      __self: _this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 10,
+        columnNumber: 29
+      }
+    }, __jsx(_nav_link__WEBPACK_IMPORTED_MODULE_1__["TagLink"], {
+      name: tag,
+      __self: _this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 11,
+        columnNumber: 9
+      }
+    }));
+  })) : '';
   return __jsx("div", {
     className: "pure-u-1",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 3
+      lineNumber: 17,
+      columnNumber: 5
     }
   }, __jsx("div", {
-    className: _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_1___default.a.item,
+    className: _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_2___default.a.item,
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 5
+      lineNumber: 18,
+      columnNumber: 7
     }
   }, __jsx("h3", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
+      lineNumber: 19,
+      columnNumber: 9
     }
   }, __jsx("a", {
     href: url,
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 11
+      lineNumber: 19,
+      columnNumber: 13
     }
   }, title)), __jsx("p", {
     dangerouslySetInnerHTML: {
-      __html: description
+      __html: htmlDesc
     },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 7
+      lineNumber: 20,
+      columnNumber: 9
     }
-  })));
+  }), tagSection));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (BookmarkLink);
@@ -165,50 +196,6 @@ if (true) {
 }
 
 module.exports = content.locals || {};
-
-/***/ }),
-
-/***/ "./components/category-link.js":
-/*!*************************************!*\
-  !*** ./components/category-link.js ***!
-  \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./next-link */ "./components/next-link.js");
-var _this = undefined,
-    _jsxFileName = "/Users/tom/Projects/piazza.energy/curated-resource-list/components/category-link.js";
-
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
-var CategoryLink = function CategoryLink(_ref) {
-  var name = _ref.name;
-  return __jsx(_next_link__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    href: "/category/[name]",
-    as: "/category/".concat(name),
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 3
-    }
-  }, __jsx("a", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 5
-    }
-  }, name));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (CategoryLink);
 
 /***/ }),
 
@@ -612,6 +599,176 @@ module.exports = content.locals || {};
 
 /***/ }),
 
+/***/ "./components/nav-link.js":
+/*!********************************!*\
+  !*** ./components/nav-link.js ***!
+  \********************************/
+/*! exports provided: CategoryLink, TagLink */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CategoryLink", function() { return CategoryLink; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TagLink", function() { return TagLink; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./next-link */ "./components/next-link.js");
+/* harmony import */ var classnames_bind__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! classnames/bind */ "./node_modules/classnames/bind.js");
+/* harmony import */ var classnames_bind__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(classnames_bind__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _nav_link_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./nav-link.module.css */ "./components/nav-link.module.css");
+/* harmony import */ var _nav_link_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_nav_link_module_css__WEBPACK_IMPORTED_MODULE_3__);
+var _this = undefined,
+    _jsxFileName = "/Users/tom/Projects/piazza.energy/curated-resource-list/components/nav-link.js";
+
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+
+
+var CategoryLink = function CategoryLink(_ref) {
+  var name = _ref.name;
+  return __jsx(_next_link__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    href: "/category/[name]",
+    as: "/category/".concat(name),
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7,
+      columnNumber: 3
+    }
+  }, __jsx("a", {
+    className: classnames_bind__WEBPACK_IMPORTED_MODULE_2___default()(_nav_link_module_css__WEBPACK_IMPORTED_MODULE_3___default.a.link, _nav_link_module_css__WEBPACK_IMPORTED_MODULE_3___default.a.cat),
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8,
+      columnNumber: 5
+    }
+  }, name));
+};
+var TagLink = function TagLink(_ref2) {
+  var name = _ref2.name,
+      _ref2$count = _ref2.count,
+      count = _ref2$count === void 0 ? 0 : _ref2$count;
+  var text = "".concat(name, " ").concat(count > 0 ? "(".concat(count, ")") : '');
+  return __jsx(_next_link__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    href: "/tag/[name]",
+    as: "/tag/".concat(name),
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15,
+      columnNumber: 5
+    }
+  }, __jsx("a", {
+    className: classnames_bind__WEBPACK_IMPORTED_MODULE_2___default()(_nav_link_module_css__WEBPACK_IMPORTED_MODULE_3___default.a.link, _nav_link_module_css__WEBPACK_IMPORTED_MODULE_3___default.a.tag),
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16,
+      columnNumber: 7
+    }
+  }, text));
+};
+
+/***/ }),
+
+/***/ "./components/nav-link.module.css":
+/*!****************************************!*\
+  !*** ./components/nav-link.module.css ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./nav-link.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/nav-link.module.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = function(element){// These elements should always exist. If they do not,
+// this code should fail.
+var anchorElement=document.querySelector('#__next_css__DO_NOT_USE__');var parentNode=anchorElement.parentNode;// Normally <head>
+// Each style tag should be placed right before our
+// anchor. By inserting before and not after, we do not
+// need to track the last inserted element.
+parentNode.insertBefore(element,anchorElement)// Remember: this is development only code.
+//
+// After styles are injected, we need to remove the
+// <style> tags that set `body { display: none; }`.
+//
+// We use `requestAnimationFrame` as a way to defer
+// this operation since there may be multiple style
+// tags.
+;(self.requestAnimationFrame||setTimeout)(function(){for(var x=document.querySelectorAll('[data-next-hide-fouc]'),i=x.length;i--;){x[i].parentNode.removeChild(x[i]);}});};
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./nav-link.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/nav-link.module.css",
+      function () {
+        var newContent = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./nav-link.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/nav-link.module.css");
+
+              newContent = newContent.__esModule ? newContent.default : newContent;
+
+              if (typeof newContent === 'string') {
+                newContent = [[module.i, newContent, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, newContent.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = newContent.locals;
+
+              update(newContent);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
 /***/ "./components/next-link.js":
 /*!*********************************!*\
   !*** ./components/next-link.js ***!
@@ -670,7 +827,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _debounce__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./debounce */ "./components/debounce.js");
-/* harmony import */ var _category_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./category-link */ "./components/category-link.js");
+/* harmony import */ var _nav_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./nav-link */ "./components/nav-link.js");
 /* harmony import */ var _bookmark_link__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./bookmark-link */ "./components/bookmark-link.js");
 
 
@@ -855,7 +1012,7 @@ function searchCharacters(query, bookmarks) {
             lineNumber: 92,
             columnNumber: 11
           }
-        }, "In ", __jsx(_category_link__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        }, "In ", __jsx(_nav_link__WEBPACK_IMPORTED_MODULE_3__["CategoryLink"], {
           name: cat,
           __self: _this2,
           __source: {
@@ -1451,6 +1608,29 @@ exports.push([module.i, ".layout_container__2t4v2 {\n  padding: 0 1rem 1rem;\n  
 // Exports
 exports.locals = {
 	"container": "layout_container__2t4v2"
+};
+module.exports = exports;
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/nav-link.module.css":
+/*!*******************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!./node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./components/nav-link.module.css ***!
+  \*******************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+exports.push([module.i, ".nav-link_link__1omMK {\n  font-family: 'Chivo', sans-serif;\n}\n\n.nav-link_cat__jv7ss {\n\n}\n\n.nav-link_tag__3Y-j5, .nav-link_tag__3Y-j5:visited {\n  font-size: 0.8rem;\n  margin: 0 3px 3px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n", "",{"version":3,"sources":["nav-link.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;;AAEA;;AAEA;EACE,iBAAiB;EACjB,mBAAmB;EACnB,qBAAqB;EACrB,iBAAiB;EACjB,uBAAuB;EACvB,qBAAqB;EACrB,gBAAgB;EAChB,uBAAuB;EACvB,kBAAkB;AACpB","file":"nav-link.module.css","sourcesContent":[".link {\n  font-family: 'Chivo', sans-serif;\n}\n\n.cat {\n\n}\n\n.tag, .tag:visited {\n  font-size: 0.8rem;\n  margin: 0 3px 3px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n"]}]);
+// Exports
+exports.locals = {
+	"link": "nav-link_link__1omMK",
+	"cat": "nav-link_cat__jv7ss",
+	"tag": "nav-link_tag__3Y-j5"
 };
 module.exports = exports;
 
@@ -5767,7 +5947,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/layout */ "./components/layout.js");
-/* harmony import */ var _components_category_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/category-link */ "./components/category-link.js");
+/* harmony import */ var _components_nav_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/nav-link */ "./components/nav-link.js");
 /* harmony import */ var _components_search_engine__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/search-engine */ "./components/search-engine.js");
 var _this = undefined,
     _jsxFileName = "/Users/tom/Projects/piazza.energy/curated-resource-list/pages/index.js";
@@ -5780,7 +5960,8 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 var Page = function Page(_ref) {
   var categories = _ref.categories,
-      bookmarks = _ref.bookmarks;
+      bookmarks = _ref.bookmarks,
+      tags = _ref.tags;
   return __jsx(_components_layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __self: _this,
     __source: {
@@ -5817,44 +5998,86 @@ var Page = function Page(_ref) {
       lineNumber: 13,
       columnNumber: 7
     }
-  }, "This is a list of categorised resources for the sustainable energy sector."), __jsx("p", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 7
-    }
-  }, "All links in this website falling in one of the following categories"), __jsx("ul", {
+  }, "This is a list of categorised resources for the sustainable energy sector.")), __jsx("div", {
+    className: "pure-u-1 pure-u-lg-1-2",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17,
+      columnNumber: 5
+    }
+  }, __jsx("p", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18,
       columnNumber: 7
     }
-  }, categories.map(function (name, i) {
+  }, "All links in this website falling in one of the following categories:"), __jsx("ul", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19,
+      columnNumber: 7
+    }
+  }, categories.map(function (cat, i) {
     return __jsx("li", {
-      key: i,
+      key: "cat_".concat(i),
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 18,
-        columnNumber: 38
+        lineNumber: 20,
+        columnNumber: 37
       }
-    }, __jsx(_components_category_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-      name: name,
+    }, __jsx(_components_nav_link__WEBPACK_IMPORTED_MODULE_2__["CategoryLink"], {
+      name: cat,
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 19,
+        lineNumber: 21,
         columnNumber: 11
       }
     }));
   }))), __jsx("div", {
+    className: "pure-u-1 pure-u-lg-1-2",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25,
+      columnNumber: 5
+    }
+  }, __jsx("p", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26,
+      columnNumber: 7
+    }
+  }, "Links have also been tagged as follows:"), Object.keys(tags).map(function (tag, i) {
+    return __jsx("span", {
+      key: "tag_".concat(i),
+      __self: _this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 27,
+        columnNumber: 42
+      }
+    }, __jsx(_components_nav_link__WEBPACK_IMPORTED_MODULE_2__["TagLink"], {
+      name: tag,
+      count: tags[tag].length,
+      __self: _this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 28,
+        columnNumber: 9
+      }
+    }));
+  })), __jsx("div", {
     className: "pure-u-1",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23,
+      lineNumber: 31,
       columnNumber: 5
     }
   }, __jsx(_components_search_engine__WEBPACK_IMPORTED_MODULE_3__["default"], {
@@ -5862,7 +6085,7 @@ var Page = function Page(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24,
+      lineNumber: 32,
       columnNumber: 7
     }
   })));
@@ -5874,7 +6097,7 @@ var __N_SSG = true;
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!***************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Findex.js&hotRouterUpdates=true ***!
   \***************************************************************************************************************************************************************************/
@@ -5897,5 +6120,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

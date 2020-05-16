@@ -11,8 +11,9 @@
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./bookmark-link.module.css */ "./components/bookmark-link.module.css");
-/* harmony import */ var _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _nav_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./nav-link */ "./components/nav-link.js");
+/* harmony import */ var _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./bookmark-link.module.css */ "./components/bookmark-link.module.css");
+/* harmony import */ var _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_2__);
 var _this = undefined,
     _jsxFileName = "/Users/tom/Projects/piazza.energy/curated-resource-list/components/bookmark-link.js";
 
@@ -20,52 +21,82 @@ var _this = undefined,
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
+
 var BookmarkLink = function BookmarkLink(_ref) {
   var url = _ref.url,
       title = _ref.title,
-      description = _ref.description;
+      description = _ref.description,
+      tags = _ref.tags;
+  var regex = /\[(.*?)\]\((.*?)\)/g;
+  var htmlDesc = description.replace(regex, '<a href="$2">$1</a>');
+  var tagSection = tags ? __jsx("p", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9,
+      columnNumber: 5
+    }
+  }, tags.map(function (tag, i) {
+    return __jsx("span", {
+      key: "tag_".concat(i),
+      __self: _this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 10,
+        columnNumber: 29
+      }
+    }, __jsx(_nav_link__WEBPACK_IMPORTED_MODULE_1__["TagLink"], {
+      name: tag,
+      __self: _this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 11,
+        columnNumber: 9
+      }
+    }));
+  })) : '';
   return __jsx("div", {
     className: "pure-u-1",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 4,
-      columnNumber: 3
+      lineNumber: 17,
+      columnNumber: 5
     }
   }, __jsx("div", {
-    className: _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_1___default.a.item,
+    className: _bookmark_link_module_css__WEBPACK_IMPORTED_MODULE_2___default.a.item,
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 5
+      lineNumber: 18,
+      columnNumber: 7
     }
   }, __jsx("h3", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
+      lineNumber: 19,
+      columnNumber: 9
     }
   }, __jsx("a", {
     href: url,
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 11
+      lineNumber: 19,
+      columnNumber: 13
     }
   }, title)), __jsx("p", {
     dangerouslySetInnerHTML: {
-      __html: description
+      __html: htmlDesc
     },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 7
+      lineNumber: 20,
+      columnNumber: 9
     }
-  })));
+  }), tagSection));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (BookmarkLink);
@@ -493,6 +524,176 @@ if (true) {
       /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./layout.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/layout.module.css",
       function () {
         var newContent = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./layout.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/layout.module.css");
+
+              newContent = newContent.__esModule ? newContent.default : newContent;
+
+              if (typeof newContent === 'string') {
+                newContent = [[module.i, newContent, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, newContent.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = newContent.locals;
+
+              update(newContent);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./components/nav-link.js":
+/*!********************************!*\
+  !*** ./components/nav-link.js ***!
+  \********************************/
+/*! exports provided: CategoryLink, TagLink */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CategoryLink", function() { return CategoryLink; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TagLink", function() { return TagLink; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./next-link */ "./components/next-link.js");
+/* harmony import */ var classnames_bind__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! classnames/bind */ "./node_modules/classnames/bind.js");
+/* harmony import */ var classnames_bind__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(classnames_bind__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _nav_link_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./nav-link.module.css */ "./components/nav-link.module.css");
+/* harmony import */ var _nav_link_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_nav_link_module_css__WEBPACK_IMPORTED_MODULE_3__);
+var _this = undefined,
+    _jsxFileName = "/Users/tom/Projects/piazza.energy/curated-resource-list/components/nav-link.js";
+
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+
+
+var CategoryLink = function CategoryLink(_ref) {
+  var name = _ref.name;
+  return __jsx(_next_link__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    href: "/category/[name]",
+    as: "/category/".concat(name),
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7,
+      columnNumber: 3
+    }
+  }, __jsx("a", {
+    className: classnames_bind__WEBPACK_IMPORTED_MODULE_2___default()(_nav_link_module_css__WEBPACK_IMPORTED_MODULE_3___default.a.link, _nav_link_module_css__WEBPACK_IMPORTED_MODULE_3___default.a.cat),
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8,
+      columnNumber: 5
+    }
+  }, name));
+};
+var TagLink = function TagLink(_ref2) {
+  var name = _ref2.name,
+      _ref2$count = _ref2.count,
+      count = _ref2$count === void 0 ? 0 : _ref2$count;
+  var text = "".concat(name, " ").concat(count > 0 ? "(".concat(count, ")") : '');
+  return __jsx(_next_link__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    href: "/tag/[name]",
+    as: "/tag/".concat(name),
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15,
+      columnNumber: 5
+    }
+  }, __jsx("a", {
+    className: classnames_bind__WEBPACK_IMPORTED_MODULE_2___default()(_nav_link_module_css__WEBPACK_IMPORTED_MODULE_3___default.a.link, _nav_link_module_css__WEBPACK_IMPORTED_MODULE_3___default.a.tag),
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16,
+      columnNumber: 7
+    }
+  }, text));
+};
+
+/***/ }),
+
+/***/ "./components/nav-link.module.css":
+/*!****************************************!*\
+  !*** ./components/nav-link.module.css ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./nav-link.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/nav-link.module.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = function(element){// These elements should always exist. If they do not,
+// this code should fail.
+var anchorElement=document.querySelector('#__next_css__DO_NOT_USE__');var parentNode=anchorElement.parentNode;// Normally <head>
+// Each style tag should be placed right before our
+// anchor. By inserting before and not after, we do not
+// need to track the last inserted element.
+parentNode.insertBefore(element,anchorElement)// Remember: this is development only code.
+//
+// After styles are injected, we need to remove the
+// <style> tags that set `body { display: none; }`.
+//
+// We use `requestAnimationFrame` as a way to defer
+// this operation since there may be multiple style
+// tags.
+;(self.requestAnimationFrame||setTimeout)(function(){for(var x=document.querySelectorAll('[data-next-hide-fouc]'),i=x.length;i--;){x[i].parentNode.removeChild(x[i]);}});};
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./nav-link.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/nav-link.module.css",
+      function () {
+        var newContent = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./nav-link.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/nav-link.module.css");
 
               newContent = newContent.__esModule ? newContent.default : newContent;
 
@@ -1123,6 +1324,29 @@ exports.push([module.i, ".layout_container__2t4v2 {\n  padding: 0 1rem 1rem;\n  
 // Exports
 exports.locals = {
 	"container": "layout_container__2t4v2"
+};
+module.exports = exports;
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/nav-link.module.css":
+/*!*******************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!./node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./components/nav-link.module.css ***!
+  \*******************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+exports.push([module.i, ".nav-link_link__1omMK {\n  font-family: 'Chivo', sans-serif;\n}\n\n.nav-link_cat__jv7ss {\n\n}\n\n.nav-link_tag__3Y-j5, .nav-link_tag__3Y-j5:visited {\n  font-size: 0.8rem;\n  margin: 0 3px 3px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n", "",{"version":3,"sources":["nav-link.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;;AAEA;;AAEA;EACE,iBAAiB;EACjB,mBAAmB;EACnB,qBAAqB;EACrB,iBAAiB;EACjB,uBAAuB;EACvB,qBAAqB;EACrB,gBAAgB;EAChB,uBAAuB;EACvB,kBAAkB;AACpB","file":"nav-link.module.css","sourcesContent":[".link {\n  font-family: 'Chivo', sans-serif;\n}\n\n.cat {\n\n}\n\n.tag, .tag:visited {\n  font-size: 0.8rem;\n  margin: 0 3px 3px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n"]}]);
+// Exports
+exports.locals = {
+	"link": "nav-link_link__1omMK",
+	"cat": "nav-link_cat__jv7ss",
+	"tag": "nav-link_tag__3Y-j5"
 };
 module.exports = exports;
 
@@ -5439,8 +5663,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/extends */ "./node_modules/@babel/runtime/helpers/esm/extends.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../components/layout */ "./components/layout.js");
-/* harmony import */ var _components_bookmark_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../components/bookmark-link */ "./components/bookmark-link.js");
+/* harmony import */ var _utils_string_utils__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../utils/string-utils */ "./utils/string-utils.js");
+/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../components/layout */ "./components/layout.js");
+/* harmony import */ var _components_bookmark_link__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../components/bookmark-link */ "./components/bookmark-link.js");
 
 
 var _this = undefined,
@@ -5451,14 +5676,15 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 
+
 var Page = function Page(_ref) {
   var params = _ref.params,
       elements = _ref.elements;
-  return __jsx(_components_layout__WEBPACK_IMPORTED_MODULE_2__["default"], {
+  return __jsx(_components_layout__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7,
+      lineNumber: 8,
       columnNumber: 3
     }
   }, __jsx("div", {
@@ -5466,24 +5692,24 @@ var Page = function Page(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8,
+      lineNumber: 9,
       columnNumber: 5
     }
   }, __jsx("h1", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9,
+      lineNumber: 10,
       columnNumber: 7
     }
-  }, "Energy Piazza - ", capitalize(params.name))), elements.map(function (elem, i) {
-    return __jsx(_components_bookmark_link__WEBPACK_IMPORTED_MODULE_3__["default"], Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
+  }, "Energy Piazza - ", Object(_utils_string_utils__WEBPACK_IMPORTED_MODULE_2__["capitalize"])(params.name))), elements.map(function (elem, i) {
+    return __jsx(_components_bookmark_link__WEBPACK_IMPORTED_MODULE_4__["default"], Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
       key: i
     }, elem, {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 11,
+        lineNumber: 12,
         columnNumber: 32
       }
     }));
@@ -5492,18 +5718,62 @@ var Page = function Page(_ref) {
 
 ;
 ;
-
-var capitalize = function capitalize(s) {
-  if (typeof s !== 'string') return '';
-  return s.charAt(0).toUpperCase() + s.slice(1);
-};
-
 var __N_SSG = true;
 /* harmony default export */ __webpack_exports__["default"] = (Page);
 
 /***/ }),
 
-/***/ 2:
+/***/ "./utils/string-utils.js":
+/*!*******************************!*\
+  !*** ./utils/string-utils.js ***!
+  \*******************************/
+/*! exports provided: capitalize, slugify */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "capitalize", function() { return capitalize; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "slugify", function() { return slugify; });
+var charMap = JSON.parse('{"$":"dollar","%":"percent","&":"and","<":"less",">":"greater","|":"or","¢":"cent","£":"pound","¤":"currency","¥":"yen","©":"(c)","ª":"a","®":"(r)","º":"o","À":"A","Á":"A","Â":"A","Ã":"A","Ä":"A","Å":"A","Æ":"AE","Ç":"C","È":"E","É":"E","Ê":"E","Ë":"E","Ì":"I","Í":"I","Î":"I","Ï":"I","Ð":"D","Ñ":"N","Ò":"O","Ó":"O","Ô":"O","Õ":"O","Ö":"O","Ø":"O","Ù":"U","Ú":"U","Û":"U","Ü":"U","Ý":"Y","Þ":"TH","ß":"ss","à":"a","á":"a","â":"a","ã":"a","ä":"a","å":"a","æ":"ae","ç":"c","è":"e","é":"e","ê":"e","ë":"e","ì":"i","í":"i","î":"i","ï":"i","ð":"d","ñ":"n","ò":"o","ó":"o","ô":"o","õ":"o","ö":"o","ø":"o","ù":"u","ú":"u","û":"u","ü":"u","ý":"y","þ":"th","ÿ":"y","Ā":"A","ā":"a","Ă":"A","ă":"a","Ą":"A","ą":"a","Ć":"C","ć":"c","Č":"C","č":"c","Ď":"D","ď":"d","Đ":"DJ","đ":"dj","Ē":"E","ē":"e","Ė":"E","ė":"e","Ę":"e","ę":"e","Ě":"E","ě":"e","Ğ":"G","ğ":"g","Ģ":"G","ģ":"g","Ĩ":"I","ĩ":"i","Ī":"i","ī":"i","Į":"I","į":"i","İ":"I","ı":"i","Ķ":"k","ķ":"k","Ļ":"L","ļ":"l","Ľ":"L","ľ":"l","Ł":"L","ł":"l","Ń":"N","ń":"n","Ņ":"N","ņ":"n","Ň":"N","ň":"n","Ő":"O","ő":"o","Œ":"OE","œ":"oe","Ŕ":"R","ŕ":"r","Ř":"R","ř":"r","Ś":"S","ś":"s","Ş":"S","ş":"s","Š":"S","š":"s","Ţ":"T","ţ":"t","Ť":"T","ť":"t","Ũ":"U","ũ":"u","Ū":"u","ū":"u","Ů":"U","ů":"u","Ű":"U","ű":"u","Ų":"U","ų":"u","Ŵ":"W","ŵ":"w","Ŷ":"Y","ŷ":"y","Ÿ":"Y","Ź":"Z","ź":"z","Ż":"Z","ż":"z","Ž":"Z","ž":"z","ƒ":"f","Ơ":"O","ơ":"o","Ư":"U","ư":"u","ǈ":"LJ","ǉ":"lj","ǋ":"NJ","ǌ":"nj","Ș":"S","ș":"s","Ț":"T","ț":"t","˚":"o","Ά":"A","Έ":"E","Ή":"H","Ί":"I","Ό":"O","Ύ":"Y","Ώ":"W","ΐ":"i","Α":"A","Β":"B","Γ":"G","Δ":"D","Ε":"E","Ζ":"Z","Η":"H","Θ":"8","Ι":"I","Κ":"K","Λ":"L","Μ":"M","Ν":"N","Ξ":"3","Ο":"O","Π":"P","Ρ":"R","Σ":"S","Τ":"T","Υ":"Y","Φ":"F","Χ":"X","Ψ":"PS","Ω":"W","Ϊ":"I","Ϋ":"Y","ά":"a","έ":"e","ή":"h","ί":"i","ΰ":"y","α":"a","β":"b","γ":"g","δ":"d","ε":"e","ζ":"z","η":"h","θ":"8","ι":"i","κ":"k","λ":"l","μ":"m","ν":"n","ξ":"3","ο":"o","π":"p","ρ":"r","ς":"s","σ":"s","τ":"t","υ":"y","φ":"f","χ":"x","ψ":"ps","ω":"w","ϊ":"i","ϋ":"y","ό":"o","ύ":"y","ώ":"w","Ё":"Yo","Ђ":"DJ","Є":"Ye","І":"I","Ї":"Yi","Ј":"J","Љ":"LJ","Њ":"NJ","Ћ":"C","Џ":"DZ","А":"A","Б":"B","В":"V","Г":"G","Д":"D","Е":"E","Ж":"Zh","З":"Z","И":"I","Й":"J","К":"K","Л":"L","М":"M","Н":"N","О":"O","П":"P","Р":"R","С":"S","Т":"T","У":"U","Ф":"F","Х":"H","Ц":"C","Ч":"Ch","Ш":"Sh","Щ":"Sh","Ъ":"U","Ы":"Y","Ь":"","Э":"E","Ю":"Yu","Я":"Ya","а":"a","б":"b","в":"v","г":"g","д":"d","е":"e","ж":"zh","з":"z","и":"i","й":"j","к":"k","л":"l","м":"m","н":"n","о":"o","п":"p","р":"r","с":"s","т":"t","у":"u","ф":"f","х":"h","ц":"c","ч":"ch","ш":"sh","щ":"sh","ъ":"u","ы":"y","ь":"","э":"e","ю":"yu","я":"ya","ё":"yo","ђ":"dj","є":"ye","і":"i","ї":"yi","ј":"j","љ":"lj","њ":"nj","ћ":"c","ѝ":"u","џ":"dz","Ґ":"G","ґ":"g","Ғ":"GH","ғ":"gh","Қ":"KH","қ":"kh","Ң":"NG","ң":"ng","Ү":"UE","ү":"ue","Ұ":"U","ұ":"u","Һ":"H","һ":"h","Ә":"AE","ә":"ae","Ө":"OE","ө":"oe","฿":"baht","ა":"a","ბ":"b","გ":"g","დ":"d","ე":"e","ვ":"v","ზ":"z","თ":"t","ი":"i","კ":"k","ლ":"l","მ":"m","ნ":"n","ო":"o","პ":"p","ჟ":"zh","რ":"r","ს":"s","ტ":"t","უ":"u","ფ":"f","ქ":"k","ღ":"gh","ყ":"q","შ":"sh","ჩ":"ch","ც":"ts","ძ":"dz","წ":"ts","ჭ":"ch","ხ":"kh","ჯ":"j","ჰ":"h","Ẁ":"W","ẁ":"w","Ẃ":"W","ẃ":"w","Ẅ":"W","ẅ":"w","ẞ":"SS","Ạ":"A","ạ":"a","Ả":"A","ả":"a","Ấ":"A","ấ":"a","Ầ":"A","ầ":"a","Ẩ":"A","ẩ":"a","Ẫ":"A","ẫ":"a","Ậ":"A","ậ":"a","Ắ":"A","ắ":"a","Ằ":"A","ằ":"a","Ẳ":"A","ẳ":"a","Ẵ":"A","ẵ":"a","Ặ":"A","ặ":"a","Ẹ":"E","ẹ":"e","Ẻ":"E","ẻ":"e","Ẽ":"E","ẽ":"e","Ế":"E","ế":"e","Ề":"E","ề":"e","Ể":"E","ể":"e","Ễ":"E","ễ":"e","Ệ":"E","ệ":"e","Ỉ":"I","ỉ":"i","Ị":"I","ị":"i","Ọ":"O","ọ":"o","Ỏ":"O","ỏ":"o","Ố":"O","ố":"o","Ồ":"O","ồ":"o","Ổ":"O","ổ":"o","Ỗ":"O","ỗ":"o","Ộ":"O","ộ":"o","Ớ":"O","ớ":"o","Ờ":"O","ờ":"o","Ở":"O","ở":"o","Ỡ":"O","ỡ":"o","Ợ":"O","ợ":"o","Ụ":"U","ụ":"u","Ủ":"U","ủ":"u","Ứ":"U","ứ":"u","Ừ":"U","ừ":"u","Ử":"U","ử":"u","Ữ":"U","ữ":"u","Ự":"U","ự":"u","Ỳ":"Y","ỳ":"y","Ỵ":"Y","ỵ":"y","Ỷ":"Y","ỷ":"y","Ỹ":"Y","ỹ":"y","‘":"\'","’":"\'","“":"\\\"","”":"\\\"","†":"+","•":"*","…":"...","₠":"ecu","₢":"cruzeiro","₣":"french franc","₤":"lira","₥":"mill","₦":"naira","₧":"peseta","₨":"rupee","₩":"won","₪":"new shequel","₫":"dong","€":"euro","₭":"kip","₮":"tugrik","₯":"drachma","₰":"penny","₱":"peso","₲":"guarani","₳":"austral","₴":"hryvnia","₵":"cedi","₸":"kazakhstani tenge","₹":"indian rupee","₽":"russian ruble","₿":"bitcoin","℠":"sm","™":"tm","∂":"d","∆":"delta","∑":"sum","∞":"infinity","♥":"love","元":"yuan","円":"yen","﷼":"rial"}');
+var locales = JSON.parse('{"vi":{"Đ":"D","đ":"d"}}');
+function capitalize(s) {
+  if (typeof s !== 'string') return '';
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
+function slugify(string, options) {
+  if (typeof string !== 'string') {
+    throw new Error('slugify: string argument expected');
+  }
+
+  options = typeof options === 'string' ? {
+    replacement: options
+  } : options || {};
+  var locale = locales[options.locale] || {};
+  var replacement = options.replacement || '-';
+  var slug = string.split('') // replace characters based on charMap
+  .reduce(function (result, ch) {
+    return result + (locale[ch] || charMap[ch] || ch);
+  }, '') // remove not allowed characters
+  .replace(options.remove || /[^\w\s$*_+~.()'"!\-:@]+/g, '') // trim leading/trailing spaces
+  .trim() // convert spaces to replacement character
+  // also remove duplicates of the replacement character
+  .replace(new RegExp('[\\s' + replacement + ']+', 'g'), replacement);
+
+  if (options.lower) {
+    slug = slug.toLowerCase();
+  }
+
+  if (options.strict) {
+    // remove anything besides letters, numbers, and the replacement char
+    slug = slug.replace(new RegExp('[^a-zA-Z0-9' + replacement + ']', 'g'), '');
+  }
+
+  return slug;
+}
+
+/***/ }),
+
+/***/ 1:
 /*!****************************************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fcategory%2F%5Bname%5D&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Fcategory%2F%5Bname%5D.js&hotRouterUpdates=true ***!
   \****************************************************************************************************************************************************************************************************************/
@@ -5526,5 +5796,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=[name].js.map
