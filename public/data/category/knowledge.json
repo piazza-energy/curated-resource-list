@@ -1,7 +1,25 @@
 {
   "data": [
     {
-      "title": "Electricity generation charts by Ofgemn",
+      "title": "Graphene battery breakthrough",
+      "url": "https://pv-magazine-usa.com/2020/05/22/investors-bet-27-5-million-that-nanotech-energys-graphene-battery-breakthrough-is-the-real-thing/",
+      "tags": ["storage", "knowledge", "storage-biz"],
+      "description": "The startup [Nanotech Energy](https://nanotechenergy.com/) claims to be “the world’s top supplier of graphene” and plans to release a non-flammable, environmentally friendly lithium battery that can charge “18 times faster than anything that is currently available on the market” — within the next year."
+    },
+    {
+      "title": "Cambridge Carbon Map",
+      "url": "http://cambridgecarbonmap.org/",
+      "tags": ["dataset", "knowledge"],
+      "description": "The Cambridge Carbon Map will bring together town and University organisations to create a public map of carbon emissions for the city of Cambridge. It will be accessible to anyone with a mobile phone and will allow you to compare carbon emissions for organisations with a simple tap on your mobile screen."
+    },
+    {
+      "title": "SPECIFIC / Active Building Centre",
+      "url": "https://www.specific.eu.com/about-us/",
+      "tags": ["smart-city"],
+      "description": "Our building concept integrates solar technology into one system – that enables them to generate, store and release their own solar energy – both heat and electricity. Rolled out through The [Active Building Centre](https://www.activebuildingcentre.com/about-us/) seeks to revolutionise the way the UK designs, constructs and operates buildings."
+    },
+    {
+      "title": "Electricity generation charts by Ofgem",
       "url": "https://www.ofgem.gov.uk/data-portal/all-charts/policy-area/electricity-wholesale-markets",
       "tags": ["market", "dataset"],
       "description": "Ofgem data portal for the energy markets in Great Britain. This portal gives direct access to all of our interactive data charts in a single location, alongside indicators we consider key to our performance monitoring."
