@@ -6,26 +6,28 @@ It is published as a Github pages website in [here](https://piazza.energy/curate
 
 ## migration to nextjs
 
-regex
+conversion from original markdown using regex
 
 `^-(.*?)\[(.*?)\]\((.*?)\)(.*)$`
 
-replace with
+matches replaced with
 
-```{
+```javascript
+{
   "title": "$2", 
   "url": "$3",
   "description": "$1 $2 $4"
 },```
 
-sample output, full
+sample output, full (markdown links in description fields are correctly rendered)
 
-```{
+```javascript
+{
   "data": [
     {
       "title": "A clever website",
       "url": "https://www.google.com/",
-      "description": "Founded by 2 students at <a href=\"https://www.stanford.edu/\">Stanford</a>",
+      "description": "Founded by 2 students at [Stanford](https://www.stanford.edu/)",
       "thumb": null,
       "tags": ["search engine"]
     },

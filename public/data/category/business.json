@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "title": "running list of Climate Tech accelerators",
+      "url": "https://climatetechvc.org/a-running-list-of-climate-tech-accelerators/",
+      "tags": ["accelerator"],
+      "description": "https://climatetechvc.org/a-running-list-of-climate-tech-accelerators/"
+    },
+    {
+      "title": "Pale Blue Dot",
+      "url": "https://paleblue.vc/",
+      "tags": ["vc"],
+      "description": "Pale Blue Dot are a climate-tech venture fund investing in companies that reduce and reverse the effects of climate change and prepare for a new world. [News in Tech Crunch](https://techcrunch.com/2020/06/16/pale-blue-dot/)"
+    },
+    {
+      "title": "Lowercarbon Capital",
+      "url": "https://lowercarboncapital.com/team/",
+      "tags": ["vc"],
+      "description": "Chris & Crystal Sacca vc fund"
+    },
+    {
+      "title": "The Net Zero Home Programme",
+      "url": "https://www.sustainableventures.co.uk/net-zero-home",
+      "tags": ["accelerator"],
+      "description": "Sustainable Ventures has partnered with Schneider Electric to pioneer a collaborative approach to achieve the Net Zero Home of the future. We are looking for leading start-ups and SMEs to work with us to turn this vision into a reality by collaborating to scale-up and achieve mass-market deployment of cutting-edge sustainability innovations."
+    },
+    {
+      "title": "Tech Nation Net Zero",
+      "url": "https://technation.io/programmes/net-zero/",
+      "tags": ["accelerator"],
+      "description": "Deadline 20.7.2020 - Looking for digital and hardware companies which operate across key sectors including electricity & energy, transport & mobility, agriculture, food systems, manufacturing and building technology."
+    },
+    {
+      "title": "Systemiq",
+      "url": "https://www.systemiq.earth/what-is-systemiq/",
+      "tags": ["incubator", "advisor"],
+      "description": "SYSTEMIQ connects people, ideas, technologies and capital. As advisors, our insight helps to reshape policies and business strategies for rapid changes that are happening now, and shaping the decades ahead. "
+    },
+    {
       "title": "Clean Growth Fund",
       "url": "https://www.cleangrowthfund.com/",
       "tags": ["funding"],
@@ -10,13 +46,13 @@
       "title": "Breakthrough Energy fund",
       "url": "http://www.b-t.energy/coalition/",
       "tags": ["vc"],
-      "description": " Bill Gates & Friends $1$1 Breakthrough Energy fund , check the landscape section for ideas. Part of the money is [trickling down to Europe](http://europa.eu/rapid/press-release_IP-18-6125_en.htm)"
+      "description": " Bill Gates & Friends Breakthrough Energy fund , check the landscape section for ideas. Part of the money is [trickling down to Europe](http://europa.eu/rapid/press-release_IP-18-6125_en.htm)"
     },
     {
       "title": "EnBW",
       "url": "https://www.env.vc/index-1.html",
       "tags": ["vc"],
-      "description": "EnB$1 new ventures 100M fund"
+      "description": "EnBW new ventures 100M fund"
     },
     {
       "title": "link",
@@ -28,79 +64,79 @@
       "title": "wunder capital",
       "url": "https://www.wundercapital.com/",
       "tags": ["vc"],
-      "description": "wunder capita$1 Investment fund specialised in cleantech"
+      "description": "wunder capital Investment fund specialised in cleantech"
     },
     {
       "title": "Kleiner Perkins Caufield & Byers",
       "url": "http://www.kleinerperkins.com/",
       "tags": ["vc"],
-      "description": "Kleiner Perkins Caufield & Byer$1 is regarded as one of the prominent VC in cleanTech, albeit going through some troubles, according to [Reuters](https://www.reuters.com/article/us-kleiner-doerr-venture/insight-how-cleantech-tarnished-kleiner-and-vc-star-john-doerr-idUSBRE90F0AD20130116)"
+      "description": "Kleiner Perkins Caufield & Byers is regarded as one of the prominent VC in cleanTech, albeit going through some troubles, according to [Reuters](https://www.reuters.com/article/us-kleiner-doerr-venture/insight-how-cleantech-tarnished-kleiner-and-vc-star-john-doerr-idUSBRE90F0AD20130116)"
     },
     {
-      "title": "link",
+      "title": "National grid fund",
       "url": "https://news.crunchbase.com/news/utility-national-grid-launches-venture-arm-powered-by-250m-fund/",
       "tags": ["vc"],
-      "description": " National grid announced 250M fun$1 link "
+      "description": " National grid announced 250M fund link "
     },
     {
       "title": "EIT InnoEnergy investment fund",
       "url": "https://investmentround.innoenergy.com/",
       "tags": ["vc"],
-      "description": "EIT InnoEnergy investment fun$1 open fund (no deadline) by [InnoEnergy](http://www.innoenergy.com/about-innoenergy/) for sustainable energy across Europe supported by the European Institute of Innovation and Technology."
+      "description": "EIT InnoEnergy investment fund open fund (no deadline) by [InnoEnergy](http://www.innoenergy.com/about-innoenergy/) for sustainable energy across Europe supported by the European Institute of Innovation and Technology."
     },
     {
       "title": "BP Ventures",
       "url": "https://www.bp.com/en/global/bp-ventures/about.html",
       "tags": ["vc"],
-      "description": "BP Venture$1 setup in 2009 to identify and invest in private, high growth, game-changing technology companies, accelerating innovation across the entire energy spectrum"
+      "description": "BP Ventures setup in 2009 to identify and invest in private, high growth, game-changing technology companies, accelerating innovation across the entire energy spectrum"
     },
     {
       "title": "national grid partners",
       "url": "https://ngpartners.com/portfolio/",
       "tags": ["vc"],
-      "description": "national grid partner$1 is the utility industry’s first Silicon Valley-based VC & innovation firm. NGP invests in the potential of energy with a provocative vision to define a smarter and more renewable energy future."
+      "description": "national grid partners is the utility industry’s first Silicon Valley-based VC & innovation firm. NGP invests in the potential of energy with a provocative vision to define a smarter and more renewable energy future."
     },
     {
       "title": "Energy Impact partners",
       "url": "https://www.energyimpactpartners.com/investments/equity/",
       "tags": ["vc"],
-      "description": "Energy Impact partner$1 invest in companies shaping the energy landscape of the future"
+      "description": "Energy Impact partners invest in companies shaping the energy landscape of the future"
     },
     {
       "title": "Shell Ventures",
       "url": "https://www.shell.com/energy-and-innovation/new-energies/shell-ventures.html",
       "tags": ["vc"],
-      "description": "Shell Venture$1 targets startups and Small & Medium Enterprises (SMEs) from their early stages to their scale and growth phases. It makes minority investments that help to develop new technologies or disruptive business models in areas of strategic interest to Shell’s businesses."
+      "description": "Shell Ventures targets startups and Small & Medium Enterprises (SMEs) from their early stages to their scale and growth phases. It makes minority investments that help to develop new technologies or disruptive business models in areas of strategic interest to Shell’s businesses."
     },
     {
       "title": "Clean Energy Venture Group",
       "url": "https://cevg.com/",
       "tags": ["vc"],
-      "description": "Clean Energy Venture Grou$1 is an investment group with offices in Boston and New York which provides seed capital and management expertise to early stage clean energy companies. [In the news](https://news.crunchbase.com/news/bostons-clean-energy-ventures-raises-110m-for-its-first-fund/) Boston’s Clean Energy Ventures (CEV) has closed its first fund for $110 million."
+      "description": "Clean Energy Venture Group is an investment group with offices in Boston and New York which provides seed capital and management expertise to early stage clean energy companies. [In the news](https://news.crunchbase.com/news/bostons-clean-energy-ventures-raises-110m-for-its-first-fund/) Boston’s Clean Energy Ventures (CEV) has closed its first fund for $110 million."
     },
     {
       "title": "Piva",
       "url": "http://www.piva.vc/",
       "tags": ["vc"],
-      "description": " Piv$1 announced the launch of its inaugural $250 million fund with the mission of ushering in “a new era of industry and energy.” - [from Crunchbase](https://news.crunchbase.com/news/new-vc-firm-piva-closes-250m-fund-focused-on-energy-industry/)"
+      "description": " Piva announced the launch of its inaugural $250 million fund with the mission of ushering in “a new era of industry and energy.” - [from Crunchbase](https://news.crunchbase.com/news/new-vc-firm-piva-closes-250m-fund-focused-on-energy-industry/)"
     },
     {
       "title": "Green Angel Syndicate",
       "url": "https://greenangelsyndicate.com/",
       "tags": ["vc"],
-      "description": "Green Angel Syndicat$1 is an angel investment syndicate that focuses on companies in the energy, sustainable transport, water, smart cities and wider green economy sectors that, if not actually generating revenue, are on the cusp of doing so."
+      "description": "Green Angel Syndicate is an angel investment syndicate that focuses on companies in the energy, sustainable transport, water, smart cities and wider green economy sectors that, if not actually generating revenue, are on the cusp of doing so."
     },
     {
       "title": "Clean and cool",
       "url": "https://cleanandcool.org/",
       "tags": ["accelerator"],
-      "description": "Clean and coo$1 not properly accelerator program, probably more a networking series of events"
+      "description": "Clean and cool not properly accelerator program, probably more a networking series of events"
     },
     {
       "title": "EIC climate kic",
       "url": "https://www.climate-kic.org/programmes/entrepreneurship/",
       "tags": ["accelerator"],
-      "description": "EIC climate ki$1 the program on climate change run by the European Institute of Innovation & Technology **loads of startups**"
+      "description": "EIC climate kic the program on climate change run by the European Institute of Innovation & Technology **loads of startups**"
     },
     {
       "title": "Sustainable accelerator",
@@ -112,49 +148,49 @@
       "title": "Sustainable bridges",
       "url": "http://www.sustainablebridges.co.uk/",
       "tags": ["accelerator"],
-      "description": "Sustainable bridge$1 / [Workspaces](https://www.sustainableworkspaces.co.uk/) it's the shared space where the accelerator operates (I think, will pay a visit soon)"
+      "description": "Sustainable bridges / [Workspaces](https://www.sustainableworkspaces.co.uk/) it's the shared space where the accelerator operates (I think, will pay a visit soon)"
     },
     {
-      "title": "link",
+      "title": "Seed and co-working in Oakland, CA",
       "url": "https://powerhouse.fund/#landing",
       "tags": ["accelerator"],
-      "description": " Seed and co-working in Oakland, C$1 link "
+      "description": " Seed and co-working in Oakland, CA  "
     },
     {
       "title": "Elemental",
       "url": "https://elementalexcelerator.com/",
       "tags": ["accelerator"],
-      "description": " Hawaii / California / Pacific accelerato$1 Elementa$1 last cohort started oct 18"
+      "description": " Hawaii / California / Pacific accelerator Elemental last cohort started oct 18"
     },
     {
-      "title": "link",
+      "title": "List of accelerators",
       "url": "https://www.londoncleantechcluster.co.uk/london-cleantech-cluster-2/cleantech-business/",
       "tags": ["accelerator"],
-      "description": " List of accelerators and incubators, in theory in cleantech but covering all sort$1 link "
+      "description": " List of accelerators and incubators, in theory in cleantech but covering all sorts  "
     },
     {
-      "title": "link",
+      "title": "List of accelerators in London",
       "url": "https://hubblehq.com/blog/the-official-list-of-londons-business-accelerators-and-incubators",
       "tags": ["accelerator"],
-      "description": " Generic list of accelerators in Londo$1 link "
+      "description": " Generic list of accelerators in London  "
     },
     {
       "title": "Digital Catapult",
       "url": "https://www.digicatapult.org.uk/",
       "tags": ["accelerator"],
-      "description": "Digital Catapul$1 there's also the energy catapult, check the link"
+      "description": "Digital Catapult there's also the energy catapult, check the link"
     },
     {
       "title": "R/GA",
       "url": "http://ventures.rga.com/startups/",
       "tags": ["accelerator"],
-      "description": "R/G$1 they're in the IoT sector, possibly green"
+      "description": "R/GA they're in the IoT sector, possibly green"
     },
     {
       "title": "Google for Startups Accelerator",
       "url": "https://www.blog.google/around-the-globe/google-europe/supporting-social-impact-startups/",
       "tags": ["accelerator"],
-      "description": "Google for Startups Accelerato$1 focused on sustainable development goals. Geared toward social impact startups working to create a healthier and more sustainable future, launching early 2020"
+      "description": "Google for Startups Accelerator focused on sustainable development goals. Geared toward social impact startups working to create a healthier and more sustainable future, launching early 2020"
     },
     {
       "title": "Startmate climate cohort",
@@ -166,37 +202,37 @@
       "title": "BCG DV",
       "url": "https://socialimpact.bcgdv.com/",
       "tags": ["accelerator"],
-      "description": "BCG D$1 In 2019-2020 we are piloting a new Program for Social Ventures. We are looking for motivated teams that want to build and grow their social initiative with our help over a three-month period at our Berlin office."
+      "description": "BCG DV In 2019-2020 we are piloting a new Program for Social Ventures. We are looking for motivated teams that want to build and grow their social initiative with our help over a three-month period at our Berlin office."
     },
     {
       "title": "Incubatenergy Labs",
       "url": "https://labs.incubatenergy.org/",
       "tags": ["accelerator"],
-      "description": " Throug$1 Incubatenergy Labs , EPRI and a group of leading utilities are engaging early stage companies to demonstrate and deploy innovative solutions in targeted areas."
+      "description": " Through Incubatenergy Labs , EPRI and a group of leading utilities are engaging early stage companies to demonstrate and deploy innovative solutions in targeted areas."
     },
     {
       "title": "Better Future",
       "url": "https://www.london.gov.uk/what-we-do/environment/better-futures/about-better-futures",
       "tags": ["funding"],
-      "description": "Better Futur$1 EU regional development fund"
+      "description": "Better Future EU regional development fund"
     },
     {
-      "title": "link",
+      "title": "Optimise Prime",
       "url": "https://www.ofgem.gov.uk/publications-and-updates/electricity-nic-2018-submission-ukpn-optimise-prime",
       "tags": ["funding"],
-      "description": " Optimise Prime by NIC / Ofge$1 lin$1 data for EV referenced on [Wired](https://www.wired.co.uk/article/electric-cars-uk-worlds-biggest-trial)"
+      "description": " Optimise Prime by NIC / Ofgem k data for EV referenced on [Wired](https://www.wired.co.uk/article/electric-cars-uk-worlds-biggest-trial)"
     },
     {
       "title": "BEIS industrial energy efficiency accelerator",
       "url": "https://www.carbontrust.com/client-services/programmes/industrial-energy-efficiency-accelerator/",
       "tags": ["funding"],
-      "description": "BEIS industrial energy efficiency accelerato$1 Department of Business, Energy and Industrial Strategy’s £9.2 million fund"
+      "description": "BEIS industrial energy efficiency accelerator Department of Business, Energy and Industrial Strategy’s £9.2 million fund"
     },
     {
       "title": "List of Government funding",
       "url": "https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems",
       "tags": ["funding"],
-      "description": "List of Government fundin$1 for innovation in smart energy systems and technologies with references to Power Forward Challenge, Flex, etc."
+      "description": "List of Government funding for innovation in smart energy systems and technologies with references to Power Forward Challenge, Flex, etc."
     },
     {
       "title": "Power Forward Challenge",
@@ -208,19 +244,19 @@
       "title": "Flex Competition",
       "url": "https://www.gov.uk/government/publications/flexibility-exchange-demonstration-projects-flex-competition",
       "tags": ["funding"],
-      "description": "Flex Competitio$1 deadline April 18th 2019"
+      "description": "Flex Competition deadline April 18th 2019"
     },
     {
       "title": "Innovate UK Smart Grants",
       "url": "https://apply-for-innovation-funding.service.gov.uk/competition/346/overview",
       "tags": ["funding"],
-      "description": "Innovate UK Smart Grant$1 a share of up to £25 million to deliver ambitious or disruptive R&D innovations with significant potential for impact on the UK economy. Deadline 24th July 2019"
+      "description": "Innovate UK Smart Grants a share of up to £25 million to deliver ambitious or disruptive R&D innovations with significant potential for impact on the UK economy. Deadline 24th July 2019"
     },
     {
       "title": "Gov.UK Call for new green innovations to tackle climate change",
       "url": "https://www.gov.uk/government/news/call-for-new-green-innovations-to-tackle-climate-change",
       "tags": ["funding"],
-      "description": "Gov.UK Call for new green innovations to tackle climate chang$1 £60M fund announced during [green GB week](https://greengb.campaign.gov.uk/), mid oct 18. Section \"Constructing a Digital Environment\" might be of interest, competitions to be published [here](https://www.ukri.org/research/themes-and-programmes/)"
+      "description": "Gov.UK Call for new green innovations to tackle climate change £60M fund announced during [green GB week](https://greengb.campaign.gov.uk/), mid oct 18. Section \"Constructing a Digital Environment\" might be of interest, competitions to be published [here](https://www.ukri.org/research/themes-and-programmes/)"
     },
     {
       "title": "gov.uk prospering from energy revolution",
@@ -232,13 +268,13 @@
       "title": "BEIS / Gov.uk list",
       "url": "https://www.gov.uk/business-finance-support",
       "tags": ["funding"],
-      "description": "BEIS / Gov.uk lis$1 of all financing opportunities"
+      "description": "BEIS / Gov.uk list of all financing opportunities"
     },
     {
       "title": "gov.uk competitions in energy",
       "url": "https://apply-for-innovation-funding.service.gov.uk/competition/search?keywords=energy",
       "tags": ["funding"],
-      "description": "gov.uk competitions in energ$1 (change keyword to search for related)"
+      "description": "gov.uk competitions in energy (change keyword to search for related)"
     },
     {
       "title": "SBRI",
@@ -256,7 +292,7 @@
       "title": "Energy Catalyst programme",
       "url": "https://www.gov.uk/guidance/energy-catalyst-what-it-is-and-how-to-apply-for-funding",
       "tags": ["funding"],
-      "description": "Energy Catalyst programm$1 opportunities for UK businesses to accelerate their growth and tackle the challenge of access to energy."
+      "description": "Energy Catalyst programme opportunities for UK businesses to accelerate their growth and tackle the challenge of access to energy."
     },
     {
       "title": "Innovate UK Smart Grants",
@@ -268,7 +304,7 @@
       "title": "Norrsken Impact",
       "url": "https://norrskenimpactweek.org/the-impact-100/",
       "tags": ["competition"],
-      "description": "Norrsken Impac$1 the biggest prize for impact startups in the Nordics"
+      "description": "Norrsken Impact the biggest prize for impact startups in the Nordics"
     },
     {
       "title": "Slush",
@@ -292,49 +328,49 @@
       "title": "Zayed Sustainability Prize",
       "url": "https://zayedsustainabilityprize.com/",
       "tags": ["competition"],
-      "description": " Th$1 Zayed Sustainability Prize , an evolution of the Zayed Future Energy Prize, is the UAE’s pioneering global award in sustainability"
+      "description": " The Zayed Sustainability Prize , an evolution of the Zayed Future Energy Prize, is the UAE’s pioneering global award in sustainability"
     },
     {
       "title": "Fundeen",
       "url": "https://www.fundeen.com/en/about-us",
       "tags": ["investment"],
-      "description": "Fundee$1 is a FinTech platform that allows citizens of Spain to invest in environmentally sustainable projects and receive benefits from their investments."
+      "description": "Fundeen is a FinTech platform that allows citizens of Spain to invest in environmentally sustainable projects and receive benefits from their investments."
     },
     {
       "title": "Triodos",
       "url": "https://www.triodoscrowdfunding.co.uk/investments",
       "tags": ["investment"],
-      "description": "Triodo$1 opportunities to invest in organisations committed to delivering positive change."
+      "description": "Triodos opportunities to invest in organisations committed to delivering positive change."
     },
     {
       "title": "Citizenergy.eu",
       "url": "https://citizenergy.eu/",
       "tags": ["investment"],
-      "description": "Citizenergy.e$1 born out of the motivation to promote the decentralised and democratic financing of a better energy future by supporting sustainable energy crowdfunding platforms and energy cooperatives."
+      "description": "Citizenergy.eu born out of the motivation to promote the decentralised and democratic financing of a better energy future by supporting sustainable energy crowdfunding platforms and energy cooperatives."
     },
     {
       "title": "Energy4impact",
       "url": "https://www.energy4impact.org/what-we-do/financing",
       "tags": ["investment"],
-      "description": "Energy4impac$1 access to energy in Africa"
+      "description": "Energy4impact access to energy in Africa"
     },
     {
       "title": "Crowdcube",
       "url": "https://www.crowdcube.com/investments?",
       "tags": ["investment"],
-      "description": " Major crowdfunding platform$1 Crowdcub$1 and [Startengine](https://www.startengine.com/) have dedicated sections"
+      "description": " Major crowdfunding platform Crowdcube and [Startengine](https://www.startengine.com/) have dedicated sections"
     },
     {
       "title": "Connecticut green bank",
       "url": "https://ctgreenbank.com/about-us/",
       "tags": ["investment"],
-      "description": " Also worth searching for green banks, lik$1 Connecticut green bank "
+      "description": " Also worth searching for green banks, like Connecticut green bank "
     },
     {
       "title": "Project Wren",
       "url": "https://projectwren.com/",
       "tags": ["investment"],
-      "description": "Project Wre$1 [backed by YCombinator](https://techcrunch.com/2019/07/07/y-combinator-backed-project-wren-is-aiming-to-make-carbon-offsets-more-consumer-friendly/), app to fund carbon negative projects, also has a carbon emission calculator"
+      "description": "Project Wren [backed by YCombinator](https://techcrunch.com/2019/07/07/y-combinator-backed-project-wren-is-aiming-to-make-carbon-offsets-more-consumer-friendly/), app to fund carbon negative projects, also has a carbon emission calculator"
     },
     {
       "title": "Trine",
@@ -346,19 +382,19 @@
       "title": "Switchr",
       "url": "https://switchr.global/en/about-us",
       "tags": ["investment"],
-      "description": "Switch$1 business model is to buy and optimize solar-plants with strict investment criteria where they see the greatest potential for increased performance."
+      "description": "Switchr business model is to buy and optimize solar-plants with strict investment criteria where they see the greatest potential for increased performance."
     },
     {
       "title": "Abundance Investment",
       "url": "https://www.abundanceinvestment.com/",
       "tags": ["investment"],
-      "description": "Abundance Investmen$1 creating ways for everyone to invest in green and social infrastructure"
+      "description": "Abundance Investment creating ways for everyone to invest in green and social infrastructure"
     },
     {
       "title": "Goclimateneutral",
       "url": "https://www.goclimateneutral.org/our_projects",
       "tags": ["investment"],
-      "description": "Goclimateneutra$1 invests in carbon negative projects by taking recurring payments from donors. Also has a [business footprint calculator](https://www.goclimateneutral.org/business/climate_reports/new)"
+      "description": "Goclimateneutral invests in carbon negative projects by taking recurring payments from donors. Also has a [business footprint calculator](https://www.goclimateneutral.org/business/climate_reports/new)"
     },
     {
       "title": "Green Jobs in top US cities",

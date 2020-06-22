@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "title": "Energy Storage Computational Tool (ESCT)",
+      "url": "https://www.smartgrid.gov/recovery_act/analytical_approach/energy_storage_computational_tool.html",
+      "tags": ["model"],
+      "description": "The Energy Storage Computational Tool (ESCT) is a Microsoft Excel based application that was funded by DOE Office of Electricity Delivery and Energy Reliability (OE) and developed by Navigant Consulting."
+    },
+    {
+      "title": "StorageVET and DER-VET",
+      "url": "https://storagevet.com/",
+      "tags": ["der-mgmt", "platform"],
+      "description": "The Electric Power Research Institute [EPRI](https://www.epri.com/about) conducts research, development, and demonstration projects for the benefit of the public in the United States and internationally. StorageVET 2.1 facilitates the understanding of where to place and install energy storage, the optimum size as well as controls options. [DER-VET™](https://www.der-vet.com/) is a publicly available, open-source, optimization-based energy valuation and planning tool for distributed energy resources (DER) and larger, centralized energy resources"
+    },
+    {
       "title": "Device Pilot",
       "url": "https://www.devicepilot.com/",
       "tags": ["platform", "iot"],
