@@ -248,6 +248,12 @@
       "description": "The Smart Electric Power Alliance (SEPA)  is a US non-profit organization dedicated to working with electric power stakeholders through the most pressing issues affecting the growth and utilization of smart energy."
     },
     {
+      "title": "World Energy Council",
+      "url": "https://www.worldenergy.org/about-us",
+      "tags": ["ngo"],
+      "description": "WEC define, enable and accelerate successful energy transitions while maintaining a technology and resource neutral global perspective and through the widespread use of a flexible Transition Leadership Toolkit, insight, interactive events and dynamic platforms to delivery strategic moments of impact."
+    },
+    {
       "title": "IEA",
       "url": "https://www.iea.org/",
       "tags": ["ngo"],
