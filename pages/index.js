@@ -8,14 +8,13 @@ import SearchEngine from '../components/search-engine';
 const Page = ({ categories, bookmarks, tags }) => (
   <Layout>
     <div className="pure-u-1">
-      <h1>Energy Piazza</h1>
-      <h2>Curated Resources List</h2>
+      <h1>Energy Piazza - Curated Resources List</h1>
       <p>
         This is a list of categorised resources for the sustainable energy sector.
       </p>
     </div>
     <div className="pure-u-1 pure-u-lg-1-2">
-      <p>All links in this website falling in one of the following categories:</p>
+      <h2>Categories:</h2>
       <ul>
         {categories.map((cat, i) => <li key={`cat_${i}`}>
           <CategoryLink name={cat} />
@@ -23,7 +22,7 @@ const Page = ({ categories, bookmarks, tags }) => (
       </ul>
     </div>
     <div className="pure-u-1 pure-u-lg-1-2">
-      <p>Links have also been tagged as follows:</p>
+      <h2>Tags</h2>
       {Object.keys(tags).map((tag, i) => <span key={`tag_${i}`}>
         <TagLink name={tag} count={tags[tag].length} />
       </span>)}

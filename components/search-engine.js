@@ -4,6 +4,9 @@ import useDebounce from './debounce';
 import { CategoryLink } from './nav-link';
 import BookmarkLink from './bookmark-link';
 
+import classNames from 'classnames/bind';
+import styles from './search-engine.module.css'
+
 const minQLenght = 3;
 
 const SearchEngine = ({ bookmarks }) => {
@@ -51,12 +54,14 @@ const SearchEngine = ({ bookmarks }) => {
 
   return (
     <div>
-      <form className="pure-form">
+      <form className={classNames(styles.wrapper, "pure-form")}>
         <input
-          type="text"placeholder="Search"
+          type="text"
+          placeholder="Search"
+          className="pure-input-2-3"
           value={query}
           onChange={e => setQuery(e.target.value)} />
-        <button className="pure-button" onClick={e => setQuery('')} disabled={query.length < minQLenght}>
+        <button className={classNames("pure-input-1-3", "pure-button")} onClick={e => setQuery('')} disabled={query.length < minQLenght}>
           Clear Search
         </button>
       </form>
