@@ -829,6 +829,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _debounce__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./debounce */ "./components/debounce.js");
 /* harmony import */ var _nav_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./nav-link */ "./components/nav-link.js");
 /* harmony import */ var _bookmark_link__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./bookmark-link */ "./components/bookmark-link.js");
+/* harmony import */ var classnames_bind__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! classnames/bind */ "./node_modules/classnames/bind.js");
+/* harmony import */ var classnames_bind__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(classnames_bind__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _search_engine_module_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./search-engine.module.css */ "./components/search-engine.module.css");
+/* harmony import */ var _search_engine_module_css__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_search_engine_module_css__WEBPACK_IMPORTED_MODULE_6__);
 
 
 var _this = undefined,
@@ -841,6 +845,8 @@ function _createForOfIteratorHelper(o) { if (typeof Symbol === "undefined" || o[
 function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
 
 function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+
 
 
 
@@ -899,20 +905,21 @@ var SearchEngine = function SearchEngine(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53,
+      lineNumber: 56,
       columnNumber: 5
     }
   }, __jsx("form", {
-    className: "pure-form",
+    className: classnames_bind__WEBPACK_IMPORTED_MODULE_5___default()(_search_engine_module_css__WEBPACK_IMPORTED_MODULE_6___default.a.wrapper, "pure-form"),
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54,
+      lineNumber: 57,
       columnNumber: 7
     }
   }, __jsx("input", {
     type: "text",
     placeholder: "Search",
+    className: "pure-input-2-3",
     value: query,
     onChange: function onChange(e) {
       return setQuery(e.target.value);
@@ -920,11 +927,11 @@ var SearchEngine = function SearchEngine(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55,
+      lineNumber: 58,
       columnNumber: 9
     }
   }), __jsx("button", {
-    className: "pure-button",
+    className: classnames_bind__WEBPACK_IMPORTED_MODULE_5___default()("pure-input-1-3", "pure-button"),
     onClick: function onClick(e) {
       return setQuery('');
     },
@@ -932,14 +939,14 @@ var SearchEngine = function SearchEngine(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59,
+      lineNumber: 64,
       columnNumber: 9
     }
   }, "Clear Search")), isSearching && __jsx("div", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63,
+      lineNumber: 68,
       columnNumber: 23
     }
   }, "Searching ..."), results);
@@ -987,14 +994,14 @@ function searchCharacters(query, bookmarks) {
         __self: _this2,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 89,
+          lineNumber: 94,
           columnNumber: 16
         }
       }, __jsx("p", {
         __self: _this2,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 90,
+          lineNumber: 95,
           columnNumber: 9
         }
       }, "Your search for ", query, " produced ", count, " results"), Object.keys(results).map(function (cat, iC) {
@@ -1002,14 +1009,14 @@ function searchCharacters(query, bookmarks) {
           __self: _this2,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 91,
+            lineNumber: 96,
             columnNumber: 48
           }
         }, __jsx("h2", {
           __self: _this2,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 92,
+            lineNumber: 97,
             columnNumber: 11
           }
         }, "In ", __jsx(_nav_link__WEBPACK_IMPORTED_MODULE_3__["CategoryLink"], {
@@ -1017,7 +1024,7 @@ function searchCharacters(query, bookmarks) {
           __self: _this2,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 92,
+            lineNumber: 97,
             columnNumber: 18
           }
         }), " - ", results[cat].length, " results"), results[cat].map(function (bookmark, iB) {
@@ -1027,7 +1034,7 @@ function searchCharacters(query, bookmarks) {
             __self: _this2,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 93,
+              lineNumber: 98,
               columnNumber: 47
             }
           }));
@@ -1038,7 +1045,7 @@ function searchCharacters(query, bookmarks) {
         __self: _this2,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 97,
+          lineNumber: 102,
           columnNumber: 16
         }
       }, "Type at least ", minQLenght, " letters to trigger a search");
@@ -1049,6 +1056,102 @@ function searchCharacters(query, bookmarks) {
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (SearchEngine);
+
+/***/ }),
+
+/***/ "./components/search-engine.module.css":
+/*!*********************************************!*\
+  !*** ./components/search-engine.module.css ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./search-engine.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/search-engine.module.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = function(element){// These elements should always exist. If they do not,
+// this code should fail.
+var anchorElement=document.querySelector('#__next_css__DO_NOT_USE__');var parentNode=anchorElement.parentNode;// Normally <head>
+// Each style tag should be placed right before our
+// anchor. By inserting before and not after, we do not
+// need to track the last inserted element.
+parentNode.insertBefore(element,anchorElement)// Remember: this is development only code.
+//
+// After styles are injected, we need to remove the
+// <style> tags that set `body { display: none; }`.
+//
+// We use `requestAnimationFrame` as a way to defer
+// this operation since there may be multiple style
+// tags.
+;(self.requestAnimationFrame||setTimeout)(function(){for(var x=document.querySelectorAll('[data-next-hide-fouc]'),i=x.length;i--;){x[i].parentNode.removeChild(x[i]);}});};
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./search-engine.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/search-engine.module.css",
+      function () {
+        var newContent = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!../node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./search-engine.module.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/search-engine.module.css");
+
+              newContent = newContent.__esModule ? newContent.default : newContent;
+
+              if (typeof newContent === 'string') {
+                newContent = [[module.i, newContent, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, newContent.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = newContent.locals;
+
+              update(newContent);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
 
 /***/ }),
 
@@ -1581,7 +1684,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, ".header_header__3w6qi {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header_header__content__2j6Kb {\n  background-color: rgba(255, 255, 255, 0.8);\n  padding: 1rem 1rem 1rem 0;\n}\n\n.header_right__2qwzm {\n  float: right;\n}\n", "",{"version":3,"sources":["header.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;EACE,0CAA0C;EAC1C,yBAAyB;AAC3B;;AAEA;EACE,YAAY;AACd","file":"header.module.css","sourcesContent":[".header {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header__content {\n  background-color: rgba(255, 255, 255, 0.8);\n  padding: 1rem 1rem 1rem 0;\n}\n\n.right {\n  float: right;\n}\n"]}]);
+exports.push([module.i, ".header_header__3w6qi {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header_header__content__2j6Kb {\n  background-color: rgba(220, 220, 220, 0.8);\n  padding: 1rem 1rem 1rem 0;\n}\n\n.header_right__2qwzm {\n  float: right;\n}\n", "",{"version":3,"sources":["header.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;EACE,0CAA0C;EAC1C,yBAAyB;AAC3B;;AAEA;EACE,YAAY;AACd","file":"header.module.css","sourcesContent":[".header {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header__content {\n  background-color: rgba(220, 220, 220, 0.8);\n  padding: 1rem 1rem 1rem 0;\n}\n\n.right {\n  float: right;\n}\n"]}]);
 // Exports
 exports.locals = {
 	"header": "header_header__3w6qi",
@@ -1604,7 +1707,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, ".layout_container__2t4v2 {\n  padding: 0 1rem 1rem;\n  margin-top: 50px;\n}\n", "",{"version":3,"sources":["layout.module.css"],"names":[],"mappings":"AAAA;EACE,oBAAoB;EACpB,gBAAgB;AAClB","file":"layout.module.css","sourcesContent":[".container {\n  padding: 0 1rem 1rem;\n  margin-top: 50px;\n}\n"]}]);
+exports.push([module.i, ".layout_container__2t4v2 {\n  padding: 0 1rem 1rem;\n  margin-top: 70px;\n}\n", "",{"version":3,"sources":["layout.module.css"],"names":[],"mappings":"AAAA;EACE,oBAAoB;EACpB,gBAAgB;AAClB","file":"layout.module.css","sourcesContent":[".container {\n  padding: 0 1rem 1rem;\n  margin-top: 70px;\n}\n"]}]);
 // Exports
 exports.locals = {
 	"container": "layout_container__2t4v2"
@@ -1625,12 +1728,33 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, ".nav-link_link__1omMK {\n  font-family: 'Chivo', sans-serif;\n}\n\n.nav-link_cat__jv7ss {\n\n}\n\n.nav-link_tag__3Y-j5, .nav-link_tag__3Y-j5:visited {\n  font-size: 0.8rem;\n  margin: 0 3px 3px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n", "",{"version":3,"sources":["nav-link.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;;AAEA;;AAEA;EACE,iBAAiB;EACjB,mBAAmB;EACnB,qBAAqB;EACrB,iBAAiB;EACjB,uBAAuB;EACvB,qBAAqB;EACrB,gBAAgB;EAChB,uBAAuB;EACvB,kBAAkB;AACpB","file":"nav-link.module.css","sourcesContent":[".link {\n  font-family: 'Chivo', sans-serif;\n}\n\n.cat {\n\n}\n\n.tag, .tag:visited {\n  font-size: 0.8rem;\n  margin: 0 3px 3px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n"]}]);
+exports.push([module.i, ".nav-link_link__1omMK {\n  font-family: 'Chivo', sans-serif;\n}\n\n.nav-link_cat__jv7ss {\n\n}\n\n.nav-link_tag__3Y-j5, .nav-link_tag__3Y-j5:visited {\n  font-size: 1rem;\n  margin: 0 5px 5px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n", "",{"version":3,"sources":["nav-link.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;;AAEA;;AAEA;EACE,eAAe;EACf,mBAAmB;EACnB,qBAAqB;EACrB,iBAAiB;EACjB,uBAAuB;EACvB,qBAAqB;EACrB,gBAAgB;EAChB,uBAAuB;EACvB,kBAAkB;AACpB","file":"nav-link.module.css","sourcesContent":[".link {\n  font-family: 'Chivo', sans-serif;\n}\n\n.cat {\n\n}\n\n.tag, .tag:visited {\n  font-size: 1rem;\n  margin: 0 5px 5px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n"]}]);
 // Exports
 exports.locals = {
 	"link": "nav-link_link__1omMK",
 	"cat": "nav-link_cat__jv7ss",
 	"tag": "nav-link_tag__3Y-j5"
+};
+module.exports = exports;
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/search-engine.module.css":
+/*!************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-2-1!./node_modules/next/dist/compiled/postcss-loader??__nextjs_postcss!./components/search-engine.module.css ***!
+  \************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+exports.push([module.i, ".search-engine_wrapper__1U5vs {\n  margin: 1em 0;\n}\n", "",{"version":3,"sources":["search-engine.module.css"],"names":[],"mappings":"AAAA;EACE,aAAa;AACf","file":"search-engine.module.css","sourcesContent":[".wrapper {\n  margin: 1em 0;\n}\n"]}]);
+// Exports
+exports.locals = {
+	"wrapper": "search-engine_wrapper__1U5vs"
 };
 module.exports = exports;
 
@@ -5984,18 +6108,11 @@ var Page = function Page(_ref) {
       lineNumber: 11,
       columnNumber: 7
     }
-  }, "Energy Piazza"), __jsx("h2", {
+  }, "Energy Piazza - Curated Resources List"), __jsx("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12,
-      columnNumber: 7
-    }
-  }, "Curated Resources List"), __jsx("p", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13,
       columnNumber: 7
     }
   }, "This is a list of categorised resources for the sustainable energy sector.")), __jsx("div", {
@@ -6003,21 +6120,21 @@ var Page = function Page(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17,
+      lineNumber: 16,
       columnNumber: 5
     }
-  }, __jsx("p", {
+  }, __jsx("h2", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17,
+      columnNumber: 7
+    }
+  }, "Categories:"), __jsx("ul", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18,
-      columnNumber: 7
-    }
-  }, "All links in this website falling in one of the following categories:"), __jsx("ul", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19,
       columnNumber: 7
     }
   }, categories.map(function (cat, i) {
@@ -6026,7 +6143,7 @@ var Page = function Page(_ref) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 20,
+        lineNumber: 19,
         columnNumber: 37
       }
     }, __jsx(_components_nav_link__WEBPACK_IMPORTED_MODULE_2__["CategoryLink"], {
@@ -6034,7 +6151,7 @@ var Page = function Page(_ref) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 21,
+        lineNumber: 20,
         columnNumber: 11
       }
     }));
@@ -6043,23 +6160,23 @@ var Page = function Page(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25,
+      lineNumber: 24,
       columnNumber: 5
     }
-  }, __jsx("p", {
+  }, __jsx("h2", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26,
+      lineNumber: 25,
       columnNumber: 7
     }
-  }, "Links have also been tagged as follows:"), Object.keys(tags).map(function (tag, i) {
+  }, "Tags"), Object.keys(tags).map(function (tag, i) {
     return __jsx("span", {
       key: "tag_".concat(i),
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 27,
+        lineNumber: 26,
         columnNumber: 42
       }
     }, __jsx(_components_nav_link__WEBPACK_IMPORTED_MODULE_2__["TagLink"], {
@@ -6068,7 +6185,7 @@ var Page = function Page(_ref) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 28,
+        lineNumber: 27,
         columnNumber: 9
       }
     }));
@@ -6077,7 +6194,7 @@ var Page = function Page(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31,
+      lineNumber: 30,
       columnNumber: 5
     }
   }, __jsx(_components_search_engine__WEBPACK_IMPORTED_MODULE_3__["default"], {
@@ -6085,7 +6202,7 @@ var Page = function Page(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32,
+      lineNumber: 31,
       columnNumber: 7
     }
   })));
@@ -6097,7 +6214,7 @@ var __N_SSG = true;
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!***************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Findex.js&hotRouterUpdates=true ***!
   \***************************************************************************************************************************************************************************/
@@ -6120,5 +6237,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

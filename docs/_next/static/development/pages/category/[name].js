@@ -1297,7 +1297,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, ".header_header__3w6qi {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header_header__content__2j6Kb {\n  background-color: rgba(255, 255, 255, 0.8);\n  padding: 1rem 1rem 1rem 0;\n}\n\n.header_right__2qwzm {\n  float: right;\n}\n", "",{"version":3,"sources":["header.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;EACE,0CAA0C;EAC1C,yBAAyB;AAC3B;;AAEA;EACE,YAAY;AACd","file":"header.module.css","sourcesContent":[".header {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header__content {\n  background-color: rgba(255, 255, 255, 0.8);\n  padding: 1rem 1rem 1rem 0;\n}\n\n.right {\n  float: right;\n}\n"]}]);
+exports.push([module.i, ".header_header__3w6qi {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header_header__content__2j6Kb {\n  background-color: rgba(220, 220, 220, 0.8);\n  padding: 1rem 1rem 1rem 0;\n}\n\n.header_right__2qwzm {\n  float: right;\n}\n", "",{"version":3,"sources":["header.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;EACE,0CAA0C;EAC1C,yBAAyB;AAC3B;;AAEA;EACE,YAAY;AACd","file":"header.module.css","sourcesContent":[".header {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header__content {\n  background-color: rgba(220, 220, 220, 0.8);\n  padding: 1rem 1rem 1rem 0;\n}\n\n.right {\n  float: right;\n}\n"]}]);
 // Exports
 exports.locals = {
 	"header": "header_header__3w6qi",
@@ -1320,7 +1320,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, ".layout_container__2t4v2 {\n  padding: 0 1rem 1rem;\n  margin-top: 50px;\n}\n", "",{"version":3,"sources":["layout.module.css"],"names":[],"mappings":"AAAA;EACE,oBAAoB;EACpB,gBAAgB;AAClB","file":"layout.module.css","sourcesContent":[".container {\n  padding: 0 1rem 1rem;\n  margin-top: 50px;\n}\n"]}]);
+exports.push([module.i, ".layout_container__2t4v2 {\n  padding: 0 1rem 1rem;\n  margin-top: 70px;\n}\n", "",{"version":3,"sources":["layout.module.css"],"names":[],"mappings":"AAAA;EACE,oBAAoB;EACpB,gBAAgB;AAClB","file":"layout.module.css","sourcesContent":[".container {\n  padding: 0 1rem 1rem;\n  margin-top: 70px;\n}\n"]}]);
 // Exports
 exports.locals = {
 	"container": "layout_container__2t4v2"
@@ -1341,7 +1341,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, ".nav-link_link__1omMK {\n  font-family: 'Chivo', sans-serif;\n}\n\n.nav-link_cat__jv7ss {\n\n}\n\n.nav-link_tag__3Y-j5, .nav-link_tag__3Y-j5:visited {\n  font-size: 0.8rem;\n  margin: 0 3px 3px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n", "",{"version":3,"sources":["nav-link.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;;AAEA;;AAEA;EACE,iBAAiB;EACjB,mBAAmB;EACnB,qBAAqB;EACrB,iBAAiB;EACjB,uBAAuB;EACvB,qBAAqB;EACrB,gBAAgB;EAChB,uBAAuB;EACvB,kBAAkB;AACpB","file":"nav-link.module.css","sourcesContent":[".link {\n  font-family: 'Chivo', sans-serif;\n}\n\n.cat {\n\n}\n\n.tag, .tag:visited {\n  font-size: 0.8rem;\n  margin: 0 3px 3px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n"]}]);
+exports.push([module.i, ".nav-link_link__1omMK {\n  font-family: 'Chivo', sans-serif;\n}\n\n.nav-link_cat__jv7ss {\n\n}\n\n.nav-link_tag__3Y-j5, .nav-link_tag__3Y-j5:visited {\n  font-size: 1rem;\n  margin: 0 5px 5px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n", "",{"version":3,"sources":["nav-link.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;;AAEA;;AAEA;EACE,eAAe;EACf,mBAAmB;EACnB,qBAAqB;EACrB,iBAAiB;EACjB,uBAAuB;EACvB,qBAAqB;EACrB,gBAAgB;EAChB,uBAAuB;EACvB,kBAAkB;AACpB","file":"nav-link.module.css","sourcesContent":[".link {\n  font-family: 'Chivo', sans-serif;\n}\n\n.cat {\n\n}\n\n.tag, .tag:visited {\n  font-size: 1rem;\n  margin: 0 5px 5px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n"]}]);
 // Exports
 exports.locals = {
 	"link": "nav-link_link__1omMK",
@@ -5773,7 +5773,7 @@ function slugify(string, options) {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!****************************************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fcategory%2F%5Bname%5D&absolutePagePath=%2FUsers%2Ftom%2FProjects%2Fpiazza.energy%2Fcurated-resource-list%2Fpages%2Fcategory%2F%5Bname%5D.js&hotRouterUpdates=true ***!
   \****************************************************************************************************************************************************************************************************************/
@@ -5796,5 +5796,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=[name].js.map

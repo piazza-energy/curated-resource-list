@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "title": "Form Energy",
+      "url": "https://formenergy.com/about/",
+      "tags": ["storage"],
+      "description": "developing a new kind of battery that would eliminate the need for coal and gas entirely, and allow for a 100% renewable, carbon free grid."
+    },
+    {
+      "title": "Glow",
+      "url": "https://meetglow.com/",
+      "tags": ["monitor"],
+      "description": "Smart energy indicator glows to show real-time energy usage. Magneto-resistive technology wirelessly measures power usage"
+    },
+    {
       "title": "Best Energy",
       "url": "https://best.energy/about-us/",
       "tags": ["iot"],

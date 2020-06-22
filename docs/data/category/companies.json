@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "title": "Everimpact",
+      "url": "https://www.everimpact.com/about",
+      "tags": ["fooprint"],
+      "description": "Our mission is to make it easier for cities and companies to measure greenhouse gas emissions, identify opportunities to reduce emissions and finance needed investments."
+    },
+    {
+      "title": "Habitat Energy",
+      "url": "https://www.habitat.energy/",
+      "tags": ["market"],
+      "description": "Habitat Energy provide optimisation and trading services to owners of battery storage and other flexible energy assets. We focus primarily on grid-scale assets, transmission or distribution connected, typically 10 megawatts and above that are pursuing a merchant business model, buying and selling power in the Day Ahead, Intraday and Balancing markets."
+    },
+    {
       "title": "Smart Buildings Alliance",
       "url": "https://www.smartbuildingsalliance.org/en/association-en",
       "tags": ["consortium"],
@@ -174,6 +186,7 @@
     {
       "title": "Plan A",
       "url": "https://plana.earth/about",
+      "tags": ["fooprint", "offset"],
       "description": "Plan A has developed a Carbon Reduction Software which helps businesses calculate, monitor and reduce their carbon footprint on a monthly basis."
     },
     {
@@ -233,6 +246,12 @@
       "url": "https://sepapower.org/about/",
       "tags": ["ngo"],
       "description": "The Smart Electric Power Alliance (SEPA)  is a US non-profit organization dedicated to working with electric power stakeholders through the most pressing issues affecting the growth and utilization of smart energy."
+    },
+    {
+      "title": "World Energy Council",
+      "url": "https://www.worldenergy.org/about-us",
+      "tags": ["ngo"],
+      "description": "WEC define, enable and accelerate successful energy transitions while maintaining a technology and resource neutral global perspective and through the widespread use of a flexible Transition Leadership Toolkit, insight, interactive events and dynamic platforms to delivery strategic moments of impact."
     },
     {
       "title": "IEA",

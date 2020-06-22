@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "title": "li-ion versus flow",
+      "url": "https://theenergyst.com/energy-storage-why-uk-industry-isnt-going-with-the-flow/",
+      "tags": ["storage", "knowledge"],
+      "description": "Despite many energy storage technologies vying for market share – including much-hyped alternatives like flow batteries, which position themselves as the long-duration technology of choice – lithium-ion has maintained its leading position in the sector."
+    },
+    {
+      "title": "Nemesys energy - University of Florence spin-off",
+      "url": "http://www.nemesysenergy.com/en/about-us/",
+      "tags": ["storage", "knowledge", "research"],
+      "description": "A patented technology for electrical energy management and storage devices ( Hydrogen-Oxygen battery) that combines traditional/standard electric batteries with hydrogen injection for the production of electricity"
+    },
+    {
+      "title": "Potassium Ion batteries",
+      "url": "https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.9b00463",
+      "tags": ["storage", "knowledge", "research"],
+      "description": " In recent years, K-ion batteries (KIBs) have attracted significant attention as potential alternatives to LIBs. This review comprehensively covers the studies on electrochemical materials for KIBs. Another paper shows [An Intrinsically Non‐flammable Electrolyte for High‐Performance Potassium Batteries](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913174)"
+    },
+    {
       "title": "Graphene battery breakthrough",
       "url": "https://pv-magazine-usa.com/2020/05/22/investors-bet-27-5-million-that-nanotech-energys-graphene-battery-breakthrough-is-the-real-thing/",
       "tags": ["storage", "knowledge", "storage-biz"],
@@ -440,7 +458,7 @@
       "title": "NREL PVWatts calculator",
       "url": "https://pvwatts.nrel.gov/pvwatts.php",
       "tags": ["solar"],
-      "description": "NREL PVWatts calculator  with publications on model"
+      "description": "NREL PVWatts calculator with publications on model. Estimates the energy production and cost of energy of grid-connected photovoltaic (PV) energy systems throughout the world. It allows homeowners, small building owners, installers and manufacturers to easily develop estimates of the performance of potential PV installations."
     },
     {
       "title": "How to get",
