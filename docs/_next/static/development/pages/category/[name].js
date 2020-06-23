@@ -241,55 +241,63 @@ var Header = function Header() {
       lineNumber: 8,
       columnNumber: 5
     }
-  }, __jsx(_next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    href: "/",
+  }, __jsx("div", {
+    className: _header_module_css__WEBPACK_IMPORTED_MODULE_3___default.a.wrapper,
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9,
       columnNumber: 7
     }
-  }, __jsx("a", {
-    className: "pure-menu-heading",
+  }, __jsx(_next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    href: "/",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10,
       columnNumber: 9
     }
+  }, __jsx("a", {
+    className: "pure-menu-heading",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11,
+      columnNumber: 11
+    }
   }, "Home")), __jsx("ul", {
     className: "pure-menu-list",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13,
-      columnNumber: 7
+      lineNumber: 14,
+      columnNumber: 9
     }
   }, __jsx("li", {
     className: "pure-menu-item",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14,
-      columnNumber: 11
+      lineNumber: 15,
+      columnNumber: 13
     }
   }, __jsx(_next_link__WEBPACK_IMPORTED_MODULE_2__["default"], {
     href: "/about",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15,
-      columnNumber: 13
+      lineNumber: 16,
+      columnNumber: 15
     }
   }, __jsx("a", {
     className: "pure-menu-link",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 15
+      lineNumber: 17,
+      columnNumber: 17
     }
-  }, "About"))))));
+  }, "About")))))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
@@ -419,6 +427,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 var Layout = function Layout(props) {
   return __jsx("div", {
+    className: _layout_module_css__WEBPACK_IMPORTED_MODULE_3___default.a.background,
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -1297,10 +1306,11 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, ".header_header__3w6qi {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header_header__content__2j6Kb {\n  background-color: rgba(220, 220, 220, 0.8);\n  padding: 1rem 1rem 1rem 0;\n}\n\n.header_right__2qwzm {\n  float: right;\n}\n", "",{"version":3,"sources":["header.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;EACE,0CAA0C;EAC1C,yBAAyB;AAC3B;;AAEA;EACE,YAAY;AACd","file":"header.module.css","sourcesContent":[".header {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header__content {\n  background-color: rgba(220, 220, 220, 0.8);\n  padding: 1rem 1rem 1rem 0;\n}\n\n.right {\n  float: right;\n}\n"]}]);
+exports.push([module.i, ".header_header__3w6qi {\n  font-family: 'Chivo', sans-serif;\n}\n\n.header_wrapper__1H8Zk {\n  background-color: rgba(255, 255, 255, 0.8);\n  width: 90%;\n  margin: 0 auto;\n  padding: 1rem 1rem 1rem 0;\n  border-bottom: 1px solid lightgray;\n}\n\n.header_header__content__2j6Kb {\n}\n\n.header_right__2qwzm {\n  float: right;\n}\n", "",{"version":3,"sources":["header.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;EACE,0CAA0C;EAC1C,UAAU;EACV,cAAc;EACd,yBAAyB;EACzB,kCAAkC;AACpC;;AAEA;AACA;;AAEA;EACE,YAAY;AACd","file":"header.module.css","sourcesContent":[".header {\n  font-family: 'Chivo', sans-serif;\n}\n\n.wrapper {\n  background-color: rgba(255, 255, 255, 0.8);\n  width: 90%;\n  margin: 0 auto;\n  padding: 1rem 1rem 1rem 0;\n  border-bottom: 1px solid lightgray;\n}\n\n.header__content {\n}\n\n.right {\n  float: right;\n}\n"]}]);
 // Exports
 exports.locals = {
 	"header": "header_header__3w6qi",
+	"wrapper": "header_wrapper__1H8Zk",
 	"header__content": "header_header__content__2j6Kb",
 	"right": "header_right__2qwzm"
 };
@@ -1320,9 +1330,10 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, ".layout_container__2t4v2 {\n  padding: 0 1rem 1rem;\n  margin-top: 70px;\n}\n", "",{"version":3,"sources":["layout.module.css"],"names":[],"mappings":"AAAA;EACE,oBAAoB;EACpB,gBAAgB;AAClB","file":"layout.module.css","sourcesContent":[".container {\n  padding: 0 1rem 1rem;\n  margin-top: 70px;\n}\n"]}]);
+exports.push([module.i, ".layout_background__1AVEa {\n  background-color: rgb(230, 230, 230);\n}\n\n.layout_container__2t4v2 {\n  background-color: white;\n  padding: 70px 1rem 1rem;\n  width: 90%;\n  margin: 0 auto;\n  border-bottom: 1px solid lightgray;\n}\n", "",{"version":3,"sources":["layout.module.css"],"names":[],"mappings":"AAAA;EACE,oCAAoC;AACtC;;AAEA;EACE,uBAAuB;EACvB,uBAAuB;EACvB,UAAU;EACV,cAAc;EACd,kCAAkC;AACpC","file":"layout.module.css","sourcesContent":[".background {\n  background-color: rgb(230, 230, 230);\n}\n\n.container {\n  background-color: white;\n  padding: 70px 1rem 1rem;\n  width: 90%;\n  margin: 0 auto;\n  border-bottom: 1px solid lightgray;\n}\n"]}]);
 // Exports
 exports.locals = {
+	"background": "layout_background__1AVEa",
 	"container": "layout_container__2t4v2"
 };
 module.exports = exports;
@@ -1341,7 +1352,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, ".nav-link_link__1omMK {\n  font-family: 'Chivo', sans-serif;\n}\n\n.nav-link_cat__jv7ss {\n\n}\n\n.nav-link_tag__3Y-j5, .nav-link_tag__3Y-j5:visited {\n  font-size: 1rem;\n  margin: 0 5px 5px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n", "",{"version":3,"sources":["nav-link.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;;AAEA;;AAEA;EACE,eAAe;EACf,mBAAmB;EACnB,qBAAqB;EACrB,iBAAiB;EACjB,uBAAuB;EACvB,qBAAqB;EACrB,gBAAgB;EAChB,uBAAuB;EACvB,kBAAkB;AACpB","file":"nav-link.module.css","sourcesContent":[".link {\n  font-family: 'Chivo', sans-serif;\n}\n\n.cat {\n\n}\n\n.tag, .tag:visited {\n  font-size: 1rem;\n  margin: 0 5px 5px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n"]}]);
+exports.push([module.i, ".nav-link_link__1omMK {\n  font-family: 'Chivo', sans-serif;\n}\n\n.nav-link_cat__jv7ss {\n}\n\n.nav-link_tag__3Y-j5, .nav-link_tag__3Y-j5:visited {\n  font-size: 1rem;\n  margin: 0 5px 5px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n", "",{"version":3,"sources":["nav-link.module.css"],"names":[],"mappings":"AAAA;EACE,gCAAgC;AAClC;;AAEA;AACA;;AAEA;EACE,eAAe;EACf,mBAAmB;EACnB,qBAAqB;EACrB,iBAAiB;EACjB,uBAAuB;EACvB,qBAAqB;EACrB,gBAAgB;EAChB,uBAAuB;EACvB,kBAAkB;AACpB","file":"nav-link.module.css","sourcesContent":[".link {\n  font-family: 'Chivo', sans-serif;\n}\n\n.cat {\n}\n\n.tag, .tag:visited {\n  font-size: 1rem;\n  margin: 0 5px 5px 0;\n  display: inline-block;\n  color: ghostwhite;\n  background-color: green;\n  text-decoration: none;\n  padding: 2px 3px;\n  border: 1px solid green;\n  border-radius: 5px;\n}\n"]}]);
 // Exports
 exports.locals = {
 	"link": "nav-link_link__1omMK",

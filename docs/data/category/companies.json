@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "title": "Open Energi",
+      "url": "https://www.openenergi.com/about/",
+      "tags": ["services"],
+      "description": "Open Energi automate and optimise a network of distributed energy resources to reduce energy costs and provide flexible capacity to enable a 100% renewable energy system."
+    },
+    {
       "title": "Everimpact",
       "url": "https://www.everimpact.com/about",
       "tags": ["fooprint"],

@@ -145,10 +145,10 @@
       "description": "Ecobee  canada based, with v. interesting “donate your data” program, backed by [energy impact partners](https://www.energyimpactpartners.com/)"
     },
     {
-      "title": "kiwipowered",
-      "url": "https://www.kiwipowered.com/products/fruit/",
-      "tags": ["monitor"],
-      "description": "kiwipowered  a circuit breaker with monitor functionality, mainly for industrial clients"
+      "title": "kiwipower",
+      "url": "https://www.kiwipowered.com/",
+      "tags": ["VPP", "der-mgmt"],
+      "description": "Kiwi Power’s distributed energy platform simply and reliably unlocks flexibility from Distributed Energy Resources (DERs) to maximise their value."
     },
     {
       "title": "efergy",
