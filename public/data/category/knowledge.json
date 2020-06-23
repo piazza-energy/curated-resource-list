@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "title": "VPP leaderboard",
+      "url": "",
+      "tags": ["VPP", "knowledge"],
+      "description": "Guidehouse Insights Leaderboard Report: VPP (Virtual Power Plant) Platform Providers by Navigant"
+    },
+    {
       "title": "li-ion versus flow",
       "url": "https://theenergyst.com/energy-storage-why-uk-industry-isnt-going-with-the-flow/",
       "tags": ["storage", "knowledge"],
