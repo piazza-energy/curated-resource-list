@@ -4,7 +4,7 @@ import styles from './layout.module.css'
 
 
 const Layout = props => (
-  <div>
+  <div className={styles.background}>
     <Header />
     <div className={classNames('pure-g', styles.container)}>
       {props.children}

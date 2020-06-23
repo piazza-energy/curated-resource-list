@@ -55,15 +55,19 @@ const SearchEngine = ({ bookmarks }) => {
   return (
     <div>
       <form className={classNames(styles.wrapper, "pure-form")}>
-        <input
-          type="text"
-          placeholder="Search"
-          className="pure-input-2-3"
-          value={query}
-          onChange={e => setQuery(e.target.value)} />
-        <button className={classNames("pure-input-1-3", "pure-button")} onClick={e => setQuery('')} disabled={query.length < minQLenght}>
-          Clear Search
-        </button>
+        <div className="pure-u-1 pure-u-md-4-5">
+          <input
+            type="text"
+            placeholder="Search"
+            className="pure-input-1"
+            value={query}
+            onChange={e => setQuery(e.target.value)} />
+        </div>
+        <div className="pure-u-1 pure-u-md-1-5">
+          <button className={classNames("pure-input-1", "pure-button")} onClick={e => setQuery('')} disabled={query.length < minQLenght}>
+            Clear Search
+          </button>
+        </div>
       </form>
       {isSearching && <div>Searching ...</div>}
       {results}

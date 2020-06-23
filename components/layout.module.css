@@ -1,4 +1,11 @@
+.background {
+  background-color: rgb(230, 230, 230);
+}
+
 .container {
-  padding: 0 1rem 1rem;
-  margin-top: 70px;
+  background-color: white;
+  padding: 70px 1rem 1rem;
+  width: 90%;
+  margin: 0 auto;
+  border-bottom: 1px solid lightgray;
 }

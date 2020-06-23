@@ -14,7 +14,7 @@ const Page = ({ categories, bookmarks, tags }) => (
       </p>
     </div>
     <div className="pure-u-1 pure-u-lg-1-2">
-      <h2>Categories:</h2>
+      <h2>Categories</h2>
       <ul>
         {categories.map((cat, i) => <li key={`cat_${i}`}>
           <CategoryLink name={cat} />
