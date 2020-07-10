@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "title": "Cortex",
+      "url": "https://get.cortexintel.com/",
+      "tags": ["platform"],
+      "description": "Cortex is built to dramatically improve how buildings operate by applying software and analytics to highly underutilized data streams. By building the software and analytics layer overtop these disparate data streams, we can fundamentally improve the sustainability of commercial buildings, the value of those assets, and the experience of occupants inside them."
+    },
+    {
+      "title": "Station A",
+      "url": "https://stationa.com/how-it-works",
+      "tags": ["platform"],
+      "description": "Instead of providing bits and pieces of data and functionality, we are reimagining how clean energy projects are evaluated and developed from origination to operation."
+    },
+    {
+      "title": "Bee Bryte",
+      "url": "https://www.beebryte.com/about-us/",
+      "tags": ["platform", "iot"],
+      "description": "software-as-a-service minimizing utility bills with automatic control of heating-cooling equipment (e.g. HVAC), pumps, EV charging points and/or batteries"
+    },
+    {
+      "title": "EV energy",
+      "url": "https://ev.energy/",
+      "tags": ["platform", "ev"],
+      "description": "Our smart platform manages EV charging, automatically optimizing for a greener, cheaper charge."
+    },
+    {
       "title": "Energy Storage Computational Tool (ESCT)",
       "url": "https://www.smartgrid.gov/recovery_act/analytical_approach/energy_storage_computational_tool.html",
       "tags": ["model"],

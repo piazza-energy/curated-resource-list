@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "title": "Rockstart",
+      "url": "https://www.rockstart.com/",
+      "tags": ["accelerator"],
+      "description": "We support startups by providing access to capital, market, community and expertise in four domains: emerging tech, energy, health, agrifood"
+    },
+    {
+      "title": "Free Electrons",
+      "url": "https://freeelectrons.org/",
+      "tags": ["accelerator"],
+      "description": "The Free Electrons program consists of 4 one week long modules held across the globe during the course of one year."
+    },
+    {
       "title": "running list of Climate Tech accelerators",
       "url": "https://climatetechvc.org/a-running-list-of-climate-tech-accelerators/",
       "tags": ["accelerator"],
@@ -151,10 +163,10 @@
       "description": "Sustainable bridges / [Workspaces](https://www.sustainableworkspaces.co.uk/) it's the shared space where the accelerator operates (I think, will pay a visit soon)"
     },
     {
-      "title": "Seed and co-working in Oakland, CA",
-      "url": "https://powerhouse.fund/#landing",
-      "tags": ["accelerator"],
-      "description": " Seed and co-working in Oakland, CA  "
+      "title": "Powerhouse",
+      "url": "https://powerhouse.fund/",
+      "tags": ["vc", "services"],
+      "description": " Powerhouse is an innovation firm and venture fund. We connect startups, corporations, and investors to build an energy and mobility system that is decarbonized, democratized, and digitized."
     },
     {
       "title": "Elemental",
