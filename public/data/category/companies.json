@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "title": "Triple-A",
+      "url": "https://aaa-h2020.eu/about",
+      "tags": ["consortium"],
+      "description": "identifying “Triple-A” energy efficiency investments, aiming to reduce the respective time and effort required at the crucial phase of the investments conceptualization, as well as to increase transparency and efficiency of respective decision making."
+    },
+    {
+      "title": "SENSEI",
+      "url": "https://senseih2020.eu/",
+      "tags": ["consortium"],
+      "description": "SENSEI combines pay-for-performance (P4P) arrangements with the Energy Performance Contracting (EPC) model and engages in negotiation games with preliminary stakeholders."
+    },
+    {
+      "title": "CRREM",
+      "url": "https://www.crrem.org/",
+      "tags": ["consortium"],
+      "description": "Carbon Risk Real Estate Monitor (CRREM)  faces the challenge to estimate risk and uncertainty associated with real estate decarbonization, building a methodological body and empirically quantify the different scenarios and their impact on the investor portfolios. GRESB is in the consortium"
+    },
+    {
+      "title": "ESMAP",
+      "url": "https://esmap.org/",
+      "tags": ["ngo"],
+      "description": "ESMAP is a partnership between the World Bank  and 18 partners to help low and middle-income countries reduce poverty and boost growth through sustainable energy solutions. ESMAP has an [energy storage program](https://esmap.org/energystorage) that gives access to [WBG $1 billion for a first-of-its kind program](https://www.worldbank.org/en/news/press-release/2018/09/26/world-bank-group-commits-1-billion-for-battery-storage-to-ramp-up-renewable-energy-globally) to accelerate investments in battery storage"
+    },
+    {
+      "title": "Peak Power",
+      "url": "https://www.peakpowerenergy.com/",
+      "tags": ["der-mgmt"],
+      "description": "Peak Power is a global energy technology services provider based in Toronto focused on delivering intelligent software and project solutions to offset the most expensive hours of electric demand for both utilities and building owners.  "
+    },
+    {
+      "title": "Haven Power",
+      "url": "https://www.havenpower.com/",
+      "tags": ["generation", "utility", "iot", "platform", "VPP"],
+      "description": "Part of the [Drax Group](https://www.drax.com/about-us/) (suppliers of low-carbon energy), Haven Power is a business utility suitable for users over 50,000 kWh of electricity each year."
+    },
+    {
       "title": "Open Energi",
       "url": "https://www.openenergi.com/about/",
       "tags": ["services"],
@@ -27,12 +63,14 @@
     {
       "title": "Elli",
       "url": "https://www.elli.eco/en/#mission",
+      "tags": ["VPP"],
       "description": "Elli is the \"Electricity Life\" brand owned by VW group, announcing their [intention to become a power supplier](https://www.volkswagen-newsroom.com/en/press-releases/volkswagen-to-become-a-power-supplier-4551)"
     },
     {
       "title": "GRESB",
       "url": "https://gresb.com/about/",
-      "description": "GRESB mh, not sure this is a corp, or an org, their mission is to enhance and protect shareholder value by assessing and empowering sustainability practices in the real asset sector. Providing environmental, social and governance (ESG) performance on assets. (mentioned in Fabriq newsletter)"
+      "tags": ["real-estate"],
+      "description": "GRESB mission is to enhance and protect shareholder value by assessing and empowering sustainability practices in the real asset sector. Providing environmental, social and governance (ESG) performance on assets. (mentioned in Fabriq newsletter)"
     },
     {
       "title": "Metabolic",
@@ -486,6 +524,12 @@
       "url": "https://www.thelabrador.co.uk/",
       "tags": ["compare"],
       "description": "Labrador like uswitch, has an option for green sources"
+    },
+    {
+      "title": "Ripple Energy",
+      "url": "https://rippleenergy.com/",
+      "tags": ["utility"],
+      "description": "Energy co-op - The first co-operatively owned wind farm to supply its owners with their own green electricity via the grid"
     },
     {
       "title": "Amp Energy",
