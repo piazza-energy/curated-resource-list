@@ -17,7 +17,7 @@ export function getCategories() {
       categories.push(filename.replace('\.json', ''));
     }
   }
-  return categories;
+  return categories.sort();
 }
 
 export function getCatData(catName) {

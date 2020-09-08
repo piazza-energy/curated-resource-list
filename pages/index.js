@@ -23,7 +23,7 @@ const Page = ({ categories, bookmarks, tags }) => (
     </div>
     <div className="pure-u-1 pure-u-lg-1-2">
       <h2>Tags</h2>
-      {Object.keys(tags).map((tag, i) => <span key={`tag_${i}`}>
+      {Object.keys(tags).sort().map((tag, i) => <span key={`tag_${i}`}>
         <TagLink name={tag} count={tags[tag].length} />
       </span>)}
     </div>
@@ -37,7 +37,6 @@ export async function getStaticProps() {
   const categories = getCategories();
   const bookmarks = getAllCatsData(categories);
   const tags = getAllTagsData(bookmarks);
-  const empty = {};
   return {
     props: {
       categories,

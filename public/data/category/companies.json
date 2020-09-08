@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "title": "David Energy",
+      "url": "https://www.davidenergy.com/",
+      "tags": ["derms", "utility"],
+      "description": "We undertake a rigorous evaluation and bring in partners as needed to help deliver the best possible energy system for customers"
+    },
+    {
+      "title": "Vector NZ",
+      "url": "https://www.vector.co.nz/about-us",
+      "tags": ["utility", "iot", "derms"],
+      "description": "New Zealand's largest distributor of electricity and gas. Vector and Amazon Web Services (AWS) are jointly developing a New Energy Platform (NEP) under a multi-year strategic alliance to change how energy is managed, delivered and consumed."
+    },
+    {
+      "title": "Myst AI",
+      "url": "https://www.myst.ai/",
+      "tags": ["data"],
+      "description": "We use artificial intelligence to help energy companies better predict the future, resulting in lower costs, reduced risk and less waste. Secured $6M [series A funding](https://news.crunchbase.com/news/myst-ai-closes-6m-series-a-to-forecast-energy-demand-supply/) in Sept 2020"
+    },
+    {
+      "title": "LCP enact",
+      "url": "https://www.lcpenact.com/",
+      "tags": ["market"],
+      "description": "LCP Enact is a data integration, analytics and forecasting platform for the GB energy market. Here's the platform described in a sponsored [post on the energyst](https://theenergyst.com/walking-the-bsuos-tightrope/) with numbers for BSUoS charges in 2020"
+    },
+    {
+      "title": "Modo Energy",
+      "url": "",
+      "tags": ["market", "storage-biz"],
+      "description": "Stay on top of the energy storage market. Asset benchmarking, live data, market reports, and news. All in one place. founded and funded by ex kiwi power people"
+    },
+    {
       "title": "Triple-A",
       "url": "https://aaa-h2020.eu/about",
       "tags": ["consortium"],
@@ -27,13 +57,13 @@
     {
       "title": "Peak Power",
       "url": "https://www.peakpowerenergy.com/",
-      "tags": ["der-mgmt"],
+      "tags": ["derms"],
       "description": "Peak Power is a global energy technology services provider based in Toronto focused on delivering intelligent software and project solutions to offset the most expensive hours of electric demand for both utilities and building owners.  "
     },
     {
       "title": "Haven Power",
       "url": "https://www.havenpower.com/",
-      "tags": ["generation", "utility", "iot", "platform", "VPP"],
+      "tags": ["generation", "utility", "iot", "platform", "vpp"],
       "description": "Part of the [Drax Group](https://www.drax.com/about-us/) (suppliers of low-carbon energy), Haven Power is a business utility suitable for users over 50,000 kWh of electricity each year."
     },
     {
@@ -45,7 +75,7 @@
     {
       "title": "Everimpact",
       "url": "https://www.everimpact.com/about",
-      "tags": ["fooprint"],
+      "tags": ["footprint"],
       "description": "Our mission is to make it easier for cities and companies to measure greenhouse gas emissions, identify opportunities to reduce emissions and finance needed investments."
     },
     {
@@ -63,7 +93,7 @@
     {
       "title": "Elli",
       "url": "https://www.elli.eco/en/#mission",
-      "tags": ["VPP"],
+      "tags": ["vpp"],
       "description": "Elli is the \"Electricity Life\" brand owned by VW group, announcing their [intention to become a power supplier](https://www.volkswagen-newsroom.com/en/press-releases/volkswagen-to-become-a-power-supplier-4551)"
     },
     {
@@ -230,7 +260,7 @@
     {
       "title": "Plan A",
       "url": "https://plana.earth/about",
-      "tags": ["fooprint", "offset"],
+      "tags": ["footprint", "offset"],
       "description": "Plan A has developed a Carbon Reduction Software which helps businesses calculate, monitor and reduce their carbon footprint on a monthly basis."
     },
     {

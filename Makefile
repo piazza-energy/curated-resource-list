@@ -12,6 +12,9 @@ prepare:
 	touch out/.nojekyll
 	mv out docs
 
+serve:
+	cd docs && python -m http.server
+
 publish:
 	git add --all
 	git commit -m "new publish $(TODAY)"

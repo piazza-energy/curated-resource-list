@@ -165,7 +165,7 @@
     {
       "title": "kiwipower",
       "url": "https://www.kiwipowered.com/",
-      "tags": ["VPP", "der-mgmt"],
+      "tags": ["vpp", "derms"],
       "description": "Kiwi Power’s distributed energy platform simply and reliably unlocks flexibility from Distributed Energy Resources (DERs) to maximise their value."
     },
     {
@@ -257,6 +257,12 @@
       "url": "https://www.google.co.uk/search?q=Zigbee+din+relay",
       "tags": ["sensors"],
       "description": " Search  google images  for Zigbee din relay there are tons!"
+    },
+    {
+      "title": "VoltStorage",
+      "url": "https://voltstorage.com/en/",
+      "tags": ["storage"],
+      "description": "Vanadium Redox Flow Batteries for home and optimisation of solar. Recently (July 2020) [raised eur6M](https://sifted.eu/articles/voltstorage-tesla-powerwall-alternative/) in funding"
     },
     {
       "title": "eCamion",

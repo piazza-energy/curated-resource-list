@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "title": "Geovation",
+      "url": "https://geovation.uk/accelerator/",
+      "tags": ["accelerator"],
+      "description": "Backed by years of industry experience and a network that reaches far and wide, we are a community of location-data and proptech collaborators looking to make positive change happen."
+    },
+    {
       "title": "Rockstart",
       "url": "https://www.rockstart.com/",
       "tags": ["accelerator"],
@@ -161,6 +167,12 @@
       "url": "http://www.sustainablebridges.co.uk/",
       "tags": ["accelerator"],
       "description": "Sustainable bridges / [Workspaces](https://www.sustainableworkspaces.co.uk/) it's the shared space where the accelerator operates (I think, will pay a visit soon)"
+    },
+    {
+      "title": "Valo Ventures",
+      "url": "https://valoventures.org/",
+      "tags": ["vc"],
+      "description": "We’re drawn to the line where creative entrepreneurs and emerging technologies intersect with social, economic, and environmental trends."
     },
     {
       "title": "Powerhouse",

@@ -1,9 +1,15 @@
 {
   "data": [
     {
+      "title": "Harwell Campus - EnergyTec Cluster",
+      "url": "https://www.harwellcampus.com/energytec-cluster/",
+      "tags": ["knowledge", "research"],
+      "description": "The EnergyTec Cluster at Harwell Campus has 57 organisations comprising of over 1100 employees and aims is to bring  together the multiple capabilities of Harwell with the surrounding regions to help address the UK’s energy challenges, and the economic opportunities they present."
+    },
+    {
       "title": "VPP leaderboard",
-      "url": "",
-      "tags": ["VPP", "knowledge"],
+      "url": "https://guidehouseinsights.com/reports/guidehouse-insights-leaderboard-vpp-platform-providers",
+      "tags": ["vpp", "knowledge"],
       "description": "Guidehouse Insights Leaderboard Report: VPP (Virtual Power Plant) Platform Providers by Navigant"
     },
     {
@@ -244,7 +250,7 @@
       "title": "Data Communication Company",
       "url": "https://www.smartdcc.co.uk/about/",
       "tags": ["knowledge"],
-      "description": "Data Communication Company  has built and maintained the secure national infrastructure that underpins the roll-out of smart meters across Great Britain."
+      "description": "Data Communication Company has built and maintained the secure national infrastructure that underpins the roll-out of smart meters across Great Britain."
     },
     {
       "title": "a very close look at carbon capture",
