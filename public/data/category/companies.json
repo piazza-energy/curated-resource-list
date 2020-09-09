@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "title": "Geli",
+      "url": "https://geli.net/",
+      "tags": ["platform", "derms"],
+      "description": "Geli, which stands for Growing Energy Labs, Inc., provides software and business solutions for designing, automating, and managing energy storage and microgrid systems."
+    },
+    {
       "title": "David Energy",
       "url": "https://www.davidenergy.com/",
       "tags": ["derms", "utility"],
@@ -26,7 +32,7 @@
     },
     {
       "title": "Modo Energy",
-      "url": "",
+      "url": "https://modo.energy/",
       "tags": ["market", "storage-biz"],
       "description": "Stay on top of the energy storage market. Asset benchmarking, live data, market reports, and news. All in one place. founded and funded by ex kiwi power people"
     },

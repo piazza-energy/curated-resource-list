@@ -4,6 +4,7 @@ help:
 	@echo "available commands:"
 	@echo "make prepare - export a static version"
 	@echo "make publish - publish to github pages"
+	@echo "make serve - start a http server in the /docs folder"
 
 prepare:
 	rm -rf docs/
