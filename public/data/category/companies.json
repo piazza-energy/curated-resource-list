@@ -1,6 +1,48 @@
 {
   "data": [
     {
+      "title": "UK Green Building Council",
+      "url": "https://www.ukgbc.org/",
+      "tags": ["ngo"],
+      "description": "KGBC is uniting the UK building industry using sustainability as a catalyst to positively transform the places people use every day."
+    },
+    {
+      "title": "Regen",
+      "url": "https://www.regen.co.uk/",
+      "tags": ["ngo"],
+      "description": "Regen offers independent expert advice and market insight on all aspects of sustainable energy delivery. We use our technical expertise, industry research and policy knowledge to support a range of public and private sector organisations to make the most of their clean energy opportunities."
+    },
+    {
+      "title": "Ongen",
+      "url": "https://ongen.co.uk/",
+      "tags": ["consultancy", "platform"],
+      "description": "helping organisations and small businesses save money on energy costs, reduce carbon footprint and secure energy supply."
+    },
+    {
+      "title": "Origami",
+      "url": "https://www.origamienergy.com/about-us",
+      "tags": ["platform", "market"],
+      "description": "enterprise technology that enables energy companies to have a single, real-time point of truth across assets, markets and customers"
+    },
+    {
+      "title": "Flexible Power",
+      "url": "https://www.flexiblepower.co.uk/",
+      "tags": ["consortium", "flexibility", "platform", "dno"],
+      "description": "Western Power Distribution, SP Energy Networks, Scottish and Southern Electricity Networks and Northern Powergrid have announced they are collaborating on 'Flexible Power' to signpost and operate all of their flexibility requirements. [In the news, Oct 2020](https://theenergyst.com/four-dnos-collaborate-to-streamline-flexibility-across-networks/)"
+    },
+    {
+      "title": "Redaptive",
+      "url": "https://redaptiveinc.com/",
+      "tags": ["efficiency"],
+      "description": "Redaptive develops a strategic program and identify sites to maximize savings across portfolio. Received a $150M round in Oct 2020, src: [crunchbase news](https://news.crunchbase.com/news/redaptive-closes-on-150m-for-energy-efficiency-technologies/)"
+    },
+    {
+      "title": "Passivesystems",
+      "url": "https://www.passivsystems.com/",
+      "tags": ["iot", "solar", "residential"],
+      "description": "Passivsystems mission is to create sustainable value through the use of smart technology within the residential energy supply market."
+    },
+    {
       "title": "Geli",
       "url": "https://geli.net/",
       "tags": ["platform", "derms"],
@@ -209,9 +251,16 @@
       "description": "Climate.Careers - job board: a social enterprise that exists to help people align their careers with solving climate change"
     },
     {
-      "title": "Carbon Smart",
-      "url": "https://www.carbonsmart.co.uk/",
-      "description": "Carbon Smart help businesses take the sustainability steps that make sense to them"
+      "title": "Delta EE",
+      "url": "https://www.delta-ee.com/",
+      "tags": ["certification", "consultancy"],
+      "description": "Delta-EE provides research to the new energy industry through research services and bespoke consultancy projects, depending on the individual client's needs."
+    },
+    {
+      "title": "Avieco - formerly Carbon Smart",
+      "url": "https://avieco.com/",
+      "tags": ["certification", "consultancy"],
+      "description": "Avieco / Carbon Smart help businesses take the sustainability steps that make sense to them"
     },
     {
       "title": "Carbon limiting technologies",
@@ -255,6 +304,7 @@
     },
     {
       "title": "GridBeyond",
+      "tags": ["derms"],
       "url": "https://gridbeyond.com/what-we-do/",
       "description": "GridBeyond enables participation in Demand Side Response, including grid revenue programmes and enhanced energy savings through peak avoidance and trading. Winners of BusinessGreen [Tech Awards 2019](https://gridbeyond.com/gridbeyond-wins-smart-grid-technology-of-the-year-award-at-businessgreen-technology-awards-2019/) in the Smart Grid category"
     },

@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "title": "Smart Export Guarantee tariffs",
+      "url": "https://www.solarpowerportal.co.uk/news/social_comes_out_on_top_as_shell_issues_bare_minimum_seg",
+      "tags": ["pv", "knowledge"],
+      "description": "Smart Export Guarantee (SEG) tariffs have been unveiled after the legislation came into full effect yesterday (1 January 2020), with pricing ranging wildly"
+    },
+    {
+      "title": "Vehicle-to-grid: Where’s the smart money?",
+      "url": "https://theenergyst.com/vehicle-to-grid-wheres-the-smart-money/",
+      "tags": ["v2g", "knowledge"],
+      "description": "a comprehensive overview of V2G and V1G technologies and regulations. before regulatory changes come into effect, much of the potential value is from behind-the-meter optimisation"
+    },
+    {
+      "title": "National Grid upgrades balancing mechanism tech",
+      "url": "https://theenergyst.com/tesla-enters-uk-flex-market-as-national-grid-upgrades-balancing-mechanism-tech/",
+      "tags": ["knowledge", "derms", "balancing"],
+      "description": "Sept 2020 - In launching the new API, National Grid ESO aims to make it easier for smaller assets such as batteries and small distributed generators to bid into the Balancing Mechanism"
+    },
+    {
       "title": "Harwell Campus - EnergyTec Cluster",
       "url": "https://www.harwellcampus.com/energytec-cluster/",
       "tags": ["knowledge", "research"],
