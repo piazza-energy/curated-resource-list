@@ -76,30 +76,45 @@ const SearchEngine = ({ bookmarks }) => {
 }
 
 function searchCharacters(query, bookmarks) {
+  const calc_weight = function(q, res) {
+    const ql = q.length;
+    let weight = 0;
+    for (const r of res) {
+      weight += ql / r.length;
+    }
+    return weight;
+  }
+
   return new Promise((resolve, reject) => {
     let output;
     if (query.length >= minQLenght) {
-      let results = {};
-      let count = 0;
-      let re = new RegExp(query, 'gi');
+      let results = [];
+      let re = new RegExp('\\b' + query + '.*?\\b', 'gi');
       // oooh, 3 nested for loops, not nice but will do
       for (const cat in bookmarks) {
-        results[cat] = [];
         for (const bookmark of bookmarks[cat]) {
-          for (const field of ['title', 'description']) {
-            if (bookmark[field].match(re)) {
-              results[cat].push(bookmark);
-              count++;
-              break;
-            }
+          let match_title = bookmark['title'].match(re);
+          let match_descr = bookmark['description'].match(re);
+          let weight = 0, found = false;
+          if (match_title) {
+            weight += 10 * calc_weight(query, match_title);
+            found = true;
+          }
+          if (match_descr) {
+            weight += calc_weight(query, match_descr);
+            found = true;
+          }
+          if (found) {
+            results.push(Object.assign({cat, weight}, bookmark))
           }
         }
       }
+      results.sort((a, b) => a.weight >= b.weight ? -1 : 1);
       output = <div>
-        <p>Your search for {query} produced {count} results</p>
-        {Object.keys(results).map((cat, iC) => <div>
-          <h2>In <CategoryLink name={cat} /> - {results[cat].length} results</h2>
-          {results[cat].map((bookmark, iB) => <BookmarkLink key={`${iC}${iB}`} {...bookmark} />)}
+        <p>Your search for {query} produced {results.length} results</p>
+        {results.map((bookmark, index) => <div className={styles.wrapper} key={index}>
+          In category <CategoryLink name={bookmark.cat} />
+          <BookmarkLink {...bookmark} />
         </div>)}
       </div>
     } else {
