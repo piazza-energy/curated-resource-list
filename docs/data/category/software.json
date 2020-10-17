@@ -19,6 +19,12 @@
       "description": "software-as-a-service minimizing utility bills with automatic control of heating-cooling equipment (e.g. HVAC), pumps, EV charging points and/or batteries"
     },
     {
+      "title": "Dreev",
+      "url": "http://www.dreev.com/#discover",
+      "tags": ["platform", "ev"],
+      "description": "V2G platform. Dreev solution relies on Nuvve technology that has already been deployed and validated on 5 continents. Dreev is a creation of both San Diego based [Nuvve](https://nuvve.com/) and EDF Pulse Expansion. "
+    },
+    {
       "title": "EV energy",
       "url": "https://ev.energy/",
       "tags": ["platform", "ev"],
@@ -364,7 +370,7 @@
       "title": "Sefaira",
       "url": "https://sefaira.com/",
       "tags": ["efficiency"],
-      "description": "Sefaira "
+      "description": "Sefaira - early stage analysis for designers who care about building performance. Similar to IES"
     },
     {
       "title": "Demand Logic",
@@ -409,7 +415,7 @@
       "description": "Grid edge is an energy analytics platform for commercial buildings. They want to change the way that people use energy by putting data-driven, intelligent control into the hands of commercial energy consumers. Has [raised 2.5M in Oct 19](https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-expands-its-digital-energy-portfolio-by-investing-in-energy-management-platform-grid-edge.html) from BP Ventures"
     },
     {
-      "title": "Intelligent Communities Lifecycle (ICL)",
+      "title": "IES - Intelligent Communities Lifecycle (ICL)",
       "url": "https://www.iesve.com/icl",
       "tags": ["efficiency"],
       "description": "Intelligent Communities Lifecycle (ICL)  is a digital twin & simulation software to assess energy consumption and optimisation for aggregation of buildings in communities, developed by Integrated Environmental Solutions (IES)"
@@ -455,6 +461,12 @@
       "url": "https://solargis.com/about-us",
       "tags": ["pv-sw"],
       "description": "Solargis provide reliable and accurate solar, weather and solar electricity data that are used in the whole lifecycle of solar power plants, from prospection to development and operation"
+    },
+    {
+      "title": "Positive Energy",
+      "url": "https://positiveenergylimited.com/",
+      "tags": ["blockchain", "platform"],
+      "description": "Singapore based, European founders. Positive Energy's mission is to accelerate the deployment of renewable energy assets globally with a platform that digitizes the asset finance workflow creating greater efficiency in business processes, operations, transparency and security resulting in higher profitability and performance."
     },
     {
       "title": "EnergiMine",
