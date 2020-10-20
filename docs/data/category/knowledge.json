@@ -181,10 +181,10 @@
       "description": " Open  datasets  & methodologies for carbon emissions from different activities. Forked from [OpenAMEE](https://www.amee.com/company), and npm installable"
     },
     {
-      "title": "link",
+      "title": "programmable web list of energy api",
       "url": "https://www.programmableweb.com/category/energy/api",
       "tags": ["dataset"],
-      "description": " List of API energy related  link "
+      "description": " List of API energy related  "
     },
     {
       "title": "Programmable web list",
@@ -229,7 +229,7 @@
       "description": " AEMO and ARENA  build a 200MW battery  for extreme peaks, twice the size of the Tesla big battery"
     },
     {
-      "title": "link",
+      "title": "IPCC report",
       "url": "http://www.ipcc.ch/report/sr15/",
       "tags": ["knowledge"],
       "description": " IPCC (intergovernmental panel on climate change) report on 1.5C released in early October 2018:  link  this is the **badass doc** that worked as wake up call for loads of people"
@@ -241,13 +241,13 @@
       "description": "NASA  I love you :heart:"
     },
     {
-      "title": "link",
+      "title": "status of nuclear fusion on quartz",
       "url": "https://qz.com/1402282/in-search-of-clean-energy-investments-in-nuclear-fusion-startups-are-heating-up/",
       "tags": ["knowledge"],
       "description": " Status of nuclear fusion in Sept 18  link "
     },
     {
-      "title": "link",
+      "title": "UK power networks innovation",
       "url": "http://innovation.ukpowernetworks.co.uk/innovation/en/",
       "tags": ["knowledge"],
       "description": " **Pandora’s box!** So much content here, loads of innovation projects and reports in a single place  link  very interesting sections: low carbon London and smarter network storage in the large scale projects section"
@@ -364,7 +364,7 @@
       "title": "link",
       "url": "https://www.ucsusa.org/clean-vehicles/electric-vehicles/ev-emissions-tool",
       "tags": ["consumption"],
-      "description": " Electric vehicle footprint  link , this is fun. Basically: buy a Prius instead of a Tesla"
+      "description": " Electric vehicle footprint , this is fun. Basically: buy a Prius instead of a Tesla"
     },
     {
       "title": "depends on the grid",
@@ -397,7 +397,7 @@
       "description": " about better futures accelerator (see money & business section above)  link "
     },
     {
-      "title": "link",
+      "title": "McKinsey report",
       "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-keep-the-lights-on",
       "tags": ["biz"],
       "description": " McKinsey report on changing utility landscape  link "
@@ -445,7 +445,7 @@
     {
       "title": "link",
       "url": "https://www.technologyreview.com/s/612238/wide-scale-us-wind-power-could-cause-significant-warming/",
-      "description": " Warming from wind  link "
+      "description": " Warming from wind "
     },
     {
       "title": "world economic forum",
@@ -455,12 +455,12 @@
     {
       "title": "link",
       "url": "http://www.withouthotair.com/download.html",
-      "description": " Sustainable energy without the hot air (book, pdf)  link "
+      "description": " Sustainable energy without the hot air (book, pdf)  "
     },
     {
       "title": "link",
       "url": "https://theenergyst.com/siemens-local-councils-beis-fund-net-zero/",
-      "description": " Siemens + BEIS partnership to finance net zero infrastructure -  link "
+      "description": " Siemens + BEIS partnership to finance net zero infrastructure  "
     },
     {
       "title": "nuclear",
