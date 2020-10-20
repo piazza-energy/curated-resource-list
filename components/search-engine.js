@@ -90,7 +90,6 @@ function searchCharacters(query, bookmarks) {
     if (query.length >= minQLenght) {
       let results = [];
       let re = new RegExp('\\b' + query + '.*?\\b', 'gi');
-      // oooh, 3 nested for loops, not nice but will do
       for (const cat in bookmarks) {
         for (const bookmark of bookmarks[cat]) {
           let match_title = bookmark['title'].match(re);
