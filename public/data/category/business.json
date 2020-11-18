@@ -13,6 +13,12 @@
       "description": "We support startups by providing access to capital, market, community and expertise in four domains: emerging tech, energy, health, agrifood"
     },
     {
+      "title": "Urban Tech Program",
+      "url": "https://urbantechprogram.io/",
+      "tags": ["accelerator"],
+      "description": "Accelerating the development of sustainable cities, in Copenhagen"
+    },
+    {
       "title": "Free Electrons",
       "url": "https://freeelectrons.org/",
       "tags": ["accelerator"],
@@ -23,6 +29,24 @@
       "url": "https://climatetechvc.org/a-running-list-of-climate-tech-accelerators/",
       "tags": ["accelerator"],
       "description": "running list of Climate Tech accelerators"
+    },
+    {
+      "title": "Collaborative fund",
+      "url": "https://www.collaborativefund.com/",
+      "tags": ["vc"],
+      "description": "Thirteen people. Four funds. $300 million. 50+ invest­ments. Offices in SF & NYC. A leading source of capital for entrepreneurs pushing the world forward."
+    },
+    {
+      "title": "Bentley iTwin Ventures",
+      "url": "https://bentleyitwinventures.com/",
+      "tags": ["vc"],
+      "description": "Bentley iTwin Ventures will invest in ‘digital twin’ engineering, simulation and asset lifecycle management solutions serving public works and utilities, and industrial and natural resources."
+    },
+    {
+      "title": "Engie New Ventures",
+      "url": "https://www.engieventures.com/",
+      "tags": ["vc"],
+      "description": "ENGIE New Ventures (ENV) was founded in 2014 as the corporate venture arm of the global energy provider ENGIE. Its €180 million fund is dedicated to making minority investment in technology startups that complement existing activities and resources to spur internal innovation within ENGIE."
     },
     {
       "title": "Pale Blue Dot",
@@ -173,6 +197,12 @@
       "url": "https://valoventures.org/",
       "tags": ["vc"],
       "description": "We’re drawn to the line where creative entrepreneurs and emerging technologies intersect with social, economic, and environmental trends."
+    },
+    {
+      "title": "Future Energy Ventures",
+      "url": "https://fev.vc/",
+      "tags": ["vc"],
+      "description": "E.ON has merged the portfolio companies of its two investment vehicles under a new venture arm called Future Energy Ventures. From [Techcrunch, Oct 10th 2020](https://techcrunch.com/2020/10/08/german-energy-company-e-on-forms-eur250-million-venture-fund-focused-on-smart-grid-tech/)"
     },
     {
       "title": "Powerhouse",
@@ -353,6 +383,12 @@
       "url": "https://zayedsustainabilityprize.com/",
       "tags": ["competition"],
       "description": " The Zayed Sustainability Prize , an evolution of the Zayed Future Energy Prize, is the UAE’s pioneering global award in sustainability"
+    },
+    {
+      "title": "Gresham house",
+      "url": "https://greshamhouse.com/",
+      "tags": ["investment"],
+      "description": "Gresham House is a specialist alternative asset manager, listed on the London Stock Exchange’s Alternative Investment Market (AIM)"
     },
     {
       "title": "Fundeen",
