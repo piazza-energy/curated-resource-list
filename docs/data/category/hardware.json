@@ -457,10 +457,22 @@
       "description": "bticino photovoltaic "
     },
     {
+      "title": "Calibrant Energy",
+      "url": "https://calibrantenergy.com/",
+      "tags": ["microgrid"],
+      "description": "Total lifecycle management of the project with a partner that can assume responsibility of servicing, maintenance, and the operation of assets over the course of the contract lifetime. Established in 2020 by Macquarie’s Green Investment Group, Siemens Smart Infrastructure and Siemens Financial Services."
+    },
+    {
+      "title": "Catalyze Energy",
+      "url": "https://catalyze.energy/",
+      "tags": ["microgrid"],
+      "description": "Catalyze develops, builds, finances, owns, and operates renewable energy assets on C&I real estate, acting as a long-term tenant on your property."
+    },
+    {
       "title": "S&C",
       "url": "https://www.sandc.com/en/company/what-we-do/",
       "tags": ["microgrid"],
-      "description": "S&C  found it hard to place this, hence a new \"microgrid\" sub-section. They build hardware + software and provide consultancy services for implementation of microgrids, quite big US based"
+      "description": "They build hardware + software and provide consultancy services for implementation of microgrids, quite big US based"
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "title": "Enian",
+      "url": "https://enian.co/",
+      "tags": ["platform"],
+      "description": "ENIAN is on a mission to fix our broken energy system with data and software. Their platform is an enterprise SaaS solution that provides all of the management tools for renewable energy professionals."
+    },
+    {
       "title": "Cortex",
       "url": "https://get.cortexintel.com/",
       "tags": ["platform"],

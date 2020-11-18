@@ -13,6 +13,12 @@
       "description": "a comprehensive overview of V2G and V1G technologies and regulations. before regulatory changes come into effect, much of the potential value is from behind-the-meter optimisation"
     },
     {
+      "title": "BOA unconstrictor",
+      "url": "https://www.flexitricity.com/more/blog/boa-unconstrictor-untangling-balancing-mechanism-a/",
+      "tags": ["knowledge", "balancing"],
+      "description": "a very good article from Flexitricity explaining the balancing mechanism and the bid/offer acceptances structure"
+    },
+    {
       "title": "National Grid upgrades balancing mechanism tech",
       "url": "https://theenergyst.com/tesla-enters-uk-flex-market-as-national-grid-upgrades-balancing-mechanism-tech/",
       "tags": ["knowledge", "derms", "balancing"],
@@ -22,7 +28,7 @@
       "title": "Harwell Campus - EnergyTec Cluster",
       "url": "https://www.harwellcampus.com/energytec-cluster/",
       "tags": ["knowledge", "research"],
-      "description": "The EnergyTec Cluster at Harwell Campus has 57 organisations comprising of over 1100 employees and aims is to bring  together the multiple capabilities of Harwell with the surrounding regions to help address the UK’s energy challenges, and the economic opportunities they present."
+      "description": "The EnergyTec Cluster at Harwell Campus has 57 organisations comprising of over 1100 employees and aims is to bring together the multiple capabilities of Harwell with the surrounding regions to help address the UK’s energy challenges, and the economic opportunities they present."
     },
     {
       "title": "VPP leaderboard",
@@ -112,49 +118,55 @@
       "title": "Electric Insights",
       "url": "https://electricinsights.co.uk",
       "tags": ["dataset"],
-      "description": "Electric Insights  was established by Drax Group to help inform and enlighten the debate on Britain’s electricity."
+      "description": "Electric Insights was established by Drax Group to help inform and enlighten the debate on Britain’s electricity."
     },
     {
       "title": "EIA",
       "url": "https://www.eia.gov/consumption/commercial/",
       "tags": ["dataset"],
-      "description": "EIA  the US Energy Information Administration has done a comprehensive survey of commercial buildings with their energy consumption"
+      "description": "EIA the US Energy Information Administration has done a comprehensive survey of commercial buildings with their energy consumption"
     },
     {
       "title": "ENERGYDATA.INFO",
       "url": "https://energydata.info/",
       "tags": ["dataset"],
-      "description": "ENERGYDATA.INFO  is an open data platform providing access to datasets and data analytics that are relevant to the energy sector."
+      "description": "ENERGYDATA.INFO is an open data platform providing access to datasets and data analytics that are relevant to the energy sector."
     },
     {
       "title": "Elexon",
       "url": "https://www.elexon.co.uk/",
       "tags": ["dataset"],
-      "description": "Elexon  meters data harvesting and comparison, balancing and settlement code (BSC), **lots and lots of data!** They also have an API, check this out [link](https://www.elexon.co.uk/new-balancing-mechanism-reporting-service-bmrs/)"
+      "description": "Elexon meters data harvesting and comparison, balancing and settlement code (BSC), **lots and lots of data!** They also have an API, check this out [link](https://www.elexon.co.uk/new-balancing-mechanism-reporting-service-bmrs/)"
     },
     {
-      "title": "for the US",
+      "title": "Balancing Mechanism Reporting Service",
+      "url": "https://www.bmreports.com/",
+      "tags": ["dataset", "balancing"],
+      "description": "primary channel for providing operational data relating to the GB Electricity Balancing and Settlement arrangements. It is used extensively by market participants to help make trading decisions and understanding market dynamics and acts as a prompt reporting platform as well as a means of accessing historic data"
+    },
+    {
+      "title": "Datasets for the US",
       "url": "https://catalog.data.gov/dataset?tags=energy-consumption#sec-tags",
       "tags": ["dataset"],
-      "description": " Data sets  for the US  (commercial and residential hourly load profile linked here - [link](https://catalog.data.gov/dataset/commercial-and-residential-hourly-load-profiles-for-all-tmy3-locations-in-the-united-state))"
+      "description": " Data sets for the US (commercial and residential hourly load profile linked here - [link](https://catalog.data.gov/dataset/commercial-and-residential-hourly-load-profiles-for-all-tmy3-locations-in-the-united-state))"
     },
     {
       "title": "link",
       "url": "https://data.gov.uk/dataset/26afb14b-be9a-4722-916e-10655d0edc38/energy-consumption-in-the-uk",
       "tags": ["dataset"],
-      "description": " energy consumption UK data set  link "
+      "description": " energy consumption UK data set link "
     },
     {
       "title": "5.5k households smart meter",
       "url": "https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households",
       "tags": ["dataset"],
-      "description": "5.5k households smart meter  half hour readings between nov 11 and feb 14"
+      "description": "5.5k households smart meter half hour readings between nov 11 and feb 14"
     },
     {
       "title": "UK-DALE",
       "url": "http://jack-kelly.com/data/",
       "tags": ["dataset"],
-      "description": "UK-DALE  domestic appliance-level electricity demand and whole-house demand from five UK homes. [paper](https://www.nature.com/articles/sdata20157)"
+      "description": "UK-DALE domestic appliance-level electricity demand and whole-house demand from five UK homes. [paper](https://www.nature.com/articles/sdata20157)"
     },
     {
       "title": "REDD",
@@ -172,13 +184,13 @@
       "title": "Solar Panel Energy Generation",
       "url": "https://data.london.gov.uk/dataset/photovoltaic--pv--solar-panel-energy-generation-data",
       "tags": ["dataset"],
-      "description": "Solar Panel Energy Generation  dataset contains voltage, current, power, energy, and weather data from low-voltage substations and domestic premises with high uptake of solar photovoltaic (PV) embedded generation."
+      "description": "Solar Panel Energy Generation dataset contains voltage, current, power, energy, and weather data from low-voltage substations and domestic premises with high uptake of solar photovoltaic (PV) embedded generation."
     },
     {
       "title": "datasets",
       "url": "https://github.com/thegreenwebfoundation/datasets/",
       "tags": ["dataset"],
-      "description": " Open  datasets  & methodologies for carbon emissions from different activities. Forked from [OpenAMEE](https://www.amee.com/company), and npm installable"
+      "description": " Open datasets  & methodologies for carbon emissions from different activities. Forked from [OpenAMEE](https://www.amee.com/company), and npm installable"
     },
     {
       "title": "programmable web list of energy api",
@@ -190,79 +202,79 @@
       "title": "Programmable web list",
       "url": "https://www.programmableweb.com/category/solar/api",
       "tags": ["dataset"],
-      "description": "Programmable web list  on solar-related APIs"
+      "description": "Programmable web list on solar-related APIs"
     },
     {
       "title": "SEG - Smart Export Guarantee",
       "url": "https://www.solarpowerportal.co.uk/news/beis_unveils_smart_export_guarantee_to_replace_export_tariff",
       "tags": ["knowledge"],
-      "description": "SEG - Smart Export Guarantee  is the new way for small generation to have a feed-in tariff, starting after the old one dies on March 31st 2019. Some useful notes from [the Energyst](https://theenergyst.com/smart-export-guarantee-neither-smart-nor-much-of-a-guarantee/)"
+      "description": "SEG - Smart Export Guarantee is the new way for small generation to have a feed-in tariff, starting after the old one dies on March 31st 2019. Some useful notes from [the Energyst](https://theenergyst.com/smart-export-guarantee-neither-smart-nor-much-of-a-guarantee/)"
     },
     {
       "title": "Low carbon and renewable energy economy, UK: 2017",
       "url": "https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/finalestimates/2017#main-points",
       "tags": ["knowledge"],
-      "description": "Low carbon and renewable energy economy, UK: 2017  Final results from the Low Carbon and Renewable Energy Survey on the low carbon and renewable energy economy, 31.1.19"
+      "description": "Low carbon and renewable energy economy, UK: 2017 Final results from the Low Carbon and Renewable Energy Survey on the low carbon and renewable energy economy, 31.1.19"
     },
     {
       "title": "How AI will affect the future",
       "url": "https://www.brookings.edu/research/how-artificial-intelligence-will-affect-the-future-of-energy-and-climate/",
       "tags": ["knowledge"],
-      "description": "How AI will affect the future  of energy and climate change"
+      "description": "How AI will affect the future of energy and climate change"
     },
     {
       "title": "machine learning",
       "url": "https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/",
       "tags": ["knowledge"],
-      "description": "machine learning  can boost the value of wind energy, from a Google company"
+      "description": "machine learning can boost the value of wind energy, from a Google company"
     },
     {
       "title": "provided a millisecond response",
       "url": "https://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/",
       "tags": ["knowledge"],
-      "description": " the case for static storage: how Tesla big battery in Australia  provided a millisecond response  to adjust frequency when a coal plant stopped working"
+      "description": " the case for static storage: how Tesla big battery in Australia provided a millisecond response to adjust frequency when a coal plant stopped working"
     },
     {
       "title": "build a 200MW battery",
       "url": "https://www.aemo.com.au/Media-Centre/AEMO-and-ARENA-demand-response-trial-to-provide-200MW-of-emergency-reserves-for-extreme-peaks",
       "tags": ["knowledge"],
-      "description": " AEMO and ARENA  build a 200MW battery  for extreme peaks, twice the size of the Tesla big battery"
+      "description": " AEMO and ARENA build a 200MW battery for extreme peaks, twice the size of the Tesla big battery"
     },
     {
       "title": "IPCC report",
       "url": "http://www.ipcc.ch/report/sr15/",
       "tags": ["knowledge"],
-      "description": " IPCC (intergovernmental panel on climate change) report on 1.5C released in early October 2018:  link  this is the **badass doc** that worked as wake up call for loads of people"
+      "description": " IPCC (intergovernmental panel on climate change) report on 1.5C released in early October 2018: link this is the **badass doc** that worked as wake up call for loads of people"
     },
     {
       "title": "NASA",
       "url": "https://climate.nasa.gov/",
       "tags": ["knowledge"],
-      "description": "NASA  I love you :heart:"
+      "description": "NASA I love you :heart:"
     },
     {
       "title": "status of nuclear fusion on quartz",
       "url": "https://qz.com/1402282/in-search-of-clean-energy-investments-in-nuclear-fusion-startups-are-heating-up/",
       "tags": ["knowledge"],
-      "description": " Status of nuclear fusion in Sept 18  link "
+      "description": " Status of nuclear fusion in Sept 18 link "
     },
     {
       "title": "UK power networks innovation",
       "url": "http://innovation.ukpowernetworks.co.uk/innovation/en/",
       "tags": ["knowledge"],
-      "description": " **Pandora’s box!** So much content here, loads of innovation projects and reports in a single place  link  very interesting sections: low carbon London and smarter network storage in the large scale projects section"
+      "description": " **Pandora’s box!** So much content here, loads of innovation projects and reports in a single place link very interesting sections: low carbon London and smarter network storage in the large scale projects section"
     },
     {
       "title": "national grid eso",
       "url": "https://www.nationalgrideso.com/insights",
       "tags": ["knowledge"],
-      "description": " Electricity System Operator UK  national grid eso  another website full of content, innovation, fundings, etc. mainly from the TSO point of view"
+      "description": " Electricity System Operator UK national grid eso another website full of content, innovation, fundings, etc. mainly from the TSO point of view"
     },
     {
       "title": "electrical grid mapping",
       "url": "https://code.fb.com/connectivity/electrical-grid-mapping/",
       "tags": ["knowledge"],
-      "description": " An algorithm for  electrical grid mapping  by Facebook based on image analysis and a modified Dijkstra algorithm"
+      "description": " An algorithm for electrical grid mapping by Facebook based on image analysis and a modified Dijkstra algorithm"
     },
     {
       "title": "Data Communication Company",
@@ -286,79 +298,79 @@
       "title": "The Smart Cities Information System (SCIS)",
       "url": "https://smartcities-infosystem.eu/",
       "tags": ["knowledge"],
-      "description": "The Smart Cities Information System (SCIS)  is a knowledge platform to exchange data, experience and know-how and to collaborate on the creation of smart cities. List of [demonstration projects](https://smartcities-infosystem.eu/scis-clusters/demonstration-projects), and some projects funded:"
+      "description": "The Smart Cities Information System (SCIS) is a knowledge platform to exchange data, experience and know-how and to collaborate on the creation of smart cities. List of [demonstration projects](https://smartcities-infosystem.eu/scis-clusters/demonstration-projects), and some projects funded:"
     },
     {
       "title": "SMARTER TOGETHER",
       "url": "https://www.smarter-together.eu/",
       "tags": ["smart-city"],
-      "description": "SMARTER TOGETHER  is a joint project that aims to improve citizen’s quality of life in nowadays transforming cities."
+      "description": "SMARTER TOGETHER is a joint project that aims to improve citizen’s quality of life in nowadays transforming cities."
     },
     {
       "title": "SmartEnCity",
       "url": "https://smartencity.eu/",
       "tags": ["smart-city"],
-      "description": "SmartEnCity  aim to develop strategies that can be replicated throughout Europe in order to: Reduce energy demand and Maximise renewable energy supply"
+      "description": "SmartEnCity aim to develop strategies that can be replicated throughout Europe in order to: Reduce energy demand and Maximise renewable energy supply"
     },
     {
       "title": "Replicate",
       "url": "https://replicate-project.eu/",
       "tags": ["smart-city"],
-      "description": "Replicate  Renaissance of Places with Innovative Citizenship and Technology"
+      "description": "Replicate Renaissance of Places with Innovative Citizenship and Technology"
     },
     {
       "title": "OrbEEt",
       "url": "http://orbeet.eu/objective/",
       "tags": ["smart-city"],
-      "description": "OrbEEt  framework will continuously capture and analyse real time building information from low-cost, off-the-shelf non-intrusive sensors and convert this into meaningful real-time energy rating information"
+      "description": "OrbEEt framework will continuously capture and analyse real time building information from low-cost, off-the-shelf non-intrusive sensors and convert this into meaningful real-time energy rating information"
     },
     {
       "title": "DR-BOB",
       "url": "https://www.dr-bob.eu/solution/",
       "tags": ["smart-city"],
-      "description": "DR-BOB  Demand Response energy management solution optimises the local energy production, consumption and storage in real time."
+      "description": "DR-BOB Demand Response energy management solution optimises the local energy production, consumption and storage in real time."
     },
     {
       "title": "Renewable energy hub UK",
       "url": "https://www.renewableenergyhub.co.uk/",
       "tags": ["knowledge"],
-      "description": "Renewable energy hub UK  big marketplace for installers and generation devices"
+      "description": "Renewable energy hub UK big marketplace for installers and generation devices"
     },
     {
       "title": "Microsoft announced",
       "url": "https://news.microsoft.com/en-xm/2019/11/12/microsoft-announces-ai-centre-of-excellence-at-adipec-2019-to-accelerate-innovation-across-energy-sector/",
       "tags": ["knowledge"],
-      "description": " Microsoft announced  that in early 2020 it will open an AI Centre of Excellence for Energy in the United Arab Emirates – a global first for the company – to empower organisations in the industry in accelerating digital transformation, equipping the workforce with AI skills, as well as collaborating on coalitions to address sustainability and safety challenges."
+      "description": " Microsoft announced that in early 2020 it will open an AI Centre of Excellence for Energy in the United Arab Emirates – a global first for the company – to empower organisations in the industry in accelerating digital transformation, equipping the workforce with AI skills, as well as collaborating on coalitions to address sustainability and safety challenges."
     },
     {
       "title": "Protect Earth",
       "url": "https://protect.earth",
       "tags": ["knowledge"],
-      "description": "Protect Earth  is a list of links divided by categories and tags and compiled to a website (a bit like this repo, but better :smile:), the source is [here on Github](https://github.com/philsturgeon/awesome-earth)"
+      "description": "Protect Earth is a list of links divided by categories and tags and compiled to a website (a bit like this repo, but better :smile:), the source is [here on Github](https://github.com/philsturgeon/awesome-earth)"
     },
     {
       "title": "En-roads scenario simulation",
       "url": "https://en-roads.climateinteractive.org/scenario.html",
       "tags": ["knowledge"],
-      "description": "En-roads scenario simulation  helps to improve decision-maker understanding of the dynamics of the climate-energy-land-economic system, particularly focusing on policy-makers, citizens, educators, and business leaders [FAQ](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/general_faqs.html)"
+      "description": "En-roads scenario simulation helps to improve decision-maker understanding of the dynamics of the climate-energy-land-economic system, particularly focusing on policy-makers, citizens, educators, and business leaders [FAQ](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/general_faqs.html)"
     },
     {
       "title": "SAVE",
       "url": "https://www.ssen.co.uk/save/",
       "tags": ["consumption"],
-      "description": "SAVE  is a five-year trial across 4,000 homes in the Solent region called SAVE, which tried a range of mechanisms to see how households could provide demand reduction and response. From the [Energyst](https://theenergyst.com/sse-networks-to-bring-households-into-demand-side-response/)"
+      "description": "SAVE is a five-year trial across 4,000 homes in the Solent region called SAVE, which tried a range of mechanisms to see how households could provide demand reduction and response. From the [Energyst](https://theenergyst.com/sse-networks-to-bring-households-into-demand-side-response/)"
     },
     {
       "title": "link",
       "url": "https://flowcharts.llnl.gov/",
       "tags": ["consumption"],
-      "description": " **energy flows** if you have to impress people using Sankey charts - Lawrence Livermore (world, but mainly updated for US)  link "
+      "description": " **energy flows** if you have to impress people using Sankey charts - Lawrence Livermore (world, but mainly updated for US) link "
     },
     {
       "title": "link",
       "url": "https://www.gov.uk/government/collections/energy-trends",
       "tags": ["consumption"],
-      "description": " BEIS energy trends  link "
+      "description": " BEIS energy trends link "
     },
     {
       "title": "link",
@@ -370,61 +382,61 @@
       "title": "depends on the grid",
       "url": "http://www.cesifo-group.de/ifoHome/presse/Pressemitteilungen/Pressemitteilungen-Archiv/2019/Q2/pm_20190417_sd08-Elektroautos.html",
       "tags": ["consumption"],
-      "description": " EV footprint  depends on the grid  producing the li-ion battery"
+      "description": " EV footprint depends on the grid producing the li-ion battery"
     },
     {
       "title": "Berkeley study",
       "url": "https://escholarship.org/uc/item/80g5s6df",
       "tags": ["consumption"],
-      "description": " Distributed energy resources and blockchain,  Berkeley study  linked from [this article](https://blockchainatberkeley.blog/a-new-approach-to-decentralized-energy-5ab2b5460fa0)"
+      "description": " Distributed energy resources and blockchain, Berkeley study linked from [this article](https://blockchainatberkeley.blog/a-new-approach-to-decentralized-energy-5ab2b5460fa0)"
     },
     {
       "title": "link",
       "url": "https://www.gov.uk/government/news/smart-meters-the-smart-choice",
       "tags": ["biz"],
-      "description": " From BEIS, 8.8.18 “smart meters is the way to go”  link "
+      "description": " From BEIS, 8.8.18 “smart meters is the way to go” link "
     },
     {
       "title": "FTSE4good",
       "url": "https://www.ftse.com/products/indices/FTSE4Good",
       "tags": ["biz"],
-      "description": "FTSE4good  Luxottica is mentioned here [link](https://www.pambianconews.com/2018/08/02/luxottica-entra-nellindice-ftse4good-241982/)"
+      "description": "FTSE4good Luxottica is mentioned here [link](https://www.pambianconews.com/2018/08/02/luxottica-entra-nellindice-ftse4good-241982/)"
     },
     {
       "title": "link",
       "url": "https://techcrunch.com/2017/06/12/londons-mayor-announces-1-6m-clean-tech-incubator/",
       "tags": ["biz"],
-      "description": " about better futures accelerator (see money & business section above)  link "
+      "description": " about better futures accelerator (see money & business section above) link "
     },
     {
       "title": "McKinsey report",
       "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-keep-the-lights-on",
       "tags": ["biz"],
-      "description": " McKinsey report on changing utility landscape  link "
+      "description": " McKinsey report on changing utility landscape link "
     },
     {
       "title": "link",
       "url": "https://uk.reuters.com/article/us-eon-microsoft-smarthomes-focus/e-on-targets-innovations-for-smart-energy-future-idUKKCN1M80ID",
       "tags": ["biz"],
-      "description": " Happening in Germany  link  and the e-on / Microsoft joint venture for energy monitoring dashboards"
+      "description": " Happening in Germany link and the e-on / Microsoft joint venture for energy monitoring dashboards"
     },
     {
       "title": "quartz",
       "url": "https://qz.com/1402301/bill-gatess-1-billion-energy-fund-is-expanding-its-portfolio-of-startups-fighting-climate-change/",
       "tags": ["biz"],
-      "description": " Lists of startup to watch  quartz  [wired](https://www.wired.co.uk/article/wired-energy-2017-startups) [techworld](https://www.techworld.com/picture-gallery/startups/uk-energy-tech-startups-3681877/)"
+      "description": " Lists of startup to watch quartz  [wired](https://www.wired.co.uk/article/wired-energy-2017-startups) [techworld](https://www.techworld.com/picture-gallery/startups/uk-energy-tech-startups-3681877/)"
     },
     {
       "title": "link on Gates notes",
       "url": "https://www.gatesnotes.com/Energy/My-plan-for-fighting-climate-change",
       "tags": ["biz"],
-      "description": " Breakthrough energy Europe announcement and breakdown of greenhouse gas source emissions  link on Gates notes "
+      "description": " Breakthrough energy Europe announcement and breakdown of greenhouse gas source emissions link on Gates notes "
     },
     {
       "title": "program on energy storage",
       "url": "https://www.nyserda.ny.gov/All%20Programs/Programs/Energy%20Storage",
       "tags": ["storage-biz"],
-      "description": " New York State Energy Research and Development Authority has a  program on energy storage , their report sent by GridMarket when registering on their website"
+      "description": " New York State Energy Research and Development Authority has a program on energy storage , their report sent by GridMarket when registering on their website"
     },
     {
       "title": "aggregation is making storage a software business",
@@ -435,12 +447,12 @@
     {
       "title": "green energy storage",
       "url": "http://www.greenenergystorage.eu/en/battery/",
-      "description": "green energy storage  an Italian company implementing a patented organic flow battery"
+      "description": "green energy storage an Italian company implementing a patented organic flow battery"
     },
     {
       "title": "fluoride-ion battery",
       "url": "https://www.slashgear.com/honda-reveals-fluoride-battery-breakthrough-for-next-gen-power-storage-06557121/",
-      "description": " new  fluoride-ion battery  tech from honda / jpl / caltech"
+      "description": " new fluoride-ion battery tech from honda / jpl / caltech"
     },
     {
       "title": "link",
@@ -450,7 +462,7 @@
     {
       "title": "world economic forum",
       "url": "https://www.weforum.org/agenda/2018/06/how-to-talk-about-climate-change-5-tips-from-the-front-lines",
-      "description": " Impact in climate change (loads of references)  world economic forum  and [good ol' Yates](https://www.quora.com/What-do-you-think-is-the-single-most-impactful-thing-an-individual-can-do-to-combat-climate-change/answer/Yates-Buckley)"
+      "description": " Impact in climate change (loads of references) world economic forum and [good ol' Yates](https://www.quora.com/What-do-you-think-is-the-single-most-impactful-thing-an-individual-can-do-to-combat-climate-change/answer/Yates-Buckley)"
     },
     {
       "title": "link",
@@ -465,24 +477,24 @@
     {
       "title": "nuclear",
       "url": "https://whatisnuclear.com/",
-      "description": " technical knowledge on  nuclear , with simple explanations"
+      "description": " technical knowledge on nuclear , with simple explanations"
     },
     {
       "title": "eco passenger",
       "url": "http://ecopassenger.hafas.de/bin/query.exe/en?L=vs_uic&",
-      "description": "eco passenger  is a calculator that compares the energy consumption, the CO2 emissions and other environmental impacts for planes, cars and trains in passenger transport"
+      "description": "eco passenger is a calculator that compares the energy consumption, the CO2 emissions and other environmental impacts for planes, cars and trains in passenger transport"
     },
     {
       "title": "1",
       "url": "https://www.thetimes.co.uk/article/desert-sun-in-qatar-too-hot-for-solar-panels-to-work-h23kmktbp",
       "tags": ["solar"],
-      "description": " solar panel efficency  1  [2](https://greentumble.com/effect-of-temperature-on-solar-panel-efficiency/)"
+      "description": " solar panel efficency 1  [2](https://greentumble.com/effect-of-temperature-on-solar-panel-efficiency/)"
     },
     {
       "title": "good post on medium",
       "url": "https://medium.com/the-mission/what-size-of-a-solar-system-do-you-need-and-how-to-pay-or-it-e59b70917502",
       "tags": ["solar"],
-      "description": " a  good post on medium  detailing solar efficiency and costs"
+      "description": " a good post on medium detailing solar efficiency and costs"
     },
     {
       "title": "NREL PVWatts calculator",
@@ -494,7 +506,7 @@
       "title": "How to get",
       "url": "https://photovoltaic-software.com/principle-ressources/how-get-solar-radiation-data-world-free",
       "tags": ["solar"],
-      "description": "How to get  solar radiation and climate data (precipitaton, temperature, wind, insolation...) anywhere in the world free from NASA database"
+      "description": "How to get solar radiation and climate data (precipitaton, temperature, wind, insolation...) anywhere in the world free from NASA database"
     }
   ]
 }
