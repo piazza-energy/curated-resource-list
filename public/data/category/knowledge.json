@@ -181,6 +181,12 @@
       "description": "DRED  (Dutch Residential Energy Dataset) is the first open-access, publicly available dataset from The Netherlands. The data set live deployment consists of several sensors measuring electricity, occupants occupancy and ambient parameters in a household."
     },
     {
+      "title": "The Top 8 Weather APIs for 2020",
+      "url": "https://www.climacell.co/blog/top-8-weather-apis-for-2020/",
+      "tags": ["weather"],
+      "description": "A survey of weather APIs, useful for PV and wind generation prediction"
+    },
+    {
       "title": "Solar Panel Energy Generation",
       "url": "https://data.london.gov.uk/dataset/photovoltaic--pv--solar-panel-energy-generation-data",
       "tags": ["dataset"],
