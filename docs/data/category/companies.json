@@ -247,6 +247,7 @@
     {
       "title": "Nispera",
       "url": "http://nispera.com/",
+      "tags": ["weather"],
       "description": "Nispera renewable portfolio performance monitoring, asset management, weather forecast for power, bespoke solutions"
     },
     {
@@ -590,37 +591,37 @@
     {
       "title": "Meteomatics",
       "url": "http://www.meteomatics.com/display/WELCOME/Home",
-      "tags": ["meteo"],
+      "tags": ["weather"],
       "description": "Meteomatics specializes on the specific needs of the weather sector, energy and trading sectors"
     },
     {
       "title": "Energy weather",
       "url": "https://www.energyweather.com/",
-      "tags": ["meteo"],
+      "tags": ["weather"],
       "description": "Energy weather Germany based"
     },
     {
       "title": "Watt sight",
       "url": "https://www.wattsight.com/",
-      "tags": ["meteo"],
+      "tags": ["weather"],
       "description": "Watt sight Norway based, meteo and trading forecast"
     },
     {
       "title": "European power forecasting",
       "url": "https://europeanpowerforecasting.com/",
-      "tags": ["meteo"],
+      "tags": ["weather"],
       "description": "European power forecasting probably a sister company of Digital Engineering mentioned above, Bristol based (same office), focusing on the power forecasting side"
     },
     {
       "title": "Conwx",
       "url": "http://conwx.com/",
-      "tags": ["meteo"],
+      "tags": ["weather"],
       "description": "Conwx high-resolution historical weather data and forecast for power / TSOs / asset management"
     },
     {
       "title": "Sentinel weather",
       "url": "https://sentinel-weather.com/",
-      "tags": ["meteo"],
+      "tags": ["weather"],
       "description": "Sentinel weather "
     },
     {
