@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "title": "RES group",
+      "url": "https://www.res-group.com/en/",
+      "tags": ["generation"],
+      "description": "The world’s largest independent renewable energy company, 18GW Global Portfolio, Power Purchase Agreements, Asset Management"
+    },
+    {
+      "title": "REA",
+      "url": "https://www.solar-trade.org.uk/",
+      "tags": ["nonprofit"],
+      "description": "The REA - association for renewable energy and clean technology - is a not-for-profit trade association, established in 2001."
+    },
+    {
+      "title": "Solar Trade Association",
+      "url": "https://www.solar-trade.org.uk/",
+      "tags": ["nonprofit", "solar"],
+      "description": "Our mission is to empower the UK solar transformation. We are paving the way for solar to deliver the maximum possible share of UK energy by 2030 by enabling a bigger and better solar industry."
+    },
+    {
       "title": "Energy Institute",
       "url": "https://www.energyinst.org/",
       "tags": ["nonprofit"],
@@ -17,6 +35,18 @@
       "url": "https://carbon.ci/",
       "tags": ["consultancy", "efficiency"],
       "description": "London based Carbon Intelligence brings together a team of strategists, technologists, data scientists and engineers. Our sustainability experts believe in business as the solution to a zero-carbon economy, not the problem."
+    },
+    {
+      "title": "GreenEnco",
+      "url": "http://greenenco.co.uk/about/",
+      "tags": ["consultancy", "microgrid", "generation", "advisor"],
+      "description": "We are providing engineering & technical services and asset performance management to the solar PV stakeholders, from concept planning through to completion."
+    },
+    {
+      "title": "Roadnight Taylor",
+      "url": "https://roadnighttaylor.co.uk/",
+      "tags": ["consultancy", "microgrid", "generation", "advisor"],
+      "description": "Helping UK businesses and organisations make the best and safest energy choices that deliver against their specific objectives –  whether that’s reducing bills, generating income, shrinking carbon footprint or increasing resilience and competitiveness."
     },
     {
       "title": "UK Green Building Council",
@@ -640,7 +670,7 @@
       "title": "Ripple Energy",
       "url": "https://rippleenergy.com/",
       "tags": ["utility"],
-      "description": "Energy co-op - The first co-operatively owned wind farm to supply its owners with their own green electricity via the grid"
+      "description": "Energy co-op - The first co-operatively owned wind farm to supply its owners with their own green electricity via the grid. [On seeders](https://www.seedrs.com/ripple2)"
     },
     {
       "title": "Amp Energy",

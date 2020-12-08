@@ -25,6 +25,12 @@
       "description": "Sept 2020 - In launching the new API, National Grid ESO aims to make it easier for smaller assets such as batteries and small distributed generators to bid into the Balancing Mechanism"
     },
     {
+      "title": "Bristol City Leap",
+      "url": "https://www.energyservicebristol.co.uk/cityleap/",
+      "tags": ["investment", "smart-city"],
+      "description": "City Leap is a series of energy and infrastructure investment opportunities that represent a big step towards a cleaner, greener Bristol. "
+    },
+    {
       "title": "Harwell Campus - EnergyTec Cluster",
       "url": "https://www.harwellcampus.com/energytec-cluster/",
       "tags": ["knowledge", "research"],
@@ -367,19 +373,19 @@
       "description": "SAVE is a five-year trial across 4,000 homes in the Solent region called SAVE, which tried a range of mechanisms to see how households could provide demand reduction and response. From the [Energyst](https://theenergyst.com/sse-networks-to-bring-households-into-demand-side-response/)"
     },
     {
-      "title": "link",
+      "title": "Sankey charts for energy",
       "url": "https://flowcharts.llnl.gov/",
       "tags": ["consumption"],
       "description": " **energy flows** if you have to impress people using Sankey charts - Lawrence Livermore (world, but mainly updated for US) link "
     },
     {
-      "title": "link",
+      "title": "BEIS energy trends",
       "url": "https://www.gov.uk/government/collections/energy-trends",
       "tags": ["consumption"],
       "description": " BEIS energy trends link "
     },
     {
-      "title": "link",
+      "title": "Electric vehicle footprint",
       "url": "https://www.ucsusa.org/clean-vehicles/electric-vehicles/ev-emissions-tool",
       "tags": ["consumption"],
       "description": " Electric vehicle footprint , this is fun. Basically: buy a Prius instead of a Tesla"
@@ -397,7 +403,7 @@
       "description": " Distributed energy resources and blockchain, Berkeley study linked from [this article](https://blockchainatberkeley.blog/a-new-approach-to-decentralized-energy-5ab2b5460fa0)"
     },
     {
-      "title": "link",
+      "title": "Smart meters view from BEIS",
       "url": "https://www.gov.uk/government/news/smart-meters-the-smart-choice",
       "tags": ["biz"],
       "description": " From BEIS, 8.8.18 “smart meters is the way to go” link "
@@ -409,10 +415,10 @@
       "description": "FTSE4good Luxottica is mentioned here [link](https://www.pambianconews.com/2018/08/02/luxottica-entra-nellindice-ftse4good-241982/)"
     },
     {
-      "title": "link",
+      "title": "London Mayor's clean tech incubator",
       "url": "https://techcrunch.com/2017/06/12/londons-mayor-announces-1-6m-clean-tech-incubator/",
       "tags": ["biz"],
-      "description": " about better futures accelerator (see money & business section above) link "
+      "description": " about better futures accelerator  "
     },
     {
       "title": "McKinsey report",
@@ -421,7 +427,7 @@
       "description": " McKinsey report on changing utility landscape link "
     },
     {
-      "title": "link",
+      "title": "e-on / Microsoft joint venture for energy monitoring dashboards",
       "url": "https://uk.reuters.com/article/us-eon-microsoft-smarthomes-focus/e-on-targets-innovations-for-smart-energy-future-idUKKCN1M80ID",
       "tags": ["biz"],
       "description": " Happening in Germany link and the e-on / Microsoft joint venture for energy monitoring dashboards"
@@ -433,7 +439,7 @@
       "description": " Lists of startup to watch quartz  [wired](https://www.wired.co.uk/article/wired-energy-2017-startups) [techworld](https://www.techworld.com/picture-gallery/startups/uk-energy-tech-startups-3681877/)"
     },
     {
-      "title": "link on Gates notes",
+      "title": "Breakthrough announcement on Gates notes",
       "url": "https://www.gatesnotes.com/Energy/My-plan-for-fighting-climate-change",
       "tags": ["biz"],
       "description": " Breakthrough energy Europe announcement and breakdown of greenhouse gas source emissions link on Gates notes "
@@ -457,11 +463,12 @@
     },
     {
       "title": "fluoride-ion battery",
+      "tags": ["storage"],
       "url": "https://www.slashgear.com/honda-reveals-fluoride-battery-breakthrough-for-next-gen-power-storage-06557121/",
       "description": " new fluoride-ion battery tech from honda / jpl / caltech"
     },
     {
-      "title": "link",
+      "title": "Warming from wind",
       "url": "https://www.technologyreview.com/s/612238/wide-scale-us-wind-power-could-cause-significant-warming/",
       "description": " Warming from wind "
     },
@@ -471,17 +478,18 @@
       "description": " Impact in climate change (loads of references) world economic forum and [good ol' Yates](https://www.quora.com/What-do-you-think-is-the-single-most-impactful-thing-an-individual-can-do-to-combat-climate-change/answer/Yates-Buckley)"
     },
     {
-      "title": "link",
+      "title": "Sustainable energy without the hot air",
+      "tags": ["books"],
       "url": "http://www.withouthotair.com/download.html",
       "description": " Sustainable energy without the hot air (book, pdf)  "
     },
     {
-      "title": "link",
+      "title": "Siemens + BEIS partnership",
       "url": "https://theenergyst.com/siemens-local-councils-beis-fund-net-zero/",
       "description": " Siemens + BEIS partnership to finance net zero infrastructure  "
     },
     {
-      "title": "nuclear",
+      "title": "technical knowledge on nuclear",
       "url": "https://whatisnuclear.com/",
       "description": " technical knowledge on nuclear , with simple explanations"
     },
@@ -509,9 +517,9 @@
       "description": "NREL PVWatts calculator with publications on model. Estimates the energy production and cost of energy of grid-connected photovoltaic (PV) energy systems throughout the world. It allows homeowners, small building owners, installers and manufacturers to easily develop estimates of the performance of potential PV installations."
     },
     {
-      "title": "How to get",
+      "title": "How to get solar radiation data",
       "url": "https://photovoltaic-software.com/principle-ressources/how-get-solar-radiation-data-world-free",
-      "tags": ["solar"],
+      "tags": ["solar", "dataset"],
       "description": "How to get solar radiation and climate data (precipitaton, temperature, wind, insolation...) anywhere in the world free from NASA database"
     }
   ]

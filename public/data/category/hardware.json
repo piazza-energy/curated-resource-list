@@ -25,6 +25,12 @@
       "description": "developing a new kind of battery that would eliminate the need for coal and gas entirely, and allow for a 100% renewable, carbon free grid."
     },
     {
+      "title": "StorTera",
+      "url": "https://www.stortera.com/",
+      "tags": ["storage"],
+      "description": "Our key development is the SLIQ single liquid flow battery, which uses StorTera engineered graphite-sulphur battery chemistry and only a single tank of innovative catholyte liquid."
+    },
+    {
       "title": "Glow",
       "url": "https://meetglow.com/",
       "tags": ["monitor"],

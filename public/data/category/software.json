@@ -201,7 +201,7 @@
     {
       "title": "Tibber",
       "url": "https://international.tibber.com/",
-      "tags": ["platform"],
+      "tags": ["platform", "utility", "derms"],
       "description": "Tibber discovered that electricity customers found the offerings from traditional electricity utilities boring, expensive and very complex. The platform automates the process of buying electricity from distributors when it's cheaper and organises consumption for efficiency (assumptions based on descriptions found on website)"
     },
     {
@@ -443,6 +443,12 @@
       "url": "https://sam.nrel.gov/",
       "tags": ["efficiency"],
       "description": "The System Advisor Model (SAM)  is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry. Also has a web version with smaller feature set called [REopt](https://reopt.nrel.gov/faq.html). Check their [GH account](https://github.com/NREL) for what released open source"
+    },
+    {
+      "title": "Real-time Operational Smartgrid for Europe - ROSE",
+      "url": "https://solutions.mapsgroup.it/intelligent-energy-mangement-system/",
+      "tags": ["efficiency", "smartgrid"],
+      "description": "Nata nel 2014, nell’ambito dell’Associazione Genova Smart City, ROSE (Real-time Operational Smartgrid for Europe) è utilizzata nella Smart Polygeneration Microgrid del Campus di Savona dell’Università di Genova, scelto da Enel come Living Lab."
     },
     {
       "title": "Sighten",
