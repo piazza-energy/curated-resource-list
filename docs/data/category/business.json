@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "title": "Reach",
+      "url": "https://nar-reach.com/about/",
+      "tags": ["accelerator", "real-estate"],
+      "description": "Technology accelerator with the backing of the National Association of REALTORS"
+    },
+    {
       "title": "Geovation",
       "url": "https://geovation.uk/accelerator/",
       "tags": ["accelerator"],
@@ -46,7 +52,7 @@
       "title": "Engie New Ventures",
       "url": "https://www.engieventures.com/",
       "tags": ["vc"],
-      "description": "ENGIE New Ventures (ENV) was founded in 2014 as the corporate venture arm of the global energy provider ENGIE. Its €180 million fund is dedicated to making minority investment in technology startups that complement existing activities and resources to spur internal innovation within ENGIE."
+      "description": "ENGIE New Ventures (ENV) was founded in 2014 as the corporate venture arm of the global energy provider ENGIE. Its €180 million fund is dedicated to making minority investment in technology startups that complement existing activities and resources to spur internal innovation within ENGIE. Their [innovation portal](https://innovation.engie.com/en/) is good to find calls for grants and opportunities"
     },
     {
       "title": "Pale Blue Dot",
@@ -383,6 +389,12 @@
       "url": "https://zayedsustainabilityprize.com/",
       "tags": ["competition"],
       "description": " The Zayed Sustainability Prize , an evolution of the Zayed Future Energy Prize, is the UAE’s pioneering global award in sustainability"
+    },
+    {
+      "title": "SDCL",
+      "url": "https://www.sdclgroup.com/investments/who-we-are/",
+      "tags": ["investment"],
+      "description": "SDCL is a specialist investment and advisory firm established in 2007, with a proven track record of financing and developing clean energy, energy efficiency and decentralised energy infrastructure projects in the UK, Continental Europe, North America and Asia."
     },
     {
       "title": "Gresham house",
