@@ -73,6 +73,12 @@
       "description": "Part of a consortium developing minigrids for low income communities in rural off-grid areas across Uganda. Working with Airbus to build a proof of concept with technologies applied to aerospace. In the news on [Wired](https://www.wired.co.uk/article/mini-power-grids)"
     },
     {
+      "title": "Ohm Connect",
+      "url": "https://www.ohmconnect.com/",
+      "tags": ["platform", "derms", "flexibility"],
+      "description": "OhmHours are energy saving events, usually an hour in length, in which OhmConnect has committed to the grid that our users (you!) will save energy. From [CNBC](https://www.cnbc.com/2020/12/07/alphabet-backed-sidewalk-bets-on-getting-customers-to-cut-energy-use-.html): received $100 million from Alphabet-backed [Sidewalk Infrastructure Partners](https://sidewalkinfra.com/) to build the largest distributed clean power plant in North America. SIP invested $20 million in OhmConnect directly, with the additional $80 million going towards building a virtual power plant"
+    },
+    {
       "title": "Kaluza",
       "url": "https://www.kaluza.com/",
       "tags": ["platform", "derms", "flexibility"],
