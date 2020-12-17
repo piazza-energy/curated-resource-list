@@ -193,6 +193,36 @@
       "description": "A unifying approach for the Smart Building in the Smart City: the aim of the SBA association (Smart Buildings Alliance for Smart Cities) is to organise the promotion of the Smart Buildings sector within Smart Cities bringing together a group of industry players."
     },
     {
+      "title": "Stem",
+      "url": "https://www.stem.com/about/",
+      "tags": ["vpp", "derms"],
+      "description": "Stem builds and operates the largest digitally connected energy storage network for our customers. Our world class AI platform optimizes the value of our customers' energy assets and facilitates their participation in energy markets, yielding economic and resiliency benefits while accelerating renewable adoption. Athena accurately forecasts energy demand onsite and energy demand on the grid. From [Reuters](https://www.reuters.com/article/stem-ma-star-peak-energy/stem-agrees-blank-check-merger-with-star-peak-to-go-public-idUSL8N2IJ5K5): In December 2020 has agreed to go public by merging with blank-check acquisition company [Star Peak Energy](https://www.starpeakcorp.com/home/default.aspx) Transition Corp at a valuation of roughly $1.35 billion."
+    },
+    {
+      "title": "Starling Energy Group",
+      "url": "https://www.starling.energy/",
+      "tags": ["vpp", "derms"],
+      "description": "Perth based Starling Energy Group provides integrated energy asset management services that help households, businesses and energy utilities transition to cleaner, greener renewable energy and end their reliance on traditional fossil power."
+    },
+    {
+      "title": "Plico",
+      "url": "https://www.plicoenergy.com.au/",
+      "tags": ["vpp"],
+      "description": "A project created by Starling Energy Group. By putting a battery in every Plico home we are collectively building the largest grid-scale controllable battery in the SWIS which will speed up the transition."
+    },
+    {
+      "title": "Nikola Power",
+      "url": "https://nikolapower.com/about",
+      "tags": ["derms"],
+      "description": "Nikola Power is building a software infrastructure which seamlessly integrates and manages millions of distributed energy resources."
+    },
+    {
+      "title": "Swell Energy",
+      "url": "https://www.swellenergy.com/",
+      "tags": ["vpp"],
+      "description": "Swell Energy is a residential and commercial energy storage, solar, and grid solutions provider. We’ve achieved this with smart, innovative partnerships with the best utilities, tech providers, OEMs, contractors, and brands. From [Techcrunch](https://techcrunch.com/2020/12/10/residential-renewable-energy-developer-swell-is-raising-450-million-for-distributed-power-projects-in-three-states/): In December 2020 is raising $450 million to finance the construction of four virtual power plants"
+    },
+    {
       "title": "Elli",
       "url": "https://www.elli.eco/en/#mission",
       "tags": ["vpp"],

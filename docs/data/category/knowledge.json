@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "title": "A running list of Climate Tech VCs",
+      "url": "https://climatetechvc.org/a-running-list-of-climate-tech-vcs/",
+      "tags": ["vc", "newsletter", "knowledge", "list"],
+      "description": "We bring you perspective on the evolving world of climate tech by interviewing top investors & operators and covering recent venture deals, news, and jobs."
+    },
+    {
+      "title": "A running list of Climate Tech startups and VCs",
+      "url": "https://pinver.medium.com/a-new-breed-of-founders-using-data-to-help-the-planet-and-their-backers-f59537304353",
+      "tags": ["vc", "knowledge", "list"],
+      "description": "a list of companies that caught Pietro Invernizzi attention in the space of climate tech"
+    },
+    {
       "title": "Smart Export Guarantee tariffs",
       "url": "https://www.solarpowerportal.co.uk/news/social_comes_out_on_top_as_shell_issues_bare_minimum_seg",
       "tags": ["pv", "knowledge"],

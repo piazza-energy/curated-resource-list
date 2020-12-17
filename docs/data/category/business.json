@@ -51,7 +51,7 @@
     {
       "title": "Engie New Ventures",
       "url": "https://www.engieventures.com/",
-      "tags": ["vc"],
+      "tags": ["vc", "cvc"],
       "description": "ENGIE New Ventures (ENV) was founded in 2014 as the corporate venture arm of the global energy provider ENGIE. Its €180 million fund is dedicated to making minority investment in technology startups that complement existing activities and resources to spur internal innovation within ENGIE. Their [innovation portal](https://innovation.engie.com/en/) is good to find calls for grants and opportunities"
     },
     {
@@ -89,6 +89,30 @@
       "url": "https://www.cleangrowthfund.com/",
       "tags": ["funding"],
       "description": "CGF recognises that innovation is required across all sectors to achieve net zero carbon emissions. We will invest in those companies with innovative solutions that serve a clean growth remit."
+    },
+    {
+      "title": "Braemar Energy",
+      "url": "http://www.braemarenergy.com/",
+      "tags": ["vc"],
+      "description": "Since our founding in 2003, Braemar Energy Ventures has strived to make early, ahead-of-the-curve bets in transformative energy-tech and related companies which contribute to global sustainability and help combat climate change. "
+    },
+    {
+      "title": "Iberdrola",
+      "url": "https://www.iberdrola.com/press-room/news/detail/iberdrola-ramps-venture-strategy-allocating-million-invest-innovative-industrial-companies-energy-transition",
+      "tags": ["cvc"],
+      "description": "Iberdrola ramps up its venture strategy by allocating €40 million to invest in innovative industrial companies for the energy transition. December 2020"
+    },
+    {
+      "title": "Fifth Wall",
+      "url": "https://fifthwall.com/about",
+      "tags": ["vc"],
+      "description": "We are the first and largest venture capital firm advising corporates on and investing in Built World technology. "
+    },
+    {
+      "title": "Diamond List",
+      "url": "https://diamondlist.co/",
+      "tags": ["vc", "angel"],
+      "description": "Diamond List is an attempt to surface the untapped gems in climate — early-stage companies that deserve investment, but have so far been overlooked."
     },
     {
       "title": "Breakthrough Energy fund",
