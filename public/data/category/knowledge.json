@@ -15,13 +15,31 @@
     {
       "title": "Smart Export Guarantee tariffs",
       "url": "https://www.solarpowerportal.co.uk/news/social_comes_out_on_top_as_shell_issues_bare_minimum_seg",
-      "tags": ["pv", "knowledge"],
+      "tags": ["pv", "knowledge", "tariffs"],
       "description": "Smart Export Guarantee (SEG) tariffs have been unveiled after the legislation came into full effect yesterday (1 January 2020), with pricing ranging wildly"
+    },
+    {
+      "title": "salix financing under Public Sector Decarbonisation Scheme",
+      "url": "https://www.salixfinance.co.uk/PSDS",
+      "tags": ["knowledge", "investment"],
+      "description": "The funding expired in Jan 2021 provided by BEIS has provided a great boost to the public sector at a time when so many are thinking about our environment, our economy and the future of our planet."
+    },
+    {
+      "title": "open source tool for smart tariffs",
+      "url": "https://www.vitalenergi.co.uk/blog/vital-energi-awarded-contract-to-drive-smart-tariff-innovation/",
+      "tags": ["knowledge", "tariffs"],
+      "description": "Vital Energi are leading a consortium of experts to drive innovation in the development and support of smart tariffs. The tool will be open source, [funded by BEIS](https://www.gov.uk/government/publications/smart-meter-enabled-tariffs-comparison-project-smarter-tariffs-smarter-comparisons) Jul 2020"
+    },
+    {
+      "title": "V2G uk trial",
+      "url": "https://www.geotogether.com/core4grid/",
+      "tags": ["knowledge", "ev", "derms", "v2g"],
+      "description": "geo are leading a BEIS funded consortium  that’s enabling domestic demand-side-response through our Hybrid Home in 24 UK homes."
     },
     {
       "title": "Vehicle-to-grid: Where’s the smart money?",
       "url": "https://theenergyst.com/vehicle-to-grid-wheres-the-smart-money/",
-      "tags": ["v2g", "knowledge"],
+      "tags": ["ev", "v2g", "knowledge"],
       "description": "a comprehensive overview of V2G and V1G technologies and regulations. before regulatory changes come into effect, much of the potential value is from behind-the-meter optimisation"
     },
     {
