@@ -37,6 +37,30 @@
       "description": "running list of Climate Tech accelerators"
     },
     {
+      "title": "Zouk",
+      "url": "https://zouk.com/",
+      "tags": ["private-equity"],
+      "description": "private equity with a portfolio comprising digital and sustainable economy companies. Did an [exit with Anesco in 2017](https://www.zouk.com/news/37-technology-growth/94-zouk-sells-stake-in-anesco) after [buying 40% in 2010](https://renewablesnow.com/news/sse-zouk-to-buy-40-stake-each-in-anesco-118744/)"
+    },
+    {
+      "title": "24haymarket",
+      "url": "https://24haymarket.com/",
+      "tags": ["angel", "vc"],
+      "description": "London 24Haymarket is a network of angel investors that focuses on growth equity and venture capital investments in the UK."
+    },
+    {
+      "title": "episode1",
+      "url": "https://www.episode1.com/",
+      "tags": ["angel", "vc"],
+      "description": "We invest in UK based B2B software startups at seed stage. We want to learn about the journey that turned you into founders"
+    },
+    {
+      "title": "2150",
+      "url": "https://www.2150.vc/",
+      "tags": ["vc"],
+      "description": "London / Berlin / Copenhagen. At 2150 we invest in technology companies who make urban environments more sustainable, customer centric, and efficient. We are building an open ecosystem of existing industry participants and visionary entrepreneurs who share our beliefs about the future of cities"
+    },
+    {
       "title": "Collaborative fund",
       "url": "https://www.collaborativefund.com/",
       "tags": ["vc"],
