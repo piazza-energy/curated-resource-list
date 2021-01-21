@@ -475,6 +475,12 @@
       "description": "Solcast are dedicated to developing the data and tools needed to plan, construct, operate and manage solar power systems across the world."
     },
     {
+      "title": "ABSolar",
+      "url": "https://www.absolar.co.uk/",
+      "tags": ["pv-sw"],
+      "description": "Absolar is a University of Southampton spin out. Has implemented a software platform that makes an assessment of solar radiation and PV potential for the built environment"
+    },
+    {
       "title": "Solargis",
       "url": "https://solargis.com/about-us",
       "tags": ["pv-sw"],

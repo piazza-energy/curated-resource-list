@@ -2,11 +2,11 @@ TODAY := $(shell date +%FT%T%Z)
 
 help:
 	@echo "available commands:"
-	@echo "make prepare - export a static version"
-	@echo "make publish - publish to github pages"
+	@echo "make build - build website + export a static version"
+	@echo "make commit - add all and commit. Manually run 'git push' to publish"
 	@echo "make serve - start a http server in the /docs folder"
 
-prepare:
+build:
 	rm -rf docs/
 	npm run build
 	npm run export
@@ -16,6 +16,6 @@ prepare:
 serve:
 	cd docs && python -m http.server
 
-publish:
+commit:
 	git add --all
 	git commit -m "new publish $(TODAY)"

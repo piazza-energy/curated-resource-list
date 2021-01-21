@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "title": "Connected Kerb",
+      "url": "https://www.connectedkerb.com/",
+      "tags": ["ev"],
+      "description": "Our smart cities platform integrates both power and data at kerbside to support electric and autonomous vehicles, and the application of advanced IoT technologies."
+    },
+    {
       "title": "BMZ",
       "url": "https://bmz-group.com/en/index.php",
       "tags": ["storage"],
@@ -15,8 +21,8 @@
     {
       "title": "EVO Energy",
       "url": "https://www.evoenergy.co.uk/",
-      "tags": ["pv", "storage"],
-      "description": "We turn blue chip companies and SMEs’ sites into ecosystems of sustainable energy through rooftop solar panels, battery storage, solar carports and EV charging stations. "
+      "tags": ["pv", "storage", "ppa", "microgrid", "consultancy"],
+      "description": "We turn blue chip companies and SMEs’ sites into ecosystems of sustainable energy through rooftop solar panels, battery storage, solar carports and EV charging stations. check their [PPA](ttps://www.evoenergy.co.uk/services/power-purchase-agreement/) (min 200 panels / 40kwp, recommend epc certificate) "
     },
     {
       "title": "Form Energy",
@@ -443,12 +449,6 @@
       "url": "https://www.solarcentury.com/",
       "tags": ["pv"],
       "description": "solar century "
-    },
-    {
-      "title": "evo energy",
-      "url": "https://www.evoenergy.co.uk/services/power-purchase-agreement/",
-      "tags": ["pv"],
-      "description": "evo energy  check their PPA (min 200 panels / 40kwp, recommend epc certificate)"
     },
     {
       "title": "enphase",
