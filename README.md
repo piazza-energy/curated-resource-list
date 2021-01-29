@@ -17,12 +17,8 @@ bookmarks are grouped in categories under the `public/data/category` folder, eac
 3. run the makefile commands to publish an update
 
 ```shell
-# use next.js static html rendering function to export current version to /docs
-make prepare
-# commit with current timestamp
-make publish
-# update github pages
-git push
+# run make to get a help on the available commands
+make
 ```
 
 ### develop
@@ -70,3 +66,15 @@ sample output, full (markdown links in description fields are correctly rendered
   ]
 }
 ```
+
+### adding created date
+
+`git blame category.json > category_dates.json`
+
+then used the following regex replace
+
+`^.*(\d{4}-\d{2}-\d{2}).*\)\s(\s*"title.*)` -> `$2 "date_modified": "$1",`
+
+`^.*?\)\s` -> ``
+
+`(", "date)` -> `",\n      "date`

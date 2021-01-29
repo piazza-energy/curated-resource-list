@@ -2,14 +2,14 @@ import { TagLink } from './nav-link';
 import styles from './bookmark-link.module.css';
 
 
-const BookmarkLink = ({ url, title, description, tags }) => {
+const BookmarkLink = ({ url, title, description, date_modified, tags }) => {
   const regex = /\[(.*?)\]\((.*?)\)/g
   const htmlDesc = description.replace(regex, '<a href="$2">$1</a>')
   const tagSection = tags ?
-    <p>
-      {tags.map((tag, i) => <span key={`tag_${i}`}>
+    <p className={styles.tagSection}>
+      tagged as: {tags.map((tag, i) => <span key={`tag_${i}`}>
         <TagLink name={tag} />
-      </span>)}
+      </span>)} <br/> last modified: {date_modified}
     </p> :
     '';
 

@@ -1,3 +1,7 @@
 .item {
   border-bottom: 1px solid lightgray;
 }
+
+.tagSection {
+  font-size: 0.9rem;
+}

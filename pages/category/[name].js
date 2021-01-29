@@ -24,6 +24,8 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const elements = getCatData(params.name);
+  elements.sort((a, b) => a.date_modified >= b.date_modified ? -1 : 1);
+
   return {
     props: {
       params,

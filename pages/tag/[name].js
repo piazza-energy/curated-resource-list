@@ -34,6 +34,7 @@ export async function getStaticProps({ params }) {
   const bookmarksByTag = getAllTagsData(bookmarks);
 
   const elements = bookmarksByTag[params.name];
+  elements.sort((a, b) => a.date_modified >= b.date_modified ? -1 : 1);
 
   return {
     props: {
