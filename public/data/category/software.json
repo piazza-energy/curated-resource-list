@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "title": "Net2grid",
+      "date_modified": "2021-02-07",
+      "url": "https://www.net2grid.com/",
+      "tags": ["platform", "efficiency"],
+      "description": "mobile app for energy consumption insights and efficiency. Finalists of free electrons 2020"
+    },
+    {
       "title": "Enian",
       "date_modified": "2020-11-18",
       "url": "https://enian.co/",
@@ -64,6 +71,20 @@
       "description": "Service monitoring for connected devices: the process of collecting streams of data from individual devices, turning them into metrics, and from those deriving Key Performance Indicators for your device estate as a whole"
     },
     {
+      "title": "Levelise",
+      "date_modified": "2021-02-24",
+      "url": "https://www.levelise.com/",
+      "tags": ["derms", "storage"],
+      "description": "Oxford based Levelise developed a home energy management system that links domestic battery systems to a suite of algorithmic controls"
+    },
+    {
+      "title": "Arenko",
+      "date_modified": "2021-02-24",
+      "url": "",
+      "tags": ["derms", "platform", "flexibility", "storage"],
+      "description": "Optimisation of technical and commercial performance of flexible assets in real time. Arenko underwent a significant transformation in July 2020, selling its only battery storage asset and transitioning into the software sector entirely. from [Current News](https://www.current-news.co.uk/blogs/a-pure-play-software-company-arenkos-rupert-newland-on-flexibility-and-the-new-battery-markets)"
+    },
+    {
       "title": "Tesla's Opticaster",
       "date_modified": "2020-05-26",
       "url": "https://www.tesla.com/support/opticaster",
@@ -110,7 +131,7 @@
       "date_modified": "2020-05-26",
       "url": "https://verv.energy/news/",
       "tags": ["platform"],
-      "description": "Verv energy is a trading name of [Green running](https://www.greenrunning.com/about-us/) recently raised on £1M+ on Crowdcube, providing electricity data [disaggregation](https://www.youtube.com/watch?v=ZnJeA4-42W4) on signals with resolution of 1s. Verv has also a blockchain solution (see dedicated section)."
+      "description": "Verv energy is a trading name of [Green running](https://www.greenrunning.com/about-us/) in 2017 raised 500k on Crowdcube, providing electricity data [disaggregation](https://www.youtube.com/watch?v=ZnJeA4-42W4) on signals with resolution of 1s. Verv has also a blockchain solution (see dedicated section)."
     },
     {
       "title": "EnergyOS",

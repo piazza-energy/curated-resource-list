@@ -1,6 +1,48 @@
 {
   "data": [
     {
+      "title": "Amber",
+      "date_modified": "2021-02-07",
+      "url": "https://www.ambersi.com/",
+      "tags": ["iot"],
+      "description": "discreet solid-state board for power control. Raised $8.5M in Feb 2021, from [crunchbase](https://news.crunchbase.com/news/amber-series-b-funding/)"
+    },
+    {
+      "title": "eo charging",
+      "date_modified": "2021-02-15",
+      "url": "https://www.eocharging.com/",
+      "tags": ["ev"],
+      "description": "ev charging. Found on [uktn post](https://www.uktech.news/news/these-uk-battery-tech-ev-charging-startups-are-accelerating-shift-to-cleaner-energy-future-in-2021-20210208): The most lit battery tech startups in UK to follow in 2021, feb 21"
+    },
+    {
+      "title": "pod point",
+      "date_modified": "2021-02-15",
+      "url": "https://pod-point.com/about",
+      "tags": ["ev"],
+      "description": "pod point, formed in 2009, have manufactured and sold over 96,000 charging points across the UK and Norway"
+    },
+    {
+      "title": "Instavolt",
+      "date_modified": "2021-02-15",
+      "url": "https://instavolt.co.uk/",
+      "tags": ["ev"],
+      "description": "Backed by a £12m equity investment by private equity firm Zouk Capital, Instavolt is on track to be the largest owner-operator of rapid DC charging stations in the UK ."
+    },
+    {
+      "title": "Wallbox",
+      "date_modified": "2021-02-15",
+      "url": "https://www.wallbox.com/",
+      "tags": ["ev"],
+      "description": "Barcelona based Wallbox is a smart charging company on a mission to liberate the world from fossil fuels. Raised €33M in Feb 2021, from [Techcrunch](https://www.finsmes.com/2021/02/wallbox-raises-e33m-in-funding.html)"
+    },
+    {
+      "title": "Volta",
+      "date_modified": "2021-02-07",
+      "url": "https://voltacharging.com/",
+      "tags": ["ev"],
+      "description": "developer of a network of electric vehicle charging stations that monetize using advertising. Raised $125M in Feb 2021, from [Techcrunch](https://techcrunch.com/2021/01/19/ad-supported-ev-charging-network-developer-volta-raises-125-million/)"
+    },
+    {
       "title": "Connected Kerb",
       "date_modified": "2021-01-21",
       "url": "https://www.connectedkerb.com/",
@@ -550,15 +592,15 @@
       "title": "Calibrant Energy",
       "date_modified": "2020-11-18",
       "url": "https://calibrantenergy.com/",
-      "tags": ["microgrid"],
+      "tags": ["microgrid", "financing"],
       "description": "Total lifecycle management of the project with a partner that can assume responsibility of servicing, maintenance, and the operation of assets over the course of the contract lifetime. Established in 2020 by Macquarie’s Green Investment Group, Siemens Smart Infrastructure and Siemens Financial Services."
     },
     {
       "title": "Catalyze Energy",
-      "date_modified": "2020-11-18",
+      "date_modified": "2021-02-18",
       "url": "https://catalyze.energy/",
-      "tags": ["microgrid"],
-      "description": "Catalyze develops, builds, finances, owns, and operates renewable energy assets on C&I real estate, acting as a long-term tenant on your property."
+      "tags": ["microgrid", "financing"],
+      "description": "Catalyze develops, builds, finances, owns, and operates renewable energy assets on C&I real estate, acting as a long-term tenant on your property. How the business model works and who they're backed from [explained on GTM](https://www.greentechmedia.com/articles/read/catalyze-aims-to-remake-commercial-storage-with-software-platform-and-gobs-of-capital)"
     },
     {
       "title": "S&C",
