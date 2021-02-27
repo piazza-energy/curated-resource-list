@@ -1,11 +1,39 @@
 {
   "data": [
     {
+      "title": "OSDU",
+      "date_modified": "2021-02-27",
+      "url": "https://osduforum.org/about-us/who-we-are/",
+      "tags": ["dataset"],
+      "description": "OSDU Forum is an industry forum that enables the Energy industry to collaborate on the development of transformational technology. Releasing a data platform in March 21"
+    },
+    {
+      "title": "The future of smart home energy",
+      "date_modified": "2021-02-27",
+      "url": "https://www.devicepilot.com/blog/the-future-of-smart-home-energy-panel-session",
+      "tags": ["flexibility"],
+      "description": "[webinar](https://youtu.be/BuZyEUP4I_U) on the future of Smart Home Energy, hosted by DevicePilot with Octopus, Ben Kott from Lightsource labs, Cornwall insight, Oxford Uni. Plenty of insights, check [UKPN project Shift](https://innovation.ukpowernetworks.co.uk/projects/shift/) with Kaluza, Octopus, ev.energy"
+    },
+    {
+      "title": "Metering behind the Boundary Point",
+      "date_modified": "2021-02-15",
+      "url": "https://www.elexon.co.uk/mod-proposal/p375/",
+      "tags": ["flexibility", "balancing"],
+      "description": "P375 proposes using Metering Equipment ‘behind’ the defined Boundary Point for Balancing Services (‘behind the Meter’), for Settlement purposes rather than the Boundary Point Meter."
+    },
+    {
       "title": "A running list of Climate Tech VCs",
       "date_modified": "2020-12-17",
       "url": "https://climatetechvc.org/a-running-list-of-climate-tech-vcs/",
       "tags": ["vc", "newsletter", "knowledge", "list"],
       "description": "We bring you perspective on the evolving world of climate tech by interviewing top investors & operators and covering recent venture deals, news, and jobs."
+    },
+    {
+      "title": "Top 22 UK Active Angel Investor Networks",
+      "date_modified": "2021-02-15",
+      "url": "https://www.seedrs.com/academy/top-22-uk-active-angel-investor-networks/",
+      "tags": ["angel"],
+      "description": "a list of uk based angel investor syndicates"
     },
     {
       "title": "A running list of Climate Tech startups and VCs",
@@ -138,7 +166,7 @@
       "date_modified": "2020-05-16",
       "url": "https://www.icis.com/explore/commodities/energy?intcmp=mega-menu-explore-commodities-energy",
       "tags": ["market", "knowledge"],
-      "description": "global source of Independent Commodity Intelligence Services - ICIS connect data, markets and customers to create a comprehensive, trusted view of the global commodities markets, enabling smarter business decisions that optimise the world’s resources."
+      "description": "global source of Independent Commodity Intelligence Services - ICIS connect data, markets and customers to create a comprehensive, trusted view of the global commodities markets, enabling smarter business decisions that optimise the world’s resources. check their [n2ex spot analysis tool](https://www.icis.com/explore/power-analytics/)"
     },
     {
       "title": "National Statistics Energy Trends: UK electricity",
@@ -491,10 +519,10 @@
       "description": " Electric vehicle footprint , this is fun. Basically: buy a Prius instead of a Tesla"
     },
     {
-      "title": "depends on the grid",
+      "title": "EV footprint depends on the grid",
       "date_modified": "2020-05-11",
       "url": "http://www.cesifo-group.de/ifoHome/presse/Pressemitteilungen/Pressemitteilungen-Archiv/2019/Q2/pm_20190417_sd08-Elektroautos.html",
-      "tags": ["consumption"],
+      "tags": ["consumption", "ev"],
       "description": " EV footprint depends on the grid producing the li-ion battery"
     },
     {
@@ -526,11 +554,25 @@
       "description": " about better futures accelerator  "
     },
     {
-      "title": "McKinsey report",
+      "title": "McKinsey - How utilities can keep the lights on",
       "date_modified": "2020-10-20",
       "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-keep-the-lights-on",
       "tags": ["biz"],
-      "description": " McKinsey report on changing utility landscape link "
+      "description": "McKinsey report on changing utility landscape May 2018"
+    },
+    {
+      "title": "McKinsey - How charging in buildings can power up the electric-vehicle industry",
+      "date_modified": "2021-01-30",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-charging-in-buildings-can-power-up-the-electric-vehicle-industry",
+      "tags": ["biz", "ev"],
+      "description": "More than 50 million electric vehicles could be sharing roads in the next five years. Updating charging infrastructure is key to scaling the industry. Jan 2021"
+    },
+    {
+      "title": "McKinsey - Modernizing the investment approach for electric grids",
+      "date_modified": "2021-01-30",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/modernizing-the-investment-approach-for-electric-grids",
+      "tags": ["biz"],
+      "description": "Customer and community expectations for the US electric grid are evolving. Utilities must adapt by pursuing integrated modernization plans. Nov 2020"
     },
     {
       "title": "e-on / Microsoft joint venture for energy monitoring dashboards",
@@ -618,11 +660,11 @@
       "description": "eco passenger is a calculator that compares the energy consumption, the CO2 emissions and other environmental impacts for planes, cars and trains in passenger transport"
     },
     {
-      "title": "1",
+      "title": "Desert sun in Qatar too hot for solar panels to work",
       "date_modified": "2020-05-11",
       "url": "https://www.thetimes.co.uk/article/desert-sun-in-qatar-too-hot-for-solar-panels-to-work-h23kmktbp",
       "tags": ["solar"],
-      "description": " solar panel efficency 1  [2](https://greentumble.com/effect-of-temperature-on-solar-panel-efficiency/)"
+      "description": "Posts on solar panel efficency. [How Hot Do Solar Panels Get? Effect of Temperature on PV Panel Efficiency](https://greentumble.com/effect-of-temperature-on-solar-panel-efficiency/)"
     },
     {
       "title": "good post on medium",
