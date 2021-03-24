@@ -211,6 +211,27 @@
       "description": "LCP Enact is a data integration, analytics and forecasting platform for the GB energy market. Here's the platform described in a sponsored [post on the energyst](https://theenergyst.com/walking-the-bsuos-tightrope/) with numbers for BSUoS charges in 2020"
     },
     {
+      "title": "Powin",
+      "date_modified": "2021-03-24",
+      "url": "https://powin.com/",
+      "tags": ["storage-biz"],
+      "description": "Powin own or manage every step in the energy storage supply chain, born in '89 as a high-quality, high-volume contract manufacturing company with a large supplier network and relationship base in Asia. [In Feb 2021 has raised](https://www.greentechmedia.com/articles/read/powin-energy-raises-100m-to-compete-for-leadership-of-grid-storage-market) more than $100 million in equity investment"
+    },
+    {
+      "title": "Nrstor",
+      "date_modified": "2021-03-24",
+      "url": "http://nrstor.com/",
+      "tags": ["storage-biz"],
+      "description": "Canada based, Nrstor develop cost-effective, reliable energy storage projects that create energy cost savings and reduce environmental impact"
+    },
+    {
+      "title": "Statkfraft",
+      "date_modified": "2021-03-24",
+      "url": "https://www.statkraft.com/about-statkraft/",
+      "tags": ["storage-biz"],
+      "description": "Statkraft develop and operate renewable energy assets within hydropower, wind, solar, gas and biomass, supply district heating and buy and sell energy. [In the news March 2021](https://www.current-news.co.uk/news/statkraft-to-optimise-100mw-of-gore-street-battery-storage-in-northern-ireland) for optimising 100MW of [Gore Street](https://www.gsenergystoragefund.com/) battery storage in Northern Ireland"
+    },
+    {
       "title": "Modo Energy",
       "date_modified": "2020-09-08",
       "url": "https://modo.energy/",
@@ -511,8 +532,16 @@
       "description": "EnergySage is on a mission to make going solar as easy as booking a flight online. Funded by Clean energy ventures (see business section)"
     },
     {
+      "title": "Innovation Gateway",
+      "date_modified": "2021-03-24",
+      "url": "https://innovationgateway.com/",
+      "tags": ["consortium"],
+      "description": "The Innovation Gateway is an alliance of organisations working in partnership to reduce the costs and environmental impacts of their buildings; through innovations in energy, waste, water, productivity and wellbeing."
+    },
+    {
       "title": "Better Buildings Partnership",
-      "date_modified": "2020-05-26",
+      "date_modified": "2021-03-24",
+      "tags": ["consortium"],
       "url": "http://www.betterbuildingspartnership.co.uk/",
       "description": "Better Buildings Partnership is a collaboration of the uk's leading commercial property owners who are working together to improve the sustainability of existing commercial building stock."
     },

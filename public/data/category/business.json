@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "title": "Gore Street",
+      "date_modified": "2021-03-24",
+      "url": "https://www.gsenergystoragefund.com/",
+      "tags": ["storage-biz", "fund"],
+      "description": "GSF is London’s first listed energy storage fund, investing in assets across the UK and internationally."
+    },
+    {
       "title": "Reach",
       "date_modified": "2020-12-08",
       "url": "https://nar-reach.com/about/",
@@ -526,10 +533,17 @@
       "description": "SDCL is a specialist investment and advisory firm established in 2007, with a proven track record of financing and developing clean energy, energy efficiency and decentralised energy infrastructure projects in the UK, Continental Europe, North America and Asia."
     },
     {
+      "title": "Glennmont",
+      "date_modified": "2021-03-24",
+      "url": "",
+      "tags": ["investment", "storage-biz", "fund"],
+      "description": ""
+    },
+    {
       "title": "Gresham house",
       "date_modified": "2020-11-18",
       "url": "https://greshamhouse.com/",
-      "tags": ["investment"],
+      "tags": ["investment", "storage-biz", "fund"],
       "description": "Gresham House is a specialist alternative asset manager, listed on the London Stock Exchange’s Alternative Investment Market (AIM)"
     },
     {

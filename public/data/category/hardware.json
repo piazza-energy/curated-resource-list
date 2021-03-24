@@ -58,10 +58,10 @@
     },
     {
       "title": "TESVolt",
-      "date_modified": "2020-07-10",
+      "date_modified": "2021-03-24",
       "url": "https://www.tesvolt.com/en/",
       "tags": ["storage"],
-      "description": "TESVOLT's award-winning battery management system ensures that commercial and industrial storage systems pay for themselves within just a few years."
+      "description": "TESVOLT's award-winning battery management system ensures that commercial and industrial storage systems pay for themselves within just a few years. In March 21, [Tesvolt launches offer all-in-one and ‘plug-and-play’](https://www.energy-storage.news/news/commercial-and-utility-battery-storage-launches-offer-all-in-one-and-plug-a) options"
     },
     {
       "title": "EVO Energy",
@@ -510,6 +510,13 @@
       "url": "https://www.hycube.com/en/power-storage/",
       "tags": ["storage"],
       "description": "Hycube  based in Germany, residential and commercial"
+    },
+    {
+      "title": "Custom Solar",
+      "date_modified": "2021-03-24",
+      "url": "https://www.customsolar.co.uk/",
+      "tags": ["pv", "storage"],
+      "description": "Custom Solar designs, installs and maintains world-class solar systems for corporations and public sector institutions. Deployed thousands of panels at [Lakeside North Harbour in Portsmouth](https://www.portsmouth.co.uk/news/environment/thousands-of-solar-panels-to-be-installed-at-lakeside-north-harbour-in-portsmouth-3176952)"
     },
     {
       "title": "Anesco",

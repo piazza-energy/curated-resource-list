@@ -1,6 +1,55 @@
 {
   "data": [
     {
+      "title": "BSRIA Soft landings",
+      "date_modified": "2021-03-24",
+      "url": "https://www.bsria.com/uk/consultancy/project-improvement/soft-landings/",
+      "tags": ["certification"],
+      "description": "Soft Landings is a building delivery process which runs through the project, from inception to completion and beyond, to ensure all decisions made during the project are based on improving operational performance of the building and meeting the client’s expectations"
+    },
+    {
+      "title": "EU Building Stock Observatory",
+      "date_modified": "2021-03-24",
+      "url": "https://ec.europa.eu/energy/topics/energy-efficiency/energy-efficient-buildings/eu-bso_en",
+      "tags": ["model"],
+      "description": "The EU Building Stock Observatory (BSO) aims to provide a better understanding of the energy performance of the building sector through reliable, consistent and comparable data."
+    },
+    {
+      "title": "London Buildings Stock Model",
+      "date_modified": "2021-03-24",
+      "url": "https://www.london.gov.uk/what-we-do/environment/energy/energy-buildings/london-building-stock-model",
+      "tags": ["model"],
+      "description": "London Mayor has developed a London Building Stock Model with the UCL Energy Institute. The model has data on every domestic and non-domestic building in the capital. [News from UCL, May 2018](https://www.ucl.ac.uk/bartlett/energy/news/2018/may/greater-london-authority-commissions-ucl-develop-london-buildings-stock-model)"
+    },
+    {
+      "title": "Mackay carbon calculator",
+      "date_modified": "2021-03-24",
+      "url": "https://mackaycarboncalculator.beis.gov.uk/overview/emissions-and-primary-energy-consumption/",
+      "tags": ["model"],
+      "description": "transport / buildings / industry / etc. carbon calculator by BEIS"
+    },
+    {
+      "title": "UK battery storage has become an economically viable investment",
+      "date_modified": "2021-03-24",
+      "url": "https://www.energy-storage.news/news/uk-battery-storage-has-seen-a-turning-point-and-become-an-economically-viab",
+      "tags": ["biz"],
+      "description": "storage market in the UK has become a viable investment opportunity in just the past few months. Meanwhile, more than 300,000 battery storage systems [installed in German households](https://www.energy-storage.news/news/more-than-300000-battery-storage-systems-installed-in-german-households)"
+    },
+    {
+      "title": "Innovative Financing Solution Alongside the Goldman Sachs Urban Investment Group",
+      "date_modified": "2021-03-02",
+      "url": "https://www.prnewswire.com/news-releases/blocpower-raises-63-million-series-a-to-green-urban-buildings-and-creates-innovative-financing-solution-alongside-the-goldman-sachs-urban-investment-group-301232145.html",
+      "tags": ["financing"],
+      "description": "[Blocpower](https://www.blocpower.io/) in Feb 21 announced a $63 million Series A with the goal of leveraging advanced technologies, innovative electrification equipment and structured finance to provide green heating and cooling to America's aging urban buildings"
+    },
+    {
+      "title": "CleanStart",
+      "date_modified": "2021-02-27",
+      "url": "https://forio.com/simulate/mit/cleanstart/simulation/login.html",
+      "tags": ["biz"],
+      "description": "CleanStart: Simulating a Clean Energy Startup. by MIT management Sloan School"
+    },
+    {
       "title": "OSDU",
       "date_modified": "2021-02-27",
       "url": "https://osduforum.org/about-us/who-we-are/",
