@@ -57,6 +57,13 @@
       "description": "The Energy Storage Computational Tool (ESCT) is a Microsoft Excel based application that was funded by DOE Office of Electricity Delivery and Energy Reliability (OE) and developed by Navigant Consulting."
     },
     {
+      "title": "Argand solutions",
+      "date_modified": "2021-03-24",
+      "url": "https://www.argandsolutions.com/",
+      "tags": ["derms", "platform"],
+      "description": "Devon based Argand enable renewables and / or energy storage to connect to the Grid and these assets to then perform optimally through better data and analysis. [GridMAP](https://www.argandsolutions.com/gridmap-optimum-energy-storage-modelling) provides pre & post-project modelling and optimisation analysis for solar PV, wind, CHP and energy storage systems."
+    },
+    {
       "title": "StorageVET and DER-VET",
       "date_modified": "2020-06-22",
       "url": "https://storagevet.com/",
@@ -624,11 +631,11 @@
       "description": "Power ledger just won (oct 18) the extreme tech challenge XTC"
     },
     {
-      "title": "https://www.data61.csiro.au/en/our-work/safety-and-security/secure-systems-and-platforms/blockchain",
+      "title": "Data61 - CSIRO",
       "date_modified": "2020-05-26",
-      "url": "article",
+      "url": "https://data61.csiro.au/en/Our-Research/Focus-Areas/Distributed-Ledger-Technology-Blockchain",
       "tags": ["blockchain"],
-      "description": " CSIRO is doing something but not sure what's the status, there is an interesting https://www.data61.csiro.au/en/our-work/safety-and-security/secure-systems-and-platforms/blockchain with scenarios"
+      "description": " CSIRO Data61 are doing research on the distributed ledger for energy space but their updates seem stuck since 2018"
     },
     {
       "title": "Echoin from Powerlinks",
