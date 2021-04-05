@@ -78,6 +78,13 @@
       "description": "We invest in UK based B2B software startups at seed stage. We want to learn about the journey that turned you into founders"
     },
     {
+      "title": "Backed",
+      "date_modified": "2021-03-27",
+      "url": "https://www.backed.vc/",
+      "tags": ["vc"],
+      "description": "London based VC"
+    },
+    {
       "title": "2150",
       "date_modified": "2021-01-13",
       "url": "https://www.2150.vc/",
@@ -533,11 +540,18 @@
       "description": "SDCL is a specialist investment and advisory firm established in 2007, with a proven track record of financing and developing clean energy, energy efficiency and decentralised energy infrastructure projects in the UK, Continental Europe, North America and Asia."
     },
     {
+      "title": "Nuveen",
+      "date_modified": "2021-03-27",
+      "url": "https://www.nuveen.com/global",
+      "tags": ["investment", "storage-biz", "fund"],
+      "description": "Nuveen invest in the growth of businesses, real estate, farmland, forests and infrastructure"
+    },
+    {
       "title": "Glennmont",
       "date_modified": "2021-03-24",
-      "url": "",
+      "url": "https://www.glennmont.com/",
       "tags": ["investment", "storage-biz", "fund"],
-      "description": ""
+      "description": "Glennmont Partners is one of Europe’s largest fund managers focusing exclusively on investment in clean energy infrastructure. In 2021, Glennmont was acquired by Nuveen, the investment management arm of TIAA."
     },
     {
       "title": "Gresham house",
