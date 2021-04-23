@@ -29,6 +29,13 @@
       "description": "Instead of providing bits and pieces of data and functionality, we are reimagining how clean energy projects are evaluated and developed from origination to operation."
     },
     {
+      "title": "Arbnco",
+      "date_modified": "2021-04-22",
+      "url": "https://us.arbnco.com/",
+      "tags": ["platform", "iot"],
+      "description": "building performance software platform for utilities, national property managers and commercial real estate."
+    },
+    {
       "title": "Bee Bryte",
       "date_modified": "2020-07-10",
       "url": "https://www.beebryte.com/about-us/",
@@ -109,7 +116,7 @@
       "title": "Modularity Grid",
       "date_modified": "2020-05-26",
       "url": "https://www.modularitygrid.com/",
-      "tags": ["efficiency"],
+      "tags": ["efficiency", "microgrid"],
       "description": "Part of a consortium developing minigrids for low income communities in rural off-grid areas across Uganda. Working with Airbus to build a proof of concept with technologies applied to aerospace. In the news on [Wired](https://www.wired.co.uk/article/mini-power-grids)"
     },
     {
@@ -188,6 +195,13 @@
       "url": "https://eloncity.io/",
       "tags": ["platform"],
       "description": "(defunct) Eloncity - Mega platform (under development) Singapore based with blockchain and devices"
+    },
+    {
+      "title": "Eliq",
+      "date_modified": "2021-04-22",
+      "url": "https://eliq.io/",
+      "tags": ["platform", "data", "weather"],
+      "description": "Eliq provides software to monitor electricity usage and demand patterns. It takes information from smart metering, connected devices and weather analytics and interprets this to provide instant energy insights and promote efficiency. Awarded phase 2 of UK gov [SENS competition](https://www.gov.uk/government/publications/smart-energy-savings-sens-competition)"
     },
     {
       "title": "EnPowered",
@@ -323,10 +337,17 @@
       "description": "OpenMUC is a software framework based on Java and OSGi that simplifies the development of customized monitoring, logging and control systems."
     },
     {
+      "title": "Patch",
+      "date_modified": "2021-04-26",
+      "url": "https://www.patch.io/",
+      "tags": ["footprint", "offset"],
+      "description": "Patch mission is to reach giga-tonne scale carbon sequestration. Businesses need to focus on both rapidly decarbonizing their operations and compensating unavoidable emissions."
+    },
+    {
       "title": "Carbon footprint calculator",
       "date_modified": "2020-05-26",
       "url": "https://github.com/protea-earth/carbon_footprint",
-      "tags": ["platform"],
+      "tags": ["platform", "footprint"],
       "description": "Carbon footprint calculator Built by Protea, a social network community to reduce your effect on the climate."
     },
     {
@@ -436,10 +457,10 @@
     },
     {
       "title": "Sympower",
-      "date_modified": "2020-05-26",
-      "url": "https://www.sympower.net/about/our-story",
-      "tags": ["derms"],
-      "description": "Sympower Demand response aggregation platform"
+      "date_modified": "2021-04-12",
+      "url": "https://sympower.net/",
+      "tags": ["flexibility", "solar", "derms"],
+      "description": "We help you unlock the value of your flexibility. We do this with electric assets across industries. In March 21 they've raised 5.2M in series B, from [Tech.eu](https://tech.eu/brief/amsterdam-based-sympower-powers-up-with-e5-2-million-investment-in-series-b-round/)"
     },
     {
       "title": "Voltus",
@@ -519,11 +540,11 @@
       "description": "Systems Link is owned by Inspired Energy (see below in the companies section) and is a full energy monitoring platform with support for tenants"
     },
     {
-      "title": "Toon",
+      "title": "Quby formerly Toon",
       "date_modified": "2020-05-26",
-      "url": "https://www.toon.eu/",
+      "url": "https://www.quby.com/",
       "tags": ["efficiency"],
-      "description": "Toon dutch platform for residential, recently acquired by [Eneco](https://www.enecogroup.com/) a big energy company providing infrastructure with renewable and batteries. (Toon uses databricks / airflow / spark / aws for computation, [here](https://databricks.com/session/using-apache-spark-in-the-cloud-a-devops-perspective))"
+      "description": "Quby with their [Toon](https://www.toon.eu/) devices is Dutch platform offering smart thermostats for residential, acquired by [Eneco](https://www.enecogroup.com/) a big energy company providing infrastructure with renewable and batteries. (Toon uses databricks / airflow / spark / aws for computation, [here](https://databricks.com/session/using-apache-spark-in-the-cloud-a-devops-perspective))"
     },
     {
       "title": "Nuuka",

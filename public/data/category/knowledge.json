@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "title": "Google Environmental Insights Explorer (EIE)",
+      "date_modified": "2021-04-12",
+      "url": "https://insights.sustainability.google/",
+      "tags": ["knowledge"],
+      "description": "The Environmental Insights Explorer (EIE) uses exclusive data sources and modeling capabilities in a freely available platform to help cities measure emission sources, run analyses, and identify strategies to reduce emissions — creating a foundation for effective action."
+    },
+    {
       "title": "MEDApps winners",
       "date_modified": "2021-04-04",
       "url": "https://www.ukri.org/news/ukri-announces-net-zero-driven-energy-data-application-winners/",
@@ -13,6 +20,13 @@
       "url": "https://www.bsria.com/uk/consultancy/project-improvement/soft-landings/",
       "tags": ["certification"],
       "description": "Soft Landings is a building delivery process which runs through the project, from inception to completion and beyond, to ensure all decisions made during the project are based on improving operational performance of the building and meeting the client’s expectations"
+    },
+    {
+      "title": "Soft landings public sector",
+      "date_modified": "2021-04-24",
+      "url": "https://www.local.gov.uk/case-studies/soft-landings-public-sector",
+      "tags": ["certification"],
+      "description": "Soft Landings delivers improvements to the performance of buildings once the keys have been handed over, Central Government launched their own version, Government Soft Landings (GSL) in 2016."
     },
     {
       "title": "EU Building Stock Observatory",
@@ -32,7 +46,7 @@
       "title": "Mackay carbon calculator",
       "date_modified": "2021-03-24",
       "url": "https://mackaycarboncalculator.beis.gov.uk/overview/emissions-and-primary-energy-consumption/",
-      "tags": ["model"],
+      "tags": ["model", "footprint"],
       "description": "transport / buildings / industry / etc. carbon calculator by BEIS"
     },
     {
