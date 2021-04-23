@@ -155,6 +155,13 @@
       "description": "Lightwave rf  controlled and connected power sockets, switches, sensors, radiator valves. They claim to do energy monitoring, but haven't found anything on website."
     },
     {
+      "title": "Ecopilot",
+      "date_modified": "2021-04-26",
+      "url": "https://www.ecopilot.com/",
+      "tags": ["iot", "efficiency"],
+      "description": "Improve the working environment, improve productivity – Our clients/customers describe Ecopilot® and as an Artificial Intelligence that enables our various systems to collaborate, rather than constantly working against each other."
+    },
+    {
       "title": "Netatmo",
       "date_modified": "2020-05-26",
       "url": "https://www.netatmo.com/en-us",
@@ -253,6 +260,13 @@
       "description": "Kiwi Power’s distributed energy platform simply and reliably unlocks flexibility from Distributed Energy Resources (DERs) to maximise their value."
     },
     {
+      "title": "Power X",
+      "date_modified": "2021-04-26",
+      "url": "https://www.powerx.co/",
+      "tags": ["monitor"],
+      "description": "PowerX’s suite of smart home solutions provides a unified view of all energy, devices and water outlets running in your home through one, easy-to-use app. Received $4M in April 21 from Spring Tide, Antler and others. [In the news](https://news.crunchbase.com/news/powerx-supercharges-home-utilities-with-4m-seed-round/)"
+    },
+    {
       "title": "efergy",
       "date_modified": "2020-05-26",
       "url": "https://efergy.com/",
@@ -267,11 +281,11 @@
       "description": "sense  wire clamps, installed in the fuse box"
     },
     {
-      "title": "geotogether",
-      "date_modified": "2020-05-26",
+      "title": "Geo together",
+      "date_modified": "2021-04-26",
       "url": "https://www.geotogether.com/",
       "tags": ["monitor"],
-      "description": "geotogether  wire clamps, controlled sockets, thermostats, solar (mentioned in the solar/battery section by Ikea, indicates when to switch on/off appliances), consumer + business"
+      "description": "Geo (green energy options) together: wire clamps, controlled sockets, thermostats, solar (mentioned in the solar/battery section by Ikea, indicates when to switch on/off appliances), consumer + business. Awarded phase 2 of UK gov [2020 SENS competition](https://www.gov.uk/government/publications/smart-energy-savings-sens-competition)"
     },
     {
       "title": "smappee",

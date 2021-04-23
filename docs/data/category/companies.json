@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "title": "Diode",
+      "date_modified": "2021-04-22",
+      "url": "https://www.diode.energy/",
+      "tags": ["ev"],
+      "description": "Diode specialises in building electric vehicle implementation plans, matching them to the right infrastructure and securing the best deal."
+    },
+    {
       "title": "Sunlight Financial",
       "date_modified": "2021-02-27",
       "url": "https://sunlightfinancial.com/",
@@ -160,6 +167,13 @@
       "url": "https://www.scalemicrogridsolutions.com/",
       "tags": ["microgrid"],
       "description": "Scale provides the capital needed to enable transformation and creating on-site solutions"
+    },
+    {
+      "title": "Wartsila",
+      "date_modified": "2021-04-22",
+      "url": "https://www.wartsila.com/",
+      "tags": ["storage"],
+      "description": "Wärtsilä is a global leader in smart technologies and complete lifecycle solutions for the marine and energy markets. Deployed several storage projects [in UK for Pivot Power / EDF](https://www.energy-storage.news/blogs/how-energy-storage-helps-energy-assets-connect-with-energy-markets) and around the world"
     },
     {
       "title": "Eel power",
@@ -561,6 +575,7 @@
     {
       "title": "Element Energy",
       "date_modified": "2020-05-26",
+      "tags": ["consultancy"],
       "url": "http://www.element-energy.co.uk/",
       "description": "Element Energy is a team of experts based in Cambridge, London, York and Lille who specialise in the intelligent analysis of low carbon energy."
     },
@@ -568,7 +583,7 @@
       "title": "Masdar",
       "date_modified": "2020-05-26",
       "url": "https://masdar.ae/en/about-us/management/about-masdar",
-      "description": "Masdar , or Abu Dhabi Future Energy Company, is a global leader in renewable energy and sustainable urban development. Masdar means ‘source’ in Arabic. - related article: [How green can a building be?](https://blogs.thomsonreuters.com/sustainability/2019/02/13/executive-perspective-how-green-can-a-building-be/)"
+      "description": "Masdar, or Abu Dhabi Future Energy Company, is a global leader in renewable energy and sustainable urban development. Masdar means ‘source’ in Arabic. - related article: [How green can a building be?](https://blogs.thomsonreuters.com/sustainability/2019/02/13/executive-perspective-how-green-can-a-building-be/)"
     },
     {
       "title": "GridBeyond",
@@ -582,6 +597,20 @@
       "date_modified": "2020-05-26",
       "url": "http://www.greenkeeperuk.co.uk/who-might-use-the-greenkeeper-tool/",
       "description": "Greenkeper is a consultancy that develops a data-driven tool to analyse performance and inform investment approaches to urban green infrastructure."
+    },
+    {
+      "title": "Normative",
+      "date_modified": "2021-04-26",
+      "url": "",
+      "tags": ["footprint", "offset"],
+      "description": ""
+    },
+    {
+      "title": "Normative",
+      "date_modified": "2021-04-26",
+      "url": "https://normative.io/about-us/",
+      "tags": ["footprint"],
+      "description": "Normative want to accelerate the transition towards net zero emissions. We provide emission accounting based on science, empowering companies to reduce their carbon footprint."
     },
     {
       "title": "Plan A",
@@ -636,6 +665,20 @@
       "url": "https://www.greenbiz.com/about-us",
       "tags": ["media"],
       "description": "Greenbiz Media company interesting article about long-term sustainability of solar panel recycling"
+    },
+    {
+      "title": "Energy Saving Trust",
+      "date_modified": "2021-04-26",
+      "url": "https://energysavingtrust.org.uk/about-us/",
+      "tags": ["nonprofit"],
+      "description": "Energy Saving Trust is an independent organisation – working to address the climate emergency."
+    },
+    {
+      "title": "Open Climate Fix",
+      "date_modified": "2021-04-26",
+      "url": "https://openclimatefix.org/",
+      "tags": ["nonprofit"],
+      "description": "Open Climate Fix is a non-profit product lab, totally focused on reducing greenhouse gas emissions as rapidly as possible. Received [funding](https://openclimatefix.org/blog/2021-04-13-googleorg-support) from [Google Impact Challenge](https://impactchallenge.withgoogle.com/climate2020)"
     },
     {
       "title": "Green Finance Index",
@@ -939,11 +982,25 @@
       "description": "Labrador like uswitch, has an option for green sources"
     },
     {
+      "title": "Energy Local CIC",
+      "date_modified": "2021-04-22",
+      "url": "",
+      "tags": ["utility"],
+      "description": "An energy co-op of some sorts, Energy Local has designed a local market that enables households to club together to show when they are using local clean power when it is generated. Awarded phase 2 of UK gov [2020 SENS competition](https://www.gov.uk/government/publications/smart-energy-savings-sens-competition)"
+    },
+    {
+      "title": "Igloo",
+      "date_modified": "2021-04-22",
+      "url": "https://igloo.energy/",
+      "tags": ["utility"],
+      "description": "A utility that combines energy supply with services for energy efficiency including installation of smart thermostats, ev charging, heat pumps. Awarded phase 2 of UK gov [2020 SENS competition](https://www.gov.uk/government/publications/smart-energy-savings-sens-competition)"
+    },
+    {
       "title": "Ripple Energy",
       "date_modified": "2020-07-10",
       "url": "https://rippleenergy.com/",
       "tags": ["utility"],
-      "description": "Energy co-op - The first co-operatively owned wind farm to supply its owners with their own green electricity via the grid. [On seeders](https://www.seedrs.com/ripple2)"
+      "description": "Energy co-op: a co-operatively owned wind farm to supply its owners with their own green electricity via the grid. [On seeders](https://www.seedrs.com/ripple2)"
     },
     {
       "title": "Future Grid",
