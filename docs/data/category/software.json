@@ -29,6 +29,13 @@
       "description": "Instead of providing bits and pieces of data and functionality, we are reimagining how clean energy projects are evaluated and developed from origination to operation."
     },
     {
+      "title": "Volttron",
+      "date_modified": "2021-05-10",
+      "url": "https://volttron.org/",
+      "tags": ["platform", "iot"],
+      "description": "Volttron is a flexible, scalable, economical and secure software platform to operate the Internet of Things developed at Pacific Northwest National Laboratory and available as an open-source tool. The U.S. Department of Energy views the technology as a central component of buildings-grid integration, and provides funding support. [Github repo](https://github.com/VOLTTRON/volttron)"
+    },
+    {
       "title": "Arbnco",
       "date_modified": "2021-04-22",
       "url": "https://us.arbnco.com/",
@@ -36,11 +43,18 @@
       "description": "building performance software platform for utilities, national property managers and commercial real estate."
     },
     {
+      "title": "Dabbel",
+      "date_modified": "2021-05-10",
+      "url": "https://www.dabbel.eu/",
+      "tags": ["platform", "iot"],
+      "description": "Buildings, self-driven. The DABBEL AI reduces your building’s HVAC energy consumption and CO₂ emissions by up to 40%. Based in Dusseldorf"
+    },
+    {
       "title": "Bee Bryte",
       "date_modified": "2020-07-10",
       "url": "https://www.beebryte.com/about-us/",
       "tags": ["platform", "iot"],
-      "description": "software-as-a-service minimizing utility bills with automatic control of heating-cooling equipment (e.g. HVAC), pumps, EV charging points and/or batteries"
+      "description": "software-as-a-service minimizing utility bills with automatic control of heating-cooling equipment (e.g. HVAC), pumps, EV charging points and/or batteries. Based in Lyon and Singapore."
     },
     {
       "title": "Dreev",
@@ -424,7 +438,7 @@
       "title": "Piclo",
       "date_modified": "2020-05-26",
       "url": "https://piclo.energy/",
-      "tags": ["derms"],
+      "tags": ["derms", "flexibility", "market"],
       "description": "Piclo , Grid flexibility marketplace Platform"
     },
     {
@@ -435,11 +449,18 @@
       "description": "Upside energy Cloud software for demand side response with AI"
     },
     {
+      "title": "GridX",
+      "date_modified": "2021-05-10",
+      "url": "https://www.gridx.ai/",
+      "tags": ["derms"],
+      "description": "We connect distributed energy resources on a single platform. We optimize energy flows to make the most efficient use of energy. Based in Munich"
+    },
+    {
       "title": "Faraday grid",
       "date_modified": "2020-05-26",
-      "url": "https://www.faradaygrid.com/the-faraday-grid/",
+      "url": "https://www.linkedin.com/company/faraday-grid/about/",
       "tags": ["derms"],
-      "description": "Faraday grid Edinburgh based, backed by WeWork co-founder and Amp Energy - [in the news](https://theenergyst.com/faraday-grid-lands-25m-investment/) -, providing hardware + software for DER"
+      "description": "Faraday grid, Edinburgh based, [backed by WeWork co-founder](https://theenergyst.com/faraday-grid-lands-25m-investment/) and Amp Energy [went bust in 2019](). Intended to provide hardware + software for DER"
     },
     {
       "title": "Opus one",

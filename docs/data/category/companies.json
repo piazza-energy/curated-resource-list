@@ -487,19 +487,36 @@
       "title": "Kyos",
       "date_modified": "2020-05-26",
       "url": "https://www.kyos.com/",
+      "tags": ["market"],
       "description": "Kyos asset management and optimisation, energy market analytics"
     },
     {
       "title": "Inspired Energy",
       "date_modified": "2020-05-26",
       "url": "https://inspiredenergy.co.uk/",
-      "description": "Inspired Energy Manchester based, super big company providing all sorts of professional services for energy distributors, businesses etc."
+      "tags": ["consultancy"],
+      "description": "Inspired Energy Manchester based, big company providing all sorts of professional services for energy distributors, businesses etc."
     },
     {
       "title": "D2H engineering",
       "date_modified": "2020-05-26",
       "url": "http://www.d2hengineering.com/home/",
+      "tags": ["consultancy"],
       "description": "D2H engineering consultancy company in Indianapolis and UK, several projects in energy including a battery model"
+    },
+    {
+      "title": "Anthesis",
+      "date_modified": "2021-05-10",
+      "url": "https://www.anthesisgroup.com/about/",
+      "tags": ["consultancy"],
+      "description": "Since establishing in 2013, Anthesis Group has grown to more than 600 sustainability experts, through organic growth and strategic acquisitions."
+    },
+    {
+      "title": "Volans",
+      "date_modified": "2021-05-10",
+      "url": "https://volans.com/",
+      "tags": ["consultancy"],
+      "description": "From inception, Volans has strived to span the yawning divide between current approaches to sustainability and what’s needed to create a truly sustainable future for all. "
     },
     {
       "title": "Climate.Careers",
