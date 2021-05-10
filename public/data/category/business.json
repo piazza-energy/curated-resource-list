@@ -22,6 +22,13 @@
       "description": "Technology accelerator with the backing of the National Association of REALTORS"
     },
     {
+      "title": "Energy Starter",
+      "date_modified": "2021-05-10",
+      "url": "https://theenergystarter.com/",
+      "tags": ["accelerator"],
+      "description": "Starter was created for Startups and SMEs working in the energy industry or with solutions that can be applied in it."
+    },
+    {
       "title": "Startup Bootcamp Sustainability",
       "date_modified": "2021-02-22",
       "url": "https://www.sbcsustainability.com/",
@@ -552,6 +559,13 @@
       "url": "https://www.nuveen.com/global",
       "tags": ["investment", "storage-biz", "fund"],
       "description": "Nuveen invest in the growth of businesses, real estate, farmland, forests and infrastructure"
+    },
+    {
+      "title": "Nanuk",
+      "date_modified": "2021-05-10",
+      "url": "https://www.nanukasset.com/",
+      "tags": ["investment", "fund"],
+      "description": "Nanuk Asset Management was established in 2009 to develop world-leading expertise in the investment opportunities and risks associated with environmental sustainability and resource use efficiency."
     },
     {
       "title": "Asper",
