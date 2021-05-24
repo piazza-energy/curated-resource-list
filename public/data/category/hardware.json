@@ -19,7 +19,7 @@
       "date_modified": "2021-02-15",
       "url": "https://pod-point.com/about",
       "tags": ["ev"],
-      "description": "pod point, formed in 2009, have manufactured and sold over 96,000 charging points across the UK and Norway"
+      "description": "Pod point, formed in 2009, have manufactured and sold over 96,000 charging points across the UK and Norway. [In the news, May 21](https://www.edie.net/news/8/In-action--Exploring-Skanska-electric-vehicle-charging-retrofit/): Skanska worked with EDF-owned chargepoint provider Pod Point to install EV chargers at its Hertfordshire office in Maple Cross."
     },
     {
       "title": "Instavolt",
@@ -372,6 +372,13 @@
       "description": " Search  google images  for Zigbee din relay there are tons!"
     },
     {
+      "title": "Carbon Neutral Energy",
+      "date_modified": "2021-05-24",
+      "url": "https://www.carbonneutralenergyltd.com/",
+      "tags": ["storage"],
+      "description": "Carbon Neutral Energy have developed a Unique Mobile Battery Storage Solution to store & deliver green electric power. CNE has embarked on [a £300m fund-raise](https://dailybusinessgroup.co.uk/2021/02/power-firm-cne-plans-300m-cash-raise-and-200-jobs/) and started expanding to the United States, two months after officially launching in the UK, [in the news May 21](https://solarbuildermag.com/news/carbon-neutral-energys-mobile-battery-storage-concept-coming-to-the-united-states/)"
+    },
+    {
       "title": "Electriq Power",
       "date_modified": "2021-05-10",
       "url": "https://electriqpower.com/",
@@ -572,7 +579,7 @@
       "date_modified": "2020-05-26",
       "url": "https://www.bboxx.co.uk/",
       "tags": ["pv"],
-      "description": "BBoxx  hardly can be defined a PV or a battery company, they provide a solar + battery + monitoring solution for developing countries, London based"
+      "description": "BBOXX designs, manufactures, and distributes plug and play solar systems. It also offers pay-as-you-go solar power. BBoxx hardly can be defined a PV or a battery company, they provide a solar + battery + monitoring solution for developing countries, London based"
     },
     {
       "title": "sma",

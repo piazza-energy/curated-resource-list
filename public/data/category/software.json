@@ -57,11 +57,18 @@
       "description": "software-as-a-service minimizing utility bills with automatic control of heating-cooling equipment (e.g. HVAC), pumps, EV charging points and/or batteries. Based in Lyon and Singapore."
     },
     {
+      "title": "Bonnet electric",
+      "date_modified": "2021-05-24",
+      "url": "https://www.bonnetelectric.com/",
+      "tags": ["platform", "ev"],
+      "description": "mobile app with a map for EV charging and a monthly fee structure that includes a certain amount of kwh"
+    },
+    {
       "title": "Dreev",
       "date_modified": "2020-10-17",
       "url": "http://www.dreev.com/#discover",
       "tags": ["platform", "ev"],
-      "description": "V2G platform. Dreev solution relies on Nuvve technology that has already been deployed and validated on 5 continents. Dreev is a creation of both San Diego based [Nuvve](https://nuvve.com/) and EDF Pulse Expansion. "
+      "description": "EV Smart charging V2G platform. Dreev solution relies on Nuvve technology that has already been deployed and validated on 5 continents. Dreev is a creation of both San Diego based [Nuvve](https://nuvve.com/) and EDF Pulse Expansion. "
     },
     {
       "title": "EV energy",

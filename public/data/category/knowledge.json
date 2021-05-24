@@ -1,6 +1,27 @@
 {
   "data": [
     {
+      "title": "UK emissions trading scheme (ETS)",
+      "date_modified": "2021-05-24",
+      "url": "https://www.edie.net/news/11/UK-ETS--Post-Brexit-carbon-market-opens-for-first-time-with-carbon-price-topping--50-per-tonne/",
+      "tags": ["knowledge", "market"],
+      "description": "UK emissions trading scheme (ETS) opened for the first time on Wednesday morning (19 May) with carbon price topping £50 per tonne."
+    },
+    {
+      "title": "A list of energy startups",
+      "date_modified": "2021-05-24",
+      "url": "https://www.energystartups.org/top/smartgrid/",
+      "tags": ["knowledge"],
+      "description": "A list of energy startups classified by sources, countries, technologies"
+    },
+    {
+      "title": "Large-scale battery storage in the UK: Analysing the 16GW of projects in development",
+      "date_modified": "2021-05-24",
+      "url": "https://www.energy-storage.news/blogs/large-scale-battery-storage-in-the-uk-analysing-the-16gw-of-projects-in-dev",
+      "tags": ["knowledge"],
+      "description": "The in-house analysis and research team at Solar Media Market Research answers which projects will likely get built, and when. [The report](https://marketresearch.solarmedia.co.uk/collections/solar-storage-research/products/uk-battery-storage-project-database-report) explains some of the methodologies to filter out the top 10 projects in development in the UK."
+    },
+    {
       "title": "Google Environmental Insights Explorer (EIE)",
       "date_modified": "2021-04-12",
       "url": "https://insights.sustainability.google/",
