@@ -1,6 +1,48 @@
 {
   "data": [
     {
+      "title": "London Mayor Sadiq Khan declares 'retrofit revolution' to slash building emissions",
+      "date_modified": "2021-06-08",
+      "url": "https://www.edie.net/news/6/London-Mayor-Sadiq-Khan-declares--retrofit-revolution--to-slash-building-emissions/",
+      "tags": [],
+      "description": "A new £3.5m 'centre of excellence' with funding from BEIS to help social housing providers retrofit their homes, and City Hall has also entered a new partnership deal that could unlock £10bn of private finance to cut building emissions."
+    },
+    {
+      "title": "Sustainable office retrofit begins at new CISL headquarters",
+      "date_modified": "2021-06-08",
+      "url": "https://www.cam.ac.uk/news/world-first-sustainable-office-retrofit-begins-at-new-cisl-headquarters",
+      "tags": [],
+      "description": "The University of [Cambridge Institute for Sustainability Leadership](https://www.cisl.cam.ac.uk/) (CISL) has announced the start of works on its new visionary headquarters. The Entopia Building, a retrofitted 1930s Telephone Exchange at 1 Regent Street, Cambridge, will be transformed in 2021 into an ultra-low carbon sustainability hub"
+    },
+    {
+      "title": "UK100",
+      "date_modified": "2021-06-08",
+      "url": "https://www.uk100.org/",
+      "tags": ["knowledge", "list", "council"],
+      "description": "UK100 is the only network for UK locally elected leaders who have pledged to play their part in the global effort to avoid the worst impacts of climate change by switching to 100% clean energy by 2050. "
+    },
+    {
+      "title": "Climate Emergency",
+      "date_modified": "2021-06-08",
+      "url": "https://www.climateemergency.uk/",
+      "tags": ["knowledge", "dataset", "list", "council"],
+      "description": "list of local authorities of all political persuasions that have declared climate & ecological emergencies and are creating action plans to deliver on their ambitions. Head to section [action plans](https://data.climateemergency.uk/) for the full dataset"
+    },
+    {
+      "title": "Public Sector Decarbonisation Scheme investment",
+      "date_modified": "2021-06-08",
+      "url": "https://www.inyourarea.co.uk/news/rochdale-secures-11m-to-tackle-climate-change/",
+      "tags": ["knowledge", "investment", "council"],
+      "description": "Rochdale council has secured £11m funding through the government’s Public Sector Decarbonisation Scheme (PSDS) "
+    },
+    {
+      "title": "Energy Storage Summit 2021 - the role of energy storage for UK net-zero",
+      "date_modified": "2021-06-08",
+      "url": "https://www.energy-storage.news/blogs/video-uks-net-zero-ambitions-and-the-role-of-energy-storage",
+      "tags": ["knowledge", "storage"],
+      "description": "panel discussion from the Energy Storage Summit 2021 with BEIS, Energy Systems Catapult, trade association [Energy UK](https://www.energy-uk.org.uk/) and gas network Wales & West Utilities"
+    },
+    {
       "title": "UK emissions trading scheme (ETS)",
       "date_modified": "2021-05-24",
       "url": "https://www.edie.net/news/11/UK-ETS--Post-Brexit-carbon-market-opens-for-first-time-with-carbon-price-topping--50-per-tonne/",
@@ -11,7 +53,7 @@
       "title": "A list of energy startups",
       "date_modified": "2021-05-24",
       "url": "https://www.energystartups.org/top/smartgrid/",
-      "tags": ["knowledge"],
+      "tags": ["knowledge", "list"],
       "description": "A list of energy startups classified by sources, countries, technologies"
     },
     {
@@ -81,7 +123,7 @@
       "title": "Innovative Financing Solution Alongside the Goldman Sachs Urban Investment Group",
       "date_modified": "2021-03-02",
       "url": "https://www.prnewswire.com/news-releases/blocpower-raises-63-million-series-a-to-green-urban-buildings-and-creates-innovative-financing-solution-alongside-the-goldman-sachs-urban-investment-group-301232145.html",
-      "tags": ["financing"],
+      "tags": ["fintech"],
       "description": "[Blocpower](https://www.blocpower.io/) in Feb 21 announced a $63 million Series A with the goal of leveraging advanced technologies, innovative electrification equipment and structured finance to provide green heating and cooling to America's aging urban buildings"
     },
     {
