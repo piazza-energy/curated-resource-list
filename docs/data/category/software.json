@@ -106,6 +106,13 @@
       "description": "Service monitoring for connected devices: the process of collecting streams of data from individual devices, turning them into metrics, and from those deriving Key Performance Indicators for your device estate as a whole"
     },
     {
+      "title": "Twaice",
+      "date_modified": "2021-05-24",
+      "url": "https://twaice.com/",
+      "tags": ["platform", "storage"],
+      "description": "Our predictive analytics increase the lifetime, efficiency ​and sustainability of batteries. raised 26M in May 2021, [in the news](https://techcrunch.com/2021/05/19/twaice-raised-26m-to-scale-its-battery-analytics-software/}​"
+    },
+    {
       "title": "Levelise",
       "date_modified": "2021-02-24",
       "url": "https://www.levelise.com/",

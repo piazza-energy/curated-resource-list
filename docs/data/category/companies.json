@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "title": "Cervest",
+      "date_modified": "2021-05-24",
+      "url": "",
+      "tags": ["platform", "weather", "risk"],
+      "description": "Cervest offers cloud-based Climate Intelligence (CI) to empower enterprises, governments and financial services companies to manage and adapt to climate risk at an asset-level. Received 24M in funding in May 2021, [in the news](https://www.eu-startups.com/2021/05/cervest-secures-e24-6-million-to-launch-new-ai-powered-climate-intelligence-platform/)"
+    },
+    {
       "title": "Diode",
       "date_modified": "2021-04-22",
       "url": "https://www.diode.energy/",
@@ -11,14 +18,14 @@
       "title": "Sunlight Financial",
       "date_modified": "2021-02-27",
       "url": "https://sunlightfinancial.com/",
-      "tags": ["financing"],
+      "tags": ["fintech"],
       "description": "Sunlight Financial partners with Solar companies and Home Improvement contractors to secure financing for solar systems and home improvement projects. Raised $1.3bn via SPAC + PIPE deal in Feb 21, via [Techcrunch](https://techcrunch.com/2021/01/25/chamath-palihapitiyas-spac-for-sunlight-financial-is-another-sign-of-a-renewables-boom/)"
     },
     {
       "title": "Loanpal",
       "date_modified": "2021-02-27",
       "url": "https://loanpal.com/",
-      "tags": ["financing"],
+      "tags": ["fintech"],
       "description": "partnership with sustainable home improvement professionals across the country to make sustainable home upgrades simple. Raised $800M in cash in Feb 21 to fund projects, from [Techcrunch](https://techcrunch.com/2021/01/27/renewable-investment-wave-continues-as-solar-lending-company-loanpal-raises-800-million/)"
     },
     {
@@ -69,6 +76,13 @@
       "url": "https://www.energyinst.org/",
       "tags": ["nonprofit"],
       "description": "The Energy Institute is the not-for-profit chartered professional membership body bringing together expertise to tackle urgent global challenges. Responding to the climate emergency while meeting the energy needs of the world’s growing population calls for energy to be better understood, managed and valued. check their [barometer](https://www.energyinst.org/exploring-energy/resources/barometer)"
+    },
+    {
+      "title": "DNV",
+      "date_modified": "2021-05-24",
+      "url": "https://www.dnv.com/",
+      "tags": ["storage", "risk", "consultancy", "certification"],
+      "description": "Giant group DNV are the independent expert in assurance and risk management, headquartered in Oslo with operations in more than 100 countries. They have a [part of the business](https://www.dnv.com/power-renewables/services/testing/battery-storage.html) dedicated to storage. In [December 2020](https://www.dnv.com/news/dnv-gl-performs-technical-due-diligence-for-gore-street-energy-storage-fund-s-acquisition-of-anesco-s-81-mw-uk-operational-battery-storage-portfolio-192425), selected by Gore Street Capital to undertake a range of technical due diligence services on an 81 MW operational battery storage portfolio."
     },
     {
       "title": "Cenex",
@@ -379,10 +393,31 @@
       "description": "Elli is the \"Electricity Life\" brand owned by VW group, announcing their [intention to become a power supplier](https://www.volkswagen-newsroom.com/en/press-releases/volkswagen-to-become-a-power-supplier-4551)"
     },
     {
+      "title": "Centre for net zero",
+      "date_modified": "2021-06-08",
+      "url": "https://www.centrefornetzero.org/",
+      "tags": [],
+      "description": "founded by Octopus, launched in Feb 2021. Will focus (probably) on agent-based energy grid modelling and (hopefully) releasing their models open source"
+    },
+    {
+      "title": "CarbonLaces",
+      "date_modified": "2021-06-08",
+      "url": "https://carbonlaces.com/",
+      "tags": ["real-estate", "fintech"],
+      "description": "Climate Finance Platform that defines a new category called ‘buildings as a hub of activity’ and recommends actions based on efficiency"
+    },
+    {
+      "title": "Novisto",
+      "date_modified": "2021-06-08",
+      "url": "https://novisto.com/",
+      "tags": ["esg"],
+      "description": "software solution for integrated corporate sustainability management. [Closed a $9.6 million CAD](https://betakit.com/novisto-raises-9-6-million-cad-series-a-round-to-innovate-esg-for-enterprises/) ($8 million USD) Series A round in May 2021"
+    },
+    {
       "title": "GRESB",
       "date_modified": "2020-05-26",
       "url": "https://gresb.com/about/",
-      "tags": ["real-estate"],
+      "tags": ["real-estate", "esg"],
       "description": "GRESB mission is to enhance and protect shareholder value by assessing and empowering sustainability practices in the real asset sector. Providing environmental, social and governance (ESG) performance on assets. (mentioned in Fabriq newsletter)"
     },
     {
@@ -424,6 +459,7 @@
     {
       "title": "Engadged Tracking",
       "date_modified": "2020-05-26",
+      "tags": ["esg"],
       "url": "https://www.engagedtracking.com/",
       "description": "Engadged Tracking a new approach to sustainable and ESG investing, ranking the world’s largest listed companies according to their Scope 1, 2 and 3 greenhouse gas emissions each year."
     },
@@ -437,7 +473,7 @@
       "title": "Energy way",
       "date_modified": "2020-05-26",
       "url": "https://www.energyway.it/energia-ambiente/",
-      "description": "Energy way is an Italy based consultancy, my friend Rita Cucchiara in the advisory board"
+      "description": "Energy way is an Italy based consultancy, Rita Cucchiara is in the advisory board"
     },
     {
       "title": "Brixton energy",
@@ -552,10 +588,10 @@
       "description": "Carbon limiting technologies works with industry and government to commercialise low carbon innovations and accelerate clean growth"
     },
     {
-      "title": "Emrgnt",
+      "title": "Emergent",
       "date_modified": "2020-05-26",
-      "url": "https://www.emrgnt.co.uk/",
-      "description": "Emrgnt is a startup developing batteries and renewable projects for landlords, they are probably both product and consultancy, a bit like Spectral (above), founder [Reg Platt](https://www.linkedin.com/in/reg-platt-11a38321/)"
+      "url": "https://emergent.energy/",
+      "description": "Emergent is a startup developing renewable projects for landlords, they are probably both product and consultancy, a bit like Spectral, founder [Reg Platt](https://www.linkedin.com/in/reg-platt-11a38321/)"
     },
     {
       "title": "Open Grid Systems Ltd.",
