@@ -1,6 +1,34 @@
 {
   "data": [
     {
+      "title": "Twinview",
+      "date_modified": "2021-06-17",
+      "url": "",
+      "tags": ["efficiency", "platform"],
+      "description": "Twinview is a browser-based Digital Twin platform for the property sector connecting building systems’ data to a 3D model viewed on a single dashboard. Twinview is a part of [Space Group](https://spacegroup.co.uk/) - who specialise in the development of digital applications and services to improve the outcomes of the built environment. In [June 21](https://www.twinfm.com/article/great-portland-estates-integrates-digital-twin-technology-into-office-refurbishment) deployed to the Hickman building, whitechapel"
+    },
+    {
+      "title": "QOS energy",
+      "date_modified": "2021-06-17",
+      "url": "https://www.qosenergy.com/",
+      "tags": ["analytics", "platform", "pv-sw"],
+      "description": "monitoring and optimisation of renewable generation assets"
+    },
+    {
+      "title": "OakTree power",
+      "date_modified": "2021-06-17",
+      "url": "https://www.oaktreepower.com/",
+      "tags": ["flexibility"],
+      "description": "Offering Flexibility services for buildings to generate revenue streams. Based in London"
+    },
+    {
+      "title": "Aquicore",
+      "date_modified": "2021-06-17",
+      "url": "https://aquicore.com/",
+      "tags": ["platform", "esg", "analytics"],
+      "description": "Aquicore is an analytics software to drive profitable, sustainable, and resilient buildings. Keyframe invested in them"
+    },
+    {
       "title": "Net2grid",
       "date_modified": "2021-02-07",
       "url": "https://www.net2grid.com/",
@@ -18,7 +46,7 @@
       "title": "Cortex",
       "date_modified": "2020-07-10",
       "url": "https://get.cortexintel.com/",
-      "tags": ["platform"],
+      "tags": ["platform", "analytics", "bms"],
       "description": "Cortex is built to dramatically improve how buildings operate by applying software and analytics to highly underutilized data streams. By building the software and analytics layer overtop these disparate data streams, we can fundamentally improve the sustainability of commercial buildings, the value of those assets, and the experience of occupants inside them."
     },
     {
@@ -109,8 +137,8 @@
       "title": "Twaice",
       "date_modified": "2021-05-24",
       "url": "https://twaice.com/",
-      "tags": ["platform", "storage"],
-      "description": "Our predictive analytics increase the lifetime, efficiency ​and sustainability of batteries. raised 26M in May 2021, [in the news](https://techcrunch.com/2021/05/19/twaice-raised-26m-to-scale-its-battery-analytics-software/}​"
+      "tags": ["platform", "storage", "analytics"],
+      "description": "Our predictive analytics increase the lifetime, efficiency ​and sustainability of batteries. raised 26M in May 2021, [in the news](https://techcrunch.com/2021/05/19/twaice-raised-26m-to-scale-its-battery-analytics-software/)​"
     },
     {
       "title": "Levelise",

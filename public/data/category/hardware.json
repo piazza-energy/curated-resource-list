@@ -1,6 +1,20 @@
 {
   "data": [
     {
+      "title": "Buildings IOT",
+      "date_modified": "2021-06-17",
+      "url": "https://www.buildingsiot.com/",
+      "tags": ["iot", "efficiency", "bms", "analytics"],
+      "description": "We develop and deploy cloud-based building analytics software, we implement complex Integrated Building Management Systems, we design and install controls systems, we maintain building assets and we provide IT managed services."
+    },
+    {
+      "title": "Passive Logic",
+      "date_modified": "2021-06-17",
+      "url": "https://www.passive-logic.com/",
+      "tags": ["iot", "efficiency", "bms"],
+      "description": "Sensors and actuators with a software platform that automates the whole building life cycle. [Keyframe capital](https://www.keyframecapital.com/) has invested in them"
+    },
+    {
       "title": "Amber",
       "date_modified": "2021-02-07",
       "url": "https://www.ambersi.com/",
@@ -62,6 +76,13 @@
       "url": "https://www.tesvolt.com/en/",
       "tags": ["storage"],
       "description": "TESVOLT's award-winning battery management system ensures that commercial and industrial storage systems pay for themselves within just a few years. In March 21, [Tesvolt launches offer all-in-one and ‘plug-and-play’](https://www.energy-storage.news/news/commercial-and-utility-battery-storage-launches-offer-all-in-one-and-plug-a) options"
+    },
+    {
+      "title": "Dhybrid",
+      "date_modified": "2021-06-10",
+      "url": "https://www.dhybrid.de/en/home",
+      "tags": ["pv", "storage", "microgrid", "consultancy", "islands"],
+      "description": "Microgrid developers, Dhybrid main goal is to maximize the effectiveness of energy conversion. In [June 21](https://www.energy-storage.news/news/dhybrid-installs-microgrids-on-26-maldivian-islands-to-reduce-diesel-relian) they installed microgrids on 26 Maldivian islands to reduce diesel reliance"
     },
     {
       "title": "EVO Energy",
@@ -382,7 +403,7 @@
       "title": "Electriq Power",
       "date_modified": "2021-05-10",
       "url": "https://electriqpower.com/",
-      "tags": ["storage"],
+      "tags": ["storage", "islands"],
       "description": "Electriq Power is a developer of intelligent and integrated home energy storage, management, and monitoring solutions, their battery systems can be found in customers’ homes and small businesses. In [April 21](https://www.energyglobal.com/energy-storage/28042021/electriq-and-cuc-to-trial-residential-battery-storage-programme/) they started to trial residential battery storage programme with Caribbean Utilities Company"
     },
     {
@@ -410,7 +431,7 @@
       "title": "Blue planet energy",
       "date_modified": "2020-05-26",
       "url": "https://blueplanetenergy.com/",
-      "tags": ["storage"],
+      "tags": ["storage", "islands"],
       "description": "Blue planet energy  Hawaii based storage for residential"
     },
     {
@@ -523,7 +544,7 @@
       "date_modified": "2020-05-26",
       "url": "https://northvolt.com/",
       "tags": ["storage"],
-      "description": "Northvolt, Stockholm based. [Raised 600M in Sep 2020](https://www.electrive.com/2020/09/29/northvolt-raises-600-million-from-investors/) to expand its production and recycling capacity and research and development activities."
+      "description": "Northvolt, Stockholm based.[Raised 2.7B in June 2021](https://news.crunchbase.com/news/briefing-6-9-21/). [Raised 600M in Sep 2020](https://www.electrive.com/2020/09/29/northvolt-raises-600-million-from-investors/) to expand its production and recycling capacity and research and development activities."
     },
     {
       "title": "RedT",

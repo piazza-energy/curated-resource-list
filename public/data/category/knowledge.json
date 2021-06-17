@@ -1,17 +1,38 @@
 {
   "data": [
     {
+      "title": "Knight Frank report - E-mobility is the future. But what does that mean for real estate?",
+      "date_modified": "2021-06-18",
+      "url": "https://www.knightfrank.com/research/article/2021-04-08-emobility-is-the-future-but-what-does-that-mean-for-real-estate",
+      "tags": ["ev", "real-estate"],
+      "description": "The  Energy & Sustainability team explores how the growth of electric vehicles will impact real estate and what opportunities exist for landlords, developers and occupiers. The e-mobility report is [here](https://knightfrank.foleon.com/pitch/e-mobility/introduction/)"
+    },
+    {
+      "title": "PWC report - Powering ahead!",
+      "date_modified": "2021-06-18",
+      "url": "https://www.pwc.co.uk/industries/power-utilities/insights/electric-vehicle-infrastructure-report.html",
+      "tags": ["ev"],
+      "description": "Making sense of business models in electric vehicle charging. PDF [here](https://www.pwc.co.uk/power-utilities/assets/powering-ahead-ev-charging-infrastructure.pdf)"
+    },
+    {
+      "title": "BCG report - Winning the Battle in the EV Charging Ecosystem",
+      "date_modified": "2021-06-18",
+      "url": "https://www.bcg.com/en-gb/publications/2021/the-evolution-of-charging-infrastructures-for-electric-vehicles",
+      "tags": ["ev"],
+      "description": "As electric vehicle sales take off, demand for public charging will explode. Providers can pursue seven strategic plays in this nascent but fast-moving market."
+    },
+    {
       "title": "London Mayor Sadiq Khan declares 'retrofit revolution' to slash building emissions",
       "date_modified": "2021-06-08",
       "url": "https://www.edie.net/news/6/London-Mayor-Sadiq-Khan-declares--retrofit-revolution--to-slash-building-emissions/",
-      "tags": [],
+      "tags": ["retrofit"],
       "description": "A new £3.5m 'centre of excellence' with funding from BEIS to help social housing providers retrofit their homes, and City Hall has also entered a new partnership deal that could unlock £10bn of private finance to cut building emissions."
     },
     {
       "title": "Sustainable office retrofit begins at new CISL headquarters",
       "date_modified": "2021-06-08",
       "url": "https://www.cam.ac.uk/news/world-first-sustainable-office-retrofit-begins-at-new-cisl-headquarters",
-      "tags": [],
+      "tags": ["retrofit"],
       "description": "The University of [Cambridge Institute for Sustainability Leadership](https://www.cisl.cam.ac.uk/) (CISL) has announced the start of works on its new visionary headquarters. The Entopia Building, a retrofitted 1930s Telephone Exchange at 1 Regent Street, Cambridge, will be transformed in 2021 into an ultra-low carbon sustainability hub"
     },
     {
