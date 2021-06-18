@@ -1,17 +1,24 @@
 {
   "data": [
     {
+      "title": "Metrikus",
+      "date_modified": "2021-06-17",
+      "url": "https://www.metrikus.io/",
+      "tags": ["iot", "efficiency", "bms", "analytics", "real-estate"],
+      "description": "Metrikus is a platform that helps to make buildings more efficient. Implemented at Met Office HQ, [in the news](https://www.twinfm.com/article/monitoring-energy-usage-at-met-office-hq)"
+    },
+    {
       "title": "Buildings IOT",
       "date_modified": "2021-06-17",
       "url": "https://www.buildingsiot.com/",
-      "tags": ["iot", "efficiency", "bms", "analytics"],
+      "tags": ["iot", "efficiency", "bms", "analytics", "real-estate"],
       "description": "We develop and deploy cloud-based building analytics software, we implement complex Integrated Building Management Systems, we design and install controls systems, we maintain building assets and we provide IT managed services."
     },
     {
       "title": "Passive Logic",
       "date_modified": "2021-06-17",
       "url": "https://www.passive-logic.com/",
-      "tags": ["iot", "efficiency", "bms"],
+      "tags": ["iot", "efficiency", "bms", "real-estate"],
       "description": "Sensors and actuators with a software platform that automates the whole building life cycle. [Keyframe capital](https://www.keyframecapital.com/) has invested in them"
     },
     {
@@ -130,7 +137,7 @@
       "title": "Open Sensors",
       "date_modified": "2020-05-26",
       "url": "https://www.opensensors.com/",
-      "tags": ["iot"],
+      "tags": ["iot", "real-estate"],
       "description": "OpenSensors provides a smart Building Management System with sensors and analytics tools analyse effective use of your space."
     },
     {
@@ -179,7 +186,7 @@
       "title": "Ecopilot",
       "date_modified": "2021-04-26",
       "url": "https://www.ecopilot.com/",
-      "tags": ["iot", "efficiency"],
+      "tags": ["iot", "efficiency", "real-estate"],
       "description": "Improve the working environment, improve productivity – Our clients/customers describe Ecopilot® and as an Artificial Intelligence that enables our various systems to collaborate, rather than constantly working against each other."
     },
     {
@@ -221,28 +228,28 @@
       "title": "Syscom",
       "date_modified": "2020-05-26",
       "url": "https://syscombms.com/about/",
-      "tags": ["iot"],
+      "tags": ["iot", "bms"],
       "description": " Syscom  is a Centrica company that creates tailored and custom-made solutions in the engineering, software, commissioning and maintenance of Building Energy Management Systems. Manufacturer of a [wireless meter](https://syscombms.com/wireless-metering/)"
     },
     {
       "title": "Control 4",
       "date_modified": "2020-05-26",
       "url": "https://www.control4.com/",
-      "tags": ["iot"],
+      "tags": ["iot", "residential"],
       "description": "Control 4  is one of the leading home automation systems with plenty of upscale different devices. Quite new to energy efficiency though, worth [a check](https://www.control4.com/blog/456/energyefficient-home-controls-lighting-and-solar-with-a-hightech-twist)"
     },
     {
       "title": "75f",
       "date_modified": "2020-05-26",
       "url": "https://www.75f.io/about",
-      "tags": ["iot"],
+      "tags": ["iot", "real-estate"],
       "description": "75f  is a IoT smart HVAC solution makes commercial buildings more comfortable and energy efficient. Funded by [breakthrough energy ventures](https://www.gatesnotes.com/Energy/Buildings-are-good-for-people-and-bad-for-the-climate)"
     },
     {
       "title": "EcoSync Energy",
       "date_modified": "2020-05-26",
       "url": "https://ecosync.energy/",
-      "tags": ["iot"],
+      "tags": ["iot", "real-estate"],
       "description": "EcoSync Energy  have created a cloud-based platform for existing building technologies like the room booking system and heating control to synchronise and communicate so as to provide heating for occupied areas only."
     },
     {
