@@ -1,6 +1,55 @@
 {
   "data": [
     {
+      "title": "Network price controls 2021-2028 (RIIO-2)",
+      "date_modified": "2021-07-12",
+      "url": "https://openei.org/wiki/Information",
+      "tags": ["market"],
+      "description": "The RIIO-ED2 price control sets the outputs that the 14 electricity Distribution Network Operators (DNOs) need to deliver for their consumers and the associated revenues they are allowed to collect for the five-year period from 1 April 2023 to 31 March 2028. On the back of it, UKPN [published their updated business plan](https://ed2.ukpowernetworks.co.uk/), [pdf here](https://d12szrpzyf0uik.cloudfront.net/app/uploads/2021/07/UKPN-RIIO-ED2-Plan_Customers-version_Proof-2.pdf)"
+    },
+    {
+      "title": "OpenEI",
+      "date_modified": "2021-07-12",
+      "url": "https://openei.org/wiki/Information",
+      "tags": ["data", "dataset"],
+      "description": "The information you'll find on OpenEI is community driven, it is a collection of content and data provided by contributors ranging from experts to enthusiasts. The platform is a wiki, similar to Wikipedia’s Wiki, with which many people are already familiar. "
+    },
+    {
+      "title": "Energy.gov resources, tools and dataset on open energy",
+      "date_modified": "2021-07-12",
+      "url": "https://www.energy.gov/data/open-energy-data",
+      "tags": ["data", "dataset"],
+      "description": "plenty of resources here, links to [NREL BITES](https://www.nrel.gov/analysis/bites.html), project discontinued and reframed under a number of other projects"
+    },
+    {
+      "title": "Digital Twin consortium",
+      "date_modified": "2021-07-12",
+      "url": "https://www.digitaltwinconsortium.org/index.htm",
+      "tags": ["simulation", "consortium"],
+      "description": "The Digital Twin Consortium coalesces industry, government and academia to drive consistency in vocabulary, architecture, security and interoperability of digital twin technology."
+    },
+    {
+      "title": "A clean COVID-19 pandemic recovery: the global opportunity",
+      "date_modified": "2021-07-12",
+      "url": "https://www.ey.com/en_gl/strategy/a-clean-covid-19-pandemic-recovery-the-global-opportunity",
+      "tags": ["pv", "storage-biz"],
+      "description": "Ernest & Young ([EY Parthenon](https://www.ey.com/en_uk/strategy) strategy) study uncovers 13,000 “shovel- ready” global renewable energy projects that could reduce emissions while boosting economic recovery. Published Jul 2021, reported by [Edie](https://www.edie.net/news/6/UK-s-clean-energy-pipeline-on-course-to-unlock-625-000-green-jobs/), [Reuters](https://news.trust.org/item/20210706214949-g6ljb/), [pdf here](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/strategy/pdf/ey-ecf-a-clean-covid-19-recovery.pdf)"
+    },
+    {
+      "title": "E.ON calls on Government to level-up UK’s low-carbon efforts to achieve net zero",
+      "date_modified": "2021-07-12",
+      "url": "https://www.eonenergy.com/About-eon/media-centre/2020s-deciding-decade-low-carbon-efforts-net-zero/",
+      "tags": [],
+      "description": "In its new report, [‘The Carbon Countdown: Road to 2030’](https://www.eonenergy.com/business/news-and-insights/tomorrow-is-on/accelerating-towards-a-net-zero-future.html), E.ON explores the key areas where the UK must move faster and with greater focus in this decade if it intends to meet its 2050 carbon goals."
+    },
+    {
+      "title": "UKERC",
+      "date_modified": "2021-06-28",
+      "url": "https://ukerc.ac.uk/",
+      "tags": ["research"],
+      "description": "The UK Energy Research Centre (UKERC) carries out world-class, interdisciplinary research into sustainable future energy systems."
+    },
+    {
       "title": "Knight Frank report - E-mobility is the future. But what does that mean for real estate?",
       "date_modified": "2021-06-18",
       "url": "https://www.knightfrank.com/research/article/2021-04-08-emobility-is-the-future-but-what-does-that-mean-for-real-estate",
