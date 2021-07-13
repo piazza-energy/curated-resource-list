@@ -599,8 +599,8 @@
       "title": "Lightsource",
       "date_modified": "2020-10-17",
       "url": "https://www.lightsourcebp.com/",
-      "tags": ["pv"],
-      "description": "Lightsource focuses on development and management of solar energy projects. Our projects generate competitively-priced, reliable and sustainable energy for businesses and communities."
+      "tags": ["pv", "vpp"],
+      "description": "Lightsource focuses on development and management of solar energy projects. Our projects generate competitively-priced, reliable and sustainable energy for businesses and communities. In [June 21](https://renews.biz/70594/lightsource-labs-partners-on-uk-pv-storage-solution/) partnered with [Pure Planet](https://purepla.net/) to provide their VPP solution"
     },
     {
       "title": "BBoxx",

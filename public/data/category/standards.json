@@ -1,6 +1,34 @@
 {
   "data": [
     {
+      "title": "Matter Protocol",
+      "date_modified": "2021-06-28",
+      "url": "https://buildwithmatter.com/",
+      "tags": ["format"],
+      "description": "The Connectivity Standards Alliance ([CSA](https://csa-iot.org/)), formerly known as the Zigbee Alliance announced Matter – the interoperable, secure connectivity standard for the future of the smart home. [In the news, May 2021](https://zigbeealliance.org/news_and_articles/chip-is-now-matter/)"
+    },
+    {
+      "title": "Google Digital Buildings Project",
+      "date_modified": "2021-06-28",
+      "url": "https://github.com/google/digitalbuildings",
+      "tags": ["format"],
+      "description": "The Digital Buildings project is an open-source, Apache-licensed effort to create a uniform schema and toolset for representing structured information about buildings and building-installed equipment. Check [Episode 56 of Nexuslabs podcast](https://www.nexuslabs.online/-056-sabine-lam-unpacks-googles-building/) a conversation with Sabine Lam, Google's Building Operating System Global Lead for Real Estate and Workplace Services."
+    },
+    {
+      "title": "Brick",
+      "date_modified": "2021-06-28",
+      "url": "https://brickschema.org/",
+      "tags": ["format"],
+      "description": "Brick is an open-source effort to standardize semantic descriptions of the physical, logical and virtual assets in buildings and the relationships between them. "
+    },
+    {
+      "title": "Reset",
+      "date_modified": "2021-06-28",
+      "url": "https://www.reset.build/",
+      "tags": ["format"],
+      "description": "RESET is a set of standards and assessment tools & services to develop actionable, long term strategies towards health and sustainability for the built environment. They have started with air quality, with the aim of expanding to energy, materials, water, etc."
+    },
+    {
       "title": "ICAIEC",
       "date_modified": "2020-06-22",
       "url": "https://www.icaiec.org/",

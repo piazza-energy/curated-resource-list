@@ -1,6 +1,20 @@
 {
   "data": [
     {
+      "title": "Advanced Infrastructure",
+      "date_modified": "2021-07-07",
+      "url": "https://www.advanced-infrastructure.co.uk/",
+      "tags": ["analytics", "platform"],
+      "description": "Advanced Infrastructure's mission is to create a greener and fairer Energy System by making big data, transparency, and traceability accessible to all users of the energy system."
+    },
+    {
+      "title": "Brainbox AI",
+      "date_modified": "2021-07-07",
+      "url": "https://www.brainboxai.com/",
+      "tags": ["efficiency", "real-estate"],
+      "description": "Located in Montreal, Canada our team is comprised of experts in the fields of AI, data science, real estate, HVAC and energy efficiency. We are driven by the fact that 20% of global greenhouse gas emissions originate from buildings and that HVAC systems are responsible for over 50% of those emissions. "
+    },
+    {
       "title": "Twinview",
       "date_modified": "2021-06-17",
       "url": "",
@@ -39,7 +53,7 @@
       "title": "Enian",
       "date_modified": "2020-11-18",
       "url": "https://enian.co/",
-      "tags": ["platform"],
+      "tags": ["platform", "project-mgmt"],
       "description": "ENIAN is on a mission to fix our broken energy system with data and software. Their platform is an enterprise SaaS solution that provides all of the management tools for renewable energy professionals."
     },
     {
@@ -333,7 +347,7 @@
       "title": "CO2 Analytics",
       "date_modified": "2020-05-26",
       "url": "https://www.co2analytics.com/",
-      "tags": ["platform"],
+      "tags": ["platform", "offset", "analytics"],
       "description": "CO2 Analytics integrates with Xero to provide carbon footprint Measurement & Management Platform for Small and Midsize Businesses"
     },
     {
@@ -445,7 +459,7 @@
       "title": "Watershed",
       "date_modified": "2020-05-26",
       "url": "https://www.watershedclimate.com/",
-      "tags": ["platform"],
+      "tags": ["platform", "offset", "footprint", "esg"],
       "description": "Watershed helps businesses cut carbon emissions, from the a bunch of guys who were in Stripe"
     },
     {
@@ -543,7 +557,7 @@
       "title": "Emitwise",
       "date_modified": "2020-05-26",
       "url": "https://www.emitwise.com/#home",
-      "tags": ["derms"],
+      "tags": ["footprint", "offset", "esg"],
       "description": "Emitwise wants to enable companies to become carbon neutral by helping businesses track the carbon footprint of their organisation, including scope 1, 2, and 3 emissions."
     },
     {
@@ -669,7 +683,7 @@
       "title": "Sighten",
       "date_modified": "2020-05-26",
       "url": "http://www.sighten.io/",
-      "tags": ["pv-sw"],
+      "tags": ["pv-sw", "project-mgmt"],
       "description": "Sighten Platform for solar workflow management, from planning, financing, installation, monitoring, support"
     },
     {
