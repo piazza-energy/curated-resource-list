@@ -502,7 +502,7 @@
       "date_modified": "2020-05-26",
       "url": "https://upsideenergy.co.uk/about-us/",
       "tags": ["derms"],
-      "description": "Upside energy Cloud software for demand side response with AI"
+      "description": "Upside energy Cloud software for demand side response with AI. Has become Kraken Flex"
     },
     {
       "title": "GridX",
@@ -659,10 +659,17 @@
       "description": "ZERO Code Energy Calculator relying on others' standards"
     },
     {
+      "title": "RETScreen",
+      "date_modified": "2021-07-22",
+      "url": "https://www.nrcan.gc.ca/maps-tools-and-publications/tools/modelling-tools/retscreen/7465",
+      "tags": ["efficiency", "model"],
+      "description": "Implemented by the Canadian government, RETScreen® Clean Energy Management Software platform enables low-carbon planning, implementation, monitoring and reporting."
+    },
+    {
       "title": "The System Advisor Model (SAM)",
       "date_modified": "2020-05-26",
       "url": "https://sam.nrel.gov/",
-      "tags": ["efficiency"],
+      "tags": ["efficiency", "model"],
       "description": "The System Advisor Model (SAM)  is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry. Also has a web version with smaller feature set called [REopt](https://reopt.nrel.gov/faq.html). Check their [GH account](https://github.com/NREL) for what released open source"
     },
     {
