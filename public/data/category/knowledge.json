@@ -1,6 +1,27 @@
 {
   "data": [
     {
+      "title": "ESO, DNOs and local councils news from the UK",
+      "date_modified": "2021-09-16",
+      "url": "https://www.edie.net/news/11/National-Grid-could-lose-electricity-system-operator-role-under-new-BEIS-and-Ofgem-plans/",
+      "tags": ["knowledge"],
+      "description": "The UK Government and energy regulator Ofgem have outlined their initial views on [replacing National Grid](https://www.edie.net/news/11/National-Grid-could-lose-electricity-system-operator-role-under-new-BEIS-and-Ofgem-plans/) with a new independent system operator for electricity and gas, as part of a string of policy updates designed to accelerate the low-carbon transition. Meanwhile UK Power Networks and Northern Powergrid [outline £7.7bn investment plans](https://www.edie.net/news/10/Net-zero-energy-transition--UK-Power-Networks-and-Northern-Powergrid-outline--7-7bn-investment-plans/). Whilst a report from the NAO [published on July 16th](https://www.edie.net/news/11/-Serious-weaknesses--in-UK-Government-s-plans-for-engaging-local-councils-on-net-zero--report-warns/) revealed that 91% of the UK’s local authorities have set at least one climate commitment but finding it hard to engage with the UK Government."
+    },
+    {
+      "title": "Transport decarbonisation plan",
+      "date_modified": "2021-07-22",
+      "url": "https://www.gov.uk/government/publications/transport-decarbonisation-plan",
+      "tags": ["paper"],
+      "description": "Plan to decarbonise the entire transport system in the UK. Widely reported in the news: from [Edie](https://www.edie.net/news/11/-Clarity-and-confidence-for-the-road-ahead---Green-economy-reacts-to-new-Transport-Decarbonisation-Plan/), from [UKERC](https://ukerc.ac.uk/news/uk-transport-decarbonisation-plan/)"
+    },
+    {
+      "title": "Energy white paper: Powering our net zero future",
+      "date_modified": "2020-12-22",
+      "url": "https://www.gov.uk/government/publications/energy-white-paper-powering-our-net-zero-future",
+      "tags": ["paper"],
+      "description": "Energy white paper setting out how the UK will clean up its energy system and reach net zero emissions by 2050."
+    },
+    {
       "title": "Network price controls 2021-2028 (RIIO-2)",
       "date_modified": "2021-07-12",
       "url": "https://openei.org/wiki/Information",
@@ -39,7 +60,7 @@
       "title": "E.ON calls on Government to level-up UK’s low-carbon efforts to achieve net zero",
       "date_modified": "2021-07-12",
       "url": "https://www.eonenergy.com/About-eon/media-centre/2020s-deciding-decade-low-carbon-efforts-net-zero/",
-      "tags": [],
+      "tags": ["paper"],
       "description": "In its new report, [‘The Carbon Countdown: Road to 2030’](https://www.eonenergy.com/business/news-and-insights/tomorrow-is-on/accelerating-towards-a-net-zero-future.html), E.ON explores the key areas where the UK must move faster and with greater focus in this decade if it intends to meet its 2050 carbon goals."
     },
     {
@@ -148,6 +169,13 @@
       "description": "list of winners of the MEDApps competition (autumn 2020)"
     },
     {
+      "title": "NABERS: New energy rating scheme for offices available in UK",
+      "date_modified": "2021-10-04",
+      "url": "https://www.bregroup.com/nabers-uk/nabers-uk-products/energy-for-offices/",
+      "tags": ["certification"],
+      "description": "NABERS UK was introduced in November 2020 to help address performance gaps in current energy efficiency ratings, managed by the Building Research Establishment (BRE) the scheme replicates the well-established NABERS Australian rating scheme, in the [news from edie](https://www.edie.net/news/6/NABERS--New-energy-rating-scheme-for-offices-available-in-UK/), Oct 2021"
+    },
+    {
       "title": "BSRIA Soft landings",
       "date_modified": "2021-03-24",
       "url": "https://www.bsria.com/uk/consultancy/project-improvement/soft-landings/",
@@ -179,7 +207,7 @@
       "title": "Mackay carbon calculator",
       "date_modified": "2021-03-24",
       "url": "https://mackaycarboncalculator.beis.gov.uk/overview/emissions-and-primary-energy-consumption/",
-      "tags": ["model", "footprint"],
+      "tags": ["model", "footprint", "model"],
       "description": "transport / buildings / industry / etc. carbon calculator by BEIS"
     },
     {
@@ -363,6 +391,13 @@
       "url": "https://www.ofgem.gov.uk/data-portal/all-charts/policy-area/electricity-wholesale-markets",
       "tags": ["market", "dataset"],
       "description": "Ofgem data portal for the energy markets in Great Britain. This portal gives direct access to all of our interactive data charts in a single location, alongside indicators we consider key to our performance monitoring."
+    },
+    {
+      "title": "Australia’s electricity market rule change that will be ‘massive’ for batteries is imminent",
+      "date_modified": "2021-10-06",
+      "url": "https://www.energy-storage.news/australias-electricity-market-rule-change-that-will-be-massive-for-batteries-is-imminent/",
+      "tags": ["market"],
+      "description": "The change primarily concerns the introduction of Five-Minute Settlement (5MS) of wholesale electricity market prices in the NEM, replacing the 30-minute wholesale electricity spot market settlement"
     },
     {
       "title": "ICIS - Energy",
@@ -690,7 +725,7 @@
       "title": "En-roads scenario simulation",
       "date_modified": "2020-05-11",
       "url": "https://en-roads.climateinteractive.org/scenario.html",
-      "tags": ["knowledge"],
+      "tags": ["knowledge", "model"],
       "description": "En-roads scenario simulation helps to improve decision-maker understanding of the dynamics of the climate-energy-land-economic system, particularly focusing on policy-makers, citizens, educators, and business leaders [FAQ](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/general_faqs.html)"
     },
     {
@@ -755,6 +790,13 @@
       "url": "https://techcrunch.com/2017/06/12/londons-mayor-announces-1-6m-clean-tech-incubator/",
       "tags": ["biz"],
       "description": " about better futures accelerator  "
+    },
+    {
+      "title": "McKinsey - Why the automotive future is electric",
+      "date_modified": "2021-10-06",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/why-the-automotive-future-is-electric",
+      "tags": ["biz"],
+      "description": "Mainstream EVs will transform the automotive industry and help decarbonize the planet. Report September 2021"
     },
     {
       "title": "McKinsey - How utilities can keep the lights on",

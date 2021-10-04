@@ -197,6 +197,13 @@
       "description": "Redaptive develops a strategic program and identify sites to maximize savings across portfolio. Received a $150M round in Oct 2020, src: [crunchbase news](https://news.crunchbase.com/news/redaptive-closes-on-150m-for-energy-efficiency-technologies/)"
     },
     {
+      "title": "Measurable Energy",
+      "date_modified": "2021-07-22",
+      "url": "https://measurable.energy/",
+      "tags": ["iot", "real-estate"],
+      "description": "We created the measurable.energy (m.e) Platform from the ground up to offer facilities managers, building owners and occupants with real-time energy and GHG emissions monitoring, automated controls, and data driven actions to avoid carbon emissions. "
+    },
+    {
       "title": "Passivesystems",
       "date_modified": "2020-10-17",
       "url": "https://www.passivsystems.com/",
@@ -349,6 +356,13 @@
       "url": "https://www.everimpact.com/about",
       "tags": ["footprint"],
       "description": "Our mission is to make it easier for cities and companies to measure greenhouse gas emissions, identify opportunities to reduce emissions and finance needed investments."
+    },
+    {
+      "title": "Kraken Flex",
+      "date_modified": "2021-07-22",
+      "url": "https://www.krakenflex.com/",
+      "tags": ["market", "derms"],
+      "description": "Distributed Energy Resource Management System, used to be Upside energy"
     },
     {
       "title": "Habitat Energy",
@@ -528,6 +542,13 @@
       "description": "Eco Energi UK based service provider / consultancy for transition to sustainable, mainly residential"
     },
     {
+      "title": "Future Energy Associates",
+      "date_modified": "2021-10-06",
+      "url": "https://futureenergy.associates/about/",
+      "tags": ["consultancy"],
+      "description": "Future Energy Associates are a team of data scientists and energy specialists with experience across the UK and European energy systems. Lawrence, one of the directors, also works for Subak, he's on CAT"
+    },
+    {
       "title": "Pexapark",
       "date_modified": "2020-05-26",
       "url": "https://www.pexapark.com/team.html",
@@ -619,7 +640,8 @@
       "title": "Emergent",
       "date_modified": "2020-05-26",
       "url": "https://emergent.energy/",
-      "description": "Emergent is a startup developing renewable projects for landlords, they are probably both product and consultancy, a bit like Spectral, founder [Reg Platt](https://www.linkedin.com/in/reg-platt-11a38321/)"
+      "tags": ["real-estate"],
+      "description": "Give us a long-term lease to use the heat pumps, solar PV, and EV chargers you install in your developments, and let us turn your spending on delivering net zero into an investment with a return. Emergent is a startup developing renewable projects for landlords, founded by [Reg Platt](https://www.linkedin.com/in/reg-platt-11a38321/)"
     },
     {
       "title": "Open Grid Systems Ltd.",
@@ -937,6 +959,13 @@
       "description": "Community Energy England (CEE)  is a not for profit organisation that represents and supports those committed to the community energy sector. They run a [hub](http://hub.communityenergyengland.org/) with a list of supported projects"
     },
     {
+      "title": "Solar Together",
+      "date_modified": "2021-10-06",
+      "url": "https://solartogether.co.uk/",
+      "tags": ["community"],
+      "description": "Group-buying for solar panels and battery storage: better offers together."
+    },
+    {
       "title": "Wolverton Community Energy",
       "date_modified": "2020-05-26",
       "url": "http://wolvertoncommunityenergy.uk/",
@@ -1158,7 +1187,7 @@
       "date_modified": "2020-05-26",
       "url": "https://octopus.energy/",
       "tags": ["utility"],
-      "description": "Octopus London based aggregator, green easy to switch energy, there is probably a link with reactive-technologies that I haven’t understood"
+      "description": "Octopus London based aggregator, green easy-to-switch energy. In Oct 21 agrees deal for $600 mln additional investment, [from Reuters](https://www.reuters.com/business/energy/uks-octopus-energy-group-agrees-deal-600-mln-additional-investment-2021-09-27/)"
     },
     {
       "title": "Trust power",
