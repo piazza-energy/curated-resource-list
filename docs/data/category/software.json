@@ -1,11 +1,25 @@
 {
   "data": [
     {
+      "title": "Climate View",
+      "date_modified": "2021-10-16",
+      "url": "https://www.climateview.global/",
+      "tags": ["smart-city", "platform"],
+      "description": "ClimateView, a Swedish software development company working on monitoring and visualization tools for greenhouse gas emissions, create innovative technology to help cities understand and execute the shifts necessary to address the climate emergency. Raised $2.5 million in Oct 2021, from [TechCrunch](https://techcrunch.com/2020/04/08/climateview-raises-2-5-million-for-its-toolkit-to-visualize-climate-mitigation-plans/), investors include the [Norrsken Foundation](https://www.norrsken.org/), an impact investment firm established by Klarna co-founder Niklas Adalberth"
+    },
+    {
       "title": "Advanced Infrastructure",
       "date_modified": "2021-07-07",
       "url": "https://www.advanced-infrastructure.co.uk/",
       "tags": ["analytics", "platform"],
       "description": "Advanced Infrastructure's mission is to create a greener and fairer Energy System by making big data, transparency, and traceability accessible to all users of the energy system."
+    },
+    {
+      "title": "",
+      "date_modified": "2021-10-17",
+      "url": "",
+      "tags": ["efficiency", "real-estate"],
+      "description": "Based in Estonia, R8 Digital Operator is solving mathematically the problem of regulating the BMS and HVAC controllable parameters by including building dynamical modelling, real-time user interaction and predictions of weather and electricity prices to heat, ventilate and cool at the right time and the right amount."
     },
     {
       "title": "Brainbox AI",
@@ -720,6 +734,13 @@
       "url": "https://solargis.com/about-us",
       "tags": ["pv-sw"],
       "description": "Solargis provide reliable and accurate solar, weather and solar electricity data that are used in the whole lifecycle of solar power plants, from prospection to development and operation"
+    },
+    {
+      "title": "Energy Web",
+      "date_modified": "2021-10-17",
+      "url": "https://energyweb.org/",
+      "tags": ["blockchain", "derms"],
+      "description": "Energy Web (EW) is a global nonprofit organization accelerating a low-carbon, customer-centric electricity system.  EW focuses on building core infrastructure and shared technology. After launching their enterprise blockchain platform tailored to the energy sector in 2019, EW’s technology roadmap has since grown into the Energy Web Decentralized Operating System (EW-DOS), a full stack that includes front-end applications and a variety of software development toolkits. "
     },
     {
       "title": "Positive Energy",
