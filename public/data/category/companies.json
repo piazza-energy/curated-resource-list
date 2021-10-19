@@ -22,6 +22,13 @@
       "description": "Diode specialises in building electric vehicle implementation plans, matching them to the right infrastructure and securing the best deal."
     },
     {
+      "title": "Enpal",
+      "date_modified": "2021-10-17",
+      "url": "https://www.enpal.de/",
+      "tags": ["fintech", "pv"],
+      "description": "Enpal a solar startup out of Berlin, Germany that uses AI for provisioning and installing services, and then a subscription-style model for homeowners to pay for it — has raised €150 million ($174 million) from SoftBank Vision Fund 2. From [TechCrunch](https://techcrunch.com/2021/10/17/enpal-closes-out-series-c-with-174m-from-softbank-for-tech-to-make-it-easier-for-homeowners-to-make-the-switch-to-solar-energy/)"
+    },
+    {
       "title": "Sunlight Financial",
       "date_modified": "2021-02-27",
       "url": "https://sunlightfinancial.com/",
@@ -29,11 +36,11 @@
       "description": "Sunlight Financial partners with Solar companies and Home Improvement contractors to secure financing for solar systems and home improvement projects. Raised $1.3bn via SPAC + PIPE deal in Feb 21, via [Techcrunch](https://techcrunch.com/2021/01/25/chamath-palihapitiyas-spac-for-sunlight-financial-is-another-sign-of-a-renewables-boom/)"
     },
     {
-      "title": "Loanpal",
+      "title": "Goodleap",
       "date_modified": "2021-02-27",
-      "url": "https://loanpal.com/",
+      "url": "https://goodleap.com/",
       "tags": ["fintech"],
-      "description": "partnership with sustainable home improvement professionals across the country to make sustainable home upgrades simple. Raised $800M in cash in Feb 21 to fund projects, from [Techcrunch](https://techcrunch.com/2021/01/27/renewable-investment-wave-continues-as-solar-lending-company-loanpal-raises-800-million/)"
+      "description": "Goodleap, formerly [Loanpal](https://loanpal.com/) partnership with sustainable home improvement professionals across the country to make sustainable home upgrades simple. Raised $800M in cash in Feb 21 to fund projects, from [Techcrunch](https://techcrunch.com/2021/01/27/renewable-investment-wave-continues-as-solar-lending-company-loanpal-raises-800-million/)"
     },
     {
       "title": "Virmati Energy",
