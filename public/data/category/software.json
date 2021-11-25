@@ -15,11 +15,18 @@
       "description": "Advanced Infrastructure's mission is to create a greener and fairer Energy System by making big data, transparency, and traceability accessible to all users of the energy system."
     },
     {
-      "title": "",
+      "title": "R8 Technologies - Digital Operator",
       "date_modified": "2021-10-17",
-      "url": "",
+      "url": "https://r8tech.io/",
       "tags": ["efficiency", "real-estate"],
       "description": "Based in Estonia, R8 Digital Operator is solving mathematically the problem of regulating the BMS and HVAC controllable parameters by including building dynamical modelling, real-time user interaction and predictions of weather and electricity prices to heat, ventilate and cool at the right time and the right amount."
+    },
+    {
+      "title": "Qenergy",
+      "date_modified": "2021-11-27",
+      "url": "https://www.qenergy.ai/",
+      "tags": ["efficiency", "real-estate"],
+      "description": "Q Energy solution maximises the value of converting a building into a smart building solution, reducing energy costs by as much as 30 to 50 percent. Q Energy is currently positioned to focus on Behind-the-meter (BTM) solutions for commercial & industrial customers."
     },
     {
       "title": "Brainbox AI",
@@ -31,9 +38,16 @@
     {
       "title": "Twinview",
       "date_modified": "2021-06-17",
-      "url": "",
+      "url": "https://www.twinview.com/",
       "tags": ["efficiency", "platform", "simulation"],
       "description": "Twinview is a browser-based Digital Twin platform for the property sector connecting building systems’ data to a 3D model viewed on a single dashboard. Twinview is a part of [Space Group](https://spacegroup.co.uk/) - who specialise in the development of digital applications and services to improve the outcomes of the built environment. In [June 21](https://www.twinfm.com/article/great-portland-estates-integrates-digital-twin-technology-into-office-refurbishment) deployed to the Hickman building, whitechapel"
+    },
+    {
+      "title": "Aurora Solar",
+      "date_modified": "2021-11-27",
+      "url": "https://www.aurorasolar.com/",
+      "tags": ["platform", "pv-sw"],
+      "description": "One platform for any solar project. Create a complete engineering design and sales proposal with just an address and an electric bill. Raised 250M in a round C in May 2021, from [TechCrunch](https://techcrunch.com/2021/05/24/aurora-solar-aims-to-power-the-growing-solar-industry-with-a-250m-round-c/) following a [Round A](https://techcrunch.com/2019/02/04/aurora-solars-computer-generated-installation-maps-pull-in-a-20m-series-a/) and B in the previous 2 years"
     },
     {
       "title": "QOS energy",
@@ -167,6 +181,13 @@
       "url": "https://twaice.com/",
       "tags": ["platform", "storage", "analytics"],
       "description": "Our predictive analytics increase the lifetime, efficiency ​and sustainability of batteries. raised 26M in May 2021, [in the news](https://techcrunch.com/2021/05/19/twaice-raised-26m-to-scale-its-battery-analytics-software/)​"
+    },
+    {
+      "title": "Enegen",
+      "date_modified": "2021-11-24",
+      "url": "",
+      "tags": ["derms", "storage", "balancing", "flexibility", "ppa"],
+      "description": "Enegen Power Systems (formally Dunstan Thomas Energy division) is a leading U.K. based provider of scheduling, wholesale and Balancing Mechanism dispatch and commercial optimisation software"
     },
     {
       "title": "Levelise",
@@ -550,7 +571,7 @@
       "title": "Sympower",
       "date_modified": "2021-04-12",
       "url": "https://sympower.net/",
-      "tags": ["flexibility", "solar", "derms"],
+      "tags": ["flexibility", "pv", "derms"],
       "description": "We help you unlock the value of your flexibility. We do this with electric assets across industries. In March 21 they've raised 5.2M in series B, from [Tech.eu](https://tech.eu/brief/amsterdam-based-sympower-powers-up-with-e5-2-million-investment-in-series-b-round/)"
     },
     {
