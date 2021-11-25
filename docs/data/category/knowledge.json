@@ -1,6 +1,48 @@
 {
   "data": [
     {
+      "title": "Storage outlook",
+      "date_modified": "2021-11-25",
+      "url": "https://about.bnef.com/blog/global-energy-storage-market-set-to-hit-one-terawatt-hour-by-2030/",
+      "tags": ["storage", "storage-biz"],
+      "description": "Global Energy Storage Market Set to Hit One Terawatt-Hour by 2030, from BNEF, also reported by [Edie](https://www.edie.net/news/8/BNEF--Global-battery-storage-capacity-to-grow-20-times-over-by-2030/). Also, from [energy storage news](https://www.energy-storage.news/cop26-the-energy-transition-is-here-to-stay-and-battery-storage-is-essential-to-it/): COP26 The energy transition is here to stay and battery storage is essential to it"
+    },
+    {
+      "title": "New 5-year SolarPower Europe Market Outlook",
+      "date_modified": "2021-11-25",
+      "url": "https://www.solarpowereurope.org/europes-residential-battery-storage-fleet-to-grow-over-400-by-2025/",
+      "tags": ["regulations", "real-estate", "paper"],
+      "description": "The forecast for household solar continues to look bright for coming years, with European solar & storage set to grow over 400%, from 3 GWh installed storage capacity in 2020 to 12.8 GWh in 2025. SolarPower Europe has published its annual ‘European Market Outlook for Residential Battery Storage’ report, covering 2021-2025. "
+    },
+    {
+      "title": "Greening Finance: A Roadmap to Sustainable Investing",
+      "date_modified": "2021-11-25",
+      "url": "https://www.gov.uk/government/publications/greening-finance-a-roadmap-to-sustainable-investing",
+      "tags": ["regulations", "funding", "paper"],
+      "description": "This document sets out the government’s ambition to make the UK the best place in the world for green and sustainable investment."
+    },
+    {
+      "title": "Heat and buildings strategy",
+      "date_modified": "2021-11-25",
+      "url": "https://www.gov.uk/government/publications/heat-and-buildings-strategy",
+      "tags": ["regulations", "real-estate", "paper"],
+      "description": "This strategy sets out how the UK will decarbonise our homes, and our commercial, industrial and public sector buildings, as part of setting a path to net zero by 2050."
+    },
+    {
+      "title": "Future homes standard",
+      "date_modified": "2021-11-25",
+      "url": "https://www.gov.uk/government/consultations/the-future-homes-standard-changes-to-part-l-and-part-f-of-the-building-regulations-for-new-dwellings",
+      "tags": ["knowledge", "regulations", "real-estate", "paper"],
+      "description": "UK govt ambitious uplift in the energy efficiency of new homes. [In Nov 2021](https://www.edie.net/news/11/Boris-Johnson-confirms-mandatory-EV-charging-points-for-new-buildings-in-England/) PM Johnson delivered a speech to the Confederation of British Industry (CBI) announcing mandatory EV charging points for new buildings in England "
+    },
+    {
+      "title": "storage-friendly changes to commercial, industrial and utility-scale clean energy policies",
+      "date_modified": "2021-11-05",
+      "url": "https://www.energy-storage.news/uk-government-makes-energy-storage-friendly-changes-to-commercial-industrial-and-utility-scale-clean-energy-policies/",
+      "tags": ["knowledge", "regulations"],
+      "description": "The UK will exempt solar PV, energy storage and other clean energy technologies from business rate rises — the charges levied on non-domestic properties to pay for local services — from April 2023. [Business Rates Review Report](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1028478/BRR_final.pdf), October 2021"
+    },
+    {
       "title": "ESO, DNOs and local councils news from the UK",
       "date_modified": "2021-09-16",
       "url": "https://www.edie.net/news/11/National-Grid-could-lose-electricity-system-operator-role-under-new-BEIS-and-Ofgem-plans/",
@@ -48,6 +90,13 @@
       "url": "https://www.digitaltwinconsortium.org/index.htm",
       "tags": ["simulation", "consortium"],
       "description": "The Digital Twin Consortium coalesces industry, government and academia to drive consistency in vocabulary, architecture, security and interoperability of digital twin technology."
+    },
+    {
+      "title": "Digital Twin Hub",
+      "date_modified": "2021-11-27",
+      "url": "https://digitaltwinhub.co.uk/",
+      "tags": ["consortium", "simulation"],
+      "description": "The vision of the National Digital Twin programme is 'To progress our society, economy and environment through collective innovation.' The DT Hub will connect you with other experts and innovators and provide the opportunity to help shape the future of the built environment in the UK."
     },
     {
       "title": "A clean COVID-19 pandemic recovery: the global opportunity",
@@ -908,28 +957,28 @@
       "title": "Desert sun in Qatar too hot for solar panels to work",
       "date_modified": "2020-05-11",
       "url": "https://www.thetimes.co.uk/article/desert-sun-in-qatar-too-hot-for-solar-panels-to-work-h23kmktbp",
-      "tags": ["solar"],
+      "tags": ["pv"],
       "description": "Posts on solar panel efficency. [How Hot Do Solar Panels Get? Effect of Temperature on PV Panel Efficiency](https://greentumble.com/effect-of-temperature-on-solar-panel-efficiency/)"
     },
     {
       "title": "good post on medium",
       "date_modified": "2020-05-11",
       "url": "https://medium.com/the-mission/what-size-of-a-solar-system-do-you-need-and-how-to-pay-or-it-e59b70917502",
-      "tags": ["solar"],
+      "tags": ["pv"],
       "description": " a good post on medium detailing solar efficiency and costs"
     },
     {
       "title": "NREL PVWatts calculator",
       "date_modified": "2020-05-11",
       "url": "https://pvwatts.nrel.gov/pvwatts.php",
-      "tags": ["solar"],
+      "tags": ["pv"],
       "description": "NREL PVWatts calculator with publications on model. Estimates the energy production and cost of energy of grid-connected photovoltaic (PV) energy systems throughout the world. It allows homeowners, small building owners, installers and manufacturers to easily develop estimates of the performance of potential PV installations."
     },
     {
       "title": "How to get solar radiation data",
       "date_modified": "2020-12-08",
       "url": "https://photovoltaic-software.com/principle-ressources/how-get-solar-radiation-data-world-free",
-      "tags": ["solar", "dataset"],
+      "tags": ["pv", "dataset"],
       "description": "How to get solar radiation and climate data (precipitaton, temperature, wind, insolation...) anywhere in the world free from NASA database"
     }
   ]
