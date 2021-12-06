@@ -50,11 +50,11 @@
       "description": "Goodleap, formerly [Loanpal](https://loanpal.com/) partnership with sustainable home improvement professionals across the country to make sustainable home upgrades simple. Raised $800M in cash in Feb 21 to fund projects, from [Techcrunch](https://techcrunch.com/2021/01/27/renewable-investment-wave-continues-as-solar-lending-company-loanpal-raises-800-million/)"
     },
     {
-      "title": "Virmati Energy",
+      "title": "Field energy formerly Virmati Energy",
       "date_modified": "2021-02-27",
-      "url": "https://www.virmati.energy/",
+      "url": "https://www.field.energy/",
       "tags": ["storage", "derms"],
-      "description": "Virmati Energy was founded by Amit Gudka, one of the co-founder of Bulb. Virmati Energy whants to show that batteries are a totally viable part of our energy infrastructure with a portfolio of batteries in the UK. In the news Feb 21 from [BusinessGreen](https://www.businessgreen.com/news/4027455/bulb-founder-steps-focus-battery-storage-venture)"
+      "description": "Virmati Energy was founded by Amit Gudka, one of the co-founder of Bulb. Virmati Energy wants to show that batteries are a totally viable part of our energy infrastructure with a portfolio of batteries in the UK. In the news Feb 21 from [BusinessGreen](https://www.businessgreen.com/news/4027455/bulb-founder-steps-focus-battery-storage-venture) and on [Sifted in Nov 21](https://sifted.eu/articles/bulb-collapse-shareholder-losses-investors/) after Bulb's collapse"
     },
     {
       "title": "Pearl Street Technologies",
@@ -389,8 +389,8 @@
       "title": "Habitat Energy",
       "date_modified": "2020-06-22",
       "url": "https://www.habitat.energy/",
-      "tags": ["market"],
-      "description": "Habitat Energy provide optimisation and trading services to owners of battery storage and other flexible energy assets. We focus primarily on grid-scale assets, transmission or distribution connected, typically 10 megawatts and above that are pursuing a merchant business model, buying and selling power in the Day Ahead, Intraday and Balancing markets."
+      "tags": ["market", "storage-biz"],
+      "description": "Habitat Energy provide optimisation and trading services to owners of battery storage and other flexible energy assets. We focus primarily on grid-scale assets, transmission or distribution connected, typically 10 megawatts and above that are pursuing a merchant business model, buying and selling power in the Day Ahead, Intraday and Balancing markets. Acquired by PE Quinbrook [Nov 2021](https://www.privateequitywire.co.uk/2021/11/30/309831/quinbrook-acquires-habitat-energy)"
     },
     {
       "title": "Smart Buildings Alliance",
@@ -533,25 +533,42 @@
       "description": "Carbon Delta funded by climate-kic, companies carbon footprint monitoring / environmental fintech"
     },
     {
-      "title": "Energy way",
+      "title": "Ammagamma formerly Energy way",
       "date_modified": "2020-05-26",
-      "url": "https://www.energyway.it/energia-ambiente/",
-      "description": "Energy way is an Italy based consultancy, Rita Cucchiara is in the advisory board"
+      "url": "https://ammagamma.com/solutions/energy-sustainability-management/",
+      "description": "Ammagamma / Energy way is a consultancy based in Modena, Italy, Rita Cucchiara is in the advisory board"
+    },
+    {
+      "title": "Younity",
+      "tags": ["community"],
+      "date_modified": "2021-12-06",
+      "url": "https://www.younity.coop/",
+      "description": "Younity was born from a partnership between Co-op Energy and Octopus Energy and supports the country’s community energy projects in lots of different ways. Made the deal between Patagonia and Energy Garden"
     },
     {
       "title": "Brixton energy",
+      "tags": ["community"],
       "date_modified": "2020-05-26",
       "url": "https://brixtonenergy.co.uk/about-us/",
       "description": "Brixton energy a tiny cooperative installing renewables in south london, I'm sure there's plenty but hey, I'm a Londoner :joy:"
     },
     {
       "title": "CoEnergy",
+      "tags": ["community"],
       "date_modified": "2020-05-26",
       "url": "https://www.coenergy.app/",
       "description": "CoEnergy by Andre Pinho who's involved in Brixton energy as well, wants to simplify community energy schemas for both investment and management"
     },
     {
+      "title": "Energy Garden",
+      "tags": ["community"],
+      "date_modified": "2021-12-06",
+      "url": "https://www.energygarden.org.uk/",
+      "description": "Energy Garden supports communities to improve biodiversity and grow food around transport infrastructure. The energy activist group in Dec 2021 has signed a power purchase agreement (PPA) to light and heat Patagonia’s stores in Bristol and Manchester. source: [The Energyst](https://theenergyst.com/energy-garden-london-energise-premium-clothing-brand/)"
+    },
+    {
       "title": "Repowering London",
+      "tags": ["community"],
       "date_modified": "2020-05-26",
       "url": "https://www.repowering.org.uk/about-us/",
       "description": "Repowering London is a not-for-profit organisation that specialises in facilitating the co-production of community-owned renewable energy projects. Affiliated with CoEnergy."
@@ -1232,18 +1249,25 @@
       "description": "EDF DSR has a solution for demand side response"
     },
     {
+      "title": "PeakGen",
+      "date_modified": "2021-12-06",
+      "url": "https://peakgen.com/",
+      "tags": ["flexibility"],
+      "description": " With an asset portfolio of over 200MW of battery storage and cleaned-up diesel generators, PeakGen has the ability to provide rapid flexibility services to electricity network System Operators."
+    },
+    {
       "title": "Limejump",
       "date_modified": "2020-05-26",
       "url": "http://www.limejump.com/",
-      "tags": ["utility"],
+      "tags": ["utility", "flexibility"],
       "description": "Limejump - Assets managers / demand side response platform / battery and other devices"
     },
     {
       "title": "Flexitricity",
       "date_modified": "2020-05-26",
       "url": "https://www.flexitricity.com/",
-      "tags": ["utility"],
-      "description": "Flexitricity direct Limejump competitors, monetise energy flexibility. I.e. an energy company that enables the balancing mechanism (check [this link on elexon](https://www.elexon.co.uk/guidance-note/balancing-mechanism-bm-units/))"
+      "tags": ["utility", "flexibility"],
+      "description": "Flexitricity direct Limejump competitors, monetise energy flexibility. I.e. an energy company that enables the balancing mechanism (check [this link on elexon](https://www.elexon.co.uk/guidance-note/balancing-mechanism-bm-units/)). In [Sept 2020 acquired](https://www.energyvoice.com/renewables-energy-transition/265342/flexitricity-quinbrook-acquisition/) by Quinbrook"
     },
     {
       "title": "Ecotricity",
