@@ -176,6 +176,13 @@
       "description": "Service monitoring for connected devices: the process of collecting streams of data from individual devices, turning them into metrics, and from those deriving Key Performance Indicators for your device estate as a whole"
     },
     {
+      "title": "Breathe",
+      "date_modified": "2021-12-12",
+      "url": "https://www.breathe.technology/",
+      "tags": ["storage", "analytics"],
+      "description": "Breathe’s Lincc software is the first to bring advanced battery management techniques to electric vehicles and consumer electronics. A spin-out of Imperial that raised £1.5 million seed round led by Speedinvest in Oct 2021"
+    },
+    {
       "title": "Twaice",
       "date_modified": "2021-05-24",
       "url": "https://twaice.com/",
