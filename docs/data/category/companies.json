@@ -1,16 +1,23 @@
 {
   "data": [
     {
-      "title": "Zeigo",
-      "date_modified": "2021-06-16",
-      "url": "https://zeigo.com/",
-      "tags": ["compare", "vpp", "ppa"],
-      "description": "Zeigo has built an extensive network of renewable energy generators and suppliers. Find solutions for Corporate PPAs, Utility PPAs and Certificates. 100% traceable clean energy, always."
+      "title": "Logical Buildings",
+      "date_modified": "2021-12-24",
+      "url": "https://logicalbuildings.com/about-us/",
+      "tags": ["platform", "derms", "vpp", "esg", "real-estate"],
+      "description": "Logical Buildings is a smart building software and solutions company for Multifamily and Commercial real estate managers to reduce energy and operating costs, achieve sustainability goals and improve tenant comfort. Raised $10M [in Dec 2021](https://www.businesswire.com/news/home/20211209005298/en/) to expand their VPP software"
+    },
+    {
+      "title": "Recurve",
+      "date_modified": "2021-12-24",
+      "url": "https://www.recurve.com/",
+      "tags": ["platform", "derms"],
+      "description": "Recurve connects the dots between efficiency, electrification, renewable energy, and DERs to enable demand flexibility to become a market-based procurable resource. In Nexuslabs podcast"
     },
     {
       "title": "Cervest",
       "date_modified": "2021-05-24",
-      "url": "",
+      "url": "https://cervest.earth/",
       "tags": ["platform", "weather", "risk"],
       "description": "Cervest offers cloud-based Climate Intelligence (CI) to empower enterprises, governments and financial services companies to manage and adapt to climate risk at an asset-level. Received 24M in funding in May 2021, [in the news](https://www.eu-startups.com/2021/05/cervest-secures-e24-6-million-to-launch-new-ai-powered-climate-intelligence-platform/)"
     },
@@ -54,7 +61,7 @@
       "date_modified": "2021-02-27",
       "url": "https://www.field.energy/",
       "tags": ["storage", "derms"],
-      "description": "Virmati Energy was founded by Amit Gudka, one of the co-founder of Bulb. Virmati Energy wants to show that batteries are a totally viable part of our energy infrastructure with a portfolio of batteries in the UK. In the news Feb 21 from [BusinessGreen](https://www.businessgreen.com/news/4027455/bulb-founder-steps-focus-battery-storage-venture) and on [Sifted in Nov 21](https://sifted.eu/articles/bulb-collapse-shareholder-losses-investors/) after Bulb's collapse"
+      "description": "Virmati Energy was founded by Amit Gudka, one of the co-founder of Bulb. Virmati Energy wants to show that batteries are a totally viable part of our energy infrastructure with a portfolio of batteries in the UK. In the news Feb 21 from [BusinessGreen](https://www.businessgreen.com/news/4027455/bulb-founder-steps-focus-battery-storage-venture) and on [Sifted in Nov 21](https://sifted.eu/articles/bulb-collapse-shareholder-losses-investors/) after Bulb's collapse. Raised [10M in Aug 2021](https://www.solarpowerportal.co.uk/news/field_unveils_160mw_storage_pipeline_following_10m_fundraise) to deploy 160MW of grid-scale storage"
     },
     {
       "title": "Pearl Street Technologies",
@@ -172,7 +179,7 @@
       "title": "UK Green Building Council",
       "date_modified": "2021-04-04",
       "url": "https://www.ukgbc.org/",
-      "tags": ["nonprofit"],
+      "tags": ["nonprofit", "real-estate"],
       "description": "UKGBC is uniting the UK building industry using sustainability as a catalyst to positively transform the places people use every day. In March 21 [UKGBC has published](https://www.ukgbc.org/ukgbc-work/renewable-energy-procurement-carbon-offsetting-guidance-for-net-zero-carbon-buildings/) the Renewable Energy Procurement and Carbon Offsetting Guidance for Net Zero Carbon Buildings"
     },
     {
@@ -826,7 +833,7 @@
       "date_modified": "2021-04-26",
       "url": "https://openclimatefix.org/",
       "tags": ["nonprofit"],
-      "description": "Open Climate Fix is a non-profit product lab, totally focused on reducing greenhouse gas emissions as rapidly as possible. Received [funding](https://openclimatefix.org/blog/2021-04-13-googleorg-support) from [Google Impact Challenge](https://impactchallenge.withgoogle.com/climate2020)"
+      "description": "Open Climate Fix is a non-profit product lab, totally focused on reducing greenhouse gas emissions as rapidly as possible. Received [funding](https://openclimatefix.org/blog/2021-04-13-googleorg-support) from [Google Impact Challenge](https://impactchallenge.withgoogle.com/climate2020). Jack Kelly, Dan Travers"
     },
     {
       "title": "Green Finance Index",

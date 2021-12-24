@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "title": "eemeter",
+      "date_modified": "2021-12-24",
+      "url": "http://eemeter.openee.io/",
+      "tags": ["platform"],
+      "description": "EEmeter — an open source toolkit for implementing and developing standard methods for calculating normalized metered energy consumption (NMEC) and avoided energy use. Developed by [Recurve](https://www.recurve.com/open-source)"
+    },
+    {
       "title": "Climate View",
       "date_modified": "2021-10-16",
       "url": "https://www.climateview.global/",
@@ -34,6 +41,13 @@
       "url": "https://www.brainboxai.com/",
       "tags": ["efficiency", "real-estate"],
       "description": "Located in Montreal, Canada our team is comprised of experts in the fields of AI, data science, real estate, HVAC and energy efficiency. We are driven by the fact that 20% of global greenhouse gas emissions originate from buildings and that HVAC systems are responsible for over 50% of those emissions. "
+    },
+    {
+      "title": "Autodesk green building studio",
+      "date_modified": "2021-12-24",
+      "url": "https://gbs.autodesk.com/GBS/",
+      "tags": ["efficiency", "platform", "simulation", "real-estate"],
+      "description": "Green Building Studio is a flexible cloud-based service that allows you to run building performance simulations to optimize energy efficiency and to work toward carbon neutrality earlier in the design process."
     },
     {
       "title": "Twinview",
@@ -125,6 +139,13 @@
       "url": "https://www.beebryte.com/about-us/",
       "tags": ["platform", "iot", "real-estate"],
       "description": "software-as-a-service minimizing utility bills with automatic control of heating-cooling equipment (e.g. HVAC), pumps, EV charging points and/or batteries. Based in Lyon and Singapore."
+    },
+    {
+      "title": "Electric Miles",
+      "date_modified": "2021-12-14",
+      "url": "https://www.electricmiles.io/",
+      "tags": ["platform", "ev", "flexibility"],
+      "description": "Electric Miles connects EV charging with batteries to provide smart tariffs and grid flexibility. Has partnered with [Project EV](https://www.projectev.co.uk/) to implement a network of chargers, in the News [Dec 2021](https://www.energylivenews.com/2021/12/10/new-partnership-eyes-100k-ev-smart-charge-points/)"
     },
     {
       "title": "Bonnet electric",
@@ -393,17 +414,10 @@
       "description": "CO2 Analytics integrates with Xero to provide carbon footprint Measurement & Management Platform for Small and Midsize Businesses"
     },
     {
-      "title": "Openclimatefix",
-      "date_modified": "2020-05-26",
-      "url": "https://openclimatefix.github.io/",
-      "tags": ["platform"],
-      "description": "Openclimatefix is a non-profit research and development lab, totally focused on reducing greenhouse gas emissions as rapidly as possible."
-    },
-    {
       "title": "NILMTK",
       "date_modified": "2020-05-26",
       "url": "https://github.com/nilmtk/nilmtk",
-      "tags": ["platform"],
+      "tags": ["platform", "monitor"],
       "description": "NILMTK Non-Intrusive Load Monitoring (NILM) is the process of estimating the energy consumed by individual appliances given just a whole-house power meter reading. Initially developed by Jack Kelly, co-founder of Openclimatefix"
     },
     {
@@ -494,8 +508,8 @@
       "title": "Zeigo",
       "date_modified": "2020-05-26",
       "url": "https://zeigo.energy/about-us",
-      "tags": ["platform"],
-      "description": "Zeigo is a technology platform supporting both supply and demand of renewable energy. Winner of BusinessGreen for [Renewable Energy Technology](https://www.businessgreen.com/bg/news/3084522/businessgreen-technology-awards-all-the-winners) of the year 2019"
+      "tags": ["platform", "compare", "vpp", "ppa"],
+      "description": "Zeigo is a technology platform supporting both supply and demand of renewable energy. Winner of BusinessGreen for [Renewable Energy Technology](https://www.businessgreen.com/bg/news/3084522/businessgreen-technology-awards-all-the-winners) of the year 2019. Zeigo has built an extensive network of renewable energy generators and suppliers. Find solutions for Corporate PPAs, Utility PPAs and Certificates. Partnered with co-op power [in Dec 21](https://theenergyst.com/co-op-aiming-to-tackle-scope-3-emissions-with-aggregated-ppa/)"
     },
     {
       "title": "Watershed",
