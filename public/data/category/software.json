@@ -1,11 +1,25 @@
 {
   "data": [
     {
+      "title": "Energy Star portfolio manager",
+      "date_modified": "2022-02-02",
+      "url": "https://www.energystar.gov/buildings/benchmark",
+      "tags": ["platform", "efficiency", "certification"],
+      "description": "Portfolio Manager is an interactive resource management tool that enables you to benchmark the energy use of any type of building, all in a secure online environment."
+    },
+    {
+      "title": "eensight",
+      "date_modified": "2022-02-02",
+      "url": "https://github.com/hebes-io/eensight",
+      "tags": ["platform", "m_and_v", "efficiency"],
+      "description": "The goal of the eensight tool is to contribute to the advancement of the automated measurement and verification (M&V) methods for energy efficiency. The eensight Python package accompanies the deliverable `D7.1 Methods for the dynamic measurement and verification of energy savings` of the H2020 project [SENSEI](https://senseih2020.eu/) Smart Energy Services to Improve the Energy Efficiency of the European Building Stock. "
+    },
+    {
       "title": "eemeter",
       "date_modified": "2021-12-24",
       "url": "http://eemeter.openee.io/",
-      "tags": ["platform"],
-      "description": "EEmeter — an open source toolkit for implementing and developing standard methods for calculating normalized metered energy consumption (NMEC) and avoided energy use. Developed by [Recurve](https://www.recurve.com/open-source)"
+      "tags": ["platform", "m_and_v", "efficiency"],
+      "description": "EEmeter — an open source toolkit for implementing and developing standard methods for calculating normalized metered energy consumption (NMEC) and avoided energy use. Developed by [Recurve](https://www.recurve.com/open-source), on [Github](https://github.com/openeemeter/eemeter)"
     },
     {
       "title": "Climate View",
@@ -74,7 +88,7 @@
       "title": "OakTree power",
       "date_modified": "2021-06-17",
       "url": "https://www.oaktreepower.com/",
-      "tags": ["flexibility"],
+      "tags": ["flexibility", "real-estate", "derms"],
       "description": "Offering Flexibility services for buildings to generate revenue streams. Based in London"
     },
     {
@@ -186,7 +200,7 @@
       "title": "StorageVET and DER-VET",
       "date_modified": "2020-06-22",
       "url": "https://storagevet.com/",
-      "tags": ["derms", "platform"],
+      "tags": ["derms", "platform", "planning"],
       "description": "The Electric Power Research Institute [EPRI](https://www.epri.com/about) conducts research, development, and demonstration projects for the benefit of the public in the United States and internationally. StorageVET 2.1 facilitates the understanding of where to place and install energy storage, the optimum size as well as controls options. [DER-VET™](https://www.der-vet.com/) is a publicly available, open-source, optimization-based energy valuation and planning tool for distributed energy resources (DER) and larger, centralized energy resources"
     },
     {
@@ -213,7 +227,7 @@
     {
       "title": "Enegen",
       "date_modified": "2021-11-24",
-      "url": "",
+      "url": "https://enegen.co.uk/",
       "tags": ["derms", "storage", "balancing", "flexibility", "ppa"],
       "description": "Enegen Power Systems (formally Dunstan Thomas Energy division) is a leading U.K. based provider of scheduling, wholesale and Balancing Mechanism dispatch and commercial optimisation software"
     },
@@ -227,7 +241,7 @@
     {
       "title": "Arenko",
       "date_modified": "2021-02-24",
-      "url": "",
+      "url": "https://arenko.group/",
       "tags": ["derms", "platform", "flexibility", "storage"],
       "description": "Optimisation of technical and commercial performance of flexible assets in real time. Arenko underwent a significant transformation in July 2020, selling its only battery storage asset and transitioning into the software sector entirely. from [Current News](https://www.current-news.co.uk/blogs/a-pure-play-software-company-arenkos-rupert-newland-on-flexibility-and-the-new-battery-markets)"
     },
@@ -688,10 +702,10 @@
     },
     {
       "title": "Grid edge",
-      "date_modified": "2020-05-26",
+      "date_modified": "2022-01-21",
       "url": "https://gridedge.ai/",
-      "tags": ["efficiency", "analytics", "real-estate"],
-      "description": "Grid edge is an energy analytics platform for commercial buildings. They want to change the way that people use energy by putting data-driven, intelligent control into the hands of commercial energy consumers. Has [raised 2.5M in Oct 19](https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-expands-its-digital-energy-portfolio-by-investing-in-energy-management-platform-grid-edge.html) from BP Ventures"
+      "tags": ["efficiency", "analytics", "simulation", "real-estate", "iot", "platform"],
+      "description": "UK based Grid Edge transforms existing building into digital twin and data-driven insights help reduce energy demand with efficiency savings and improved operations and control. They want to change the way that people use energy by putting data-driven, intelligent control into the hands of commercial energy consumers. Has [raised 2.5M in Oct 19](https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-expands-its-digital-energy-portfolio-by-investing-in-energy-management-platform-grid-edge.html) from BP Ventures"
     },
     {
       "title": "IES - Intelligent Communities Lifecycle (ICL)",
@@ -704,7 +718,7 @@
       "title": "EC3",
       "date_modified": "2020-05-26",
       "url": "https://buildingtransparency.org/",
-      "tags": ["efficiency"],
+      "tags": ["efficiency", "planning"],
       "description": "EC3 is a free, industry-supported, construction-specific material search and planning tool that helps construction professionals quantify EC, find high-impact reductions, and guide procurement to reduce embodied carbon."
     },
     {
@@ -718,7 +732,7 @@
       "title": "RETScreen",
       "date_modified": "2021-07-22",
       "url": "https://www.nrcan.gc.ca/maps-tools-and-publications/tools/modelling-tools/retscreen/7465",
-      "tags": ["efficiency", "model"],
+      "tags": ["efficiency", "model", "derms", "planning"],
       "description": "Implemented by the Canadian government, RETScreen® Clean Energy Management Software platform enables low-carbon planning, implementation, monitoring and reporting."
     },
     {
@@ -746,7 +760,7 @@
       "title": "Sighten",
       "date_modified": "2020-05-26",
       "url": "http://www.sighten.io/",
-      "tags": ["pv-sw", "project-mgmt"],
+      "tags": ["pv-sw", "project-mgmt", "planning"],
       "description": "Sighten Platform for solar workflow management, from planning, financing, installation, monitoring, support"
     },
     {
