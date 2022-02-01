@@ -99,6 +99,13 @@
       "description": "The BMZ Group is a leader in the entire product life cycle of cross-industry lithium-ion battery systems."
     },
     {
+      "title": "Faradion",
+      "date_modified": "2022-01-08",
+      "url": "https://faradion.co.uk/",
+      "tags": ["storage"],
+      "description": "UK based Faradion was founded in 2011 to develop sodium-ion technology and to bring it to market. Ambani's [RIL](https://www.ril.com/) has bought it for £100M in Dec 2021, [in the news](https://timesofindia.indiatimes.com/business/india-business/ril-buys-uk-hi-tech-battery-co-faradion-for-its-10-billion-new-energy-empire/articleshow/88615682.cms)"
+    },
+    {
       "title": "TESVolt",
       "date_modified": "2021-03-24",
       "url": "https://www.tesvolt.com/en/",
@@ -376,7 +383,7 @@
       "date_modified": "2020-05-26",
       "url": "https://www.voltaware.com/how-it-works",
       "tags": ["monitor"],
-      "description": "voltaware  Energy monitor, very rudimental website, not clear if they have a device"
+      "description": "Energy monitor with sensors"
     },
     {
       "title": "Veris",

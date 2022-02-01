@@ -11,7 +11,7 @@
       "title": "CalTrack",
       "date_modified": "2021-12-24",
       "url": "https://www.caltrack.org/",
-      "tags": ["format"],
+      "tags": ["format", "m_and_v"],
       "description": "CalTRACK specifies a set of empirically tested methods to standardize the way normalized meter-based changes in energy consumption are measured and reported. When CalTRACK is implemented through open source software, these methods can be used to support procurement of energy efficiency, electrification, and other distributed energy resources. Check [eemeter](http://eemeter.openee.io/)"
     },
     {

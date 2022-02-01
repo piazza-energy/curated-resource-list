@@ -1,6 +1,20 @@
 {
   "data": [
     {
+      "title": "Audette",
+      "date_modified": "2022-02-02",
+      "url": "https://audette.io/",
+      "tags": ["planning", "real-estate", "efficiency"],
+      "description": "A platform that creates a path forward to tackle the logistics, politics and financial barriers around decarbonization in the real estate industry, based in Vancouver"
+    },
+    {
+      "title": "Allumia",
+      "date_modified": "2022-02-02",
+      "url": "https://www.allumia.com/",
+      "tags": ["planning", "efficiency", "project-mgmt", "real-estate"],
+      "description": "Energy efficiency as a service: streamlines project, process automation, recommendation system, access to financing, metering and benchmarking. Based in Seattle"
+    },
+    {
       "title": "Logical Buildings",
       "date_modified": "2021-12-24",
       "url": "https://logicalbuildings.com/about-us/",
@@ -12,7 +26,7 @@
       "date_modified": "2021-12-24",
       "url": "https://www.recurve.com/",
       "tags": ["platform", "derms"],
-      "description": "Recurve connects the dots between efficiency, electrification, renewable energy, and DERs to enable demand flexibility to become a market-based procurable resource. In Nexuslabs podcast"
+      "description": "Recurve connects the dots between efficiency, electrification, renewable energy, and DERs to enable demand flexibility to become a market-based procurable resource. In Nexuslabs podcast, developed the opensource [eemeter](http://eemeter.openee.io/) measuring and validation tool"
     },
     {
       "title": "Cervest",
@@ -27,6 +41,13 @@
       "url": "https://www.diode.energy/",
       "tags": ["ev"],
       "description": "Diode specialises in building electric vehicle implementation plans, matching them to the right infrastructure and securing the best deal."
+    },
+    {
+      "title": "Silicon Ranch",
+      "date_modified": "2022-01-17",
+      "url": "https://www.siliconranch.com/",
+      "tags": ["ppa", "pv"],
+      "description": "Based in Nashville, Tennessee, Silicon Ranch is the U.S. solar platform for Shell and one of the largest independent solar power producers in the country. In Jan 2022 raised $775M in equity funding. [In the news](https://www.finsmes.com/2022/01/silicon-ranch-raises-775m-in-equity-funding.html)"
     },
     {
       "title": "Sunrun",
@@ -67,7 +88,7 @@
       "title": "Pearl Street Technologies",
       "date_modified": "2021-02-15",
       "url": "https://www.pearlstreettechnologies.com/",
-      "tags": ["derms"],
+      "tags": ["derms", "planning"],
       "description": "Suite of Unified Grid Analyses with Renewables (SUGAR) is a simulation, optimization, and design platform for power grid planning, with applications for grid operators, utilities, project developers, and consultants. Backed by Powerhouse Ventures"
     },
     {
@@ -153,6 +174,13 @@
       "url": "http://greenenco.co.uk/about/",
       "tags": ["consultancy", "microgrid", "generation", "advisor"],
       "description": "We are providing engineering & technical services and asset performance management to the solar PV stakeholders, from concept planning through to completion."
+    },
+    {
+      "title": "Inspired Efficiency",
+      "date_modified": "2022-02-02",
+      "url": "https://www.inspiredefficiency.co.uk/",
+      "tags": ["consultancy", "microgrid", "generation", "ppa"],
+      "description": "IE has been founded by Matt Fulford, an experienced, senior advisor on energy, carbon and sustainability issues. He continues to serve the Diocese of Gloucester as their technical sustainability advisor on nearly 400 listed buildings."
     },
     {
       "title": "Roadnight Taylor",
@@ -248,7 +276,7 @@
     {
       "title": "Eel power",
       "date_modified": "2021-02-22",
-      "url": "",
+      "url": "https://eelpower.co.uk/",
       "tags": ["derms", "flexibility", "storage"],
       "description": "Eel power have background in solar PV, large scale hydropower and in commercial energy storage co-located at renewable generation sites in the UK. Partnered in Feb 2021 with EDF to optimise 80MW of storage, from [Current News](https://www.current-news.co.uk/news/eelpower-selects-edf-to-optimise-80mw-of-battery-storage)"
     },
@@ -340,7 +368,7 @@
       "title": "SENSEI",
       "date_modified": "2020-07-10",
       "url": "https://senseih2020.eu/",
-      "tags": ["consortium"],
+      "tags": ["consortium", "real-estate", "certification"],
       "description": "SENSEI combines pay-for-performance (P4P) arrangements with the Energy Performance Contracting (EPC) model and engages in negotiation games with preliminary stakeholders."
     },
     {
@@ -375,8 +403,8 @@
       "title": "Open Energi",
       "date_modified": "2020-06-23",
       "url": "https://www.openenergi.com/about/",
-      "tags": ["services"],
-      "description": "Open Energi automate and optimise a network of distributed energy resources to reduce energy costs and provide flexible capacity to enable a 100% renewable energy system."
+      "tags": ["services", "platform", "derms"],
+      "description": "Open Energi automate and optimise a network of distributed energy resources to reduce energy costs and provide flexible capacity to enable a 100% renewable energy system. They are in the [BP Launchpad portfolio](https://bplaunchpad.com/portfolio)"
     },
     {
       "title": "Everimpact",
@@ -405,6 +433,13 @@
       "url": "https://www.smartbuildingsalliance.org/en/association-en",
       "tags": ["consortium"],
       "description": "A unifying approach for the Smart Building in the Smart City: the aim of the SBA association (Smart Buildings Alliance for Smart Cities) is to organise the promotion of the Smart Buildings sector within Smart Cities bringing together a group of industry players."
+    },
+    {
+      "title": "Blueprint power",
+      "date_modified": "2022-01-21",
+      "url": "https://www.blueprintpower.com/",
+      "tags": ["vpp", "derms", "real-estate"],
+      "description": "Blueprint believes that buildings play a critical role in the global energy transition towards carbon-free power and want to transform buildings into flexible power networks that help secure access to reliable, clean energy for cities and communities. A [BP Launchpad](https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-grow-leading-us-technology-company-that-turns-commercial-buildings-into-virtual-power-plants.html) company"
     },
     {
       "title": "GridIO",
@@ -1174,8 +1209,8 @@
     {
       "title": "Energy Local CIC",
       "date_modified": "2021-04-22",
-      "url": "",
-      "tags": ["utility"],
+      "url": "https://energylocal.org.uk/about-us",
+      "tags": ["utility", "community"],
       "description": "An energy co-op of some sorts, Energy Local has designed a local market that enables households to club together to show when they are using local clean power when it is generated. Awarded phase 2 of UK gov [2020 SENS competition](https://www.gov.uk/government/publications/smart-energy-savings-sens-competition)"
     },
     {
