@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "title": "Kode labs",
+      "date_modified": "2022-02-02",
+      "url": "https://kodelabs.com/",
+      "tags": ["portfolio", "real-estate"],
+      "description": "Smart Building Software for portfolio management. On a mission to Build the most intuitive, easy to use real estate software products that enable sustainability, operational efficiencies and comfort."
+    },
+    {
       "title": "Audette",
       "date_modified": "2022-02-02",
       "url": "https://audette.io/",
@@ -11,8 +18,15 @@
       "title": "Allumia",
       "date_modified": "2022-02-02",
       "url": "https://www.allumia.com/",
-      "tags": ["planning", "efficiency", "project-mgmt", "real-estate"],
+      "tags": ["planning", "efficiency", "project-mgmt", "real-estate", "benchmark"],
       "description": "Energy efficiency as a service: streamlines project, process automation, recommendation system, access to financing, metering and benchmarking. Based in Seattle"
+    },
+    {
+      "title": "Calico",
+      "date_modified": "2022-02-02",
+      "url": "https://calicoenergy.com/",
+      "tags": ["efficiency", "real-estate", "benchmark", "portfolio"],
+      "description": "Calico’s Whole Building Benchmarking Application helps utilities respond to customer data requests in an easy-to-use building benchmarking software experience. Furthermore, it gives building owners and operators a way to manage multi-tenant buildings and energy usage data."
     },
     {
       "title": "Logical Buildings",
@@ -340,7 +354,7 @@
       "title": "Statkfraft",
       "date_modified": "2021-03-24",
       "url": "https://www.statkraft.com/about-statkraft/",
-      "tags": ["storage-biz"],
+      "tags": ["storage-biz", "pv", "vpp"],
       "description": "Statkraft develop and operate renewable energy assets within hydropower, wind, solar, gas and biomass, supply district heating and buy and sell energy. [In the news March 2021](https://www.current-news.co.uk/news/statkraft-to-optimise-100mw-of-gore-street-battery-storage-in-northern-ireland) for optimising 100MW of [Gore Street](https://www.gsenergystoragefund.com/) battery storage in Northern Ireland"
     },
     {
@@ -794,6 +808,13 @@
       "url": "https://normative.io/about-us/",
       "tags": ["footprint"],
       "description": "Normative want to accelerate the transition towards net zero emissions. We provide emission accounting based on science, empowering companies to reduce their carbon footprint."
+    },
+    {
+      "title": "Supercritical",
+      "date_modified": "2022-02--2",
+      "url": "https://gosupercritical.com/",
+      "tags": ["footprint", "offset"],
+      "description": "Supercritical's software enables you to measure, reduce, and offset your climate impact in weeks without the need for a sustainability team. We only sell high-quality carbon removal because it’s the only legitimate route to net zero."
     },
     {
       "title": "Plan A",

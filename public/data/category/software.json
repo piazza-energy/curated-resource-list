@@ -4,7 +4,7 @@
       "title": "Energy Star portfolio manager",
       "date_modified": "2022-02-02",
       "url": "https://www.energystar.gov/buildings/benchmark",
-      "tags": ["platform", "efficiency", "certification"],
+      "tags": ["platform", "efficiency", "certification", "benchmark"],
       "description": "Portfolio Manager is an interactive resource management tool that enables you to benchmark the energy use of any type of building, all in a secure online environment."
     },
     {
@@ -561,11 +561,18 @@
       "description": "Leap Off-peak energy trading platform, funded by national grid"
     },
     {
+      "title": "Nodes",
+      "date_modified": "2022-02-02",
+      "url": "https://nodesmarket.com/",
+      "tags": ["derms", "flexibility", "market"],
+      "description": "NODES is the independent marketplace for a sustainable energy future where grid owners, producers and consumers of energy can trade decentralised flexibility and energy. Similar to Piclo"
+    },
+    {
       "title": "Piclo",
       "date_modified": "2020-05-26",
       "url": "https://piclo.energy/",
       "tags": ["derms", "flexibility", "market"],
-      "description": "Piclo , Grid flexibility marketplace Platform"
+      "description": "Piclo, Grid flexibility marketplace Platform, similar to [Nodes](https://nodesmarket.com/)."
     },
     {
       "title": "Upside energy",
@@ -696,7 +703,7 @@
     {
       "title": "Nuuka",
       "date_modified": "2020-05-26",
-      "url": "https://www.nuukasolutions.com/product",
+      "url": "https://www.nuuka.com/",
       "tags": ["efficiency", "bms", "real-estate"],
       "description": "Nuuka is a Finnish software company that develops and provides Smart Building Management Software to commercial real estate owners."
     },
