@@ -659,11 +659,18 @@
       "description": "ikea "
     },
     {
+      "title": "solar edge",
+      "date_modified": "2022-02-02",
+      "url": "https://www.solaredge.com/",
+      "tags": ["pv"],
+      "description": "Established in 2006, listed on NASDAQ since 2015, SolarEdge developed the DC optimized inverter solution that changed the way power is harvested and managed in photovoltaic (PV) systems."
+    },
+    {
       "title": "solar century",
       "date_modified": "2020-05-26",
       "url": "https://www.solarcentury.com/",
       "tags": ["pv"],
-      "description": "solar century "
+      "description": "solar century has been acquired by [statkraft](https://www.statkraft.com/)"
     },
     {
       "title": "enphase",
