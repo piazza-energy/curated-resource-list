@@ -746,6 +746,7 @@
     {
       "title": "EnergySage",
       "date_modified": "2020-05-26",
+      "tags": ["pv", "marketplace"],
       "url": "https://www.energysage.com/about/who-we-are",
       "description": "EnergySage is on a mission to make going solar as easy as booking a flight online. Funded by Clean energy ventures (see business section)"
     },
@@ -1119,7 +1120,7 @@
       "title": "NCX",
       "date_modified": "2021-06-26",
       "url": "https://www.ncx.com/",
-      "tags": ["offset"],
+      "tags": ["offset", "marketplace"],
       "description": "NCX provides a marketplace for forest carbon payments. Our carbon credits represent real, immediate, and cost-efficient change on the landscape. "
     },
     {
