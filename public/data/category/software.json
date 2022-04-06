@@ -368,14 +368,21 @@
       "title": "Utility API",
       "date_modified": "2020-05-26",
       "url": "https://utilityapi.com/",
-      "tags": ["platform", "data"],
+      "tags": ["platform", "data", "consumption"],
       "description": "Utility API , Web api platform for energy consumption and bills"
+    },
+    {
+      "title": "Awesense",
+      "date_modified": "2022-03-26",
+      "url": "https://www.awesense.com/",
+      "tags": ["platform", "data"],
+      "description": "Access externally-built analytics, applications, queries, and notebooks. Sell and share your solutions on the Awesense marketplace and expand revenue streams. Based mainly in Vancouver"
     },
     {
       "title": "Reactive technologies",
       "date_modified": "2020-05-26",
       "url": "https://www.reactive-technologies.com/",
-      "tags": ["platform"],
+      "tags": ["platform", "derms"],
       "description": "Not really sure what they do?  Reactive technologies grid analytics and cloud solutions maybe? Been [funded by Ingenious](http://www.theingeniousgroup.co.uk/news-views/ingenious-backs-smart-energy-future-with-investment-into-reactive-technologies/)"
     },
     {
@@ -561,17 +568,24 @@
       "description": "Leap Off-peak energy trading platform, funded by national grid"
     },
     {
+      "title": "WPD Intraflex",
+      "date_modified": "2022-02-20",
+      "url": "https://www.westernpower.co.uk/innovation/projects/intraflex",
+      "tags": ["derms", "flexibility", "marketplace"],
+      "description": "Western Power Distribution's IntraFlex lowers entry barriers to owners of assets such as EV chargers, permitting them to dip into Britain's expanding market for flex trading."
+    },
+    {
       "title": "Nodes",
       "date_modified": "2022-02-02",
       "url": "https://nodesmarket.com/",
-      "tags": ["derms", "flexibility", "market"],
+      "tags": ["derms", "flexibility", "marketplace"],
       "description": "NODES is the independent marketplace for a sustainable energy future where grid owners, producers and consumers of energy can trade decentralised flexibility and energy. Similar to Piclo"
     },
     {
       "title": "Piclo",
       "date_modified": "2020-05-26",
       "url": "https://piclo.energy/",
-      "tags": ["derms", "flexibility", "market"],
+      "tags": ["derms", "flexibility", "marketplace"],
       "description": "Piclo, Grid flexibility marketplace Platform, similar to [Nodes](https://nodesmarket.com/)."
     },
     {
@@ -725,7 +739,7 @@
       "title": "EC3",
       "date_modified": "2020-05-26",
       "url": "https://buildingtransparency.org/",
-      "tags": ["efficiency", "planning"],
+      "tags": ["efficiency", "planning", "real-estate"],
       "description": "EC3 is a free, industry-supported, construction-specific material search and planning tool that helps construction professionals quantify EC, find high-impact reductions, and guide procurement to reduce embodied carbon."
     },
     {

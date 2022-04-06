@@ -99,6 +99,13 @@
       "description": "The RIIO-ED2 price control sets the outputs that the 14 electricity Distribution Network Operators (DNOs) need to deliver for their consumers and the associated revenues they are allowed to collect for the five-year period from 1 April 2023 to 31 March 2028. On the back of it, UKPN [published their updated business plan](https://ed2.ukpowernetworks.co.uk/), [pdf here](https://d12szrpzyf0uik.cloudfront.net/app/uploads/2021/07/UKPN-RIIO-ED2-Plan_Customers-version_Proof-2.pdf)"
     },
     {
+      "title": "Open Energy",
+      "date_modified": "2022-02-26",
+      "url": "https://data.openenergy.org.uk/",
+      "tags": ["data", "dataset", "platform"],
+      "description": "The Open Energy programme makes it easy to search, access and securely share energy data. It covers both Open Data and commercial Shared Data where access requires control. Developed and operated by [Icebreaker one](https://energy.icebreakerone.org/)"
+    },
+    {
       "title": "OpenEI",
       "date_modified": "2021-07-12",
       "url": "https://openei.org/wiki/Information",
@@ -202,6 +209,13 @@
       "url": "https://www.climateemergency.uk/",
       "tags": ["knowledge", "dataset", "list", "council"],
       "description": "list of local authorities of all political persuasions that have declared climate & ecological emergencies and are creating action plans to deliver on their ambitions. Head to section [action plans](https://data.climateemergency.uk/) for the full dataset"
+    },
+    {
+      "title": "ESC Net Zero Go",
+      "date_modified": "2022-04-08",
+      "url": "https://netzerogo.force.com/",
+      "tags": ["knowledge", "council"],
+      "description": "Net Zero Go provides councils with a platform to help them put decarbonisation strategies in place and develop successful, locally-focused zero carbon projects. Created by Energy Systems Catapult in partnership with Salesforce, providers of Net Zero Cloud, and IBM"
     },
     {
       "title": "Public Sector Decarbonisation Scheme investment",
