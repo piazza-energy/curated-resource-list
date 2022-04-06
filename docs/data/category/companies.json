@@ -1,10 +1,24 @@
 {
   "data": [
     {
+      "title": "Verdigris",
+      "date_modified": "2022-02-08",
+      "url": "https://verdigris.co/",
+      "tags": ["portfolio", "real-estate", "iot"],
+      "description": "Verdigris helps building owners and managers save time and increase net operating income (NOI). Our AI learns your building’s energy patterns, and automatically adjusts HVAC controls throughout the day to save you 20-30% in energy costs."
+    },
+    {
+      "title": "Quintas Energy",
+      "date_modified": "2022-02-08",
+      "url": "https://www.quintasenergy.com/",
+      "tags": ["portfolio", "real-estate", "analytics", "esg", "planning"],
+      "description": "Seville based and international, quintas are a platform for the management and optimisation of renewable energy assets. Our goal is to help the world transition from traditional energy to renewables."
+    },
+    {
       "title": "Kode labs",
       "date_modified": "2022-02-02",
       "url": "https://kodelabs.com/",
-      "tags": ["portfolio", "real-estate"],
+      "tags": ["portfolio", "real-estate", "iot"],
       "description": "Smart Building Software for portfolio management. On a mission to Build the most intuitive, easy to use real estate software products that enable sustainability, operational efficiencies and comfort."
     },
     {
@@ -43,6 +57,13 @@
       "description": "Recurve connects the dots between efficiency, electrification, renewable energy, and DERs to enable demand flexibility to become a market-based procurable resource. In Nexuslabs podcast, developed the opensource [eemeter](http://eemeter.openee.io/) measuring and validation tool"
     },
     {
+      "title": "Manifest Climate",
+      "date_modified": "2022-04-06",
+      "url": "https://manifestclimate.com/",
+      "tags": ["platform", "risk"],
+      "description": "Manifest Climate, a Toronto, Canada-based climate intelligence SaaS+ aims at giving businesses the tools, data, and support needed to build climate confidence and TCFD (Task Force on Climate-Related Financial Disclosures) reporting. Raised 30M CAD in [April 2022](https://www.finsmes.com/2022/03/manifest-climate-raises-cad30m-in-series-a-funding.html)"
+    },
+    {
       "title": "Cervest",
       "date_modified": "2021-05-24",
       "url": "https://cervest.earth/",
@@ -55,6 +76,13 @@
       "url": "https://www.diode.energy/",
       "tags": ["ev"],
       "description": "Diode specialises in building electric vehicle implementation plans, matching them to the right infrastructure and securing the best deal."
+    },
+    {
+      "title": "Cambridge Power",
+      "date_modified": "2022-02-27",
+      "url": "https://www.cambridgepower.co.uk/",
+      "tags": ["storage", "pv"],
+      "description": "Cambridge Power develops, constructs and operates grid-scale energy storage and renewable generation assets throughout the UK. In Feb 2022 has signed a Framework Agreement with Brookfield Renewable to develop more than 800MW of full consented battery energy storage systems (BESS) and 185MW of co-located solar for investment over the next five years. [in the news](https://www.solarpowerportal.co.uk/news/cambridge_power_to_develop_800mw_of_uk_battery_storage_with_brookfield_rene)"
     },
     {
       "title": "Silicon Ranch",
@@ -78,17 +106,24 @@
       "description": "Enpal a solar startup out of Berlin, Germany that uses AI for provisioning and installing services, and then a subscription-style model for homeowners to pay for it — has raised €150 million ($174 million) from SoftBank Vision Fund 2. From [TechCrunch](https://techcrunch.com/2021/10/17/enpal-closes-out-series-c-with-174m-from-softbank-for-tech-to-make-it-easier-for-homeowners-to-make-the-switch-to-solar-energy/)"
     },
     {
+      "title": "Palmetto",
+      "date_modified": "2022-04-07",
+      "url": "https://sunlightfinancial.com/",
+      "tags": ["fintech", "pv"],
+      "description": "Palmetto connects to solar specialists in your area to deliver end-to-end solutions that foster jobs in your local community, increase access to clean energy, and ensure long-term savings and support for every system installed. In [feb 2022](https://www.prnewswire.com/news-releases/palmetto-raises-375-million-to-accelerate-residential-clean-energy-independence-301490295.html) Raised $375 Million to Accelerate Residential Clean Energy Independence"
+    },
+    {
       "title": "Sunlight Financial",
       "date_modified": "2021-02-27",
       "url": "https://sunlightfinancial.com/",
-      "tags": ["fintech"],
+      "tags": ["fintech", "pv"],
       "description": "Sunlight Financial partners with Solar companies and Home Improvement contractors to secure financing for solar systems and home improvement projects. Raised $1.3bn via SPAC + PIPE deal in Feb 21, via [Techcrunch](https://techcrunch.com/2021/01/25/chamath-palihapitiyas-spac-for-sunlight-financial-is-another-sign-of-a-renewables-boom/)"
     },
     {
       "title": "Goodleap",
       "date_modified": "2021-02-27",
       "url": "https://goodleap.com/",
-      "tags": ["fintech"],
+      "tags": ["fintech", "pv"],
       "description": "Goodleap, formerly [Loanpal](https://loanpal.com/) partnership with sustainable home improvement professionals across the country to make sustainable home upgrades simple. Raised $800M in cash in Feb 21 to fund projects, from [Techcrunch](https://techcrunch.com/2021/01/27/renewable-investment-wave-continues-as-solar-lending-company-loanpal-raises-800-million/)"
     },
     {
@@ -96,7 +131,7 @@
       "date_modified": "2021-02-27",
       "url": "https://www.field.energy/",
       "tags": ["storage", "derms"],
-      "description": "Virmati Energy was founded by Amit Gudka, one of the co-founder of Bulb. Virmati Energy wants to show that batteries are a totally viable part of our energy infrastructure with a portfolio of batteries in the UK. In the news Feb 21 from [BusinessGreen](https://www.businessgreen.com/news/4027455/bulb-founder-steps-focus-battery-storage-venture) and on [Sifted in Nov 21](https://sifted.eu/articles/bulb-collapse-shareholder-losses-investors/) after Bulb's collapse. Raised [10M in Aug 2021](https://www.solarpowerportal.co.uk/news/field_unveils_160mw_storage_pipeline_following_10m_fundraise) to deploy 160MW of grid-scale storage"
+      "description": "Virmati Energy was founded by Amit Gudka, one of the co-founder of Bulb. Virmati Energy wants to show that batteries are a totally viable part of our energy infrastructure with a portfolio of batteries in the UK. In the news Feb 21 from [BusinessGreen](https://www.businessgreen.com/news/4027455/bulb-founder-steps-focus-battery-storage-venture) and on [Sifted in Nov 21](https://sifted.eu/articles/bulb-collapse-shareholder-losses-investors/) after Bulb's collapse. Raised [10M in Aug 2021](https://www.solarpowerportal.co.uk/news/field_unveils_160mw_storage_pipeline_following_10m_fundraise) to deploy 160MW of grid-scale storage. Raised another £46M in debt financing in [April 22](https://www.solarpowerportal.co.uk/news/fieldbags_46m_in_financing_to_build_110mw_portfolio_of_battery_storage_asse)"
     },
     {
       "title": "Pearl Street Technologies",
@@ -202,6 +237,27 @@
       "url": "https://roadnighttaylor.co.uk/",
       "tags": ["consultancy", "microgrid", "generation", "advisor"],
       "description": "Helping UK businesses and organisations make the best and safest energy choices that deliver against their specific objectives –  whether that’s reducing bills, generating income, shrinking carbon footprint or increasing resilience and competitiveness."
+    },
+    {
+      "title": "Eco energy",
+      "date_modified": "2022-02-21",
+      "url": "https://www.econergytech.com/about/#part-vision",
+      "tags": ["microgrid", "generation", "ppa"],
+      "description": "Israel headquartered with operations in Europe, giant Ecoenergy develop, own and operate utility-scale renewable energy projects, driven by deep industry, regulatory and technology expertise at every critical stage from origination to supply. In Feb 2022 they have raised 200M in mixed permanent and convertible debt, [in the news](https://renews.biz/75827/econergy-secures-200m-for-european-solar-buildout/)"
+    },
+    {
+      "title": "Einhundert",
+      "date_modified": "2022-02-21",
+      "url": "https://einhundert.de/en/about-us/",
+      "tags": ["microgrid", "generation", "ppa"],
+      "description": "based in Cologne, Einhundert (one hundred) is a platform to roll-out multi tenant self consumption cost-efficiently across building portfolios. Raised 6.5M in Feb 22, [in the news](https://renewablesnow.com/news/germanys-einhundert-raises-eur-65m-to-scale-landlord-to-tenant-power-ops-773494/)"
+    },
+    {
+      "title": "Longevity power",
+      "date_modified": "2022-02-21",
+      "url": "https://longevity-power.com/",
+      "tags": ["microgrid", "generation", "ppa", "consultancy"],
+      "description": "Longevity Power provides clean energy solutions working in tandem with [Longevity Partners](https://www.longevity.co.uk/), the global, multi-disciplinary energy and sustainability consultancy"
     },
     {
       "title": "SRS Works",
@@ -326,7 +382,7 @@
       "title": "Myst AI",
       "date_modified": "2020-09-08",
       "url": "https://www.myst.ai/",
-      "tags": ["data"],
+      "tags": ["data", "platform"],
       "description": "We use artificial intelligence to help energy companies better predict the future, resulting in lower costs, reduced risk and less waste. Secured $6M [series A funding](https://news.crunchbase.com/news/myst-ai-closes-6m-series-a-to-forecast-energy-demand-supply/) in Sept 2020"
     },
     {
@@ -389,7 +445,7 @@
       "title": "CRREM",
       "date_modified": "2020-07-10",
       "url": "https://www.crrem.org/",
-      "tags": ["consortium"],
+      "tags": ["consortium", "risk"],
       "description": "Carbon Risk Real Estate Monitor (CRREM)  faces the challenge to estimate risk and uncertainty associated with real estate decarbonization, building a methodological body and empirically quantify the different scenarios and their impact on the investor portfolios. GRESB is in the consortium"
     },
     {
@@ -508,22 +564,8 @@
       "title": "Centre for net zero",
       "date_modified": "2021-06-08",
       "url": "https://www.centrefornetzero.org/",
-      "tags": [],
+      "tags": ["simulation"],
       "description": "founded by Octopus, launched in Feb 2021. Will focus (probably) on agent-based energy grid modelling and (hopefully) releasing their models open source"
-    },
-    {
-      "title": "CarbonLaces",
-      "date_modified": "2021-06-08",
-      "url": "https://carbonlaces.com/",
-      "tags": ["real-estate", "fintech"],
-      "description": "Climate Finance Platform that defines a new category called ‘buildings as a hub of activity’ and recommends actions based on efficiency"
-    },
-    {
-      "title": "Open Invest",
-      "date_modified": "2021-07-12",
-      "url": "https://www.openinvest.com/",
-      "tags": ["esg"],
-      "description": "OpenInvest offers values-based financial solutions that help advisors unlock the true impact of their clients’ investments. With OpenInvest, financial advisors can seamlessly build, manage, and report on ESG portfolios, engaging with clients on a new level. Acquired by JPMorgan in [Jun 21, reported by Systemiq](https://www.systemiq.earth/jpmorgan-acquires-openinvest/)"
     },
     {
       "title": "Novisto",
@@ -740,15 +782,23 @@
     {
       "title": "Open Grid Systems Ltd.",
       "date_modified": "2020-05-26",
+      "tags": ["simulation", "platform"],
       "url": "https://www.opengrid.com/content/",
-      "description": "Open Grid Systems Ltd.  is a software and consultancy company providing services to the electrical power industry focussed on model-driven software engineering, open standards and cutting-edge technologies."
+      "description": "Open Grid Systems Ltd. is a software and consultancy company providing services to the electrical power industry focussed on model-driven software engineering, open standards and cutting-edge technologies."
+    },
+    {
+      "title": "Station A",
+      "date_modified": "2022-04-06",
+      "tags": ["marketplace"],
+      "url": "https://stationa.com/",
+      "description": "San Francisco based Station A is a platform that helps clean energy buyers instantly grade their buildings, get competitive options from qualified providers, and track their journey to zero-emissions in a transparent and all-digital way. On Bloomberg in [March 2022](https://www.bloomberg.com/news/articles/2022-03-30/new-clean-energy-marketplace-joins-silicon-valley-rush-to-green-buildings)"
     },
     {
       "title": "EnergySage",
       "date_modified": "2020-05-26",
       "tags": ["pv", "marketplace"],
       "url": "https://www.energysage.com/about/who-we-are",
-      "description": "EnergySage is on a mission to make going solar as easy as booking a flight online. Funded by Clean energy ventures (see business section)"
+      "description": "EnergySage is on a mission to make going solar as easy as booking a flight online. Funded by [Clean energy ventures](https://cleanenergyventures.com/)"
     },
     {
       "title": "Innovation Gateway",
@@ -1208,7 +1258,7 @@
       "description": "Conwx high-resolution historical weather data and forecast for power / TSOs / asset management"
     },
     {
-      "title": "Sentinel weather",
+      "title": "Sentinel weather (inactive)",
       "date_modified": "2020-05-26",
       "url": "https://sentinel-weather.com/",
       "tags": ["weather"],
@@ -1218,14 +1268,14 @@
       "title": "the eco experts",
       "date_modified": "2020-05-26",
       "url": "https://www.theecoexperts.co.uk/",
-      "tags": ["compare"],
+      "tags": ["compare", "marketplace"],
       "description": "the eco experts for PV + battery installations. (Tried to make an enquiry but they’re just a call centre forwarding the contact to an installer, they wouldn’t even send the contact through without installation permission approval from the landlord. Been recommended to check on their website who can install in the area and contact them directly)"
     },
     {
       "title": "Labrador",
       "date_modified": "2020-05-26",
       "url": "https://www.thelabrador.co.uk/",
-      "tags": ["compare"],
+      "tags": ["compare", "marketplace"],
       "description": "Labrador like uswitch, has an option for green sources"
     },
     {

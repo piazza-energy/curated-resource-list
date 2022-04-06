@@ -389,7 +389,7 @@
       "title": "List of accelerators",
       "date_modified": "2020-06-22",
       "url": "https://www.londoncleantechcluster.co.uk/london-cleantech-cluster-2/cleantech-business/",
-      "tags": ["accelerator"],
+      "tags": ["accelerator", "incubator"],
       "description": " List of accelerators and incubators, in theory in cleantech but covering all sorts  "
     },
     {
@@ -582,6 +582,20 @@
       "description": " The Zayed Sustainability Prize , an evolution of the Zayed Future Energy Prize, is the UAE’s pioneering global award in sustainability"
     },
     {
+      "title": "Bluefield partners llp",
+      "date_modified": "2022-02-27",
+      "url": "https://bluefieldllp.com/",
+      "tags": ["investment", "fund"],
+      "description": "Bluefield Partners LLP is a London based investment specialist focused on renewable energy, with a focus on solar PV assets."
+    },
+    {
+      "title": "Greencoat Capital",
+      "date_modified": "2022-02-27",
+      "url": "https://www.greencoat-capital.com/",
+      "tags": ["investment", "fund"],
+      "description": "Greencoat Capital LLP is a specialist manager dedicated to the renewable energy infrastructure sector. It has offices in London and Dublin and approximately £7 billion under management."
+    },
+    {
       "title": "SDCL",
       "date_modified": "2020-12-08",
       "url": "https://www.sdclgroup.com/investments/who-we-are/",
@@ -715,17 +729,45 @@
       "description": "Fundeen is a FinTech platform that allows citizens of Spain to invest in environmentally sustainable projects and receive benefits from their investments."
     },
     {
-      "title": "Triodos",
+      "title": "Triodos Bank Crowdfunding",
       "date_modified": "2020-05-26",
       "url": "https://www.triodoscrowdfunding.co.uk/investments",
       "tags": ["investment"],
       "description": "Triodos opportunities to invest in organisations committed to delivering positive change."
     },
     {
+      "title": "Triodos Investment Management - Energy Transition Europe",
+      "date_modified": "2022-02-22",
+      "url": "https://www.triodos-im.com/funds/triodos-energy-transition-europe-fund",
+      "tags": ["investment"],
+      "description": "Directly investing in small to medium-sized clean energy projects throughout Europe. In [Feb 2022](https://www.current-news.co.uk/news/gridbeyond-targets-battery-storage-pipeline-thanks-to-financing-from-triodos-energy-transition-europe-fund) invested 10M for behind the meter battery storage with [GridBeyond](https://gridbeyond.com/gridbeyond-and-triodos-energy-transition-europe-fund-agree-partnership-to-provide-e10million-of-funding-to-install-behind-the-meter-battery-storage/)"
+    },
+    {
+      "title": "Abundance",
+      "date_modified": "2022-04-08",
+      "url": "https://www.abundanceinvestment.com/",
+      "tags": ["fintech", "investment"],
+      "description": "UK based Abundance helps impact investors put their money to work to fund the infrastructure we need to tackle the climate emergency and create a fairer, greener future for us all."
+    },
+    {
+      "title": "CarbonLaces",
+      "date_modified": "2021-06-08",
+      "url": "https://carbonlaces.com/",
+      "tags": ["real-estate", "fintech"],
+      "description": "Climate Finance Platform that defines a new category called ‘buildings as a hub of activity’ and recommends actions based on efficiency"
+    },
+    {
+      "title": "Open Invest",
+      "date_modified": "2021-07-12",
+      "url": "https://www.openinvest.com/",
+      "tags": ["esg", "fintech"],
+      "description": "OpenInvest offers values-based financial solutions that help advisors unlock the true impact of their clients’ investments. With OpenInvest, financial advisors can seamlessly build, manage, and report on ESG portfolios, engaging with clients on a new level. Acquired by JPMorgan in [Jun 21, reported by Systemiq](https://www.systemiq.earth/jpmorgan-acquires-openinvest/)"
+    },
+    {
       "title": "Citizenergy.eu",
       "date_modified": "2020-05-26",
       "url": "https://citizenergy.eu/",
-      "tags": ["investment"],
+      "tags": ["investment", "fintech"],
       "description": "Citizenergy.eu born out of the motivation to promote the decentralised and democratic financing of a better energy future by supporting sustainable energy crowdfunding platforms and energy cooperatives."
     },
     {
@@ -739,7 +781,7 @@
       "title": "Crowdcube",
       "date_modified": "2020-05-26",
       "url": "https://www.crowdcube.com/investments?",
-      "tags": ["investment"],
+      "tags": ["investment", "fintech"],
       "description": " Major crowdfunding platform Crowdcube and [Startengine](https://www.startengine.com/) have dedicated sections"
     },
     {
