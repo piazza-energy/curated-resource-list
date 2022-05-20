@@ -148,6 +148,13 @@
       "description": " energy performance certificate (private residence only?) EPC register there’s also a data set here: [London domestic efficiency by boroughs](https://data.london.gov.uk/dataset/domestic-energy-efficiency-ratings-borough)"
     },
     {
+      "title": "Standard Assessment Procedure",
+      "date_modified": "2022-05-04",
+      "url": "https://www.gov.uk/guidance/standard-assessment-procedure",
+      "tags": ["certification"],
+      "description": "Guidance on how a home's energy performance is calculated using the Standard Assessment Procedure (SAP) methodology, which underpins the Energy Performance Certificate (EPC). The new SAP / RdSAP 11 (scoped by [Etude](https://www.etude.co.uk/news/the-future-of-sap-calculations/) and [brought forward by BRE](https://www.edie.net/uk-to-revamp-methodology-that-measures-energy-performance-of-uk-homes/)) will come into force in 2025, alongside the Future Homes Standard update of the Building Regulations."
+    },
+    {
       "title": "microgeneration",
       "date_modified": "2020-06-22",
       "url": "https://www.microgenerationcertification.org/",
