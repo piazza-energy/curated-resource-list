@@ -589,6 +589,13 @@
       "description": "Piclo, Grid flexibility marketplace Platform, similar to [Nodes](https://nodesmarket.com/)."
     },
     {
+      "title": "Tem energy",
+      "date_modified": "2020-05-26",
+      "url": "https://www.tem.energy/",
+      "tags": ["derms", "marketplace"],
+      "description": "founder is from the Limejump team, renewable energy marketplace. Essentially an energy trader without regulation"
+    },
+    {
       "title": "Upside energy",
       "date_modified": "2020-05-26",
       "url": "https://upsideenergy.co.uk/about-us/",
@@ -811,6 +818,20 @@
       "url": "https://solargis.com/about-us",
       "tags": ["pv-sw"],
       "description": "Solargis provide reliable and accurate solar, weather and solar electricity data that are used in the whole lifecycle of solar power plants, from prospection to development and operation"
+    },
+    {
+      "title": "Power Transition",
+      "date_modified": "2022-05-03",
+      "url": "https://ptvolts.com/",
+      "tags": ["blockchain", "derms"],
+      "description": "Hedera based platform that provides tracking and accounting of energy production, transmission and storage and consumption by and between all elements of a grid and microgrid network."
+    },
+    {
+      "title": "Sitigrid",
+      "date_modified": "2022-05-19",
+      "url": "https://sitigrid.com/",
+      "tags": ["blockchain", "derms"],
+      "description": "The Sitigrid distributed ledger technology, S-Chain, creates an immutable record of all energy that is generated and consumed within the network, enabling peer-to-peer trading of surplus electricity on the open market, through smart contracts and settlements. "
     },
     {
       "title": "Energy Web",

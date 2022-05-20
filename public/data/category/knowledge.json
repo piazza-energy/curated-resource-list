@@ -155,6 +155,13 @@
       "description": "The Energy Research Accelerator is an embedded cross-disciplinary energy research hub in the UK funded by Innovate UK, with match funding and support supplied by a range of industrial partners that draws on the expertise and world-class facilities of  the Midlands Innovation group of universities – Aston, Birmingham, Cranfield, Keele, Leicester, Loughborough, Nottingham and Warwick, plus the British Geological Survey. "
     },
     {
+      "title": "CREDS",
+      "date_modified": "2022-04-08",
+      "url": "https://www.creds.ac.uk/",
+      "tags": ["research"],
+      "description": "Centre for Research into Energy Demand Solutions. CREDS is a research centre established in 2018 with a vision to make the UK a leader in understanding the changes in energy demand needed for the transition to a secure and affordable, net-zero society. Working with researchers, businesses & policy makers, we support the transition to a net-zero society."
+    },
+    {
       "title": "UKERC",
       "date_modified": "2021-06-28",
       "url": "https://ukerc.ac.uk/",
@@ -305,7 +312,7 @@
       "title": "Mackay carbon calculator",
       "date_modified": "2021-03-24",
       "url": "https://mackaycarboncalculator.beis.gov.uk/overview/emissions-and-primary-energy-consumption/",
-      "tags": ["model", "footprint", "model"],
+      "tags": ["model", "footprint"],
       "description": "transport / buildings / industry / etc. carbon calculator by BEIS"
     },
     {

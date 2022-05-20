@@ -92,6 +92,13 @@
       "description": "Based in Nashville, Tennessee, Silicon Ranch is the U.S. solar platform for Shell and one of the largest independent solar power producers in the country. In Jan 2022 raised $775M in equity funding. [In the news](https://www.finsmes.com/2022/01/silicon-ranch-raises-775m-in-equity-funding.html)"
     },
     {
+      "title": "Otovo",
+      "date_modified": "2022-05-03",
+      "url": "https://www.otovo.com/",
+      "tags": ["storage", "pv", "marketplace"],
+      "description": "Otovo AS (OTOVO) is the leading marketplace for residential solar and batteries in Europe. We are building a base of customers with recurring revenue and multi-decade relationships."
+    },
+    {
       "title": "Sunrun",
       "date_modified": "2021-11-27",
       "url": "https://www.sunrun.com/",
@@ -237,6 +244,13 @@
       "url": "https://roadnighttaylor.co.uk/",
       "tags": ["consultancy", "microgrid", "generation", "advisor"],
       "description": "Helping UK businesses and organisations make the best and safest energy choices that deliver against their specific objectives –  whether that’s reducing bills, generating income, shrinking carbon footprint or increasing resilience and competitiveness."
+    },
+    {
+      "title": "Energy Intelligence Centre EIC",
+      "date_modified": "2022-04-11",
+      "url": "https://www.eic.co.uk/",
+      "tags": ["consultancy", "microgrid", "generation", "advisor"],
+      "description": "Based in Surrey, UK, EIC bespoke solutions allows businesses to manage and control all elements of the energy bill on both sides of the meter."
     },
     {
       "title": "Eco energy",
@@ -801,6 +815,27 @@
       "description": "EnergySage is on a mission to make going solar as easy as booking a flight online. Funded by [Clean energy ventures](https://cleanenergyventures.com/)"
     },
     {
+      "title": "Zolar",
+      "date_modified": "2022-04-11",
+      "tags": ["pv"],
+      "url": "https://www.zolar.de/",
+      "description": "With Zolar the customer receives everything from the planning to the installation of the solar system from a single source. Based in Germany"
+    },
+    {
+      "title": "Volta Solar",
+      "date_modified": "2022-04-11",
+      "tags": ["pv"],
+      "url": "http://www.voltasolarinc.com/",
+      "description": "Volta Solar is a California based company devoted to the installation of residential and commercial renewable energy projects throughout the United States. Volta Solar is experienced in rooftop, carport and ground mount facilities."
+    },
+    {
+      "title": "Forefront",
+      "date_modified": "2022-04-11",
+      "tags": ["pv", "ppa", "fintech"],
+      "url": "https://www.forefrontpower.com/",
+      "description": "Headquartered in San Francisco, with offices in New York City and Mexico City, ForeFront Power offers business, government, education and community solar customers in the U.S. and Mexico a broad array of development, advisory and asset management services"
+    },
+    {
       "title": "Innovation Gateway",
       "date_modified": "2021-03-24",
       "url": "https://innovationgateway.com/",
@@ -861,11 +896,18 @@
       "description": "Normative want to accelerate the transition towards net zero emissions. We provide emission accounting based on science, empowering companies to reduce their carbon footprint."
     },
     {
+      "title": "Frontier",
+      "date_modified": "2022-05-02",
+      "url": "https://frontierclimate.com/",
+      "tags": ["footprint", "offset"],
+      "description": "Frontier is an advance market commitment to buy an initial US$925M of permanent carbon removal between 2022 and 2030. It is funded by Stripe, Alphabet, Shopify, Meta, McKinsey, and tens of thousands of businesses using Stripe Climate."
+    },
+    {
       "title": "Supercritical",
-      "date_modified": "2022-02--2",
+      "date_modified": "2022-02-22",
       "url": "https://gosupercritical.com/",
       "tags": ["footprint", "offset"],
-      "description": "Supercritical's software enables you to measure, reduce, and offset your climate impact in weeks without the need for a sustainability team. We only sell high-quality carbon removal because it’s the only legitimate route to net zero."
+      "description": "Supercritical's software enables you to measure, reduce, and offset your climate impact in weeks without the need for a sustainability team. We only sell high-quality carbon removal because it is the only legitimate route to net zero."
     },
     {
       "title": "Plan A",
@@ -1165,6 +1207,13 @@
       "url": "https://www.sylvera.com/",
       "tags": ["offset"],
       "description": "Sylvera provides data on nature-based offset projects. This covers data such as the raw carbon performance, additionality, permanence, co-benefits, and risk. "
+    },
+    {
+      "title": "Climate Trade",
+      "date_modified": "2022-04-06",
+      "url": "https://climatetrade.com/",
+      "tags": ["offset", "marketplace"],
+      "description": "The marketplace where you can directly offset the carbon footprint of your organization, combating climate change in the most efficient way. Select the most suitable carbon offset project from the many available, all of which follow quality assurance standards. "
     },
     {
       "title": "NCX",
