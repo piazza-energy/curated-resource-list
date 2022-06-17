@@ -113,6 +113,13 @@
       "description": "Enpal a solar startup out of Berlin, Germany that uses AI for provisioning and installing services, and then a subscription-style model for homeowners to pay for it — has raised €150 million ($174 million) from SoftBank Vision Fund 2. From [TechCrunch](https://techcrunch.com/2021/10/17/enpal-closes-out-series-c-with-174m-from-softbank-for-tech-to-make-it-easier-for-homeowners-to-make-the-switch-to-solar-energy/)"
     },
     {
+      "title": "SolarSquare",
+      "date_modified": "2022-06-17",
+      "url": "https://www.solarsquare.in/",
+      "tags": ["marketplace", "pv"],
+      "description": "Based in India, SolarSquare design, build, operate and finance solar plants. Raised 4M in June 2022, backed by Chris Sacca, from [TechCrunch](https://techcrunch.com/2022/06/09/good-capital-chris-saccas-lowercarbon-back-indias-solarsquare/)"
+    },
+    {
       "title": "Palmetto",
       "date_modified": "2022-04-07",
       "url": "https://sunlightfinancial.com/",
@@ -658,6 +665,13 @@
       "description": "Younity was born from a partnership between Co-op Energy and Octopus Energy and supports the country’s community energy projects in lots of different ways. Made the deal between Patagonia and Energy Garden"
     },
     {
+      "title": "Sharenergy",
+      "tags": ["community"],
+      "date_modified": "2022-06-16",
+      "url": "https://www.sharenergy.coop/",
+      "description": "Sharenergy helps communities to set up and own renewable energy societies. Working with CSE, centre for sustainable energy, to develop a tool for assessment of PV"
+    },
+    {
       "title": "Brixton energy",
       "tags": ["community"],
       "date_modified": "2020-05-26",
@@ -819,7 +833,7 @@
       "date_modified": "2022-04-11",
       "tags": ["pv"],
       "url": "https://www.zolar.de/",
-      "description": "With Zolar the customer receives everything from the planning to the installation of the solar system from a single source. Based in Germany"
+      "description": "With Zolar the customer receives everything from the planning to the installation of the solar system from a single source. Based in Germany, raised 105M in series C, [june 2022](https://www.finsmes.com/2022/05/zolar-raises-e100m-in-series-c-funding.html)"
     },
     {
       "title": "Volta Solar",
@@ -1053,6 +1067,13 @@
       "url": "https://www.cdp.net/en",
       "tags": ["nonprofit"],
       "description": "CDP is a not-for-profit charity that runs the global disclosure system for investors, companies, cities, states and regions to manage their environmental impacts"
+    },
+    {
+      "title": "Centre for Sustainable Energy CSE",
+      "date_modified": "2022-06-16",
+      "url": "https://www.cse.org.uk/",
+      "tags": ["nonprofit"],
+      "description": "CSE is an independent national charity that shares our knowledge and experience to help people change the way they think and act on energy. Has been awarded the Open Digital solution [SBRI competition](https://apply-for-innovation-funding.service.gov.uk/competition/1078/overview) to develop [tools for PV assessment](https://www.cse.org.uk/projects/view/1388)"
     },
     {
       "title": "Mission Innovation",
