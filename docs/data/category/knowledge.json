@@ -1,6 +1,27 @@
 {
   "data": [
     {
+      "title": "REPowerEU Plan",
+      "date_modified": "2022-06-18",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_3131",
+      "tags": ["fund"],
+      "description": "REPowerEU Plan, is EU's response to the hardships and global energy market disruption, delivering an additional investment of €210 billion between 2022 and 2027 available in loans under the RRF"
+    },
+    {
+      "title": "Nesta EPC data analysis",
+      "date_modified": "2022-06-18",
+      "url": "https://github.com/nestauk/epc_data_analysis",
+      "tags": ["data"],
+      "description": "Repo for the analysis of the EPC dataset (check opendata communities) with a map visualisation of [heat pumps uptake in the uk]( https://nestauk.github.io/epc_data_analysis/Heat_Pump_Uptake_Map.html) visualisation using [kepler.gl](https://kepler.gl/)"
+    },
+    {
+      "title": "EPC opendata communities",
+      "date_modified": "2022-06-18",
+      "url": "https://epc.opendatacommunities.org/",
+      "tags": ["data", "efficiency"],
+      "description": "Access to Energy Performance Certificates and Display Energy Certificates data for buildings in England and Wales. Searchable, browsable and downloadable individually or in bulk. "
+    },
+    {
       "title": "Solar on superstores",
       "date_modified": "2022-02-02",
       "url": "https://environmentamerica.org/feature/ame/solar-on-superstores",

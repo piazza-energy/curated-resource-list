@@ -144,8 +144,8 @@
       "title": "EPC register",
       "date_modified": "2020-06-22",
       "url": "https://www.epcregister.com/reportSearchAddressTerms.html",
-      "tags": ["certification"],
-      "description": " energy performance certificate (private residence only?) EPC register there’s also a data set here: [London domestic efficiency by boroughs](https://data.london.gov.uk/dataset/domestic-energy-efficiency-ratings-borough)"
+      "tags": ["certification", "efficiency"],
+      "description": "Energy Performance Certificate EPC register there’s also a data set here: [London domestic efficiency by boroughs](https://data.london.gov.uk/dataset/domestic-energy-efficiency-ratings-borough)"
     },
     {
       "title": "Standard Assessment Procedure",
@@ -153,6 +153,13 @@
       "url": "https://www.gov.uk/guidance/standard-assessment-procedure",
       "tags": ["certification"],
       "description": "Guidance on how a home's energy performance is calculated using the Standard Assessment Procedure (SAP) methodology, which underpins the Energy Performance Certificate (EPC). The new SAP / RdSAP 11 (scoped by [Etude](https://www.etude.co.uk/news/the-future-of-sap-calculations/) and [brought forward by BRE](https://www.edie.net/uk-to-revamp-methodology-that-measures-energy-performance-of-uk-homes/)) will come into force in 2025, alongside the Future Homes Standard update of the Building Regulations."
+    },
+    {
+      "title": "UK Net Zero Carbon Buildings Standard",
+      "date_modified": "2022-06-17",
+      "url": "https://www.nzcbuildings.co.uk/",
+      "tags": ["certification"],
+      "description": "The UK Net Zero Carbon Buildings Standard will enable industry to robustly prove their built assets are net zero carbon, joined by  industry organisations BBP, BRE, the Carbon Trust, CIBSE, IStructE, LETI, RIBA, RICS, and UKGBC. This is the method underlying the new SAP / RdSAP 11 Standard Assessment Procedure for EPC"
     },
     {
       "title": "microgeneration",
