@@ -103,7 +103,21 @@
       "date_modified": "2021-11-27",
       "url": "https://www.sunrun.com/",
       "tags": ["ppa", "pv"],
-      "description": "US based domestic solar PPA. We know going solar can be complicated. We are here as your expert guide every step of the way. With our customers, we are creating a planet run by the sun."
+      "description": "US based domestic solar PPA. We know going solar can be complicated. We are here as your expert guide every step of the way. With our customers, we are creating a planet run by the sun. Backing [Lunar Energy](https://www.lunarenergy.com/)"
+    },
+    {
+      "title": "Lunar Energy",
+      "date_modified": "2022-08-27",
+      "url": "https://www.lunarenergy.com/",
+      "tags": ["ppa", "der", "pv"],
+      "description": "Backed by Sunrun, Lunar energy's mission is to transition homes to 100% clean energy—making our electricity greener, our air cleaner, and our energy more safe, secure and reliable for all."
+    },
+    {
+      "title": "Altus Power",
+      "date_modified": "2022-08-27",
+      "url": "https://www.altuspower.com/",
+      "tags": ["ppa", "pv"],
+      "description": "Altus Power created a clean electrification ecosystem, leading the power transition between national grids and local consumers. Partnered with CBRE for electrification of residential in the US, [in Aug 2022](https://www.businesswire.com/news/home/20220815005103/en/CBRE-Investment-Management-Announces-Enhanced-Focus-on-Solar-Battery-Storage-as-Part-of-Sustainability-Initiative-in-Growing-Logistics-Portfolio)"
     },
     {
       "title": "Enpal",
