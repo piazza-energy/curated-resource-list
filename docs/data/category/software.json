@@ -533,6 +533,20 @@
       "description": "Zeigo is a technology platform supporting both supply and demand of renewable energy. Winner of BusinessGreen for [Renewable Energy Technology](https://www.businessgreen.com/bg/news/3084522/businessgreen-technology-awards-all-the-winners) of the year 2019. Zeigo has built an extensive network of renewable energy generators and suppliers. Find solutions for Corporate PPAs, Utility PPAs and Certificates. Partnered with co-op power [in Dec 21](https://theenergyst.com/co-op-aiming-to-tackle-scope-3-emissions-with-aggregated-ppa/)"
     },
     {
+      "title": "Cleartrace",
+      "date_modified": "2022-10-21",
+      "url": "https://cleartrace.io/",
+      "tags": ["footprint", "esg", "real-estate"],
+      "description": "A carbon and energy management software company. Track, trace, match and manage your clean energy footprint while simplifying data-driven attestation behind sustainability goals and mandates. Based in Austin, [raised 20M](https://www.businesswire.com/news/home/20220629005217/en/Cleartrace-Raises-20-Million-Financing-Led-by-ClearSky-With-Strategic-Funding-From-Brookfield-Renewable-EDF-Energy-North-America-Tenaska-and-Exelon-to-Help-Companies-Reach-Decarbonization-Goals) in June 22 "
+    },
+    {
+      "title": "WattCarbon",
+      "date_modified": "2022-10-21",
+      "url": "https://www.wattcarbon.com/",
+      "tags": ["offset", "footprint", "esg", "real-estate"],
+      "description": "WattCarbon’s platform, to be released in early 2022, creates a granular model of energy use, integrating smart meter or device data where available, and merging it with real-time emissions data from each of the 80 different balancing authorities across the United States and Canada. [Raised 1.5M](https://www.prweb.com/releases/2021/12/prweb18388861.htm) in pre-seed in Dec 2021"
+    },
+    {
       "title": "Watershed",
       "date_modified": "2020-05-26",
       "url": "https://www.watershedclimate.com/",
@@ -540,10 +554,17 @@
       "description": "Watershed helps businesses cut carbon emissions, from the a bunch of guys who were in Stripe"
     },
     {
+      "title": "Ecovadis",
+      "date_modified": "2022-10-21",
+      "url": "https://ecovadis.com/",
+      "tags": ["platform", "analytics", "risk", "esg"],
+      "description": "The EcoVadis sustainability intelligence suite spans the full spectrum of sustainability risk and performance management with broad-scale supply chain risk screening and mapping, reliable scorecards with actionable ratings, and complete audit and improvement management."
+    },
+    {
       "title": "Microsoft Sustainability Calculator",
       "date_modified": "2020-05-26",
       "url": "https://aka.ms/SustainabilityCalculator",
-      "tags": ["platform"],
+      "tags": ["platform", "footprint", "analytics"],
       "description": "Microsoft Sustainability Calculator a Power BI application for Azure enterprise customers that provides new insight into carbon emissions data associated with their Azure services"
     },
     {

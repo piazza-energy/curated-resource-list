@@ -22,6 +22,13 @@
       "description": "Smart Building Software for portfolio management. On a mission to Build the most intuitive, easy to use real estate software products that enable sustainability, operational efficiencies and comfort."
     },
     {
+      "title": "Tallarna",
+      "date_modified": "2022-10-21",
+      "url": "https://tallarna.com/",
+      "tags": ["efficiency", "real-estate", "planning"],
+      "description": "Tallarna is a climate tech company for the built environment. Their ecosystem approach aims at simplifying the net zero challenge by making projects financially executable."
+    },
+    {
       "title": "Audette",
       "date_modified": "2022-02-02",
       "url": "https://audette.io/",
@@ -237,6 +244,13 @@
       "url": "https://icebreakerone.org/",
       "tags": ["consultancy", "nonprofit"],
       "description": "Icebreaker's mission is to Unlock standards-based marketplaces for environmental & financial data and leveraged finance for innovation. Reduce the cost and friction associated with moving data across organisations and markets. Won [phase 2 of SBRI MEDA](https://icebreakerone.org/energy/) competion"
+    },
+    {
+      "title": "ReTransform",
+      "date_modified": "2022-10-21",
+      "url": "https://www.retransform.com/",
+      "tags": ["consultancy", "efficiency"],
+      "description": "ReTransform is a global real estate service provider offering Proptech, Technology Solutions and Business Managed Services to commercial, retail, residential and corporate real estate customers."
     },
     {
       "title": "Carbon Intelligence",
