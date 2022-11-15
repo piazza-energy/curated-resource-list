@@ -22,7 +22,7 @@
   "homepage": "https://github.com/piazza-energy/curated-resource-list#readme",
   "dependencies": {
     "classnames": "^2.2.6",
-    "next": "^9.5.5",
+    "next": "^13.0.3",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
   },
