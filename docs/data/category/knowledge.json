@@ -71,6 +71,13 @@
       "description": "This document sets out the government’s ambition to make the UK the best place in the world for green and sustainable investment."
     },
     {
+      "title": "UK Govt Energy Company Obligation (ECO): 2023-2026",
+      "date_modified": "2022-11-25",
+      "url": "https://www.gov.uk/government/consultations/design-of-the-energy-company-obligation-eco-2023-2026",
+      "tags": ["regulations", "funding", "efficiency"],
+      "description": "BEIS has unveiled a new £1bn insulation funding scheme to help households reduce their energy bills between 2023 and 2026. Cit on [Money Week](https://moneyweek.com/personal-finance/605546/grants-to-make-home-energy-efficient) and [Energy Live News](https://www.energylivenews.com/2022/11/28/uk-government-unveils-1bn-eco-energy-efficiency-scheme/)"
+    },
+    {
       "title": "Heat and buildings strategy",
       "date_modified": "2021-11-25",
       "url": "https://www.gov.uk/government/publications/heat-and-buildings-strategy",
@@ -743,11 +750,18 @@
       "description": " Status of nuclear fusion in Sept 18 link "
     },
     {
-      "title": "UK power networks innovation",
+      "title": "UK Power Networks innovation",
       "date_modified": "2020-10-20",
       "url": "http://innovation.ukpowernetworks.co.uk/innovation/en/",
       "tags": ["knowledge"],
       "description": " **Pandora’s box!** So much content here, loads of innovation projects and reports in a single place link very interesting sections: low carbon London and smarter network storage in the large scale projects section"
+    },
+    {
+      "title": "UK Power Networks open data portal",
+      "date_modified": "2022-11-02",
+      "url": "https://ukpowernetworks.opendatasoft.com/pages/home/",
+      "tags": ["knowledge", "data", "dataset"],
+      "description": "Using this portal, users can discover more about UKPN work and assets. [LAEP](https://ukpowernetworks.opendatasoft.com/pages/laep/), [in the news](https://www.current-news.co.uk/news/ukpn-to-provide-datasets-to-support-local-authorities-in-reaching-net-zero) and released in Nov 2022, is made of 154 unique datasets required for 30 use cases towards planning for Net Zero "
     },
     {
       "title": "national grid eso",

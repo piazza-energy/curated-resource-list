@@ -190,6 +190,13 @@
       "description": "The Energy Storage Computational Tool (ESCT) is a Microsoft Excel based application that was funded by DOE Office of Electricity Delivery and Energy Reliability (OE) and developed by Navigant Consulting."
     },
     {
+      "title": "Weave grid",
+      "date_modified": "2022-11-24",
+      "url": "https://www.weavegrid.com/",
+      "tags": ["derms", "platform", "ev"],
+      "description": "WeaveGrid, a software company that builds data products to enable rapid electric vehicle (EV). [Raised 35M](https://www.prnewswire.com/news-releases/weavegrid-announces-35-million-series-b-investment-to-enable-the-electric-transportation-transition-301678127.html) in Nov 2022"
+    },
+    {
       "title": "Argand solutions",
       "date_modified": "2021-03-24",
       "url": "https://www.argandsolutions.com/",
@@ -871,7 +878,7 @@
     {
       "title": "Power Transition",
       "date_modified": "2022-05-03",
-      "url": "https://ptvolts.com/",
+      "url": "https://powertransition.energy/",
       "tags": ["blockchain", "derms"],
       "description": "Hedera based platform that provides tracking and accounting of energy production, transmission and storage and consumption by and between all elements of a grid and microgrid network."
     },
