@@ -36,6 +36,20 @@
       "description": "discreet solid-state board for power control. Raised $8.5M in Feb 2021, from [crunchbase](https://news.crunchbase.com/news/amber-series-b-funding/)"
     },
     {
+      "title": "Xeal",
+      "date_modified": "2022-11-09",
+      "url": "https://xealenergy.com/",
+      "tags": ["ev", "real-estate"],
+      "description": "Xeal is an EV driver app to make charging as frictionless and reliable as possible. Trying to innovate at the intersection of proptech, energy, and mobility to make it easy for buildings to progressively become more intelligent,"
+    },
+    {
+      "title": "Mobility House",
+      "date_modified": "2022-11-09",
+      "url": "https://www.mobilityhouse.com/",
+      "tags": ["ev", "v2g"],
+      "description": "Our vision is climate-neutral mobility. We can achieve a zero-emissions future by intelligently using e-vehicle batteries as a beneficial part of the power grid. Raised 50M in [Nov 2022](https://www.businesswire.com/news/home/20221103006068/en/The-Mobility-House-Secures-50-Million-Series-C-to-Expand-Smart-Charging-and-Vehicle-to-Grid-Leadership)"
+    },
+    {
       "title": "eo charging",
       "date_modified": "2021-02-15",
       "url": "https://www.eocharging.com/",

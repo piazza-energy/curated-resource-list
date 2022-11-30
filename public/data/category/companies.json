@@ -33,7 +33,7 @@
       "date_modified": "2022-02-02",
       "url": "https://audette.io/",
       "tags": ["planning", "real-estate", "efficiency"],
-      "description": "A platform that creates a path forward to tackle the logistics, politics and financial barriers around decarbonization in the real estate industry, based in Vancouver"
+      "description": "A platform that creates a path forward to tackle the logistics, politics and financial barriers around decarbonization in the real estate industry, based in Vancouver. Raised 10M [in Nov 2022](https://www.businesswire.com/news/home/20221103006037/en/Audette-secures-US9.5-million-to-create-a-net-zero-plan-for-every-building-in-North-America)"
     },
     {
       "title": "Allumia",
@@ -575,6 +575,13 @@
       "description": "Stem builds and operates the largest digitally connected energy storage network for our customers. Our world class AI platform optimizes the value of our customers' energy assets and facilitates their participation in energy markets, yielding economic and resiliency benefits while accelerating renewable adoption. Athena accurately forecasts energy demand onsite and energy demand on the grid. From [Reuters](https://www.reuters.com/article/stem-ma-star-peak-energy/stem-agrees-blank-check-merger-with-star-peak-to-go-public-idUSL8N2IJ5K5): In December 2020 has agreed to go public by merging with blank-check acquisition company [Star Peak Energy](https://www.starpeakcorp.com/home/default.aspx) Transition Corp at a valuation of roughly $1.35 billion."
     },
     {
+      "title": "Tesseract",
+      "date_modified": "2022-10-27",
+      "url": "https://www.tesseractenergy.xyz/",
+      "tags": ["vpp", "utility"],
+      "description": "Founded by two early Revolut employees, Alan Chang and Charles Orr have raised $78m [in Sep 2022](https://www.altfi.com/article/9806_early-revoluters-raise-78m-for-energy-startup-tesseract). Tesseract founders want to take this trend of decentralization and democratisation into energy, and at the same time, to accelerate the renewable energy transition"
+    },
+    {
       "title": "Starling Energy Group",
       "date_modified": "2020-12-17",
       "url": "https://www.starling.energy/",
@@ -841,6 +848,13 @@
       "tags": ["simulation", "platform"],
       "url": "https://www.opengrid.com/content/",
       "description": "Open Grid Systems Ltd. is a software and consultancy company providing services to the electrical power industry focussed on model-driven software engineering, open standards and cutting-edge technologies."
+    },
+    {
+      "title": "PF Nexus",
+      "date_modified": "2022-11-16",
+      "tags": ["marketplace", "project-mgmt"],
+      "url": "https://www.pfnexus.com/",
+      "description": "connectivity for clean energy project developers, advisors, investors and lenders. Raised 600k in [Nov 2022](https://www.uktech.news/climate-tech/pf-nexus-funding-20221103)"
     },
     {
       "title": "Station A",

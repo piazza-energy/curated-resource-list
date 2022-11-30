@@ -715,6 +715,13 @@
       "description": "Asper is an independent investment manager focused on building sustainable real assets"
     },
     {
+      "title": "Jupiter Power",
+      "date_modified": "2022-11-24",
+      "url": "https://www.jupiterpower.io/",
+      "tags": ["investment", "storage-biz", "fund"],
+      "description": "Jupiter’s fleet of assets in operation or construction includes the largest energy storage fleet in Texas and one of the largest development pipelines in the US. Has been acquired from EnCap by Blackrock in [Nov 2022](https://www.energy-storage.news/blackrock-buys-us-battery-storage-developer-jupiter-power/)"
+    },
+    {
       "title": "Glennmont",
       "date_modified": "2021-03-24",
       "url": "https://www.glennmont.com/",
@@ -762,6 +769,13 @@
       "url": "https://carbonlaces.com/",
       "tags": ["real-estate", "fintech"],
       "description": "Climate Finance Platform that defines a new category called ‘buildings as a hub of activity’ and recommends actions based on efficiency"
+    },
+    {
+      "title": "Fennel",
+      "date_modified": "2022-11-26",
+      "url": "https://fennel.com/",
+      "tags": ["esg", "fintech"],
+      "description": "Fennel, an ESG-focused platform that gives retail investors access to tools to better engage with companies. [Raised $5M](https://www.businesswire.com/news/home/20221116005312/en/Fennel-Launches-ESG-Data-Driven-Investment-Platform-for-Everyday-Retail-Investors) in Nov 2022"
     },
     {
       "title": "Open Invest",
