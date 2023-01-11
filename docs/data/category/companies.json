@@ -141,6 +141,13 @@
       "description": "Based in India, SolarSquare design, build, operate and finance solar plants. Raised 4M in June 2022, backed by Chris Sacca, from [TechCrunch](https://techcrunch.com/2022/06/09/good-capital-chris-saccas-lowercarbon-back-indias-solarsquare/)"
     },
     {
+      "title": "Samara Energy",
+      "date_modified": "2023-01-11",
+      "url": "https://www.samara.energy/",
+      "tags": ["marketplace", "planning", "pv"],
+      "description": "Samara helps homeowners equip their rooftops with the most effective solar PV configuration, while also making recommendations on storage batteries and solar-powered EV chargers. Raised 4.5M in Dec 2022, [from the news](https://tech.eu/2022/12/18/gearing-up-solar/)"
+    },
+    {
       "title": "Palmetto",
       "date_modified": "2022-04-07",
       "url": "https://sunlightfinancial.com/",
@@ -1265,6 +1272,13 @@
       "description": "A simple and user-friendly software to enable intelligent carbon management for businesses."
     },
     {
+      "title": "BeZero",
+      "date_modified": "2023-01-11",
+      "url": "https://www.planetly.com/",
+      "tags": ["offset", "market", "risk"],
+      "description": "BeZero Carbon Ratings is a publicly available, risk-based framework for assessing carbon efficacy. We rate qualifying carbon credits in all sectors. Raised [50M in November 2022](https://bezerocarbon.com/news/bezero-carbon-raises-50-million-dollars-in-series-b-funding/)"
+    },
+    {
       "title": "Sylvera",
       "date_modified": "2021-06-26",
       "url": "https://www.sylvera.com/",
@@ -1389,6 +1403,13 @@
       "url": "https://www.thelabrador.co.uk/",
       "tags": ["compare", "marketplace"],
       "description": "Labrador like uswitch, has an option for green sources"
+    },
+    {
+      "title": "Arcadia",
+      "date_modified": "2023-01-11",
+      "url": "https://www.arcadia.com/",
+      "tags": ["utility", "community", "platform", "data"],
+      "description": "Simple APIs and software solutions for companies across electrification driving residential and commercial decarbonization that need access to utility data, tariffs, and payments. Raised [125M in Dec 2022](https://www.prnewswire.com/news-releases/arcadia-raises-125-million-to-accelerate-digital-decarbonization-301705112.html)"
     },
     {
       "title": "Energy Local CIC",
