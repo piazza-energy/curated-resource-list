@@ -148,6 +148,13 @@
       "description": "We turn blue chip companies and SMEs’ sites into ecosystems of sustainable energy through rooftop solar panels, battery storage, solar carports and EV charging stations. check their [PPA](ttps://www.evoenergy.co.uk/services/power-purchase-agreement/) (min 200 panels / 40kwp, recommend epc certificate) "
     },
     {
+      "title": "Sunroof",
+      "date_modified": "2023-02-04",
+      "url": "https://sunroof.se/",
+      "tags": ["pv", "storage", "ev"],
+      "description": "SunRoof is a Swedish startup leveraging both its own end-to-end platform and installation tech to deploy slim PV, storage and EV charging for residential. Raised 15M in [Jan 2023](https://www.eu-startups.com/2023/01/swedish-startup-sunroof-scoops-up-e13-5-million-in-new-investment-to-bring-solar-power-to-homeowners-worldwide/)"
+    },
+    {
       "title": "Form Energy",
       "date_modified": "2020-06-22",
       "url": "https://formenergy.com/about/",
@@ -677,7 +684,14 @@
       "date_modified": "2020-05-26",
       "url": "https://www.ikea.com/gb/en/ikea/solar-panels/",
       "tags": ["pv"],
-      "description": "ikea "
+      "description": "ikea solar panels"
+    },
+    {
+      "title": "Nextracker",
+      "date_modified": "2023-02-12",
+      "url": "https://www.nextracker.com/",
+      "tags": ["pv"],
+      "description": "Nextracker, a Fremont, Calif.-based developer of solar tracker systems, raised $638 million in its IPO, the largest solar energy IPO in more than two years. [In the news](https://www.axios.com/2023/02/09/nextracker-years-largest-ipo)"
     },
     {
       "title": "solar edge",
@@ -713,6 +727,13 @@
       "url": "https://www.bticino.com/products-catalogue/photovoltaic-systems-string-boxes-circuit-breakers-and-fuses/",
       "tags": ["pv"],
       "description": "bticino photovoltaic "
+    },
+    {
+      "title": "Span",
+      "date_modified": "2023-06-26",
+      "url": "https://www.span.io",
+      "tags": ["iot"],
+      "description": "Extends the functionality of the electric panel with some extra smarts targeted at one of the most power-hungry devices in a modern home: the electric vehicle. Raised 90M in [April 2022](https://www.bloomberg.com/news/articles/2022-03-22/renewable-energy-startup-span-io-raises-90-million-in-funding) and another 90M in April 2023"
     },
     {
       "title": "Calibrant Energy",

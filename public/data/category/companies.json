@@ -376,7 +376,7 @@
       "date_modified": "2021-07-22",
       "url": "https://measurable.energy/",
       "tags": ["iot", "real-estate"],
-      "description": "We created the measurable.energy (m.e) Platform from the ground up to offer facilities managers, building owners and occupants with real-time energy and GHG emissions monitoring, automated controls, and data driven actions to avoid carbon emissions. "
+      "description": "We created the measurable.energy (m.e) Platform from the ground up to offer facilities managers, building owners and occupants with real-time energy and GHG emissions monitoring, automated controls, and data driven actions to avoid carbon emissions. Raised [5M in Jan 2023](https://www.finsmes.com/2023/01/measurable-energy-raises-4-5m-in-series-a-funding.html)"
     },
     {
       "title": "Passivesystems",
@@ -384,6 +384,20 @@
       "url": "https://www.passivsystems.com/",
       "tags": ["iot", "pv", "residential"],
       "description": "Passivsystems mission is to create sustainable value through the use of smart technology within the residential energy supply market."
+    },
+    {
+      "title": "Sero",
+      "date_modified": "2023-07-17",
+      "url": "https://sero.life/",
+      "tags": ["iot", "retrofit", "residential"],
+      "description": "Cardiff based B2B platform that provides property owners and developers with a set of steps to achieving a carbon zero portfolio of homes. Raised 7M in April 2023, [in the news](https://siliconcanals.com/news/startups/cardiffs-sero-bags-6-8m/)"
+    },
+    {
+      "title": "Infogrid",
+      "date_modified": "2023-07-17",
+      "url": "https://www.infogrid.io",
+      "tags": ["iot", "real-estate", "efficiency"],
+      "description": "The platform gathers data from a variety of sensors placed throughout buildings in order to assist property managers reduce energy costs by detecting overuse of refrigeration, detecting leaks and improving employee productivity and well-being. Raised 90M in [April 2023](https://siliconangle.com/2023/04/11/ai-driven-building-monitoring-startup-infogrid-raises-90m/)"
     },
     {
       "title": "Scale Microgrid Solutions",
@@ -545,6 +559,13 @@
       "url": "https://www.krakenflex.com/",
       "tags": ["market", "derms"],
       "description": "Distributed Energy Resource Management System, used to be Upside energy"
+    },
+    {
+      "title": "SMP Networks",
+      "date_modified": "2023-07-22",
+      "url": "https://www.smpnetworks.com/omega/",
+      "tags": ["market", "derms"],
+      "description": "UK-based technology company offering a suite of solutions to support efficient energy transition and flexible control of energy systems."
     },
     {
       "title": "Habitat Energy",
