@@ -599,7 +599,7 @@
       "title": "WPD Intraflex",
       "date_modified": "2022-02-20",
       "url": "https://www.westernpower.co.uk/innovation/projects/intraflex",
-      "tags": ["derms", "flexibility", "marketplace"],
+      "tags": ["derms", "flexibility", "marketplace", "dno"],
       "description": "Western Power Distribution's IntraFlex lowers entry barriers to owners of assets such as EV chargers, permitting them to dip into Britain's expanding market for flex trading."
     },
     {
@@ -830,7 +830,7 @@
       "title": "Real-time Operational Smartgrid for Europe - ROSE",
       "date_modified": "2020-12-08",
       "url": "https://solutions.mapsgroup.it/intelligent-energy-mangement-system/",
-      "tags": ["efficiency", "smartgrid"],
+      "tags": ["efficiency", "microgrid", "smart-city"],
       "description": "Nata nel 2014, nell’ambito dell’Associazione Genova Smart City, ROSE (Real-time Operational Smartgrid for Europe) è utilizzata nella Smart Polygeneration Microgrid del Campus di Savona dell’Università di Genova, scelto da Enel come Living Lab."
     },
     {
