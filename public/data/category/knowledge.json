@@ -109,7 +109,7 @@
       "title": "ESO, DNOs and local councils news from the UK",
       "date_modified": "2021-09-16",
       "url": "https://www.edie.net/news/11/National-Grid-could-lose-electricity-system-operator-role-under-new-BEIS-and-Ofgem-plans/",
-      "tags": ["knowledge"],
+      "tags": ["knowledge", "dno"],
       "description": "The UK Government and energy regulator Ofgem have outlined their initial views on [replacing National Grid](https://www.edie.net/news/11/National-Grid-could-lose-electricity-system-operator-role-under-new-BEIS-and-Ofgem-plans/) with a new independent system operator for electricity and gas, as part of a string of policy updates designed to accelerate the low-carbon transition. Meanwhile UK Power Networks and Northern Powergrid [outline £7.7bn investment plans](https://www.edie.net/news/10/Net-zero-energy-transition--UK-Power-Networks-and-Northern-Powergrid-outline--7-7bn-investment-plans/). Whilst a report from the NAO [published on July 16th](https://www.edie.net/news/11/-Serious-weaknesses--in-UK-Government-s-plans-for-engaging-local-councils-on-net-zero--report-warns/) revealed that 91% of the UK’s local authorities have set at least one climate commitment but finding it hard to engage with the UK Government."
     },
     {
@@ -372,6 +372,13 @@
       "description": "CleanStart: Simulating a Clean Energy Startup. by MIT management Sloan School"
     },
     {
+      "title": "Open Sustainable Technology",
+      "date_modified": "2023-10-07",
+      "url": "https://opensustain.tech/",
+      "tags": ["dataset"],
+      "description": "A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources."
+    },
+    {
       "title": "OSDU",
       "date_modified": "2021-02-27",
       "url": "https://osduforum.org/about-us/who-we-are/",
@@ -384,6 +391,13 @@
       "url": "https://www.devicepilot.com/blog/the-future-of-smart-home-energy-panel-session",
       "tags": ["flexibility"],
       "description": "[webinar](https://youtu.be/BuZyEUP4I_U) on the future of Smart Home Energy, hosted by DevicePilot with Octopus, Ben Kott from Lightsource labs, Cornwall insight, Oxford Uni. Plenty of insights, check [UKPN project Shift](https://innovation.ukpowernetworks.co.uk/projects/shift/) with Kaluza, Octopus, ev.energy"
+    },
+    {
+      "title": "Octopus makes a move into smart tariffs backed by PV and storage",
+      "date_modified": "2023-08-17",
+      "url": "https://www.businessgreen.com/news/4121189/octopus-earmarks-gbp-stage-pv-battery-storage-business",
+      "tags": ["flexibility", "tariffs", "pv"],
+      "description": "Octopus to invest up to £2m in new business to create 'large pipeline' of ground-mounted solar PV and battery storage projects. Meanwhile Octopus Energy [has announced](https://www.solarpowerportal.co.uk/news/octopus_launches_new_solar_and_battery_optimisation_smart_tariff) the launch of a new smart tariff aimed at consumers with domestic solar and battery storage."
     },
     {
       "title": "Metering behind the Boundary Point",
@@ -879,7 +893,7 @@
       "title": "SAVE",
       "date_modified": "2020-05-11",
       "url": "https://www.ssen.co.uk/save/",
-      "tags": ["consumption"],
+      "tags": ["consumption", "dno"],
       "description": "SAVE is a five-year trial across 4,000 homes in the Solent region called SAVE, which tried a range of mechanisms to see how households could provide demand reduction and response. From the [Energyst](https://theenergyst.com/sse-networks-to-bring-households-into-demand-side-response/)"
     },
     {
